@@ -54,3 +54,8 @@ kramdown:
         syntax_highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
+
+analytics: 
+  provider: google
+  google: 
+    tracking_id: 'UA-63934221-2'
