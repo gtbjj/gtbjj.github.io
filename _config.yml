@@ -2,7 +2,7 @@
 title: archnfoss
 tagline: A Blog about Arch Linux, Open Source Software, and Android Adventures
 author: Austin (gtbjj)
-email: 
+email:
 description: "A Blog about Arch Linux, Open Source Software, and Android Adventures" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Arch, Linux, Android, FOSS, Open Source, Software, Programming, Development"
 url: "https://archnfoss.com" # the base hostname & protocol for your site
@@ -13,6 +13,7 @@ twitter_username:
 github_username:  gtbjj
 instagram_username: southeastdirtbag
 googleplus_username: AustinHaedicke
+linkedin_username: austinhaedicke
 disqus_shortname: gtbjj
 favicon:     "/images/favicon.ico"
 aboutme:  I like to play system admin in my free time and tinker with thngs. # these are shown on aboutme-sidebar.
@@ -36,7 +37,7 @@ locales:
       Previous: "Older"
       Next: "Newer"
       PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"  
+      Taggedwith: "and tagged"
       PostDate: "on "
 
 ### your Blogroll info, only name can shown on the page.
@@ -55,7 +56,7 @@ kramdown:
 gems: [jekyll-paginate]
 paginate: 5
 
-analytics: 
+analytics:
   provider: google
-  google: 
+  google:
     tracking_id: 'UA-63934221-2'
