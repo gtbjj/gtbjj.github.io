@@ -1,10 +1,10 @@
 ### Site info:
 title: archnfoss
-tagline: A Blog about Arch Linux, FOSS, and Android Adventures
+tagline: A Blog about Arch Linux, Open Source Software, and Android Adventures
 author: Austin (gtbjj)
 email: 
-description: "A Blog about Arch Linux, FOSS, and Android Adventures" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Arch, Linux, Android, FOSS"
+description: "A Blog about Arch Linux, Open Source Software, and Android Adventures" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Arch, Linux, Android, FOSS, Open Source, Software, Programming, Development"
 url: "https://archnfoss.com" # the base hostname & protocol for your site
 locale: en_US
 
