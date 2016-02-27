@@ -2,7 +2,7 @@
 layout: post
 title: One Week Review With the Nexus 6P
 excerpt: "I've had my Nexus 6p for 5 day.  Here's my initial review."
-category:
+category: Android
 tags:
 - Android
 - Nexus
