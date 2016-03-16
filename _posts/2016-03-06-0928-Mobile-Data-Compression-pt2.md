@@ -5,13 +5,17 @@ exerpt: "Comparing Data Compression Apps - Part 2"
 category:
 - Android
 tags:
-- Android
-- Mobile
-- Data
-- Nexus6p
-- Apps
+- android
+- mobile
+- data
+- nexus
+- nexus 6p
+- apps
+- review
 comments: true
 ---
+
+*See also [Part One](https://gtbjj.github.io/android/2016/03/03/Mobile-Data-Compression-pt1.html)*
 
 ### Comparing Data Compression Apps - Part II
 
@@ -48,4 +52,6 @@ Even if you divide the number in the screenshot down to a daily figure, it still
 ### Verdict:
 
 Not worth it.  The app is supposed to save you data and, in fact, costs you data.  Perhaps this is a sly maneuver by it's parent company, 
-Facebook (*cough), to leech more personal data from folks.
+Facebook (**correction**: please read part three for more information on this data), to leech more personal data from folks.
+
+*See also [Part Three](https://gtbjj.github.io/2016/03/16/1302-Mobile-Data-Compression-pt3.html)*

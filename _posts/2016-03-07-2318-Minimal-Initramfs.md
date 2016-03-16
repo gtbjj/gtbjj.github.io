@@ -1,8 +1,7 @@
 ---
 layout: post
 title: X205TA - Minimal Initramfs
-excerpt:  "Creating a minimal kernel for Asus X205TA 
-Netbook / EeePC"
+excerpt:  "Creating a minimal kernel for Asus X205TA Netbook / EeePC"
 category:
 - Linux
 - Performance

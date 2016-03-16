@@ -4,13 +4,13 @@ title: One Week Review With the Nexus 6P
 excerpt: "I've had my Nexus 6p for 5 days.  Here's my initial review."
 category: Android
 tags:
-- Android
-- Nexus
-- Nexus6p
-- Google
-- Phablet
-- Mobile
-- Review
+- android
+- nexus
+- nexus 6p
+- google
+- phablet
+- mobile
+- review
 comments: true
 ---
 

@@ -2,13 +2,15 @@
 layout: post
 title: Syncing Everything with a Syncthing
 excerpt:
-category: Linux
-tags:
-- FOSS
-- Arch
+category:
 - Linux
-- Syncthing
-- Backup
+- Backup and Security
+tags:
+- foss
+- arch
+- linux
+- syncthing
+- backup
 comments: true
 ---
 ![Syncthing 

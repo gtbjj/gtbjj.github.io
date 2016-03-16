@@ -4,9 +4,9 @@ title: Project Fi Invitation
 excerpt:
 category: Android
 tags:
-- Android
-- Google
-- Project Fi
+- android
+- google
+- project fi
 comments: true
 ---
 ![Project Fi 

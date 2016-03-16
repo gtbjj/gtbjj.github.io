@@ -5,11 +5,13 @@ exerpt: "Comparing android mobile data compression apps,
 part one."
 category: Android
 tags:
-- Android
-- Nexus6p
-- Moblie
-- Data
-- Apps
+- android
+- nexus
+- nexus 6p
+- moblie
+- data
+- apps
+- review
 comments: true
 ---
 #### Comparing Data Compression Apps - Part I
@@ -61,3 +63,8 @@ To review of this information and more, see my [Project Fi
 Spreadsheet](https://docs.google.com/spreadsheets/d/1LRLNCjorZRZhR7dXDEX930pN1qOU0WpHueKJNh1zFOU/edit?usp=sharing) 
 on Google Drive which has a lot of data I've collected 
 about Project Fi and my Nexus 6p.
+
+#### See Also:
+
+- [Part Two - Onavo](https://gtbjj.github.io/android/2016/03/06/0928-Mobile-Data-Compression-pt2.html)
+- [Part Three - Data Eye](https://gtbjj.github.io/android/2016/03/16/1302-Mobile-Data-Compression-pt3.html)

@@ -2,12 +2,14 @@
 layout: post
 title: Starting Conky with X Login
 excerpt: "Simple fix to a simple operation"
-category: Linux
-tags:
-- Arch
+category: 
 - Linux
-- Conky
-- Login
+- Troubleshooting
+tags:
+- arch
+- linux
+- conky
+- login
 comments: true
 ---
 
