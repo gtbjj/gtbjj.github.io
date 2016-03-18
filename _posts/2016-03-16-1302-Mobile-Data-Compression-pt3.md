@@ -22,8 +22,6 @@ Opera Max) and [Part
 Two](https://gtbjj.github.io/android/2016/03/06/0928-Mobile-Data-Compression-pt2.html)(featuring 
 Onavo).*
 
-### Copmparing Mobile Data Compression Apps - Part III
-
 <img style="float: right; height: auto; width: 40%" 
 src="https://lh5.ggpht.com/8NPjF9QKplmkMgTgdrysTCO15HBlQewaT3vc94nn1tNAcRGs2g4X6bcjYeAGoPsRaZY=w300-rw">
 

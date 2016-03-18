@@ -13,9 +13,9 @@ tags:
 - backup
 comments: true
 ---
-![Syncthing 
-logo](https://avatars1.githubusercontent.com/u/7628018?v=3&s=400){:style="float: 
-right"} My favorite backup utility right now has to be 
+<img src="https://avatars1.githubusercontent.com/u/7628018?v=3&s=400" style="float: left">
+
+My favorite backup utility right now has to be 
 [Syncthing](https://syncthing.net).  It is simple to implement and use and there 
 is no reliance on a third party (e.g. Google Drive, Dropbox, etc...).
 

@@ -14,8 +14,6 @@ tags:
 - review
 comments: true
 ---
-#### Comparing Data Compression Apps - Part I
-
 <img style="float: right; height: auto; width: 40%" 
 src="https://lh3.googleusercontent.com/jXp8p6_CzVWfyLjBB1JYo_VT-fmhzIN_2y2I9T181CNXJfvT1V4fztDSdMpjaRm8ytc=w300-rw">
 

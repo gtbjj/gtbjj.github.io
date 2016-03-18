@@ -9,9 +9,9 @@ tags:
 - project fi
 comments: true
 ---
-![Project Fi 
-Logo](http://octoba.jp/wp-content/uploads/2015/04/20150423-fi-icon.png){:style="float: 
-left"} Growing tired of my Verizon bill, I did some 
+<img src="http://octoba.jp/wp-content/uploads/2015/04/20150423-fi-icon.png" style="float: left"> 
+
+Growing tired of my Verizon bill, I did some 
 looking into [Google's Project Fi](fi.google.com).  As of 
 this writing Google's MVNO combining Sprint, T-Mobile, and 
 WiFi networks is still invitation only.  I requested such 
@@ -32,9 +32,7 @@ September, but I'm not convinced Samsung or LG are going to
 offer anything that takes the Nexus 6p out of the "best 
 flagship debate."
 
-![Nexus
-6p](http://ecx.images-amazon.com/images/I/61-pQEuWQaL._SX425_.jpg){:style="float:
-right"}
+<img src="http://ecx.images-amazon.com/images/I/61-pQEuWQaL._SX425_.jpg" <style="float: right; height: auto; width: 50%">
 
 There 
 are a lot of benchmark and stat comparisons on the 

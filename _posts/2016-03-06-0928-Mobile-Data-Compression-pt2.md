@@ -17,8 +17,6 @@ comments: true
 
 *See also [Part One](https://gtbjj.github.io/android/2016/03/03/Mobile-Data-Compression-pt1.html)*
 
-### Comparing Data Compression Apps - Part II
-
 <img style="float: right; height: auto; width: 40%" src="https://lh3.ggpht.com/XkKFmevjtyDntd5e0XeSssV1fukxNFuMvXRpMdXGZ56Ev5WPpggPrPFEi_2AUXFMbd4=w300-rw">
 
 Continuing with second of three apps I'm testing to sess how they size up in saving you mobile data.   I test these apps for about a week at a 

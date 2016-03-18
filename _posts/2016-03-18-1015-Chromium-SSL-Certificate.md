@@ -15,8 +15,6 @@ tags:
 comments: true
 ---
 
-### [Fix] Chromium - Connection Not Private:
-
 There are several solutions out there for when Chromium complains about 
 *connection not private*.  Commonly, you can click *advanced* and then 
 *proceed anyway*.  However, sometimes there's a problem with your SSL 
@@ -41,7 +39,7 @@ While this has worked for me in the past, this was to no avail with my
 current case.  In fact, there was not even a *proceed anyway* option.  So, 
 let's continue...
 
-# Manually Update Certificate:
+### Manually Update Certificate:
 
 1. Click on the certificate warning, it should pop up a lot of information 
 about the certificate.
