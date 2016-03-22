@@ -48,7 +48,7 @@ locales:
 #      title: archnfoss
 
 ### Build settings
-markdown: redcarpet
+markdown: kramdown
 # highlighter: pygments
 kramdown:
         input: GFM
