@@ -15,6 +15,8 @@ tags:
 comments: true
 ---
 
+<img style="float: right; height: auto; width: 40%" src="https://lh3.googleusercontent.com/2L2ouV-AMa1gRsOw4akcTQXg7Ne_SiPX89RNbkcgBYXN2T7tsQzgmv5BiXEgn9HT3g=w300-rw">
+
 About a month ago I got an invitation from Google to take part in their MVNO mobile carrier Project Fi, a service that is now open to the public.  I decided to ditch Verizon, suck up the early termination fee ($120), throw down for a Nexus 6p on eBay ($430), and give Project Fi a whirl.  
 
 So, here is a review and some data aboutmy first month using the service.  For future reference [this is a map of my coverage area](https://www.google.com/maps/@34.4218268,-84.259512,9z).  I spend a lot of time on the interstates, but also a good bit in the mountains so there is a bit of variety in where I travel.
