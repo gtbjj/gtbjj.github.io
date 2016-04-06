@@ -28,7 +28,7 @@ to the execution of c programmed executables.  Some quick
 Googleing lead me to [this Arch Linux forum 
 thread](https://bbs.archlinux.org/viewtopic.php?id=107372).
 
-I don't remember every manually doing anything to 
+I don't remember ever manually doing anything to 
 ```glibc``` as suggested in the thread, but at any rate, a 
 simple upgrade did the trick for me.
 
