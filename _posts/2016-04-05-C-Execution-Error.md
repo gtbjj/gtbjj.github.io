@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  C Compilation and Execution Error
-excerpt:  [Fix] error:  C compilare cannot create executable.
+excerpt:  "Fix for error:  C compilare cannot create executable."
 category:
 - Linux
 - Troubleshooting
@@ -19,7 +19,7 @@ comments: true
 ---
 
 Recently after restoring my system I've been getting some 
-funky erorrs with AUR and Ruby Gems.  At first, I thought 
+funky erorrs when compiling / installing AUR packages and Ruby Gems.  At first I thought 
 the issue was specific to the repspective programs.  (e.g. 
 the ones being compiled by ABS and the gem in question).
 
