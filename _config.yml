@@ -9,11 +9,8 @@ url: "https://archnfoss.com" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username:
 github_username:  gtbjj
-instagram_username: southeastdirtbag
 googleplus_username: AustinHaedicke
-linkedin_username: austinhaedicke
 disqus_shortname: gtbjj
 favicon:     "/images/favicon.ico"
 aboutme:	Publicly shared and open source, this is my personal reference log of Linux and Android tweaks, tinkerings, mods, experiments, failures, and fixes. # these are shown on aboutme-sidebar.
