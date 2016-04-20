@@ -61,3 +61,10 @@ pretty straight forward.  A few tings to keep in mind though:
 - Watch out for those dang ```\x2d```s when making the system service.
 - By only encrypting ```/home``` you'll save some system boot time, but loging in takes notably longer.  There's still the benefit of a faster 
 boot if you just need to startup, login as *root*, and fix something (for example).
+
+-----
+*Update 04/20/2016* - It could have something to do with the X205TA's funky hardware, or microSD drives (/dev/mmcblkXpY) in general, but I was 
+getting frequent error messages from SLiM that it ```failed to execute login command```.  After loging in as root in another tty I found that 
+my drives were getting reported incorrectly by ```lsblk```.  ```/``` (written to the internal /dev/mmcblk0p1) was being 
+reported by as /dev/mmcblk1p1 (removable microSD) mounted to ```/``` -- this is after the initial boot.  The quick fix was to use node 
+names (/dev/mmcblkXpY) rather than UUID in```/etc/fstab```.
