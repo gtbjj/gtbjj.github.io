@@ -5,13 +5,13 @@ author: Austin (gtbjj)
 email:
 description: "A Blog about Arch Linux, Open Source Software, and Android Adventures" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Arch, Linux, Android, FOSS, Open Source, Software, Programming, Development"
-url: "https://archnfoss.com" # the base hostname & protocol for your site
+url: "http://gtbjj.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
 github_username:  gtbjj
 googleplus_username: AustinHaedicke
-disqus_shortname: gtbjj
+disqus_shortname: archnfoss
 favicon:     "/images/favicon.ico"
 aboutme:	Publicly shared and open source, this is my personal reference log of Linux and Android tweaks, tinkerings, mods, experiments, failures, and fixes. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/favicon.ico" # your photo.
@@ -36,13 +36,6 @@ locales:
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
       PostDate: "on "
-
-### your Blogroll info, only name can shown on the page.
-
-#Blogroll:
-#    - name: Austin
-#      href: http://archnfoss.com
-#      title: archnfoss
 
 ### Build settings
 markdown: kramdown

@@ -9,8 +9,8 @@ layout: default
     <p class="post-meta">
     {{ site.locales[site.default_locale].PostedInCategories }}
     {% for cat in page.categories %}
-    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
-    {% endfor %}
+    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>{% unless page.categories.last == cat %}, {% endunless %}
+    {% endfor %} 
     {% if page.tags != empty %}
     {{ site.locales[site.default_locale].Taggedwith }}
     {% for tag in page.tags %}
@@ -29,55 +29,7 @@ layout: default
   <hr />
 </div>
 
-<!-- social sharing -->
-<a href="https://twitter.com/share?
-    text={{ page.title }}
-    &url={{ page.shorturl }}
-    &via=tomhohenstein">
-
-    <!-- use the twitter logo for the link -->
-    <img alt="twt logo"
-        class="footer-icon"
-        src="/images/logo_twitter.png">
-
-</a>
-
-<a href="https://www.facebook.com/dialog/share
-    ?app_id=946372735391329&display=popup
-    &href={{ site.url }}{{ page.url }}
-    &redirect_uri={{ site.url }}{{ page.url }}">
-
-    <!-- use the facebook logo for the link -->
-    <img
-        alt="fb logo"
-        class="footer-icon"
-        src="/images/logo_facebook.png">
-</a>
-
-<a href="http://www.linkedin.com/shareArticle
-    ?mini=true
-    &url={{ site.url }}{{ page.url }}
-    &title={{ page.title }}
-    &source={{ site.title }}">
-
-    <!-- use the linkedin logo for the link -->
-    <img alt="lnkdn logo"
-        class="footer-icon"
-        src="/images/logo_linkedin.png">
-
-</a>
-
-<a href="https://plus.google.com/share?
-    url=http://tomhohenstein.com{{ page.url }}
-    &hl=en-US"
-    onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
-
-    <!-- use the google+ logo for the link -->
-    <img
-        alt="g+ logo"
-        class="footer-icon"
-        src="/images/logo_googleplus.png">
-</a>
 
 {% include page_pagination.html%}
 {% include comments.html %}
+
