@@ -65,5 +65,5 @@ process -- the mislabeling happend on the subsequent startup.
 to stop before the system tries to poweroff.  Something like:
 
 ```
-alias shutdown="sleep 1 && sudo shutdown now; sudo systemctl stop slim"
+alias shutdown="sleep 1 && sudo shutdown now | sudo systemctl stop slim"
 ```
