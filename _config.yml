@@ -44,7 +44,7 @@ kramdown:
         input: GFM
         syntax_highlighter: rouge
 gems: [jekyll-paginate]
-paginate: 1
+paginate: 3
 
 analytics:
   provider: google
