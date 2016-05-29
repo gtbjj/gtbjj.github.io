@@ -15,6 +15,33 @@ tags:
 comments: true
 ---
 
+```
+Update 5/28/16:
+
+After getting some feedback on Google+ I decided to leave this 
+memo instead of re-writing the entire post.
+
+A lot of sites requires special character, caps, etc... on passwords.  
+However, this may not be necessary to have strong passwords.  
+I've been advised against the PasswordMeter data in the table below 
+and to rely more heavily on the "random guess time."  As such, 
+unconventional spellings and symbol-letter-substitutions aren't 
+necessarily needed.
+
+I believe this is because dictionary type attacks lack AI.  That is, 
+they're not contextual.  Your friend might guess you name, 
+screenname, or birth date as your password; "austin" for example.  
+"austinaustinaustin" might just look like an 18 character word to the 
+attacking program.  
+
+Let's look at password / guess time / typing time:
+
+austin			instantly		< 1 seconds
+austinaustin		4 weeks			< 2 seconds
+austin110585		4 years			> 3 seconds
+austinaustinaustin	23 million years	~ 3 seconds
+```
+
 In this day and age people have many, many, many online accounts and far more than just a handful of important numbers and passwords to 
 remember.  You can easily Google arguments both for and against password manager tools.  Personally, I *never* let my browser remember 
 passwords, but I do use an offline password manager.
