@@ -1,52 +1,71 @@
-### Site info:
-title: archnfoss
-tagline: A Blog about Arch Linux, Open Source Software, and Android Adventures
-author: Austin (gtbjj)
-email:
-description: "A Blog about Arch Linux, Open Source Software, and Android Adventures" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Arch, Linux, Android, FOSS, Open Source, Software, Programming, Development"
-url: "http://gtbjj.github.io" # the base hostname & protocol for your site
+# Site wide configuration
+
+title: "Austin's Blog: Archnfoss"
 locale: en_US
+description: A blog about Arch Linux, FOSS, Android, and rock climbing adventures.  Made with love, coffee, command line interfaces, alpine starts, chalk, and late nights.
+logo: site-logo.png
+search: true
+url: http://localhost:4000
 
-### Personal info and site tools info:
-github_username:  gtbjj
-googleplus_username: AustinHaedicke
-disqus_shortname: archnfoss
-favicon:     "/images/favicon.ico"
-aboutme:	Publicly shared and open source, this is my personal reference log of Linux and Android tweaks, tinkerings, mods, experiments, failures, and fixes. # these are shown on aboutme-sidebar.
-aboutme_photo: "/images/favicon.ico" # your photo.
+# Jekyll configuration
 
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
 
-### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
-
-locales:
-    en:
-      Aboutme: "About Me"
-      Archives: "Archives"
-      Blogroll: ""
-      Categories: "Categories"
-      Recent_Posts: ""
-      Tags: "Tags"
-      Copyright_Notice: "Copyright Notice"
-      Previous: "Older"
-      Next: "Newer"
-      PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"
-      PostDate: "on "
-
-### Build settings
-markdown: kramdown
-# highlighter: pygments
 kramdown:
-        input: GFM
-        syntax_highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 3
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
 
-analytics:
-  provider: google
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Austin Haedicke
+  avatar: bio-photo.jpg
+  email: austin.haedicke@gmail.com
+  disqus-shortname: archnfoss
+  twitter: #username
+  facebook: #username
+  github: gtbjj #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: savagezen #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
   google:
-    tracking_id: 'UA-63934221-2'
+    plus: Austin Haedicke #username
+    analytics: 'UA-63934221-2'
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

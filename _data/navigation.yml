@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Android
+  url: /android/
+
+- title: Climbing
+  url: /climbing/
+
+- title: FanFic
+  url: /fanfic/
+
+- title: Linux
+  url: /linux/
+
+- title: Projects
+  url: https://github.com/gtbjj?tab=repositories
+
+- title: Search
+  url: /search/
