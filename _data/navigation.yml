@@ -9,14 +9,14 @@
 - title: Climbing
   url: /climbing/
 
-- title: FanFic
-  url: /fanfic/
+- title: Data & Screens
+  url: /data_screens/
 
 - title: Linux
   url: /linux/
 
 - title: Projects
-  url: https://github.com/gtbjj?tab=repositories
+  url: /projects/
 
 - title: Search
   url: /search/
