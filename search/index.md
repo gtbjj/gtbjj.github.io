@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Search"
-date: 
+date:
 modified:
 excerpt:
 image:
@@ -29,3 +29,7 @@ sitemap: false
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
   </article></li>
 </script>
+
+<p style="text-align:center">
+  Can't find what you're looking for?  View the <a href="{{ site.url }}/tags/">Tag Index</a>.
+</p>

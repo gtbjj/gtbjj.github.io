@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Virtual Memory Tuning
-excerpt: "Using a system daemon to manipulate virtual 
-memeory parameters."
+excerpt: "Using a system daemon to manipulate virtual memeory parameters."
 category:
 - Linux
 tags:

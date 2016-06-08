@@ -5,7 +5,7 @@ locale: en_US
 description: A blog about Arch Linux, FOSS, Android, and rock climbing adventures.  Made with love, coffee, command line interfaces, alpine starts, chalk, and late nights.
 logo: site-logo.png
 search: true
-url: https://gtbjj.github.io
+#url: https://gtbjj.github.io
 
 # Jekyll configuration
 
