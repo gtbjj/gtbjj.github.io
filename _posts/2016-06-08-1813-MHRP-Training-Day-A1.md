@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MHRP Trainig Day - Act 1"
-excerpt: ""
+title: "MHRP: Trainig Day - Act 1"
+excerpt: "The Prime Minister's is attacked by Sentinels"
 category:
 - RPG
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MHRP Trainig Day - Act 3"
-excerpt: ""
+title: "MHRP: Trainig Day - Act 3"
+excerpt: "Riaden confronts Iron Man about involvement with Shaw"
 category:
 - RPG
 tags:
@@ -9,6 +9,8 @@ tags:
 - marvel comics
 - marvel heroic roleplaying
 - metal gear solid
+- raiden
+- iron man
 comments: true
 ---
 

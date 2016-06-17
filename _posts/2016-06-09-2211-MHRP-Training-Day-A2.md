@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MHRP Trainig Day - Act 2"
-excerpt: ""
+excerpt: "Raiden chanse Morbius into the caverns below."
 category:
 - RPG
 tags:
@@ -9,6 +9,9 @@ tags:
 - marvel comics
 - marvel heroic roleplaying
 - metal gear solid
+- raiden
+- sebastian shaw
+- morbius
 comments: true
 ---
 
