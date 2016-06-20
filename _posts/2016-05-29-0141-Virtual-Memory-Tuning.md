@@ -26,8 +26,7 @@ examples in the Arch Wiki.
 
 ### Swappiness:
 
-I have [mentioned swappiness before]({% post_url 
-2016-05-06-1800-Tweaking-Swappiness-for-Performance %}).  The same rules apply.
+I have [mentioned swappiness before]({% post_url 2016-05-06-1800-Tweaking-Swappiness-for-Performance %}).  The same rules apply.
 
 ```
 /etc/sysctl.d/vm.conf
