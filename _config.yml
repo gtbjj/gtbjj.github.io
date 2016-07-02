@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: "Austin's Blog: Archnfoss"
+title: "Austin's Blog"
 locale: en_US
-description: A blog about Arch Linux, FOSS, Android, Climbing, and RPGs.  Made with love, coffee, command line interfaces, alpine starts, chalk, and late nights.
+description: A blog about Arch Linux, Android, Climbing, and RPGs.  Made with command line interafaces, alpine starts, chalk, love, and lots of coffee.
 logo: site-logo.png
 search: true
 #url: https://gtbjj.github.io

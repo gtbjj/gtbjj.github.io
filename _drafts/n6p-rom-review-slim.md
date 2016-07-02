@@ -1,0 +1,13 @@
+### Likes
+
+* multiwindow
+* minimal
+* very fast
+* launcher has ups and downs
+
+### Dislikes
+
+* strange dpi settings
+* no status bar / clock mod
+* AOSP no panorama camera
+* no clear all recent apps
