@@ -5,11 +5,10 @@ excerpt: ""
 search_omit: true
 ---
 
-<iframe 
-src="//users.instush.com/accordion-zoom/?w=700&size=50&border=6&shadow=true&crowded=false&sl=true&bg_item=ffffff&bg=ffffff&lpc=ffffff&hc=e72476&ltc=3f3f3f&user_id=1769639109&username=southeastdirtbag&sid=-1&susername=-1&tag=-1&stype=mine&t=999999U-PODrPK3a_GOqZhPPPf2ZHb2cGAjdMaDQeAhLA9qmTL99xaxeABzN6sqKf-cmuzl9PJY7GkWTA" 
-allowtransparency="true" frameborder="0" scrolling="no"  
-style="display:block;width:700px;height:224px;border:none;overflow:visible;" 
-></iframe>
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe 
+src="//lightwidget.com/widgets/d6c004bac119573b9bf59c47eea394ce.html" id="lightwidget_d6c004bac1" name="lightwidget_d6c004bac1"  
+scrolling="no" allowtransparency="true" class="lightwidget-widget" style="display: block; margin-left: auto; margin-right: auto;width: 40%; 
+border: 0; overflow: hidden;"></iframe>
 
 <ul class="post-list">
 {% for post in site.categories.Climbing %} 
