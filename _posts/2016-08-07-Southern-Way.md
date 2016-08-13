@@ -12,7 +12,7 @@ tags:
 - scc
 - stonefort
 - hp40
-- rocktowm
+- rocktown
 - georgia
 - alabama
 - tennessee
@@ -41,8 +41,8 @@ far and wide via a substantial bluetooth speaker.  Clearly Mr. Shultz wasn't on 
 - **Rocktown**:  This one really is pitiful.  Whilst dirtbagging I can guarantee you that I packed more trash off of Pigeon Mountain than I 
 ever brought on it -- by several multiples.  In the last few months I've noticed it getting trashier and trashier.  I don't mean a cigarette 
 butt here and an empty water bottle there, but every popular spot having handfulls of each.  Literally, I strode down to *Campus Punks* to find 
-several eggs worth of egg shells right there at the base of the rock, not thrown at the tree line, but literally eating and \******* right at 
-the climb.  Furthermore, just to the left was a torn of pair of pants (yes, someone left their blown out trousers there too).
+several eggs worth of egg shells right there at the base of the rock, not thrown at the tree line, but literally eating and *********** right 
+at the climb.  Furthermore, just to the left was a torn off pair of pants (yes, someone left their blown out trousers there too).
 
 Okay, rant over.  I recently returned to HP40 for some "soul searching."  I was inspired by a crew from the Phoenix, AZ area who 
 were accustomed to pockety roofs and the like -- compared to the spank-and-compress style of HP40.  Nevertheless, they took the weekend in 
@@ -50,7 +50,7 @@ stride and just accepted that they were going to climb about two grades lower th
 the July heat on heinous slopers baked in the afternoon sun; they were having a blast (no speakers required) -- and were friendly and well 
 mannered to boot.  What great ambassadors to the spirit of our sport.
 
-Furthermore, I was reading over the guidebook (again) and found some inspirational renewal.  Despite some seemingly ill repute of the author, there are two phoenomenal pieces in the book which I had never read before; *"The Southern Way"* and *"Bouldering 
+Furthermore, I was reading over the guidebook (again) and found inspirational renewal.  Despite some seemingly ill repute of the author, there are two phoenomenal pieces in the book which I had never read before; *"The Southern Way"* and *"Bouldering 
 Ethics"*.  To cherry pick from the Henry's ethics:
 
 - "Minimize your impact"
@@ -59,14 +59,14 @@ Ethics"*.  To cherry pick from the Henry's ethics:
 - "Keep the spray to yourself"
 
 Likewise, "The Southern Way" is characterized by the principles that "*life is primary*, *bouldering is secondary*, and *spray should only come 
-from a metal can*".  Further, "The V grade that determines our success is a cold beer at the end of hard days work, and the poeple around us who 
+from a metal can*".  Further, "The V grade that determines our success is a cold beer at the end of a hard day's work, and the poeple around us who 
 support our endeavors."  Ultimately, if you're going to trash talk your friends (as you should be kind to randos), you need to be able to laugh 
-at yourself rather than spew more excuses than your already excessive sideline (and often unhelpful) beta spray.  "You will see (The Way) encouraging 
+at yourself rather than spew more excuses than your already excessive (and often unhelpful) beta spray.  "You will see (The Way) encouraging 
 like minds and living vicariously through their sends.  *It will never be seen in the crowds that follow the latest crusher, but you might 
 catch a glimpse of its back as it quietly walks away."*  I don't recall which clmibing blogger said it, but much to my point here (and 
 sarcastically so), they touted that "climbers need scorecards to prove their merit like we need Facebook to prove we have friends."
 
-On the same trip as the Southwesterners exmplified The Souhern (Climber / Rock Warrior?) Way, I gave a scolding to a friend who is a native 
+On the same trip as the Southwesterners exemplified The Souhern (Climber / Rock Warrior?) Way, I gave a scolding to a friend who is a native 
 southerner and on-and-off-again climber which summarizes this post nicely.
 
 "For the love of climbing:

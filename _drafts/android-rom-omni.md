@@ -1,1 +1,1 @@
-corrupted pin and encryption key?
+boot loop even after reformatting /data after wipe

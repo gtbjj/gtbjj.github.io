@@ -1,3 +1,15 @@
+---
+layout: post
+title:
+excerpt:
+category:
+- Climbing
+tags:
+comments: true
+---
+
+
+
 [Simplest Effective Training 
 Plan](http://www.climbstrong.com/articles/20130113_1)
 - 3 weeks intensity (Vsum / # probs)
