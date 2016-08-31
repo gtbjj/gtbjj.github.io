@@ -71,13 +71,13 @@ gpg: error searching keyserver: Operation cancelled
 
 Once verified, you can receive (add) that key:
 
-```$ pgp --recv-key <key_id>```
+```$ gpg --recv-key <key_id>```
 
 And then locally sign it:
 
-```$ pgp --lsign <key_id>```
+```$ gpg --lsign <key_id>```
 
 -----
-* [Additional Reading from The Linux Foundation](http://www.linuxfoundation.org/news-media/blogs/browse/2014/02/pgp-web-trust-delegated-trust-and-keyservers)
+* [Additional Reading from The Linux.com](https://www.linux.com/blog/pgp-web-trust-delegated-trust-and-keyservers)
 
 * [Web UI for MIT's Key Server Search](https://pgp.mit.edu/)
