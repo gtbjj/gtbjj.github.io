@@ -15,14 +15,14 @@ comments: true
 
 Once upon a time I recall my younger climber self scouring the interwebs for information on *training for climbing*.  What I could only see in 
 retrospect though is that my meticulous number crunching and planning was mostly in vein.  That is not to say it wasn't a good habbit to get 
-into, but that at that [training age](http://www.climbstrong.com/articles/20140127) I would have benefited just as well from any climbing 
+into, but at that [training age](http://www.climbstrong.com/articles/20140127) I would have benefited just as well from any climbing 
 related activity.   
 
 <blockquote class="instagram-media" data-instgrm-version="7" style=" 
 background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 
 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; 
-max-width:40%; padding:0; width:40%; width:-webkit-calc(100% - 2px); 
-width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" 
+max-width:100%; padding:0; width:50%; width:-webkit-calc(100% - 2px); 
+width:calc(50% - 2px);"><div style="padding:8px;"> <div style=" 
 background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; 
 text-align:center; width:100%;"> <div style=" 
 background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); 
@@ -49,7 +49,7 @@ training period.
 <blockquote class="instagram-media" data-instgrm-version="7" style=" 
 background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 
 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; 
-max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); 
+max-width:100%; padding:0; width:100%; width:-webkit-calc(100% - 2px); 
 width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" 
 background:#F8F8F8; line-height:0; margin-top:40px; padding:26.1574074074% 
 0; text-align:center; width:100%;"> <div style=" 
@@ -73,37 +73,33 @@ I'm an extremely average climber so the point of this post isn't to have
 *the beat all, end all, best beyond others training plan*.  It is just to 
 say that there is a lot to be said for actually following through on a 
 plan you've made for yourself.  How many of us have fizzled out on a 
-training plan a month in after being super stoked the first week or two?  
-Personally, I've done it many times.
+training plan a month in after being super stoked the first week or two?  I've done it many times.
 
-The trick for me was to have something adequately complex (so as to meet 
-the need of whatever I was training) but as simple as possible (to ensure 
-follow through).  The above piture was my training log that I taped to my 
-refrigerator as a daily reminder.  It was encouraging to see progress in a 
-bigger picture, and helped me keep on track (specically with dietary 
+The trick for me was to have a plan, that would meet my needs, but be as simple as possible (to ensure 
+follow through).  The above picture was my training log that I taped to my 
+refrigerator as a daily reminder.  It was encouraging to have a view of the big picture and helped me keep on track (specically with dietary 
 things).  Also, actually doing it the old fashioned way with pen and paper 
-felt more encouraging and committing than a smartphone app or a 
+felt more encouraging and rewarding than a smartphone app or a 
 spreadsheet (thought I have one of those too).  
 
 Also by keeping this kind of record, regardless if training progress 
-translates to sending progress, moral is riding a high streak going into 
-the fall season.  I also have neat statistics about my traning habbits.  
-Such as:
+translates to sending progress, morale is riding a high streak going into 
+the fall season.  I also have neat statistics about my traning habbits.  Such as:
 
 | Task | Days Achieved | Days Possible |
-| ------------------------------------- |
+|:------|:------------:|:-------------:|
 | 30g Protein w/in 30 min of waking up | 53 | 60 |
 | 30g Protein w/in 30 min of workout | 26 | 60 |
 | 30g Protein w/in 30 min of bedtime | 55 | 60 |
 | 30 Days climbing or training | 32 | 30 |
-| *Overall nutrition compliance* | *88.2%* |
-| *Overall program compliance* | *91.2%* |
+| **Overall nutrition compliance** | **88.2%** ||
+| **Overall program compliance** | **91.2%** ||
 
-And also gauge my progress (relative to the holds / workout used 
+And also to gauge my progress (relative to the holds / workout used 
 throughout):
 
 | Time Period | Work / Rest Days | % Strength Gain |
-| ------------------------------------------------ |
+|:-----------:|:----------------:|:---------------:|
 | Days 1 - 30 | 1.31 | 33.05 |
 | Days 31 - 60 | 0.88 | 5.42 |
 | Days 1 - 60 | 1.07 | 40.26 |
@@ -111,7 +107,7 @@ throughout):
 You can see that there's nothing special here.  I had 3 yes / no daily nutrition goals, and one overall variable training goal.  My initial 
 expectation was 75 - 80% compliance, which I think is a fair guess if you're giving yourself an honest assessment from the get-go.  Now I've 
 moved on to something *a bit* more complicated that builds on the previous data.  I've got 1 binary nutrition goal, 2 variable nutrition goals, 
-and 3 variable traning goals.  Does 50% more goals is probably close to 50% more complicated, so we'll see if that translates to 50% less 
+and 3 variable traning goals.  50% more goals is probably at least 50% more complicated, so we'll see if that translates to 50% less 
 compliance (or the inverse, improvement in dedication at same compliance percentage!)
 
 Going forward, here are some of my favorite articles from around the web 
