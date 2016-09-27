@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MHRP: World Marshals - Act 1"
-excerpt: "Riaden investigates leads into the plays of the War Economy"
+excerpt: "Raiden investigates leads into the plays of the War Economy"
 category:
 - RPG
 tags:

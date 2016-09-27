@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pen & Paper Role Playing
-excerpt: ""
+title: RPG Posts
+excerpt: "Amusing myself somewhere between fan fiction and proper pen-and-paper role playing games."
 search_omit: true
 ---
 
