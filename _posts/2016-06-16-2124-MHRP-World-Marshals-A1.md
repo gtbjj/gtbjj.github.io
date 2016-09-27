@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "MHRP: World Marshals - Act 1"
-excerpt: "Raiden investigates leads into the plays of the War Economy"
+title: "MHRP: World Marshals - Act I"
+excerpt: "Raiden investigates leads into the players of the War Economy"
 category:
 - RPG
 tags:
 - rpg
 - marvel comics
 - marvel heroic roleplaying
+- world marshals
 - metal gear solid
 - spider-man
 - green goblin
@@ -16,7 +17,23 @@ tags:
 comments: true
 ---
 
-*With the fall out of the Civil War, and before Siege, [Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing) continues to investigate leads on Sebastian Shaw.  Raiden suspects there is something much bigger brewing and sets out to stop it.*
+### Event:  World Marshals
+
+*In the fall out of the Civil War several events took place as a world-scale practice run for the villains who would later spearhead the events 
+of Siege and Fear Itself.  The Metal Gear Solid crossover, 
+[Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing), sets out to stop them; making 
+friends and foes along the way.*
+
+**Act I** | [Act II]({% post_url 2016-09-26-MHRP-World-Marshals-A2 %}) |
+
+-----
+
+#### Act I:
+
+*Most of Earth's heroes are tied up with the fall out of the Civil War, however, Raiden suspects there is something much bigger brewing 
+while everyone is distracted and sets out to find and stop it.*
+
+**Doom Pool: 2d6**
 
 | +1 XP  | Discover a scheming plan |
 | +3 XP  | Defeat *The Assassin*    |
@@ -49,3 +66,9 @@ Carnage attacks Raiden for slashing him.  The hit stresses Raiden out, but a bur
 With Carnage incapacitated, Raiden and Spider-Man quickly look around the burning buidling.  Spider-Man notices a back door, but a pile of burning debris falls in front of it.  The two are easily able to clear the debris before Raiden slashes through the door itself.
 
 The door leads to a testing lab (already engulfed in flames) that appears to be a breeding ground for *"goblin soldiers"*, or cyborgs of some kind.  However, the building quickly begins to cave in and the two flea the scene.
+
+-----
+
+#### Continue Reading:
+
+**Act I** | [Act II]({% post_url 2016-09-26-MHRP-World-Marshals-A2 %}) |

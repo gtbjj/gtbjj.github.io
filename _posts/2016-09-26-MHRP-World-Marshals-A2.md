@@ -2,10 +2,13 @@
 layout: post
 title: "MHRP: World Marshals - Act II"
 excerpt: "Raiden confronts the Green Goblin and gets a bit over his head."
+category:
+- RPG
 tags:
 - rpg
 - marvel comics
 - marvel heroic roleplaying
+- world marshals
 - metal gear solid
 - raiden
 - green goblin
@@ -13,10 +16,23 @@ tags:
 comments: true
 ---
 
-With the fall out of the Civil War, and before Siege, Raiden continues to investigate leads on Sebastian Shaw.  After a recent encounter with
-Carnage and the Green Goblin, S.H.E.I.L.D. and Spider-Man are now involved.
+#### Event:  World Marshals
 
-**Doom Pool: 2d8**
+*In the fall out of the Civil War several events took place as a world-scale practice run for the villains who would later spearhead the events
+of Siege and Fear Itself.  The Metal Gear Solid crossover,
+[Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing), sets out to stop them; making
+friends and foes along the way.*
+
+| [Act I]({% post_url 2016-06-16-2124-MHRP-World-Marshals-A1 %}) | **Act II** |
+
+-----
+
+#### Act II:
+
+*Raiden follows a spider tracer to the Green Goblin's lair and bites off more than he can chew while trying to see the bigger picture with 
+Sedbastian Shaw involved.*
+
+**Doom Pool: 2d6**
 
 | +1 XP | Convince SHIELD to Provide Transportation |
 | +3 XP | Capture and Interrogate the Green Goblin |
@@ -25,9 +41,11 @@ Carnage and the Green Goblin, S.H.E.I.L.D. and Spider-Man are now involved.
 -----
 
 After he and Spider-Man defeated Carnage, 
-[Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing) is introduced to Nick Fury.
-Spider-Man leaves Raiden to contend with SHIELD while he returns to his friendly neighborhood duties.  Raiden is initially unsuccessful in
-getting SHEILD's help due to Fury believing him unstable and wreckless.  However, Raiden uses his codec to play back recorded audio from his
+[Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing) is introduced to Nick Fury 
+([Data File](https://marvelplotpoints.files.wordpress.com/2012/04/datafilenickfury.jpg)).
+Spider-Man leaves Raiden to contend with SHIELD while he returns to his friendly neighborhood duties.  Raiden asks Nick for SHIELD's help in 
+tracking down the Green Goblin ([Data File](http://marvelheroicrp.wikia.com/wiki/Green_Goblin_(Norman_Osborn,_Watcher_Datafile))) who 
+Spider-Man was able to land a tracking device on.  He is initially unsuccessful ingetting SHEILD's help due to Fury believing him unstable and wreckless.  However, Raiden uses his codec to play back recorded audio from his
 missions.  Raiden uses this to convince Fury that SHIELD already has their hands full with post Civil War business and that these recorded
 events can't go unattended to.  Fury agrees to provide transportation for Raiden to follow the tracker Spider-Man was able to land on the Green
 Goblin.  Raiden also mentions that it might be a good idea for Fury to "start looking for calvary to back him up in case things get messy."
@@ -90,8 +108,7 @@ Serum being some of the primary components for their creation.
 
 -----
 
-#### Reference Material:
+#### Continue Reading:
 
-- [MHRP: World Marshals - Act I]({% post_url 2016-06-16-2124-MHRP-World-Marshals-A1 %})
-- [Data File - Nick Fury](https://marvelplotpoints.files.wordpress.com/2012/04/datafilenickfury.jpg)
-- [Data File - Green Goblin](http://marvelheroicrp.wikia.com/wiki/Green_Goblin_(Norman_Osborn,_Watcher_Datafile)) 
+| [Act I]({% post_url 2016-06-16-2124-MHRP-World-Marshals-A1 %}) | **Act II** |
+

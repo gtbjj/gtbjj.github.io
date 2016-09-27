@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "MHRP Trainig Day - Act 2"
-excerpt: "Raiden chanse Morbius into the caverns below."
+title: "MHRP: Trainig Day - Act 2"
+excerpt: "Raiden chases Morbius into the caverns below."
 category:
 - RPG
 tags:
 - rpg
 - marvel comics
 - marvel heroic roleplaying
+- training day
 - metal gear solid
 - raiden
 - sebastian shaw
@@ -15,7 +16,7 @@ tags:
 comments: true
 ---
 
-### Event:  Training Day
+#### Event:  Training Day
 
 *[Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing)'s
 first "solo gig."  Tony Stark has sent Raiden to be cheif
@@ -25,19 +26,21 @@ divided his country.  Several Private Military Companies
 have taken opposition to this.  Riaden needs to find out
 who is at the bottom of this and stop them if he can.*
 
-[Act 1]({% post_url 2016-06-08-1813-MHRP-Training-Day-A1 %}) | Act 2 | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
+[Act 1]({% post_url 2016-06-08-1813-MHRP-Training-Day-A1 %}) | **Act 2** | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
 
 -----
 
-### Act 2
+#### Act 2:
 
 *Raiden follows Morbius into a shadowy buildling, believing him to be the who sent the Sentinels to attack the Prime Minister.*
+
+**Doom Pool: 2d6**
 
 | +1 XP | Use a non-combat skill |
 | +3 XP | Catch and kill Morbius |
 | +10 XP | Stop further Sentinel attacks |
 
-**Summary:**
+-----
 
 Before chasing after Morbius, Riaden notices that War Machine has left him a package.  the package contiane an electorlyte pack for Raiden to recover as well as an "upgrade pack" that Raiden uses his tech expertise to patch onto himelf, effectively giving him moderate cybernetic senses.
 
@@ -58,3 +61,10 @@ Before leaving, Shaw tells Raiden to "thank Stark Industries", beacuse "their fo
 Shaw gets away and Raiden is grabbed from beind by Morbius who states his healing factor to Raiden before biting him.  Raiden goes into his Ripper Mode, exclaiming:  *Pain... this is why I fight!*  While Morbius still has his teeth sunk in, Raiden impales him.  Morbius yells and viciously chokes the wounded, though now berserk, Raiden.  Raiden slashes off Morbius's arm and, before he can react, also decapitates him -- additionally dicing his head into pieces before it hits the ground.
 
 Just then, a S.H.E.I.L.D. Helicarrier blows upoen the top of the cavern and opens machine gun fire in Raiden.  Raiden effectivelydodgest the bullets due to his heightened state.  He is rapidly decelerating though and finds it wiser to just jump on to the deck of the Hellicarrier, show signs of "coming down" and being "in control of himself" whilst asking to be let in.
+
+-----
+
+#### Continue Reading:
+
+[Act 1]({% post_url 2016-06-08-1813-MHRP-Training-Day-A1 %}) | **Act 2** | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
+

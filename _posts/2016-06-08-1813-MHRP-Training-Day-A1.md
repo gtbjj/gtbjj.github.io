@@ -1,18 +1,21 @@
 ---
 layout: post
 title: "MHRP: Trainig Day - Act 1"
-excerpt: "The Prime Minister's is attacked by Sentinels"
+excerpt: "The Prime Minister is attacked by Sentinels"
 category:
 - RPG
 tags:
 - rpg
 - marvel comics
 - marvel heroic roleplaying
+- training day
 - metal gear solid
+- raiden
+- war machine
 comments: true
 ---
 
-### Event:  Training Day
+#### Event:  Training Day
 
 *[Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing)'s
 first "solo gig."  Tony Stark has sent Raiden to be cheif
@@ -22,20 +25,22 @@ divided his country.  Several Private Military Companies
 have taken opposition to this.  Riaden needs to find out
 who is at the bottom of this and stop them if he can.*
 
-Act 1 | [Act 2]({% post_url 2016-06-09-2211-MHRP-Training-Day-A2 %}) | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
+**Act 1** | [Act 2]({% post_url 2016-06-09-2211-MHRP-Training-Day-A2 %}) | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
 
 -----
 
-### Act 1
+#### Act 1:
 
 *The Prime Minister's daytime tranport has been attacked on
 an empty street by Sentinels.*
+
+**Doom Pool: 2d6**
 
 | +1  XP | Make a philosphical statement |
 | +3  XP | Kill a Sentinel |
 | +10 XP | Find out who attacked the Prime Minister |
 
-**Summary:**
+-----
 
 Raiden is riding with the Prime Minister in a limo.  The
 limo is attacked by a Sentinel ([Data
@@ -96,3 +101,9 @@ computer identifies the villain as Morbius ([Data
 File](https://marvelplotpoints.files.wordpress.com/2014/12/morbiuswatcher.png)).
 War Machine flies away with the Prime Minsiter while Riaden
 sets out to puruse Morbius into the building.
+
+-----
+
+#### Continue Reading:
+
+**Act 1** | [Act 2]({% post_url 2016-06-09-2211-MHRP-Training-Day-A2 %}) | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
