@@ -57,7 +57,7 @@ Carnage tries to intimidate Raiden, but he is unafraid; but anxious and attacks 
 
 Just then, Spider-Man (BR88) breaks through the window.  Carnage turns his attention to him and lands a glancing blow.  Raiden swings his sword to free himself, but Carnage traps the sword in another tentacle.  Next, Spider-Man fires a web ball that barely misses Carnage.  However, Raiden is able to regain control of his sword and slash himself free.
 
-Suddenly, the roof of the buiilding explodes and is engulfed in flames as the Green Goblin ([data file](http://marvelheroicrp.wikia.com/wiki/Green_Goblin_(Norman_Osborn,_Watcher_Datafile)) flies over head.  Raiden notices The Stranger is not in the room and Spider-Man says that he had tracked the Green Goblin here.
+Suddenly, the roof of the buiilding explodes and is engulfed in flames as the Green Goblin ([data file](http://marvelheroicrp.wikia.com/wiki/Green_Goblin_(Norman_Osborn,_Watcher_Datafile))) flies over head.  Raiden notices The Stranger is not in the room and Spider-Man says that he had tracked the Green Goblin here.
 
 Carnage attacks Raiden for slashing him.  The hit stresses Raiden out, but a burning rafter falls on Carnage.  Spider-Man rifles through the boxes in the room and finds an electrolyte pack to recharge Raiden.  Raiden is then able to attack and subdue Carnage with a heavy blow.
 

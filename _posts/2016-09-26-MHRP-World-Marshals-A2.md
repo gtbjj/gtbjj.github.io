@@ -65,14 +65,14 @@ Shortly after the battle, Raiden discovers that the Wolverine he encoutered was 
 been working to create cyborg versions of super heroes.  Raiden turns around and sees a handful of gruesomely killed SHIELD agents.  It is then 
 that he wakes up and realizes that he has been dreaming during this entire time.
 
-As he comes back to consciousness, he sees that he is restrained via magical bonds to an operating table.  Loki and Norman Osbourne are in the 
+As he comes back to consciousness, he sees that he is restrained via magical bonds to an operating table.  Loki and Norman Osborn are in the 
 room and Loki, as well as the corpeses of the SHIELD agents Raiden saw in his dream.  Loki tells Raiden that Raiden has been subjet to a 
 reality warping experiment and that The Green Goblin, with Loki's help, easily defeated the SHIELD helicopters and that they never even landed.
 
 <a href="https://passthepopcorn2016.wordpress.com/2016/06/11/why-captain-america-civil-war-doesnt-need-a-villain/"><img style="float: right" sr="https://liretranger.files.wordpress.com/2016/05/loki.jpg?w=380&h=288"></a>
 
 Loki then states that he "has other business to attend to" and disappears, and with him the binds holding Raiden captive.  Raiden immediatley 
-jumps up to rush after him, but Osbourne emerges in full goblin mode and warns that Raiden has been given implants of Goblin Serum that could 
+jumps up to rush after him, but Osborn emerges in full goblin mode and warns that Raiden has been given implants of Goblin Serum that could 
 explode when detonated, turning him into a psychotic killing machine with further augmented power.  Obviously a fight ensues between the two.
 
 Green Goblin physically charges Raiden.  Raiden overpowers him, but experiences severe mental pain as a result of the Goblin Serum implants.  
