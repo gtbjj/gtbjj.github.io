@@ -70,7 +70,7 @@ here are my results.
 #### Getting Stronger:
 
 Steve's prescription is for 10 second reps, so I scaled my failed load (at 13 seconds) to their proportionate value for 10 seconds.  For example,
-on a middle-two pocket hold I failed at 41 lbs. added, so: *(10 / 13) \*41 = ~32  lbs.
+on a middle-two pocket hold I failed at 41 lbs. added, so: (10 / 13) * 41 = ~32  lbs.
 
 Going off Maisch's prescribed workout, and some other periodizatoin inforation I've gathered, here's what the next few weeks will look like for me:
 
@@ -78,6 +78,7 @@ Going off Maisch's prescribed workout, and some other periodizatoin inforation I
 - Cragging:  Trad counts as that weeks endurance session, bouldering counts as a strength session
 - Strength Training (if at home): Follow Maisch's hangboard routine
 - Strength Training (if at gym): Focus on 5 move maxes, with ~5 minute rest between attempts, ~5 attempts per sequence.  Stop before 90 minutes.
+- Endurance (anywhere): Either 10 min walk / run or boulder for V-Points @ 10 minute block, rest 10 minutes, repeat 2x
 
 #### Healing:
 

@@ -6,12 +6,11 @@ category:
 - RPG
 tags:
 - rpg
-- dnd
+- dnd5e
 - d&d
 - dungeons and dragons
-- 5e
-- fifth edition
 - quest log
+- digoria
 comments: true
 ---
 

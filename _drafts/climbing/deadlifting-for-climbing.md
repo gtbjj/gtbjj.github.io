@@ -35,6 +35,8 @@ Bear with me, as I was taking notes from this podcast during a hangboard session
 - Plan on pushing for 4 - 6 weeks, then "simmering" or maintaining
 - You're **not** trying to be an olympic deadlifter, men should strive for a 1 rep max of 2x their bodyweight and women 1.5x
 
+Admitedly, I haven't read Steve Bechtel's deadlifting book (yet), but Steve Maisch has some published a [9 week deadlifting cycle](https://www.stevemaischtraining.com/climbing-specific-weight-training.html).
+
 #### Other Considerations:
 
 *Lifting weights will give me bulky muscles and make me gain weight.*

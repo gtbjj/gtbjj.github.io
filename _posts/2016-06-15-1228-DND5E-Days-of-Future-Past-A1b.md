@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "DND5E:  Days of Future Past - Act I"
+title: "DND5E:  Days of Future Past - Act 1.5"
 excerpt: "Stories between Giddeon and Digoria - Part I"
 category:
 - RPG
 tags:
 - rpg
-- dnd
+- dnd5e
 - d&d
 - dungeons and dragons
-- 5e
-- fifth edition
 - quest log
+- digoria
 caomments: true
 ---
 
