@@ -98,23 +98,47 @@ from the fallen Metal Gears.  He's getting low on resources.
 They chase Crossbones through a series of allies and find him standing (and waiting) in an open field.  The team finds it suspicious and stalls 
 before chasing after him.  Good thing too, because suddenly a Metal Gear Excelsus ([Data File](http://marvelheroicrp.wikia.com/wiki/Tri-Sentinel_(Watcher_Datafile))) burrows up from underneath the ground!
 
-<a href="http://metalgear.wikia.com/wiki/Metal_Gear_EXCELSUS"><img src="http://vignette4.wikia.nocookie.net/metalgear/images/5/59/20130515104244_metalGearExcelsus_01.png/revision/latest?cb=20130519011845"></a>
+<a href="http://metalgear.wikia.com/wiki/Metal_Gear_EXCELSUS"><img style="float: right" src="http://vignette4.wikia.nocookie.net/metalgear/images/5/59/20130515104244_metalGearExcelsus_01.png/revision/latest?cb=20130519011845"></a>
 
 Storm quickly begins to charge a weather attack, while Raiden redies his Rail gun.  Deadpool makes a witty remark about *"burrowing metalic 
 spiders getting erect."*  Jean-Pierre and Punisher head into the thick of things.  All the while, Sebastian Shaw is piloting the Excesus and 
 going on a rant about Crossbones leading the heroes right to him and that he plans to work through them while the rest of Earth's heroes are 
 busy fighting each other.
 
-Jean-Pierre is easily able to incapacitate the already wounded Crossbones.  
+Jean-Pierre is easily able to incapacitate the already wounded Crossbones.  The Punisher throws a grenade that does little damage to a heavily
+plated section of the Metal Gear Excelsus.  Storm unleashes a lightning attack, that does no damage, but distracts the Metal Gear.  Raiden then
+unloads the rail gun, dealing a stunning hit!  The effects of which temporarily shutdown the Metal Gear's energy shield.
+ Deadpool tries to decide on the best measure and settles on singing to himself while he "thinksit over", making supervisial sword scratches on 
+the underbelly of the Metal Gear.
 
+Fantomex tries to get the attention of the Metal Gear via misdirection, but he fails.  The Metal Gear notices The Punisher running away, but decides
+to try and stomp Fantomex who runs infront of it.  It is a crushing blow to Jean-Pierre, but his dampening plates save his life.  Storm unleashes
+a fury of electrical attacks that severely damage Excelsus!  Deadpool teleports atop the Metal Gear, planning to attac kthe cockpit.
 
-- Back to Shaw and Excelsus
-  * Taskmaster tricks into baiting heroes to Shaw and Excellus
-  * If too much, Taskmaster helps heroes, if not ge gets away
-  * Shaw ultimately gets away, Taskmaster may help 
-- Bad guys argue
- * Sinister brings up feud with Hellfire Club
- * Sinister and GG decide to attack ahead of schedule since Shaw already failed
+<a href="http://comicbook.com/2014/12/07/5-marvel-characters-who-deserve-their-own-vehicles/"><img style="float: right; width: 40%; height: auto" src="http://media.comicbook.com/uploads1/2014/12/storm-women-of-the-x-17242599-1024-768-114832.jpg"></a>
+
+Raiden then dashes in to close combat in a rage and slashes at the Metal Gear.  He lands a heavy blow, but it causes a huge electrical feedback current
+that brings Excelsus's energy sheilds back online and knocks both Storm and Raiden down for one round.  Deadpool then sees The Punisher driving back in
+a vehicle and teleports in to join him.  After a brief discussion, Frank jumps out while Deadpoll crashes the vehicle into  the metal gear (since he
+has healing factor and Frank does not).  The ensuing explosion shuts down one of the metal gear's legs.
+
+Meanwhile, Raiden tries to free Fantomex from under Excelsus's other leg.  He is unable to lift the heavy machine and Excelsus stomps harder still,
+incapacitating Fantomex.  Excelsus then fires an energy blast at Storm which lands a heavy blow.  Raiden yells for Storm to start a rain an lightning storm.
+She obliges as Raiden and The Punisher again to lift the Excesus's leg off of Fantomex.  However, they fail and Fantomex is smashed even harder.  As a result
+of the ensuing trauma, E.V.A. teleports Jean-Pierre out of the combat area.  
+
+Excelsus fires an energy blast at Deadpool which he acrobatically dodges.  Raiden tells The Punisher to stab him so that his *Ripper Mode* will be triggered.
+Initially, Frank argues, saying that it may trigger the Goblin Serum as well.  Meanwhile, Excelsus is trying to hit Deadpool with energy blasts, but keeps
+missing; whack-a-mole style.  The Punisher readies a knife, but Storm flies in to stop him.
+
+Now angry at Storm, Raiden walks out to point blank range and starts taunting Shaw who is piloting the Metal Gear.  Storm tries to fly after Raiden to stop
+him, but The Punisher tackles her.  Just as Excelsus is about to fire an energy blast, Deadpool teleports over and impales Raiden in the midsection from
+behind; remarking "This is what you always wanted right?"  Raiden replies, "Thanks Wade.  I hope..."
+
+Raiden is then agonizingly triggered into his *Jack the Ripper* personality.  "Wade! What have you done?!", exclaims Storm.  Raiden looks up, eyes red,
+and strongly says, "I am the lightning.  The rain transformed."
+
+<a href="http://www.game-debate.com/news/3016/metal-gear-rising-revengeance-box-art-and-demo-revealed"><img style="width: 40%" src="http://www.game-debate.com/blog/images/metal_gear_solid_rising_wallpaper_opt_id1355673140_8551.jpg"></a>
 
 -----
 

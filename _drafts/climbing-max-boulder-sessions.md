@@ -1,16 +1,19 @@
 ---
 layout: post
 title: "Limit Bouldering Sessions"
-excerpt:
+excerpt: "Training and trying hard for gym bouldering"
 category:
 - Climbing
 tags:
 - climbing
 - training
 - strength
+- power
 - bouldering
 - max bouldering
 - limit bouldering
+- hampton
+- power company climbing
 comments: true
 ---
 

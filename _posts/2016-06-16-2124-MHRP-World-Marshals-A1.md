@@ -24,7 +24,7 @@ of Siege and Fear Itself.  The Metal Gear Solid crossover,
 [Raiden](https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing), sets out to stop them; making 
 friends and foes along the way.*
 
-**Act I** | [Act II]({% post_url 2016-09-26-MHRP-World-Marshals-A2 %}) |
+**Act I** | [Act II]({% post_url 2016-09-26-MHRP-World-Marshals-A2%}) | [Act III]({% post_url 2016-10-05-MHRP-World-Marshals-A3 %}) |
 
 -----
 

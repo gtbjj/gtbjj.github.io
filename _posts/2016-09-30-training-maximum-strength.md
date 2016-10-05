@@ -90,6 +90,21 @@ All of those links are excellent resources and could easily be packed into a 10 
 of elbow tendonitis.  Eric Horst has a [free article on golfer's elbow](http://nicros.com/training/treating-climbers-elbow-medial-epicondylitis/)
 and treatment thereof.  
 
-However, I actually suffer from the opposte motion, "tennis elbow."  I suspec this is because I fancy spanking and compressing
+However, I actually suffer from the opposte motion, "tennis elbow."  I suspect this is because I fancy spanking and compressing
 big, fat, powerful splopers -- thereby forecfully turning my hand inward, not outward.  The remedy is similar, but rotating the hand exercises (in link above)
 the other direction (thumb-down to thumb-up rather than thumb-out to thumb-up).
+
+#### Resting:
+
+*10/4/16 Update* : Like many training articles I forgot to include this, but I had been thinking about it.  The gist so far is that I want my R value to become
+more balanced and I'd prefer that come from improving maximal strength rather than decreasing strength endurance.  It's easy to think you'll go all Rocky Balboa,
+ but it's actualy important to [do less](http://www.climbstrong.com/articles/20160427_1).  When training at high intensities you need more recovery time, not
+just between sets, but between workouts.  You also need to be fully recovered to be getting the most out of those workouts as well.  The short version is looking
+like this for me:
+
+| Given Weekend Climbing   | Following Training Week |
+| ------------------------ | ----------------------- |
+| 1 Trad Day / Weekend     | 1 strength / hang session before trad day, another 3 days after |
+| 2 Trad Days / Weekend    | **Avoid**, save for a aerobic training phase |
+| 1 Boulder Day / Weekend  | 2 rest days, strength day, rest day, aerobic day, rest day |
+| 2 Boulder Days / Weekend | Make the 2nd day a volume day, rest 2 days, strength day, rest 2 days |
