@@ -5,10 +5,7 @@ excerpt: ""
 search_omit: true
 ---
 
-<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe 
-src="//lightwidget.com/widgets/d6c004bac119573b9bf59c47eea394ce.html" id="lightwidget_d6c004bac1" name="lightwidget_d6c004bac1"  
-scrolling="no" allowtransparency="true" class="lightwidget-widget" style="display: block; margin-left: auto; margin-right: auto;width: 40%; 
-border: 0; overflow: hidden;"></iframe>
+<iframe src="//users.instush.com/bee-gallery-v2/?cols=4&rows=1&size=medium&border=6&round=false&space=4&sl=true&bg=transparent&brd=true&na=false&pin=true&hc=e72476&ltc=3f3f3f&lpc=ffffff&fc=ffffff&user_id=1769639109&username=savagezen&sid=-1&susername=-1&tag=-1&stype=mine&t=999999U-PODrPK3a_GOqZhPPPf2bpg9GatcxmcEE4NduTTGXJgw_yBBf5eDJ_SfDdcBTz3TjGR9UmUmLE" allowtransparency="true" frameborder="0" scrolling="no"  style="display:block;width:640px;height:166px;border:none;overflow:visible;" ></iframe>
 
 <ul class="post-list">
 {% for post in site.categories.Climbing %} 
