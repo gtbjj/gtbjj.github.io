@@ -16,6 +16,10 @@ tags:
 comments: true
 ---
 
+| [Part 1]({% post_url 2016-07-02-1931-N6P-Benchmarks %}) | **Part 2** | [Part 3]({% post_url 2016-08-31-N6P-Benchmarks-3 %}) | [Part 4]({% post_url 2016-10-16-N6P-Benchmarks-4 %}) |
+
+-----
+
 A couple months ago I began benchmarking ROMs 
 for the Nexus 6P, to the tune of 300+ tests.  This marks 
 the conclusion of *Phase One* of my mega project of not 

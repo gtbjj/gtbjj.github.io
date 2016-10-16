@@ -16,6 +16,10 @@ tags:
 comments: true
 ---
 
+| [Part 1]({% post_url 2016-07-02-1931-N6P-Benchmarks %}) | [Part 2]({% post_url 2016-08-11-N6P-Benchmarks-2 %}) | **Part 3** | [Part 4]({% post_url 2016-10-16-N6P-Benchmarks-4 %})
+
+-----
+
 #### Review:
 
 After rooting my Nexus 6P I began collecting data on 
