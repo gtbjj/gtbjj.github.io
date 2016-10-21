@@ -23,25 +23,24 @@ comments: true
 **Doom Pool: 2d10**
 
 | +1 XP | Decline an opportunity for Revenge |
-| +3 XP | Defeat Rremaining Villains |
+| +3 XP | Defend the Helicarrier |
 | +10 XP | Find Cure for Goblin Serum |
 
 -----
 
-- Eventually GG or Shaw (whoever survives) needs defeated as well
-- Team argues whether to stay together or not
-- Agree to separate, but also on potential for reuniting
-  * Punisher and Fantomex agree that Norman is down but not out and needs several eyes kept on him
-  * Storm gets word that T'Challa has been viciously attacked by Doom and returns to Wakanda
-  * Deadpool says his "contract" is up
-  * Raiden has unfinished business with Stark
-- Need a cure for Goblin Serum
-  * Reed Richards? Endo Sym Armor?
-- Sinister tells Doom that initial trial has been completed
- * time to more forward to other phases
- * tension within Cabal between Doom and Osborn
- * Osborn takes information from World Marshal events to plan for Skrull Invasion / Dark Reign, and evnetually Siege
- * Doom digs deep in still water collaborating with Loki for Fear Itself
+Team argues whether to stay together or not
+Agree to separate, but also on potential for reuniting
+Punisher and Fantomex agree that Norman is down but not out and needs several eyes kept on him
+Storm gets word that T'Challa has been viciously attacked by Doom and returns to Wakanda
+Deadpool says his "contract" is up
+Raiden has unfinished business with Stark
+Need a cure for Goblin Serum
+Reed Richards? Endo Sym Armor?
+Sinister tells Doom that initial trial has been completed
+time to more forward to other phases
+tension within Cabal between Doom and Osborn
+Osborn takes information from World Marshal events to plan for Skrull Invasion / Dark Reign, and evnetually Siege
+Doom digs deep in still water collaborating with Loki for Fear Itself
 
 -----
 

@@ -25,7 +25,7 @@ divided his country.  Several Private Military Companies
 have taken opposition to this.  Riaden needs to find out
 who is at the bottom of this and stop them if he can.*
 
-**Act 1** | [Act 2]({% post_url 2016-06-09-2211-MHRP-Training-Day-A2 %}) | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %})
+| **Act 1** | [Act 2]({% post_url 2016-06-09-2211-MHRP-Training-Day-A2 %}) | [Act 3]({% post_url 2016-06-09-2304-MHRP-Training-Day-A3 %}) |
 
 -----
 
