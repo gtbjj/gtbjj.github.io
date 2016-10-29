@@ -54,13 +54,17 @@ easily.  For casual use like mine, the inconvenience isn't worth the protection.
 
 ### Getting it Done:
 
-I followd the [corresponding Arch Wiki article](https://wiki.archlinux.org/index.php/Dm-crypt/Mounting_at_login) word for word and it was 
-pretty straight forward.  A few tings to keep in mind though:
+Initially I followed the [corresponding Arch Wiki article](https://wiki.archlinux.org/index.php/Dm-crypt/Mounting_at_login) word for word as it
+seemed pretty straight forward.  A few things to keep in mind though:
 
-- I couldn't quite get something right with the manual scripting, so opted for the *PAM* process; which was easy enough.
 - Watch out for those dang ```\x2d```s when making the system service.
 - By only encrypting ```/home``` you'll save some system boot time, but loging in takes notably longer.  There's still the benefit of a faster 
 boot if you just need to startup, login as *root*, and fix something (for example).
+
+As it turns out I had issues with the manual scripting method (above) and resorted to using ```pam_mount```.  This worked out well and didn't take
+any more effort.  Simply follow the [directions on the Arch Wiki](https://wiki.archlinux.org/index.php/Pam_mount
+).
+
 
 -----
 *Update 04/20/2016* - It could have something to do with the X205TA's funky hardware, or microSD drives (/dev/mmcblkXpY) in general, but I was 
