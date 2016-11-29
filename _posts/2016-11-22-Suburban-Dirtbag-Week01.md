@@ -41,15 +41,15 @@ things I didn't need and ultimately just as (if not more) unhappy.
 
 #### 2) Lessons Learned and Better Strategy:
 
-> Previously I thought I had planned things out really well.  And, true, some things I did.  However, the things that caught me most off 
+> Previously I thought I had planned things out really well.  And, true, some things I did.  However, the thing that caught me most off 
 guard was how much time I spent sleeping in my car even though I top-of-the-line camping gear (mostly this had to do with convenience and 
-logistics).  *You never see the knockout punch coming.* That said, I sleep great on the futon / bed I built out of crash pads in my tunk / backseat.  As an added bonus, I needed a 
+logistics).  *You never see the knockout punch coming.* That said, I sleep great on the futon / bed I built out of crash pads in my trunk / 
+backseat.  As an added bonus, I needed a 
 storage unit to house the (removed) backseat(s) anyway, so that meant I didn't need to throw away all of my worldly posessions.
 
 > The only things that go with me everywhere are the bare essentials (clothes, climbing gear, camping gear, kitchenware and food).  I've slept so well in my trunk 
 that I've actually wondered where I was for a split second when I woke up.  That is a world of difference from 100 nights of so-so sleep 
 awkwardly crunched in the shotgun seat.
-
 
 #### 3) Proximity and Logistics:
 
@@ -63,20 +63,22 @@ ketchup packets and dumpster diving -- and it won't hurt if you know how to turn
 dirtbagging endlessly or at least without an end in sight.  
 
 > However, in my circumstances I'm trying to hold down a steady job -- a job I love mind you.  And as such I'm a little more tied logistically.  
-The difference between these two segements was that before I was burning up 50 miles stretches of backroads several times per day.  Now, I'm 
-running laps on 15 mile stretches of interste in (semi)suburban territory.  That, and there are actually signs of life on the streets at all 
-times of day and days of the week.  That all adds up when you consider that now I can swing by my storage unit, hit the gym for a shower, and 
+The difference between my two dirtbag chapters is that before I was burning up 50 mile stretches of backroads several times per day.  Now, I'm 
+running laps on 15 mile stretches of interstate in (semi)suburban territory.  That, and there are at least some signs of life on the streets at 
+all times of day and days of the week.  That all adds up when you consider that now I can swing by my storage unit, hit the gym for a shower, and 
 be at work in about an hour.  With last year's set up, that would have easliy been a 2 hour ordeal.
 
 #### 4)  Something's Missing:
 
 <a href="https://youtu.be/MZFF1T75Khk"><img style="float: right; height: auto; width: 40%" src="http://i.quoteaddicts.com/media/q3/983807.png"></a>
 
-> A couple months ago I rmember feeling like I was "ready to run" again.  But, making the conversion to the life of a (now suburban) dirtbag 
-does lack a bit of the mysticism of yesteryear -- at least at the present time.  I can still feel the steely eyed stare leech out of the corner of my eye sometimes, but the 
-weathered look of the wilderness evades even my longest looks in the mirror this time around.  What I'm saying is there's a certain swagger and boldness (arrogance and entitlement even) that comes with  the territory.
+> A couple months ago I remember feeling like I was "ready to run" again.  But, the new incarnation of life as a (now suburban) dirtbag 
+lacks a bit of the mysticism of yesteryear -- at least at the present time.  I can still feel the steely eyed stare leech out of the corner of 
+my eye sometimes, but the weathered look of the wilderness evades even my longest looks in the mirror.  What I'm saying is there's a certain swagger and boldness (arrogance and entitlement even) that comes with  the territory.
 
-> Several days per week I'd (roped) solo 3 or 4 pitches or get a couple hours of bouldering in before breakfast.  High balls and all around sketchy s*** became far too normal.  Once a week or so I'd make the hour long drive to the fitness club I bought a membership at, then push through hordes of treadmill faithful (working hard enough to still watch The View mind you), to get a shower and still get to work before 9:00 a.m. **Do you even lift bruh?**
+> Several days per week I'd (roped) solo 3 or 4 pitches or get a couple hours of bouldering in before breakfast.  High balls and all around 
+sketchy s\*\*\* became far too normal.  Once a week or so I'd make the hour long drive to the fitness club I bought a membership at, then push 
+through hordes of treadmill faithful (working hard enough to still watch The View mind you), to get a shower and still get to work before 9:00 a.m. **Do you even lift bruh?**
 
 #### 5) Coming Home:
 
@@ -95,9 +97,7 @@ the midst of a hurricane.  The hard part is the hard days -- the really, really 
 into your eyes, sobbing, and snot running down your face.  Specifically, not having anywhere to go with them or anywhere to turn but inward.  
 
 > Of course I have freinds and colleagues who would more than welcome my reaching out to them for support.  That's just one of those things though 
-that makes so much sense outside of the pocket, but is terribly difficult to see when you're in the red 
-zone.
-
+that makes so much sense outside of the pocket, but is terribly difficult to see when you're in the red zone.
 
 *At any rate, stay tuned!  This wasn't exactly the chipper post I thought it might be when I started writing, but it is what it is, and it 
 ain't what it ain't.  More stories of a (new) life on the road will be coming shortly!*
