@@ -49,7 +49,7 @@ Allan's post talks about automating the trust / add process for Arch devs and tr
 Anyway, you can manually do trust and add PGP keys after you've investigated their source.  For example, when compiling and trying to install a custom kernel I got the above error, stating that ```Linus Torvalds``` was of unknown trust (lol).  So you can check a key server for that person.
 
 ```
-$ gpg --keyserver gpg.mit.edu --search linus torvalds
+$ gpg --keyserver pgp.mit.edu --search linus torvalds
 -----------------------------------------------------
 gpg: data source: http://pgp.mit.edu:11371
 (1)	Linus Torvalds <torvalds@linux-foundation.org>
@@ -60,7 +60,7 @@ gpg: signal Interrupt caught ... exiting
 ```
 
 ```
-gpg --keyserver gpg.mit.edu --search austin haedicke
+gpg --keyserver pgp.mit.edu --search austin haedicke
 ----------------------------------------------------
 gpg: data source: http://pgp.mit.edu:11371
 (1)	Austin <austin.haedicke@gmail.com>

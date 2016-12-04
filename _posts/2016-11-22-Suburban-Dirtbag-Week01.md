@@ -15,6 +15,10 @@ tags:
 comments: true
 ---
 
+| [Week 3]({% post_url 2016-12-04-Suburban-Dirtbag-Week03 %}) | [Week 2]({% post_url 2016-11-28-Suburban-Dirtbag-Week02 %}) | **Week 1** |
+
+-----
+
 ```Day 10```
 
 The time has come that I've found myself returning to a life on the road.  That is, the way of the dirtbag.  Admitedly, [the last time I began 
