@@ -18,7 +18,7 @@ tags:
 comments: true
 ---
 
-| **Week 3** | [Week 2]({% post_url 2016-11-28-Suburban-Dirtbag-Week02 %}) | [Week 1]({% post_url 2016-11-22-Suburban-Dirtbag-Week01 %}) |
+| [Week 4]({% post_url 2016-12-11-Suburban-Dirtbag-Week04%})| **Week 3** | [Week 2]({% post_url 2016-11-28-Suburban-Dirtbag-Week02 %}) | [Week 1]({% post_url 2016-11-22-Suburban-Dirtbag-Week01 %}) |
 
 -----
 
