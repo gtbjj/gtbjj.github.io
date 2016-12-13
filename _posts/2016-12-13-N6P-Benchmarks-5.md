@@ -1,10 +1,17 @@
 ---
 layout: post
 title: "Nexus 6P Benchmarks: Part 5"
-excerpt: ""
+excerpt: "Final review of Interactive Governor profiles"
 category:
 - Android
 tags:
+- android
+- Google
+- nexus
+- nexus 6p
+- n6p 
+- performance
+- root
 comments: true
 ---
 
