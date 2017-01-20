@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suburban Dirtbag:  Week 9"
-exerpt: "Inspiration, Starting (again) on Trad, and Longview Goals"
+excerpt: "Inspiration, Starting (again) on Trad, and Longview Goals"
 category:
 - Climbing
 tags:
