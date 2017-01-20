@@ -4,7 +4,13 @@ title: Climbing Posts
 excerpt: ""
 search_omit: true
 ---
-<iframe src="//users.instush.com/bee-gallery-v2/?cols=3&rows=1&size=medium&border=0&round=false&space=4&sl=true&bg=transparent&brd=true&na=false&pin=true&hc=e72476&ltc=3f3f3f&lpc=ffffff&fc=ffffff&user_id=1769639109&username=savagezen&sid=-1&susername=-1&tag=-1&stype=mine&t=999999U-PODrPK3a_GOqZhPPPf2bpg9GatcxmcEE4NduTTGXJgw_yBBf5eDJ_SfDdcBTz3TjGR9UmUmLE" allowtransparency="true" frameborder="0" scrolling="no"  style="display:block;width:482px;height:166px;border:none;overflow:visible;" ></iframe>
+
+<iframe 
+src="//users.instush.com/mini-slide-show/?user_id=1769639109&username=savagezen&sid=-1&susername=-1&tag=-1&stype=mine&t=999999U-PODrPK3a_GOqZhPPPf2WzMHqCcxM3y5bouiLcTljpO9a-yZ7JKfeK736jVyhNJZApBTUW-ZoY" 
+allowtransparency="true" frameborder="0" 
+scrolling="no"  
+style="margin-left:30%;display:block;width:40%;height:306px;border:none;overflow:visible;" 
+></iframe>
 
 <ul class="post-list">
 {% for post in site.categories.Climbing %} 
