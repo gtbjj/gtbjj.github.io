@@ -6,7 +6,11 @@ search_omit: false
 ---
 
 <p style="text-align: center">
-My fandom gladly supports the following.
+  See also my library of <a href="/data_screens">data and screenshots</a> on Google Drive.
+</p>
+
+<p style="text-align: center">
+  My fandom gladly supports the following
 </p>
 
 -----

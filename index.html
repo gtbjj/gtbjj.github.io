@@ -1,12 +1,46 @@
 ---
 layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+title:
+excerpt:
 search_omit: true
 ---
 
+<a href="/android">
+  <div style="float: left; width: 25%">
+    <p style="text-align: center"><strong>Android</strong></br>
+      <img style="height: auto; width: 50%" src="images/android.png">
+    </p>
+  </div>
+</a>
+
+<a href="/climbing">
+  <div style="float: left; width: 25%">
+    <p style="text-align: center"><strong>Rock Climbing</strong></br>
+      <img style="height: auto; width: 50%" src="images/climbing.png">
+    </p>
+  </div>
+</a>
+
+<a href="/linux">
+  <div style="float: left; width: 25%">
+    <p style="text-align: center"><strong>Linux</strong></br>
+      <img style="height: auto; width: 50%" src="images/archlinux.svg">
+    </p>
+  </div>
+</a>
+
+<a href="/resources">
+  <div style="float: left; width: 25%">
+    <p style="text-align: center"><strong>Resources</strong></br>
+      <img style="height: auto; width: 50%" src="images/document.png">
+    </p>
+  </div>
+</a>
+
+<!--
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+-->
