@@ -104,7 +104,7 @@ Next, we want to make sure the restoration script runs immediately when the user
 
 Finally, make sure both scripts are executable:
 
-   ```$ chmod +x ~/scripts/tmpfs_cache_bk.sh
-   $ chmod +x ~/scripts/tmpfs_cache_restore.sh```
+   ```$ chmod +x ~/scripts/tmpfs_cache_bk.sh```
+   ```$ chmod +x ~/scripts/tmpfs_cache_restore.sh```
 
 Now reboot and enjoy a (theoretically) much speedier browser and user experience.  Cheers!
