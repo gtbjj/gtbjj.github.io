@@ -1,23 +1,22 @@
 ---
 layout: post
-title: "DND5E: History of Bombador"
-excerpt:  "Balfador Bombador character history"
+title: "DND5E: Into the Fold"
+excerpt: "Balfador Bombador's Background Story"
 category:
 - RPG
 tags:
+- rpg
 - dnd5e
+- d&d
 - dungeons and dragons
-- dwarf
-- steampunk
+- quest log
+- balfador
 comments: true
 ---
 
 #### Preface:
 
-<a href="http://bancodeseries.com.br/index.php?action=userPage&uid=1000174048"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="http://bancodeseries.com.br/images/users/1000174048.jpg"></a>
-
-[Balfador Bombador](https://drive.google.com/file/d/0B2RH_BSaD6YPeGFKdGcyLVgwdzA/view?usp=sharing) 
-was a bit of an obscure HIll Dwarf.  He never seemed to stay in one place
+**Balfador Bombador** was a bit of an obscure HIll Dwarf.  He never seemed to stay in one place
 for long.  While he was generally a kind-hearted spirit, a few specific
 loves seemed to drive his life:  cigars, money, and the thrill of the
 chase.

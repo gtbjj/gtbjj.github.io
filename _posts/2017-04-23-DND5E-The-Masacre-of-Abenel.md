@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DND5E: History of Phage"
-excerpt: "Phage Elung and The Massacre of Abenel"
+title: "DND5E: The Masacre of Abenel"
+excerpt: "Phage Elung and the Masacre of Abenel"
 category:
 - RPG
 tags:
@@ -11,18 +11,18 @@ tags:
 - dungeons and dragons
 - quest log
 - phage
+- digoria
 - magic the gathering
 comments: true
 ---
 
 #### The Massacre of Abenel
 
-<a href="http://eternal10k.deviantart.com/art/Phage-the-Untouchable-175877961"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="http://img11.deviantart.net/5736/i/2010/230/5/a/phage_the_untouchable_by_eternal10k.jpg"></a>
+<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/phage.jpg"></a>
 
 *~ 10 years before present day*
 
-[Phage Elung](https://drive.google.com/file/d/0B2RH_BSaD6YPcC14Rmx1cFlNeEU/view?usp=sharing) 
-came down from the hills with every inention of brining hell and horror
+[Phage Elung]({% post_url 2017-04-23-DND5E-Profile-Phage %}) came down from the hills with every inention of brining hell and horror
 to the (mostly) calm and quiet people of Abenel.  She tried to trick two
 guards outside the town gate to let her in under the guise of being a
 weary traveler.  They are not foold and attack.  Phage makes short work
@@ -38,7 +38,7 @@ landed.  but Phate insta-kills one guard with a fierce bite, bathing all
 parties in blood.  The reamining two guards present some resistance, but
 they cannot match the stamina of Phage's regenerative prowess.
 
-<a href="http://bigbubbasstuff.deviantart.com/art/warhammer-chosen-of-Khorne-glove-335446453"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="http://pre12.deviantart.net/2f20/th/pre/i/2012/306/2/f/warhammer_chosen_of_khorne_glove_by_bigbubbasstuff-d5jps51.jpg"></a>
+<a href="http://bigbubbasstuff.deviantart.com/art/warhammer-chosen-of-Khorne-glove-335446453"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/ogre-gauntlets.jpg"></a>
 
 Near the center of the town two knights are protecting the town’s Noble.  
 There are a lot of sloppy and deflected hits.  The knights’ tough 
