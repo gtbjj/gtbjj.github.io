@@ -15,17 +15,16 @@ tags:
 comments: true
 ---
 
-<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/phage.jpg"></a>
-
 # Phage Elung
 
 [Character Sheet](https://drive.google.com/file/d/0B2RH_BSaD6YPcC14Rmx1cFlNeEU/view?usp=sharing)
 
 ---
 
-#### Adventures
+<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; max-height: 50%; margin: 5px" src="/images/extra/phage.jpg"></a>
 
-<div style="height 200px; width 40%; overflow: scroll">
+
+#### Adventures
 
 <ul class="posts">
 {% assign count = 0 %}
@@ -43,13 +42,10 @@ comments: true
 {% endfor %}
 </ul>
 
-</div>
-
 ---
 
 #### Inventory / Skills Gallery
 
-<div style="height: 400px; width: 100%; overflow: scroll">
   <ul>
     <li><strong>Current:</strong></li>
       <ul>
@@ -69,6 +65,5 @@ comments: true
       <ul>
       </ul>
   </ul>
-</div>
 
 ---

@@ -12,6 +12,8 @@ tags:
 - quest log
 - digoria
 - phage
+- days of future past
+- magic the gathering
 comments: true
 ---
 

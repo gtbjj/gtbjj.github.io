@@ -14,17 +14,15 @@ tags:
 comments: true
 ---
 
-<a href="http://bancodeseries.com.br/index.php?action=userPage&uid=1000174048"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/balfador.jpg"></a>
-
 # Balfador Bombador
 
 [Character Sheet](https://drive.google.com/file/d/0B2RH_BSaD6YPeGFKdGcyLVgwdzA/view?usp=sharing)
 
 ---
 
-#### Adventures
+<a href="http://bancodeseries.com.br/index.php?action=userPage&uid=1000174048"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/balfador.jpg"></a>
 
-<div style="height 200px; width 40%; overflow: scroll">
+#### Adventures
 
 <ul class="posts">
 {% assign count = 0 %}
@@ -42,13 +40,10 @@ comments: true
 {% endfor %}
 </ul>
 
-</div>
-
 ---
 
 #### Inventory / Skills Gallery
 
-<div style="height: 400px; width: 100%; overflow: scroll">
   <ul>
     <li><strong>Current:</strong></li>
       <ul>
@@ -57,6 +52,5 @@ comments: true
       <ul>
       </ul>
   </ul>
-</div>
 
 ---

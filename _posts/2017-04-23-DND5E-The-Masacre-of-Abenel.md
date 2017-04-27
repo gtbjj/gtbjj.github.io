@@ -11,7 +11,6 @@ tags:
 - dungeons and dragons
 - quest log
 - phage
-- digoria
 - magic the gathering
 comments: true
 ---

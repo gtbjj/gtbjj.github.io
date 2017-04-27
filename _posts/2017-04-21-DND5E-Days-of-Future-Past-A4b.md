@@ -11,6 +11,8 @@ tags:
 - dungeons and dragons
 - digoria
 - phage
+- magic the gathering
+- days of future past
 comments: true
 ---
 
