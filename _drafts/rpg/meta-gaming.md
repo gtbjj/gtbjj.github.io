@@ -18,6 +18,8 @@
 	- Ketterly's godmother was half-faerie and found / stole / made box from Atlantis that contained Faerie dust Ketterly made rings from
 	- Mummy Lord (CR 15 has one?)
 	- Planetar (CR 16 has another?)
+    - Vampire / Lord has number 3? (cas?)
+    - Some big baddy from Cas' history has number 4?
 - travel to temple to restore Digoria's lost levels
 	- planetar grants?  Digoria attacks to get ring?
 - get ship and rings and betray Jadis
