@@ -24,18 +24,6 @@
 	- she sends silver / white dragon
 - eventual clash between Digoria and Cas / Link
 - missing ~5 years of exile for Digoria after losing ship
-- missing ~10 years of Digoria training with Jadis
-  - Jadis is suspicious of Dirogia, but tells her she's of a unique bloodline
-  - the "river to Charn" in "The Wood Between Worlds" dried up, but Charn did not die
-  - per Jadis, "True evil never dies.  So long as there is light, there lies the possibility of an absence of it."
-    - upon her death at the teeth of Aslan, her ghost was returned to Charn
-    - all life still dead, city under dying sun (red, but cold) supposed to be her eternal prison
-    - however, she's been woken / freed before, by "sons of Ada... humans mages"
-    - though she disdains them, saying "Their kind was made an end of in this world a thousand years ago"
-    - "my grandfather laid waste to 700 of the mightiest adventurers before they'd drawn a single sword"
-    - "an 'incompetent' (human) magic user (Andrew Ketterly) created magical rings (green and yellow)"
-  - dragons have existed there before (kill for xp?)
-  - eventually leads to loss of memory, being cast at sea, then exiled circa DOFP A1
 
 ---
 
