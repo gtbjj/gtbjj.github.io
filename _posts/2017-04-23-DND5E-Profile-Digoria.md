@@ -69,7 +69,7 @@ comments: true
   <br/>
   <a href="http://cdn.blizzardwatch.com/wp-content/uploads/2015/12/Arcane_Sanctum_Diablo_Ray_of_Frost_header.jpg"><img title="Ray of Frost" src="/images/extra/rayoffrost.jpg" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="http://as.uuu9.com/herolist/limin/skin141015/images/c1.png"><img tite="magic missile" src="/images/extra/magicmissile.png" style="max-width: 50%; height: auto"></a>
+  <a href="http://as.uuu9.com/herolist/limin/skin141015/images/c1.png"><img title="Magic Missile" src="/images/extra/magicmissile.png" style="max-width: 50%; height: auto"></a>
   <br/>
   <a href="https://us.battle.net/d3/static/images/hero/skill/wizard/wave-of-force.jpg?v=58-99"><img title="Thunderwave" src="/images/extra/thunderwave.jpg" style="max-width: 50%; height: auto"></a>
 

@@ -1,3 +1,20 @@
+---
+layout: post
+title:
+excerpt:
+categories:
+- RPG
+tags:
+- d&d
+- 5e
+- dungeons & dragons
+- quest log
+- digoria
+- cas
+- link
+comments: true
+---
+
 <!--
 DM NOTES
 
@@ -24,6 +41,9 @@ Scene 1:  at sea
 
 -->
 
+Cas, Link 
+
+-----
 #### Scene 2:  Shatterhull Isle
 
 - Cas notices ogres fishing on shore

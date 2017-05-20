@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DND5E - Reaper of Souls, Act 1b"
-excerpt: "Reaper of Souls Campaign:  Act 1, Part 2"
+title:  "DND5E - Cave of Wonders"
+excerpt: "Rainbow in the Dark, Act 2"
 category:
 - RPG
 tags:
@@ -13,12 +13,13 @@ tags:
 - link
 - cas
 - digoria
+- rainbow in the dark
 comments: true
 ---
 
 <a href="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es"><img src="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
 
-Cas and Link travel to the nearby town of Havelwood after having completed their task in [The Mad Manor of Astabar]({% post_url %}). Just outside 
+Cas and Link travel to a small shire outside of Duncraid after having completed their task in [The Mad Manor of Astabar]({% post_url %}). Just outside 
 the town gates they find a merchant named Phil with whom they decide to do business with in order to gain new equiment (armor and weapons and such).  
 Phil sells them several pieces of equipment and shows interest in the magic box that Cas and Link have brought from the manor.  Successful charisma 
 application by Link convinces Phil to investigate the box without haggling, stealing, or conning Link and Cas.
@@ -82,12 +83,72 @@ informs all that the annual adventure begins at sunset which is in one hour.  As
 adventurers gather outside the cave a while later, Cas and Link notice that the hooded 
 woman is indeed in attendance.
 
-#### Scene 2:
+The shape of a lion's head takes form and rises from the sand.  The creature's mouth 
+opens and inside, down where it's tongue would be is a wide stair case leading into 
+a seemingly endless and well lit cave.  Immediately the participants rush inside.  
+Many start calmmoring over, diving into, and filling their pockets with the heaping 
+piles of gold pieces.
+
+Greed seems to be getting the better of everyone, including the still somewhat drunk 
+Link who also seems to have taken on a bit of a perverted personality.  Cas notices 
+that the hooded woman does not appear to be concerned at all with piled high treasure 
+and instead walking calmly down the narrow middle path in the cave.
+
+Cas is about to reach out to stop her, Link a bit behind, when there are gasps and 
+shreiks from beind.  One of the adventurers has turned to stone!  Cas quickly grabs 
+the wobly Link close and in a whisper yell says "Drop your shit!"
+
+The two find the hooded woman looking at a wooden door that is aparently  unlocked 
+and leads down a dark staircase to an ulnit cavern.  The party decides to block the 
+door behind them as a vicious wind starts to blow makes it quite a struggle for the 
+other adventurers to continue down the path.
+
+<a href="https://4.bp.blogspot.com/-607F_6X69zI/UW42Uwpwr8I/AAAAAAAACtk/y2wwcoHjBMM/s1600/wyrm2.jpg"><img src="/images/extra/wyrm.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
+
+Cas struggles a bit, though the hooded woman can apparently see well enough as can 
+Link due to his darkvision.  There seems to be a large underground lake that a decrepid 
+rope and wood bridge leads over.  The party sees that this is the only way to pass so 
+they continue.  Suddenly, a [green dragon wyrmling](https://chisaipete.github.io/bestiary/creatures/green-dragon-wyrmling) errupts from the black water, arching 
+over the bridge and swimming through the other side.  The wyrm decides to attack, and 
+apparently the only party member able to land a hit (and subsequently kill the beast) 
+is the hooded woman as Cas struggles in the dark and Link's arrows seem to never find 
+their mark.  Never having seen such a beast before, both probably more fear stricken 
+than they'd like to have admitted.
+
+Continuing up the other side of the cavern finds the exit door unlocked.  The path 
+continues to the right to a stairwell and a door.  However, Cas makes the case that 
+he wants to backtrack and explore other rooms within the cave before continuing.  Following 
+the path back to the left towards the direction they came from (had they continued outside 
+the lake cavern), they find another large, dark dimly lit cavern.  The hooded woman tells 
+them that she is going to check on the rest of the adventurers.
+
+Cas and Link spot two minotaurs across the room which is appears to have a large bottomless 
+pit in the center and the only point of entry is a five foot wide stone path around ther 
+perimeter of the cavern.  The beasts notice the adventures and prepare for battle, however 
+they appear to be more guard oriented than actively hostile.  While Cas and Link try to 
+decide whether or not to engage, the hooded woman shouts for them to follow her let they 
+all be turned to cinders.  She states that the floor in prior corridors is turning to lava!
+
+So, the party proceeds up the eariler spotted staris which brings them to a stone crafted 
+dungeon full of several rooms.  Carefully the crew inspects their path, being mindful of 
+traps.  While some are sprung (spiked floors, swinging axes, and the like), the party takes 
+minimal damage and uses fair tact to plan their route.  Eventually Link finds a room that 
+has only a large mirror in it.  Though, it appears to be detachable so he decides to carry 
+it with him.
+
+The way out of the dungeon appears to be locked, so of course, a final room must be 
+explored.  Strangely, there appear to be many stalagtites and stalagmites growing inside 
+this room.  Link uses the mirror along with the glowing orb Cas found in the Mad Manor 
+to try and illuminate the dark room.  As the hooded woman and Cas begin searching for 
+anything of value, the timid Link waits guard at the door.
+
+Just as Cas finds a shiny key on the floor, the party is attacked by a [roper](https://chisaipete.github.io/bestiary/creatures/roper)!
+With some struggle and minimal damange, Cas and the hooded woman are able to cut off 
+most of the creatures tendrills.  However, it takes a firm hold on Link, whom ultimate is 
+able to free himself and is actually the party member to kill off the roper with a mighty 
+leaping swing of his sword.
 
 
-- greedy, durnk pervert, steal gold
-- drop your shit
-- no hits but woman's
 
 - in the cave
   - L1: lots of treasure (action count, walking dist)
