@@ -9,8 +9,16 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
+- pirates of abbotts glen
+- rainbow in the dark
 - digoria
 comments: true
+---
+
+| **Campaign:** | Pirates of Abbotts Glen |
+| **Quest:**    | Rainbow in the Dark     |
+| **DM:**       | Austin                  |
+
 ---
 
 - need levels before castle quest

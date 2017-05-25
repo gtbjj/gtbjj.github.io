@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DND5E - Cave of Wonders"
-excerpt: "Rainbow in the Dark, Act 2"
+excerpt: "Pirates of Abbotts Glen, Quest 2"
 category:
 - RPG
 tags:
@@ -10,14 +10,21 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
+- pirates of abbotts glen
+- cave of wonders
 - link
 - cas
 - digoria
-- rainbow in the dark
 comments: true
 ---
 
 <a href="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es"><img src="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
+
+| **Campaign:** | Pirates of Abbotts Glen |
+| **Quest:**    | Cave of Wonders         |
+| **DM:**       | Austin                  |
+
+---
 
 Cas and Link travel to a small shire outside of Duncraid after having completed their task in [The Mad Manor of Astabar]({% post_url %}). Just outside 
 the town gates they find a merchant named Phil with whom they decide to do business with in order to gain new equiment (armor and weapons and such).  

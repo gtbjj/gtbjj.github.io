@@ -21,7 +21,7 @@ comments: true
 
 *~ 10 years before present day*
 
-[Phage Elung]({% post_url 2017-04-23-DND5E-Profile-Phage %}) came down from the hills with every inention of brining hell and horror
+[Phage Elung]({% post_url 2017-04-23-DND5E-NPC-Phage %}) came down from the hills with every inention of brining hell and horror
 to the (mostly) calm and quiet people of Abenel.  She tried to trick two
 guards outside the town gate to let her in under the guise of being a
 weary traveler.  They are not foold and attack.  Phage makes short work

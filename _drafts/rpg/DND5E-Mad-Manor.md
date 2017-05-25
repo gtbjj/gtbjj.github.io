@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DND5E - Reaper of Souls, Act 1a"
-excerpt: "Reaper of Souls Campaign:  Act 1, Part 1"
+title:  "DND5E - The Mad Manor"
+excerpt: "Pirates of Abbotts Glen, Quest 1"
 category:
 - RPG
 tags:
@@ -10,9 +10,17 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
+- pirates of abbotts glen
+- mad manor
 - cas
 - link
 comments: true
+---
+
+| **Campaign:**  | Pirates of Abbotts Glen |
+| **Quest:**     | The Mad Manor           |
+| **DM:**        | Austin                  |
+
 ---
 
 A young barbarian adventurer, named [Cas](https://drive.google.com/file/d/0B3L-FHD8lwfVdTBzblJXTU1RSnc/view?usp=sharing)

@@ -22,7 +22,7 @@ comments: true
 
 <a href="http://bancodeseries.com.br/index.php?action=userPage&uid=1000174048"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/balfador.jpg"></a>
 
-#### Adventures
+#### Adventures:
 
 <ul class="posts">
 {% assign count = 0 %}
@@ -42,15 +42,6 @@ comments: true
 
 ---
 
-#### Inventory / Skills Gallery
-
-  <ul>
-    <li><strong>Current:</strong></li>
-      <ul>
-      </ul>
-    <li><strong>Former:</strong></li>
-      <ul>
-      </ul>
-  </ul>
+#### Notable Items:
 
 ---

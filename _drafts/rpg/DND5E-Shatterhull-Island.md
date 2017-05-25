@@ -9,10 +9,18 @@ tags:
 - 5e
 - dungeons & dragons
 - quest log
+- pirates of abbotts glen
+- shatterhull island
 - digoria
 - cas
 - link
 comments: true
+---
+
+| **Campaign:** | Pirates of Abbotts Glen | 
+| **Quest:**    | Shatterhull Island      |
+| **DM:**       | Austin                  |
+
 ---
 
 <!--
@@ -22,7 +30,7 @@ Last Quest:
 - 1400 xp Cave of Wonders
 - Link gets Phantom Disaster 1d10
 - Cas get Fume Greatsword, 1d10
-- Digoria get Frostbitten Rapier
+- Digoria get Grand Frostbitten Rapier 1d10
 
 - Notable Posessions
   - Lense of Truth (Cas)
