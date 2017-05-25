@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DND5E: Character Profile"
-excerpt: "Phage Elung"
+title: "DND5E: Phage Elung"
+excerpt: "NPC"
 category:
 - RPG
 tags:
