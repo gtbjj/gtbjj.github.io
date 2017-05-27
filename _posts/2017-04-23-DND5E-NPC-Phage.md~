@@ -42,7 +42,7 @@ comments: true
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | 19 (+4) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
-**Abilities**
+**Personality:**  Ruthless, relentless, bloodthirsty, and unpredictable.  Imagine of Sabertooth and Harley Quinn had a child.  Physical appearance (above image) credit to MTG's "Phage the Untouchable."
 
 ***Regeneration.*** The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn’t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn’t function at the start of the vampire’s next turn.
 
@@ -60,23 +60,11 @@ comments: true
 
 ***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
----
-
 #### Notable Items:
 
 - [Hearthstone](https://www.dandwiki.com/wiki/Hearthstone_(5e_Equipment))
 - [Ring of Warmth](https://open5e.com/equipment/magic-items/ring-of-warmth.html)
 - [Gauntlets of Ogre Power](https://roll20.net/compendium/dnd5e/Gauntlets%20of%20Ogre%20Power#content)
-
----
-
-#### History & Personality
-
-Ruthless, relentless, bloodthirsty, and unpredictable.  Imagine if Sabertooth and Harley Quinn had a child.  Physical appearance (above image) credit to MTG's "Phage the Untouchable."
-
-Phage tends to bring out the worst in [Digoria]({% post_url 2017-04-23-DND5E-Profile-Digoria %}), specifically, she seems to enable Digoria's bloodlust and *dark side.*  Though their relationship is quite incidious, not unlike Wolverine and Sabertooth, they've worked together in the past as well as had heated battles.
-
-Phage was allegely born from a Vampire Spellcaster and has stated that she was gifted a hearthstone by her mother (a night hag).  At some point, Phage came into allegiance with [Ellion Stryfe]() who, among being powerful and evil, told Phage that her father had sought out [The Master Sword]() in the Kokiri Forest.  However, neither the sword or the vampire could be retrieved and the two pillaged the sacred forest.  This was the first of many rampages and ransackings that Phage conducted for Ellion as well as for her own sadistic satisfaction.
 
 ---
 
@@ -99,7 +87,3 @@ Phage was allegely born from a Vampire Spellcaster and has stated that she was g
 </ul>
 
 ---
-
-#### Additional Credit:
-
-- [Vampire Spawn stats](https://chisaipete.github.io/bestiary/creatures/vampire-spawn))

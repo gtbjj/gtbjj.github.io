@@ -21,6 +21,7 @@ comments: true
 <a href="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es"><img src="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
 
 | **Campaign:** | Pirates of Abbotts Glen |
+| **Stage:**    | 1                       |
 | **Quest:**    | Cave of Wonders         |
 | **DM:**       | Austin                  |
 

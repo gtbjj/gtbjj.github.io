@@ -16,6 +16,7 @@ comments: true
 ---
 
 | **Campaign:** | Pirates of Abbotts Glen |
+| **Stage:**    | 1                       |
 | **Quest:**    | Rainbow in the Dark     |
 | **DM:**       | Austin                  |
 

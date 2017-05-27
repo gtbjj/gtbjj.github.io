@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DND5E - The Mad Manor"
-excerpt: "Pirates of Abbotts Glen, Quest 1"
+title:  "DND5E: The Mad Manor"
+excerpt: "Pirates of Abbotts Glen, Stage 1, Quest 1"
 category:
 - RPG
 tags:
@@ -18,6 +18,7 @@ comments: true
 ---
 
 | **Campaign:**  | Pirates of Abbotts Glen |
+| **Stage:**     | 1                       |
 | **Quest:**     | The Mad Manor           |
 | **DM:**        | Austin                  |
 

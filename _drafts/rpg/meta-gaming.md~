@@ -1,13 +1,14 @@
-#### Ongoing Questions / Unanswered Rumors:
+#### Ongoing Question / Rumors / Hooks:
 
+- Where did Digoria hire Balfador and Alodel to go / do?
 - Tomb of Queen Paragrin (in mines beneath Ogelstein) sealed by magic, never opened
 - Tristram Cathedral had a "fallen star" crash into it, apparently great power, but may evils plauged the area and adventurers eventually gave up task.
 
 #### Balance:
 
-| LG (Link human fam?) | NG (Link)   | CG (Cas)                  |
-| LN (Link elf fam)    | N           | CN (Digoria)              |
-| LE (Jadis, Cain)     | NE (Ellion) | CE (Phage,Lolth,Yeenoghu) |
+| LG (Link human fam?) | NG (Link)   | CG (Cas)         |
+| LN (Link elf fam)    | N           | CN (Digoria)     |
+| LE (Jadis, Cain)     | NE (Ellion) | CE (Phage) |
 
 #### Gear:
 
@@ -70,6 +71,7 @@ Description:  Digoria hired Balfador and Alodel to research how The Entropy Tide
       - success:
       - fail: Ellion appears, kills fortune teller w/ 3 headed flail, hords of gnolls appear and devour cultists (how to get out?)
 - Quest Option 2:  Travel to Caldeum and search / steal information about The Entropy Tide
+  - needed NPCs:  crooked guard, snitch, concelman, snitch
 
 Campaign: "Wrath of Jadis - Jadis is betrayed by Digoria and seeks revenge."
   - Quest 1: ""
@@ -88,7 +90,13 @@ Campaign: "Wrath of Jadis - Jadis is betrayed by Digoria and seeks revenge."
   - or ["Not Quite Dorian Gray" hook](http://dungeonsmaster.com/2014/04/adventure-hooks-necromancy/)
   - Who is powering up Ellion (Lolth?)?
 
-- Eventually Lolth finds out about Ellion, kills him, forms alliance with Yeenoghu to retaliate against Cain 
+- Who built The Entropy Tide?
+  - Cain to search for more powerful souls to feed on?
+  - Ellion was supposed to find a worthy adventurer and take a cut of the souls killed / gathered
+  - Cain is displeased with Ellion's inability to control captains
+  - Ellion pleads that he can get souls for Cain by posing as a preist of Lolth and participating in her culls of the weak
+  - Cain lets him live
+  - Eventually Lolth finds out, kills Ellion, forms alliance with Yeenoghu to retaliate against Cain 
 
 - Cas character development
   - incorporate outsiders (he speaks celestial)

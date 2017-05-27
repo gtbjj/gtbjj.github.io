@@ -21,6 +21,7 @@ comments: true
 ---
 
 | **Campaign:**  | Pirates of Abbotts Glen |
+| **Stage:**     | 1                       |
 | **Quest:**     | Fane of the Drow        |
 | **DM:**        | Ryan                    |
 

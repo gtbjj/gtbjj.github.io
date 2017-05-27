@@ -18,6 +18,7 @@ comments: true
 ---
 
 | **Campaign:** | Pirates of Abbotts Glen | 
+| **Stage:**    | 1                       |
 | **Quest:**    | Shatterhull Island      |
 | **DM:**       | Austin                  |
 
