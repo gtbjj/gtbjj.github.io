@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DND5E - Cave of Wonders"
-excerpt: "Pirates of Abbotts Glen, Quest 2"
+excerpt: "Pirates of Abbotts Glen, Stage 1, Quest 2"
 category:
 - RPG
 tags:
@@ -10,7 +10,7 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
-- pirates of abbotts glen
+- dawn treaders
 - cave of wonders
 - link
 - cas
@@ -18,17 +18,15 @@ tags:
 comments: true
 ---
 
-<a href="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es"><img src="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
-
-| **Campaign:** | Pirates of Abbotts Glen |
-| **Stage:**    | 1                       |
-| **Quest:**    | Cave of Wonders         |
-| **DM:**       | Austin                  |
+| **Campaign:**  Dawn Treaders | **Quest:**  Cave of Wonders | **DM:**  Austin |
 
 ---
 
 Cas and Link travel to a small shire outside of Duncraid after having completed their task in [The Mad Manor of Astabar]({% post_url %}). Just outside 
-the town gates they find a merchant named Phil with whom they decide to do business with in order to gain new equiment (armor and weapons and such).  
+the town gates they find a merchant named Phil with whom they decide to do business with in order to gain new equiment (armor and weapons and such). 
+
+<a href="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es"><img src="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
+
 Phil sells them several pieces of equipment and shows interest in the magic box that Cas and Link have brought from the manor.  Successful charisma 
 application by Link convinces Phil to investigate the box without haggling, stealing, or conning Link and Cas.
 
@@ -93,8 +91,7 @@ woman is indeed in attendance.
 
 The shape of a lion's head takes form and rises from the sand.  The creature's mouth 
 opens and inside, down where it's tongue would be is a wide stair case leading into 
-a seemingly endless and well lit cave.  Immediately the participants rush inside.  
-Many start calmmoring over, diving into, and filling their pockets with the heaping 
+a seemingly endless and well lit cave.  Immediately the participants rush inside.    Many start calmmoring over, diving into, and filling their pockets with the heaping 
 piles of gold pieces.
 
 Greed seems to be getting the better of everyone, including the still somewhat drunk 
@@ -156,43 +153,18 @@ most of the creatures tendrills.  However, it takes a firm hold on Link, whom ul
 able to free himself and is actually the party member to kill off the roper with a mighty 
 leaping swing of his sword.
 
+<a href="https://k60.kn3.net/taringa/C/E/3/5/1/D/YnnurB/C56.jpg"><img src="/images/extra/medusa.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
+In the roper's cave they find a large key that appears to lead to the next level of the dungeon.  There they find a large open arena-like area.  Unwittingly, the group corsses the threshold and a wall rises behind them, sealing off any possible escape route just as a [medusa](https://chisaipete.github.io/bestiary/creatures/medusa).  Fortunately the team has brought the mirror Link found earlier and they are able to notice magical hour glasses painted on the walls which appear to indcate that they have one hour to defeat their foe.
 
-- in the cave
-  - L1: lots of treasure (action count, walking dist)
-    - After 2 turns 
-    - After 3rd turn, STR AC 15 to walk (side rooms are safe) 
-    - After 5 turns to lava (1d4 / turn)
-    - R1 - door unlocked, 2 x Minotaur
-    - R2 - door unlocked, green dragon wyrmling in water under bridge, if defeated, water drains and extinguishes lava floor
-  - L2:
-    - R1 - unlockded, key, unlocks even # rooms (2, 6, 8)*
-    - R2 - locked, trap (spikes at feet, DC 10, 1d4), 1 minor healing potion (1d4+2)*
-    - R3 - spiked walls, (torch walls, DC 13, 1d6)*
-    - R4 - swinging axes, (DC 10, 1d4)*
-    - R5 - locked, contians 4' x 2' (detachable) mirror on wall*
-    - R6 - locked, trap (collapsing celing, DC 16, 3d8, 1/2 on save), treasure*
-    - R7 - locked, 2 x potion of healing (2d4 +2)*
-    - R8 - locked, key to odd # rooms (7, 9)*
-    - R9 - locked,  roper + key to next level
+Link, being charactersitcally timid stays behind, holding the mirror while Cas and Digoria charge into battle.  Fortunately for Cas, the Medusa is distracted and makes several attacks against Digoria's mirror images.  Multiple thunderwaves also help to stun and stall the beast while Cas lands several hearty blows.
 
-- roper attacks after cas finds key
-- woman severs tendrill
-- cas stabs
+Unfortunately, as the medusa weakens it grows more fierce.  Cas's constitution fails and he is truned to stone!  Link rallies and moves into position with the mirror and together with Digoria's might they are able to subdue the medusa -- albeit at the loss of their friend.
 
-  - L3:
-    - medusa, can't see until until in light 
-      - 1 hour from when threshold crossed), perception DC 11 to notice timers
-    - forgot mirror, woman brings
-    - mirror image, turn
-    - cas const save
-    - medusa hits duplicate (2 left)
-    - thunderwave + lightning bolt
-    - cas miss > medusa hits mirror image
-    - magic box fits altar
-    - Genie appears
-      - safe transport no matter what
-      - will grant one wish each, can not come back for one year
-    - Digoria wishes for box to be opened:  inside is ring of water walking and a small map
+Continuing to the far side of the arena, Digoria and Link find an altar that appears to have a space carved out similar to the magic box found in [The Mad Manor]().  When the box is inserted, a powerful [Djinni](https://chisaipete.github.io/bestiary/creatures/djinni) appears from behind the altar.  The Djinni states that he is able to grant the party three wishes that are within the limits of his power.  He also garauntees the safe transport of the party out of the Cave of Wonders.
+
+Link makes the noble decision to have Cas restored from his stone statute state to his prior living form.  Digoria, maintaining her interest in the box found by Link and Cas, wishes for the Djinni to open it.  Inside she finds a [Ring of Water Walking](https://roll20.net/compendium/dnd5e/Ring%20of%20Water%20Walking#content) and a special map that has an eye surronded by a snake eating it's own tail and an arrow that seems to rotate around the map like a compass.  Cas, now restored to life, wishes for the party to be granted "the greatest form of the weapons they currently posess."
+
+After the party is transported safely out of the Cave of Wonders by the Djinni, they inspect their newly awarded equipment.  Whilst they are not yet strong enough (high enough level) to weild the weapons at their mystical potential, respecitve bonds appear to have been forged between each adventurer and their item.  Link now posessing a [Phantom Disaster](https://www.dandwiki.com/wiki/Phantom_Disaster_(5e_Equipment)), Cas, as [Fume Greatsword](https://www.dandwiki.com/wiki/Fume_Greatsword_(5e_Equipment)), and Digoria now realizing that the rapier she has been carrying from Charn has a uniquely [frost bitten](https://www.dandwiki.com/wiki/Frost%27s_Bite_(5e_Equipment)) blade.
 
 <!-- 900 xp total for act -->

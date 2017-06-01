@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Syncing Everything with a Syncthing
-excerpt:
+title: "Featured App: Syncthing"
+excerpt: "Sync everything with a Syncthing"
 category:
 - Linux
-- Backup and Security
 tags:
 - foss
 - arch
 - linux
+- featured app
 - syncthing
+- security
 - backup
 comments: true
 ---

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Mobile Data Copmression Tools (pt.2)
+title: "Mobile Data Copmression Tools (pt.2)"
 exerpt: "Comparing Data Compression Apps - Part 2"
 category:
 - Android
 tags:
 - android
+- featured app
 - mobile
 - data
 - nexus

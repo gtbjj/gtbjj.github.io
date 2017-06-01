@@ -61,30 +61,55 @@ comments: true
 	- Tells him his father was honorary human knighted to the Knights of Hyrule (LG)
 	- Tells him mother was a Hylian Elf (LN), he is not Kokiri at all
 	- Part can ask 3 questions before Deku Tree dies
-		- Q1: Link's purpose is "to save the forrest of course
-		- Q2: Gannondorf not around 
+		- Q1: Link's purpose is "to save the forrest of course"
+		- Q2: Gannondorf not around
 		- Q3: Master sword is in Forest Temple
 		
 - Hyrule
   - Entrance: 4 knights (guards, not aggressive), block Digoria from entering
+    - if brute forced, 1 will join each turn
+    - need to explain selves / why they should enter / what business they have
   - SE Tower: 1 greater healing potion
   - NE Tower: 1 greater healing potion
   - NW Tower: 1 greater healing potion
   - SW Tower: empty
+  
   - Magistrate Chamber (Archmage):
+    - Apprentice Mage (CR6) guard's master's chamber (will fight & call guards if attacked)
+      - Answer 4 riddles or pay off:
+        - What is harder to catch, the faster you run? (your breath, 20 gp)
+        - You can swallow me, but I can consume you too.  What am I? (pride, 50 gp)
+        - I fly when I'm born, lie down when I'm alive and run when I'm dead. What am I? (snowflake, 100 gp)
+        - You are stuck in a metal box with a mirror and a table. How do you get out? (you look in th mirror, see what you saw, take the saw and cut table in half, two halves make a hole, and you climb out of the hole; 150 gp)
+        
+        
 	- History Lesson:
 	  - DC 12: Hylians and Kokiri have long history with Faerie foly, though somtiems spoiled, someother creatures are allowed to live among Kokiri (like Link)
 	  - DC 15: Some races even mated with Faerie folk.  One such hafl-faerie human was once gifted with a box of Atlantian Faerie dust to take back to their homeworld
-	  - DC 18: One of her kin 'went mad' and made rings out of the dust that could transport creatures between realms (2 to - yellow, 2 from - green), sometimes loosing primoridal evils up other worlds
-	- Negoation (doesn't like Digoria):
+	  - DC 18: One of her kin 'went mad' and made rings out of the dust that could transport creatures between realms (2 to - yellow, 2 from - green), sometimes loosing primoridal evils in the process
+	  
+	  
+	- Negoation:
 	  - "Ill temperment" will not be permitted:  If brute forced, or yelling, he will ban from kingdom and not give help
 	  - DC 12: Where are rings: Kokiri Forest, Dry Steppes, unknown, unknown
 	  - DC 15: Who guards them: Suspect Vampire Spellcaster (CR15), Androsphinx (CR17) + Mummy Lord (CR16), Solar (CR12), unknown (cas history?)
 	  - DC 18: How to open temple:
-  - Assorted Village buildings / homes: 2nd troll will attack
-  - Troll will attack after talking to magistrate
-    - if 1 troll: magistrate / army refuse to help, blame party for bringing them from forest
-    - if 2 trolls:  4 knights will help
+	- While talking to Archmage
+	  - DC 18 to notice shaking walls at 3rd turn, 2 less / turn
+	    - DC 16, DC 14, DC 12, DC 10
+	  - if players beligerent, archmage will imprison
+	  - after 3 turns servant tells arcmage several younglings have been slaughtered and half the guards are missing
+	  - trolls attack on next turn
+	  - archmage wants to imprison (DC 18 CHA to save), hole to prison
+      - mage is missing from lobby (DC 12 to notice), trap door (DC 15)
+    - Investigate Mage:
+      - hidden door to sewers, warlock lair
+      - find apprentice experimented on, but alive (monster?)
+      - find guard dead bodies, (half of those missing)
+    - Investigate Deaths:
+      - Digs followed mage, fight, Digs went ape shit, several surges of wild magic killed younglings
+      - trying to fight evil knights, but rampage cause massive civilian casualties
+  - Assorted Village buildings / homes: 2nd troll if enter w/o permission
 
 #### Story
 
@@ -103,6 +128,27 @@ comments: true
 - kill 2 werewolves
 - short rest
 
+While Digoria Away:
+- fights warlock (mage)
+- W - cone of cold sneak attack
+- D - surge, crit BB + second wind
+- W - tries to escame with Misty Step, booming energy kills, not warlock
+- W (mage armor, invisibility) - hits d w/ magic missile
+- D - mirror image + haste
+- W - firebolt (miss)
+- D - boom (miss) + COD
+- W - Fireball (hits, dex saved), shield reaction
+- D - COD + BB (miss) + great hit, but counterspelled
+- W - cone of cold (miss)
+- D - bb hit (shield) + bb crit (counterspelled)
+- W - ice storm
+- D - COD + BB > impaled, but not before misty step
+- minacle laughing
+  - knights start coming to life
+  - Digoria downs a potion and runs towards other end of tunnel
+  - close to death, several chain lightnings surge from wild magic and kill a few guards, but several nearby children as well
+  - as she gets more beaten, she becomes more destructive and wreckless killing more innocent towns people in the mayhem
+- Warlock:  has cone of cold and detect magic + cantrips
 
 ---
 
@@ -125,5 +171,16 @@ doppelganger + green hag = 1400 / 2100 adj
 zora saphire (blue, spiritual stone 1)
 3gp ea
 gorron's ruby (red, spiritual stone 2)
-Kokir emerald (green, spiritual stone 3)
+Kokiri emerald (green, spiritual stone 3)
+
+2 hours in Ensteing (900 x c/l)
+mage (2300 d)
+
+cas has apprentice ring
+
+2 knights (c/l) = 1400 / 2800 adj
+2 knights (c/d/l) = 1400 / 2100 adj
+troll (c/d/l/knight) = 1800 / 4
+3 hours
+
 -->

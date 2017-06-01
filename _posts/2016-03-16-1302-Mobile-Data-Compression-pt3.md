@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Mobilie Data Compression Tools (pt. 3)
+title: "Mobilie Data Compression Tools (pt. 3)"
 excerpt: "Comparing Mobile Data Compression Apps - Part 3"
 category:
 - Android
 tags:
 - android
+- featured app
 - mobile
 - data
 - compression

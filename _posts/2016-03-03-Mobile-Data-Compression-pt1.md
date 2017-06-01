@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Mobile Data Compression Tools pt. 1
+title: "Mobile Data Compression Tools pt. 1"
 exerpt: "Comparing android mobile data compression apps, 
 part one."
 category: Android
 tags:
 - android
+- featured app
 - nexus
 - nexus 6p
 - moblie

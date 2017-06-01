@@ -17,7 +17,7 @@ comments: true
  
 **Medium half-elf, Lawful neutral**
 
-**Armor Class** 12 (15 iwth mage armor)
+**Armor Class** 12 (15 with mage armor)
 
 **Hit Points** 99
 

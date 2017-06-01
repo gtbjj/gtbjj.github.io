@@ -69,15 +69,15 @@ comments: true
 
 #### Personality & History
 
-Ellion tends to be generally stoic and removed, so long as he knows that he is clearly in control or stronger than his opponent.  When he is out class he tends to reduce to a snivelling though, his charisma and clever survival tact have gotten him out of many sticky situations and ensured his old age and enduring sruvival.
+Ellion tends to be generally stoic and removed, so long as he knows that he is clearly in control or stronger than his opponent.  When he is out classed he tends to reduce to a snivelling welp though, his charisma and clever survival tact have gotten him out of many sticky situations and ensured his old age and enduring sruvival.
 
 Initially a [drow mage](https://chisaipete.github.io/bestiary/creatures/drow-mage), Ellion occupied the middle eastern territories, where the moutains meet the desert, of his world.  At a relatively young age he discovered [The Entropy Tide]({% post_url 2017-05-20-DND5E-Homebrew-Entropy-Tide %}), and began researching its potential.
 
-On his quest for power, he made an alliance with [Cain the Necromancer](https://www.dandwiki.com/wiki/Cain_the_Necromancer_(3.5e_Deity)), agreeing to find a mage worthy of captaining the ship and allowing travel to other worlds and realms for Cain to claim souls on.   When Ellion was not able to *retain proper command* of the ship's captain, Cain threatened to consume him.
+On his quest for power, he made an alliance with [Cain the Necromancer](https://www.dandwiki.com/wiki/Cain_the_Necromancer_(3.5e_Deity)), agreeing to find a mage worthy of captaining the ship and allowing travel to other worlds and realms for Cain to claim souls on.   When Ellion was not able to *retain proper command* of the ship's captain, Cain threatened to consume him as well.
 
-However, Ellion hatched a plan to use his drow heritage to infiltrate the ranks of Priesthood of [Lolth](http://forgottenrealms.wikia.com/wiki/Lolth).  Her frequent *culls of the weak* would make excellent sacrifices to Cain -- or so said Ellion.  Cain agreed to let him live.
+However, Ellion hatched a plan to use his drow heritage to infiltrate the ranks of a Priesthood of [Lolth](http://forgottenrealms.wikia.com/wiki/Lolth).  Her frequent *culls of the weak* would make excellent sacrifices to Cain -- or so said Ellion.  Cain agreed to let him live.
 
-Can became one of the rare males to obtain preisthood among Lolth's ranks.
+Ellion became one of the rare males to obtain preisthood among Lolth's ranks.
 
 ---
 
