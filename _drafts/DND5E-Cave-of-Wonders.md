@@ -10,6 +10,7 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
+- tabletopthursday
 - dawn treaders
 - cave of wonders
 - link
@@ -22,8 +23,9 @@ comments: true
 
 ---
 
-Cas and Link travel to a small shire outside of Duncraid after having completed their task in [The Mad Manor of Astabar]({% post_url %}). Just outside 
-the town gates they find a merchant named Phil with whom they decide to do business with in order to gain new equiment (armor and weapons and such). 
+Cas and Link travel to a small shire outside of Duncraid after having completed their 
+task in [The Mad Manor of Astabar]({{ site.baseurl }}){% post_url 
+2017-06-01-DND5E-Mad-Manor %}. Just outside the town gates they find a merchant named Phil with whom they decide to do business with in order to gain new equiment (armor and weapons and such). 
 
 <a href="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es"><img src="http://vignette2.wikia.nocookie.net/disney/images/5/5b/Filoctetes.png/revision/latest?cb=20140801195751&path-prefix=es" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
 

@@ -10,6 +10,7 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
+- tabletopthursday
 - dawn treaders
 - mad manor
 - cas
@@ -23,13 +24,11 @@ comments: true
 
 <a href="https://app.roll20.net/lfg/listing/61409/the-mad-manor-of-astabar-1-shot"><img src="https://s3.amazonaws.com/files.d20.io/images/25060040/jGQal1OYc8xVPtKePelbaQ/med.jpg?1478616474797" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
-A young fighter adventurer, named [Cas](https://drive.google.com/file/d/0B3L-FHD8lwfVdTBzblJXTU1RSnc/view?usp=sharing)
-Finds himself outside T[he Mad Manor of Astabar](http://watermark.rpgnow.com/pdf_previews/138937-sample.pdf).  He wakes not quite
-sure of where he's at and feels amnesiac.  However, recalls having ventured fromt he nearby town to investigate the manor.
+A young fighter adventurer, named [Cas](https://drive.google.com/file/d/0B3L-FHD8lwfVdTBzblJXTU1RSnc/view?usp=sharing) finds himself outside [The Mad Manor of Astabar](http://watermark.rpgnow.com/pdf_previews/138937-sample.pdf).  He wakes not quite
+sure of where he's at and feels amnesiac.  However, recalls having ventured from the nearby town to investigate the manor.
 
 His memory clears a bit and he recalls that the mansion was once owned by a powerful sorcerer who allegedly died trying to harness 
-some sort of alchemical power.  Many adventurers have dies trying to cease the spirits that haunt the mansion, including one poltergeist 
-and the sorcerpers imp familiar.
+some sort of alchemical power.  Many adventurers have dies trying to cease the spirits that haunt the mansion, including one poltergeist and the sorcerpers imp familiar.
 
 Navigating a volley of traps and trickery, Cas is able to discern that the dinner table in the dining room of the mansion had eight 
 skeletons (each without their head) sitting at the table.  He finds many creatures in the mansion, mostly giant beasts, and is 
@@ -63,6 +62,9 @@ something like that is of value.  The two adventurers congratulate themselves an
 
 ---
 
-**Quest Reference:**  [Roll20 Link](https://app.roll20.net/lfg/listing/61409/the-mad-manor-of-astabar-1-shot)
+**Notes:**
+
+- [Published Quest PDF](http://watermark.rpgnow.com/pdf_previews/138937-sample.pdf)
+- In this campaign, Astabar is the name of the wizard who owned the manor, not the name of the town.
 
 ---

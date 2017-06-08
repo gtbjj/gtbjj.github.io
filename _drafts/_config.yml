@@ -1,0 +1,71 @@
+# Site wide configuration
+
+title: "> rock(code) _"
+locale: en_US
+description: "rockandcode.ga (blog) | Musing about and documenting the things I do for fun:  Android, Linux, RPGs, and Rock Climbing."
+logo: site-logo.png
+search: true
+#url: https://gtbjj.github.io
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Austin Haedicke
+  avatar: bio-photo.jpg
+  email: austin.haedicke@gmail.com
+  disqus-shortname: archnfoss
+  twitter: #username
+  facebook: #username
+  github: gtbjj #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: savagezen #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: Austin Haedicke #username
+    analytics: 'UA-63934221-2'
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

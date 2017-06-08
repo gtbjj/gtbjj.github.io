@@ -2,6 +2,22 @@
 
 - Tomb of Queen Paragrin (in mines beneath Ogelstein) sealed by magic, never opened
 - Tristram Cathedral had a "fallen star" crash into it, apparently great power, but may evils plauged the area and adventurers eventually gave up task.
+- Master Sword
+  - Location: Kokiri Forrest
+  - Guardian: Magic Fire > Magic Sealed Temple > Vampire Spellcaster
+- Atlantian Faerie Rings
+  - Ring 1:
+    - Location: Kokiri Forrest (suspected)
+    - Guardian: Vampire Spellcaster, CR15 (suspected)
+  - Ring 2:
+    - Location: Lut Gholein
+    - Guardian: Androsphinx, CR17 + Mummy Lord, CR16
+  - Ring 3:
+    - Location: Unknown (Caldeum?)
+    - Guardian: Solar, CR21
+  - Ring 4:
+    - Location: unknown (Tristram?)
+    - Guardian: unknown (Lich? CR21)
 
 #### Balance:
 
@@ -11,14 +27,19 @@
 
 #### Permanent Gear:
 
-|                    | Digoria (8)      | Cas (5)        | Link (5)      |
-| ------------------ | ---------------- | -------------- | ------------- |
-| Uncommon (lvl 4)   | **yes**          | no             | **yes**       |
-| Uncommon (lvl 7)   | **yes**          | no             | no            |
-| Rare (lvl 10)      | no               | no             | no            |
-| Rare (lvl 14)      | no               | no             | no            |
-| Very Rare (lvl 16) | no               | no             | no            |
-| Legendary (lvl 20) | **inactive**     | **inactive**   | **inactive**  |
+|                    | Digoria (9)  | Cas (6)      | Link (6)     |
+| ------------------ | ------------ | ------------ | ------------ |
+| Uncommon (lvl 4)   | **yes**      | **yes**      | **yes**      |
+| Uncommon (lvl 7)   | **yes**      | **yes**      | **yes**      |
+| Rare (lvl 10)      | **yes**      | no           | no           |
+| Rare (lvl 14)      | no           | no           | no           |
+| Very Rare (lvl 16) | no           | no           | no           |
+| Legendary (lvl 20) | **inactive** | **inactive** | **inactive** |
+
+- Future:
+  - Link: ? (R), ? (R), "Master Sword" (sword of champions, VR)
+  - Cas:  Armor (R), , ? (R), ?(VR)
+  - Digoria: ? (R), ? (VR)
 
 #### Campaigns:
 
@@ -29,10 +50,6 @@
   - Fane of the Drow
   - Link to the Past (1,2,3)
   - Rainbow in the Dark
-- Vampire Spellcaster (CR15) / Ring 1
-- Unknown (Ellion / Priestess) / Ring 2
-- Androsphinx (CR17) + Mummy Lord (CR16) / Ring 3
-- Solar (CR21) / Ring 4
 - Wrath of Jadis
   - silver / white dragon
   - storm giant
@@ -51,7 +68,7 @@
   - "you deny your weapon its purpose"
   - "you have one fundamental flaw.  deep down inside, you're a good person.  deep down inside, I'm not."
 
-#### Quest / Campaign Titles:
+#### Quest Titles:
 
 - Superunknown
 - Telephantasm

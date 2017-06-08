@@ -30,7 +30,7 @@ comments: true
 
 **Skills** Arcana +13, History +13, Damage Resistance from spells, nonmagical bludeoning, piercing, and slashing (from stoneskin)
 
-**Senses* passive Perception 12
+**Senses** passive Perception 12
 
 **Languages** any 6
 

@@ -17,6 +17,10 @@ tags:
 comments: true
 ---
 
+~~~
+Preface:  This post was drafted last winter, when I was training hard for maximum strength.  However, the season passed before I published.  So, it's waiting for the next 'try hard' season to be more relevant to readers.
+~~~
+
 This post gleans it's inspiration again from Kris Hampton's Power Company Climbing blog / podcasts; this time related to [limit 
 bouldering](http://www.powercompanyclimbing.com/blog/2016/9/5/video-a-more-in-depth-look-at-limit-bouldering).  The video is short compraed to 
 his podcasts, but there is a tone of great information in there that you may or may not have thought about before.

@@ -33,11 +33,13 @@ comments: true
 
 **Skills** Acrobatics +5, Perception +2, Steath +5
 
+**Damage Resistances** necrotic, bluedoning, piercing, and slashing from non-magical attacks
+
 **Senses** darkvision 60 ft., passice Perception 13
 
 **Languages** common, elvish, drow sign
 
-**Challenge** 6 (2,300 XP)
+**Challenge** 7 (2,900 XP)
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | 19 (+4) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
@@ -50,7 +52,7 @@ comments: true
 
 ***Vampire Weakness.*** The vampire has the following flaws: Forbiddance. The vampire can’t enter a residence without an invitation from one of the occupants. Harmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water. Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place. Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-***Hearthstone Escape.*** Phage's mother was a night hag and gave her a hearthstone.  Roll 1d10, if odd Phage disappears into etherreal vapor, if odd the ability fails.  This ability automatically succeeds if Phage is below 10 HP.
+***Etherealness:***  Phage magically enters the Ehtereal Plan from the Material Plane, or vice versa.  To do so, she must have a heartstone in her posession.  (This was given to her by her mother, a night hag.)
 
 **Actions**
 
@@ -102,4 +104,4 @@ Phage was allegely born from a Vampire Spellcaster and has stated that she was g
 
 #### Additional Credit:
 
-- [Vampire Spawn stats](https://chisaipete.github.io/bestiary/creatures/vampire-spawn))
+- [Vampire Spawn stats](https://chisaipete.github.io/bestiary/creatures/vampire-spawn)

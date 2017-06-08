@@ -150,33 +150,39 @@ While Digoria Away:
   - as she gets more beaten, she becomes more destructive and wreckless killing more innocent towns people in the mayhem
 - Warlock:  has cone of cold and detect magic + cantrips
 
+- cas lobbies for digoira
+- link conflicted, should not kill kids, vampire comment
+- link temper tantrums
+- timeout
+- cas get swag
+- link is  pissy, but gets gift after archmage tells him he has no sympathy for his "excuses" of temper
+
+
 ---
 
 Rewards:
 - Gear:
-  - Link: Ring of Bravery, 1 UC
-  - Cas: Silver Gauntlets (uncommon power gloves), 1 UC
-  - Digoria: (check w/ team) stiff her on loot for being demon-ish, will trade boots for Bracers of Defence for 1d100 gold
+  - Link: Ring of the Courageous Lion (UC)
+  - Cas: Silver Gauntlets (uncommon power gloves, UC), Ring of Bravery (UC)
+  - Digoria: bracers of haste (R)
+- Team:
+  - 19 gp
+  - cas - apprentice ring
 
 Bonuses:
 - Asky why we need the ship if we have the rings (100 xp)
 
 <!--
 4 x gnoll + gnoll pack lord = 850 / 1700 adj ea
-11 gp each
 mimic = 450 ea
-5gp 
 2 x werewolves = 1400 / 2100 adj ea
 doppelganger + green hag = 1400 / 2100 adj
 zora saphire (blue, spiritual stone 1)
-3gp ea
 gorron's ruby (red, spiritual stone 2)
 Kokiri emerald (green, spiritual stone 3)
 
 2 hours in Ensteing (900 x c/l)
 mage (2300 d)
-
-cas has apprentice ring
 
 2 knights (c/l) = 1400 / 2800 adj
 2 knights (c/d/l) = 1400 / 2100 adj
