@@ -70,7 +70,7 @@
 
 #### Quest Titles:
 
-- Superunknown
+- Rainbow in the Dark
 - Telephantasm
 - King Animal
 - Reaper of Souls

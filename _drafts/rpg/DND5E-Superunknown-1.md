@@ -1,0 +1,76 @@
+---
+layout: post
+title: "DND5E: Superunknown, I"
+excerpt: "Dawn Treaders Campaign, Quest 5.1"
+category:
+- RPG
+tags:
+- d&d
+- 5e
+- dungeons and dragons
+- quest log
+- dawn treaders
+- rainbow in the dark
+- digoria
+- cas
+- link
+comments: true
+---
+
+| **Campaign:** Dawn Treaders | **Quest:** Superunknown, 1 | **DM:** Austin |
+
+---
+
+- Rewards
+    - 3 hours roleplaying (C/D/L)
+    - 2 hours roleplaying (C/D)
+	- Traps = 400 - 1300 pending survival / disarm
+	- 2 wight (CR 3) + quaggoth thonot (CR 3) = 2100 / 4200
+	- 1-2 Rage Drage = 1800 / 3600
+	- Phage (CR 7) = 2900
+	- Oni (CR 7) = 2900
+	- Stone Giant (CR 7) = 2900
+
+---
+
+#### Preface
+  - arguing about forrest, link wants to give digoria sympathy
+  - cas hunting and being a lunk head
+  - digoria is evasive and shifts, says she needs help killing houls
+  - go to town and see black smith (Charles), agrees to sends messenger to find out about agumenting magic items
+  - peasent stops Link from going to Catherdral after saying it's hautned by a Lich
+  - Cas trades / pays rapier for schimitar
+  
+- dwarf blacksmith (charles) can craft / augment magic items
+  - can he augment / price for magic items
+- merchant (female) 
+  - simple melee weapons and simple armor
+- merchant (female) 
+  - potions, scrolls, gems
+- hedrig (bartender) + wife (nighthag in kitchen transforms if hedrig harassed)
+- bar + 3 wisemen (Dec, Kard, and Cain)
+  - INT DC 10, confirm lich in cathedral
+  - INT DC 15, tell about library
+    - puzzle to get in 
+  - INT DC 20, tal rasha
+  - several "help wanted adds" 
+- down time
+  - Carousing (dmg128)
+  - new merchant wanting to buy gems
+  - Rumors (village 2d6, city 6d6 to sew)
+  - CHA DC 15 + 1 gp / day
+  - Professions / jobs
+    - Digoria:  help wise men study magic wards (discover, great mage, Tal Rasha of Lut Gholein tried to bond with a a demon lord to keep it from the world and was sealed in tomb. His cloak providing warding, but other treasures may have been sealed with him)
+    - Cas:  work with charles to separate fume sword and learn blacksmitthing; charles thinks he looks familiar has seen on trade routes (rewarded with onyx gemstone worth 50gp, rumor that Lich that huants cathedral was trapped there after traveling from another world)
+    - Link: work at stable outside of town - attacked by 2 ghasts, kill farmer, awakens at night
+    - dead horse, canabal, ghasts, guards, plan, lolth , full moon, homage, cas, faux priest or something
+    
+BLACKSMITH NEWS:  Corros can craft magic weapons or help Charles.  Cost $1000 gp.
+
+- buy potions before leaving town (greater potion of healing 4d4 +4, 50gp)
+- cas sells gem for 50 gp, cas and digoria buy 1 potion
+- studded celtic battle armor (charles, 25 gp, AC 14 + DEX)
+
+- cas and digs find hag coven summoning hezrou while link sleeps off hangover
+digoria 62 hp, cas 29 hp vs. hezrou
+

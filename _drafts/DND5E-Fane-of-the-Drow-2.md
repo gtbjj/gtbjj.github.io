@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DND5E: Fane of the Drow"
-exerpt: "Dawn Treaders Campaign, Quest 3"
+exerpt: "Dawn Treaders Campaign, Quest 4.2"
 category:
 - RPG
 tags:

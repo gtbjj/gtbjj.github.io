@@ -1,30 +1,42 @@
+---
+layout: post
+title: "DND5E: Superunknown, III"
+excerpt: "Dawn Treaders Campaign, Quest 5.3"
+category:
+- RPG
+tags:
+- d&d
+- 5e
+- dungeons and dragons
+- quest log
+- dawn treaders
+- rainbow in the dark
+- digoria
+- cas
+- link
+comments: true
+---
+
+| **Campaign:** Dawn Treaders | **Quest:** Superunknown, 3 | **DM:** Austin |
+
+---
+
 #### Battle with Ellion
 
-Location / Objective 1:  Phage
-- Room 1:
-- Room 2:
-- Room 3:
-- Room 4:
-- Room 5:
+Tristram:
 
-Location / Objective 2:
-- Room 1:
-- Room 2:
-- Room 3:
-- Room 4:
-- Room 5:
-
-Location / Objective 3:
-- Room 1:
-- Room 2:
-- Room 3:
-- Room 4:
-- Room 5:
+Castle:
 
 Battle Royale:
-- Room 1:
+- Room 1:  Recoup in a town, try to find whereabouts of Ellion
+  - research opportunity for Cas (past), Digoria (Tal Rasha), Link (parents)
+  - senate can't be seen (dc 20 for guards to let pass)
 - Room 2:
+  - after a couple days messenger brings a puzzle box (dc 15 top open)
+    - contents?
+  - rumors that a Flind has been seen in snooping around the dessert hills
 - Room 3:
+  - guards are slain in morning, blood arrow pointing to desserd and one word, "dawn"
 - Room 4:
   - Open dessert plane
   - 100 Ghouls + Drow Priest(ess) of Lolth
@@ -43,17 +55,16 @@ Battle Royale:
   - Speaks in commone:  "knows of Ellion's betrayal to her and his loyalty to the necromancer, Cain."
   - Found out from Yeenoghu (presides over, not just gnolls, but ghouls as well)
   - makes him impale himself, then grabs face and withers him away to ethereal nothingness
-  - takes ring (shining with power) from his remains
   - Cain appears, ready to fight Lolth with an undead army
   - Yeenoghu appears ripping through ghouls, ghast, and undead, and is on Lolth's side
   - Cain initially tries to fight, but is outgunned and casts massive darkness spell to escape
 - Room 5:
   - fight way out through X monsters (x = however many ghouls left; 1/2 ghouls, 1/2 gnolls)
-  - Return to Ensteig?  Fight Archmage?
+  - Return to Ensteig
 
-Location / Objective 5:
-- Room 1:
-- Room 2:
-- Room 3:
-- Room 4:
-- Room 5:
+Location / Objective 5: Corros
+- Says crew has failed and will not help them further, ill temper showing
+- Cha 15 can persuade corros to enter a duel
+- assassin (CR 8) will attack Corros if you can get him to 50 hp
+  - can be interrogated (dc 15), Yeenoghu sent
+- a second joins assassin if Corros < 25 hp

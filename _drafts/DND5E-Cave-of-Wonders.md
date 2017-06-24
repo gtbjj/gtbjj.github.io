@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DND5E - Cave of Wonders"
-excerpt: "Pirates of Abbotts Glen, Stage 1, Quest 2"
+excerpt: "Dawn Treaders Campaign, Quest 2"
 category:
 - RPG
 tags:

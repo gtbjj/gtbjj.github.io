@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DND5E: Link to the Past"
-excerpt:  "Pirates of Abbotts Glen, Quest 4"
+title: "DND5E: Link to the Past I"
+excerpt:  "Dawn Treaders Campaign, Quest 4.1"
 category:
 - RPG
 tags:
@@ -9,16 +9,16 @@ tags:
 - 5e
 - dungeons and dragons
 - quest log
-- pirates of abbotts glenn
+- dawn treaders
+- tabletopthursday
 - link to the past
 - link
+- cas
+- digoria
 comments: true
 ---
 
-| **Campaign:**  | Pirates of Abbotts Glen |
-| **Stage:**     | 1                       |
-| **Objective:** | Link to the Past        |
-| **DM:**        | Austin                  |
+| **Campaign:**  Dawn Treaders | **Quest:** Link to the Past, 1 | **DM:** Austin |
 
 ---
 

@@ -102,6 +102,45 @@ Phage was allegely born from a Vampire Spellcaster and has stated that she was g
 
 ---
 
-#### Additional Credit:
+#### Other Versions:
 
-- [Vampire Spawn stats](https://chisaipete.github.io/bestiary/creatures/vampire-spawn)
+- [Vampire Spawn](https://chisaipete.github.io/bestiary/creatures/vampire-spawn), CR 5 (1,800 XP)
+
+<!--
+Future (from Night Mother vampire variant):
+- CR 10
+  - 112 HP
+  - Spellcasting (CHA 15, +4 to hit)
+  - Cantrips (at will): Blade Ward
+- CR 12
+  - 127 HP
+  - Spellcasting (CHA 16)
+  - +8 to physical hit, +5 to spells
+  - Cantrips (at will): Blade Ward
+  - 1st level spells (2): Sheild
+  - 2nd level spells (1): Darkness
+- CR 15
+  - 142 HP
+  - Spellcasting (CHA 16)
+  - +8 to physical hit, +5 to spells
+  - Cantrips (at will): Blade Ward
+  - 1st level spells (3): Sheild
+  - 2nd level spells (2): Darkness
+  - 3rd level spells (1): Haste
+- CR 16
+  - 157 HP
+  - Spellcasting (CHA 16)
+  - +8 to physical hit, +5 to spells
+  - Cantrips (at will): Blade Ward
+  - 1st level spells (3): Sheild
+  - 2nd level spells (2): Darkness
+  - 3rd level spells (2): Haste
+- CR 17+?
+  - 175 HP
+  - Spellcasting (CHA 17)
+  - +11 to physical hit, +8 to spells
+  - Cantrips (at will): Blade Ward
+  - 1st level spells (4): Sheild
+  - 2nd level spells (3): Darkness, Hold Person
+  - 3rd level spells (2): Haste, Counterspell
+-->
