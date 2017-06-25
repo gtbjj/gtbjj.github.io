@@ -49,7 +49,7 @@ she comes to it's source, the more the entire room appears to brighten.  It also
 to have grown several times larger.  A figure begins to take from whilst the light as now 
 at a near blinding intensity. It is a wraith!
 
-<a href="https://farm3.staticflickr.com/2681/4307316354_48aff18d0b.jpg"><img src="/images/extra/wraith.jpg" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
+<a href="https://farm3.staticflickr.com/2681/4307316354_48aff18d0b.jpg"><img src="/images/dnd/wraith.jpg" style="max-width: 20%; height: auto; float: right; margin: 5px"></a>
 
 As Digoria is a bit stunned by the monster's appearance, Giddeon errupts from the background 
 to knock back the creature!  A fierce duel of sorcery and wizardry ensuse.  There are shadows, 
@@ -126,7 +126,7 @@ you ever wondered if I've become stronger than you?"
 Giddeon:  (with a growing smirk)  No... I have not...
 ~~~
 
-<a href="http://www.esosorcerer.com/wp-content/uploads/2014/01/sorcerer-skill-ine-1024x576.jpg"><img src="/images/extra/digoria_vs_giddeon.jpg" style="max-width: 50%; height: auto; float: right; margin: 5px"></a>
+<a href="http://www.esosorcerer.com/wp-content/uploads/2014/01/sorcerer-skill-ine-1024x576.jpg"><img src="/images/dnd/digoria_vs_giddeon.jpg" style="max-width: 50%; height: auto; float: right; margin: 5px"></a>
 
 A battle so violent ensuse that the griffon fleas the area and Check takes
 safety amid the rafters.  Stone melts from the intesity of Giddeon's attacks 
@@ -155,7 +155,7 @@ Arthur against back wall of the room and renders him unconscious.  The room is g
 colder!  In fact, it's now... snowing?  The cold and the snow seem to be coming 
 from the other side of the portal, wher the figure is standing but has not crossed yet.
 
-<a href="http://images2.fanpop.com/images/quiz/177000/177742_1238626703500_500_206.jpg"><img src="/images/extra/jadis.jpg" style="max-width: 50%; height: auto; float: right; margin: 5px"></a>
+<a href="http://images2.fanpop.com/images/quiz/177000/177742_1238626703500_500_206.jpg"><img src="/images/dnd/jadis.jpg" style="max-width: 50%; height: auto; float: right; margin: 5px"></a>
 
 The figure fires a mighty beam of energy that critically hits Arthur.  There is enormous explosion 
 of energy.  Arthur... and his body... appear to have been incinerated by the blast.  But, the figure 

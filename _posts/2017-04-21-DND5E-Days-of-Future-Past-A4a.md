@@ -39,7 +39,7 @@ wall as his partner.  The young knight, appearing foolhardy as he is noble and b
 voice.  Nevertheless, he (Marin Westlake) invites Digoria to stay at the inn where there are apparently a number of other adventurers and warrirors gather.  He
 says that they're gathered to contest for apprenticeship of a famed wizard who is rumored to be passing through the town tomorrow.
 
-<a href="http://geekandsundry.com/wp-content/uploads/2017/02/04_PRODUCT-INFO_Fiction_eBooks_InlineR_140612-e1487614722301.jpg"><img src="/images/extra/arthur.jpg" style="max-width: 40%; height: auto; margin: 5px; float: right"></a>
+<a href="http://geekandsundry.com/wp-content/uploads/2017/02/04_PRODUCT-INFO_Fiction_eBooks_InlineR_140612-e1487614722301.jpg"><img src="/images/dnd/arthur.jpg" style="max-width: 40%; height: auto; margin: 5px; float: right"></a>
 
 While tensions and anticipation are high, everyone rest deeply and peacefully for the night.  At daylight, the town is filled with hustle and bustle.  The
 rumors were true.  Arthur Bertreph had come to seek an apprentice.  Four adventurers gather:  Digoria, Marin (the knight), Vega Inan (an elvish assassin),
@@ -52,7 +52,7 @@ After much searching, the setting sun casts a strange hue in the sky and the air
 dogs spot the dueo and start to close the distance.  Vega, an arrogant pretty boy, but fierce veteran) chargest towards them, but not before Digoria casts
 a witch bolt.  Digoria is able to continuously shock one dog continuously while Vega kills the other.  A final surge for Digoria finishes off the second.
 
-<a href="https://s-media-cache-ak0.pinimg.com/originals/9f/d3/8e/9fd38ef36e73db285104be3ee2de73b8.png"><img src="/images/extra/vega.png" style="float: left; max-width: 25%; height: auto; margin: 5px"></a>
+<a href="https://s-media-cache-ak0.pinimg.com/originals/9f/d3/8e/9fd38ef36e73db285104be3ee2de73b8.png"><img src="/images/dnd/vega.png" style="float: left; max-width: 25%; height: auto; margin: 5px"></a>
 
 Vega and Digoria come to a lookout cliff over the sea and Digoria takes a moment to revel inthe strange looking size and "burnt-purple" shade of the clouds in 
 front of the sun and the wet-greenz haze rising from the jungle.  She loses herself in comtemplative thought for a moment.  Then, a white owl swoops down from
@@ -71,7 +71,7 @@ in search of feathers, heley and Marin were sent south to the marshes to retriev
 wounds were answer enough.  Arthur senses some sort of evil presence and suggests something is awry with one of the would be apprentices or that their motives
 are suspect.
 
-<a href="https://s-media-cache-ak0.pinimg.com/originals/9f/d3/8e/9fd38ef36e73db285104be3ee2de73b8.png"><img src="/images/extra/heley.jpg" style="float: left; max-width: 25%; height: auto; margin: 5px"></a>
+<a href="https://s-media-cache-ak0.pinimg.com/originals/9f/d3/8e/9fd38ef36e73db285104be3ee2de73b8.png"><img src="/images/dnd/heley.jpg" style="float: left; max-width: 25%; height: auto; margin: 5px"></a>
 
 Marin loses his temper and storms out of the Inn.  Heley casually follows him.  Arthur notices the shrunken skull and feathers mising and uses a sly Mage Hand
 to lift and return them from Heley's pocket without her noticing.  Arthur then asks Digoria to follow him outside while he confronts Heley.  heley appears to

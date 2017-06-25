@@ -17,7 +17,7 @@ comments: true
 
 #### Preface:
 
-<a href="http://de.narnia.wikia.com/wiki/Datei:Jadis_9.jpg"><img src="/images/extra/Jadis_2.jpg" style="max-width: 50%; height: auto; float: right; margin: 5px"></a>
+<a href="http://de.narnia.wikia.com/wiki/Datei:Jadis_9.jpg"><img src="/images/dnd/Jadis_2.jpg" style="max-width: 50%; height: auto; float: right; margin: 5px"></a>
 
 ~ 10 years before presents day
 
@@ -159,7 +159,7 @@ worlds, but no where near the power to bring myself into corpreal form
 ... yet.
 ~~~
 
-<a href="https://imgur.com/xqtvk8q"><img src="/images/extra/digoria-training-with-jadis.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
+<a href="https://imgur.com/xqtvk8q"><img src="/images/dnd/digoria-training-with-jadis.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
 Jadis also explains that once upon a time dragons used to exist in Charn.  
 This would be the training tool for Digoira.  Jadis presents Digoria 
@@ -190,7 +190,7 @@ than normal weapons of it's size and dexterity.  It was not until many
 years later, with the help of a Djinn back in her home world that Digoria 
 was able to identify the weapon's concealed nature.  
 
-<a href="http://img03.deviantart.net/6a96/i/2013/340/4/6/white_dragon_by_deskridge-d6wy6cj.jpg"><img src="/images/extra/whitedragon-young.jpg" style="max-width: 100%; height: auto"></a>
+<a href="http://img03.deviantart.net/6a96/i/2013/340/4/6/white_dragon_by_deskridge-d6wy6cj.jpg"><img src="/images/dnd/whitedragon-young.jpg" style="max-width: 100%; height: auto"></a>
 
 Nevertheless, the training continued with these tools and Digoria's skills 
 grew both in terms of her magic use and proficiency with a blade.  Indeed, 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND5E: Corros Davoria, Archmage of Ensteig"
+title: "DND5E: Corros Davoria, Archmage of Entsteig"
 excerpt: "NPC"
 category:
 - RPG
@@ -13,7 +13,7 @@ tags:
 comments: true
 ---
 
-<a href="https://s-media-cache-ak0.pinimg.com/564x/fc/8a/01/fc8a01af1b24944fdaa48143bb0b6e57.jpg"><img src="/images/extra/corros.jpg" style="max-width: 30%; height: auto; float: right; margin:5px"></a>
+<a href="https://s-media-cache-ak0.pinimg.com/564x/fc/8a/01/fc8a01af1b24944fdaa48143bb0b6e57.jpg"><img src="/images/dnd/corros.jpg" style="max-width: 30%; height: auto; float: right; margin:5px"></a>
  
 **Medium half-elf, Lawful neutral**
 

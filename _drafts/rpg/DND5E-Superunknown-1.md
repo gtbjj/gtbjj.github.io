@@ -24,12 +24,13 @@ comments: true
 - Rewards
     - 3 hours roleplaying (C/D/L)
     - 2 hours roleplaying (C/D)
-	- Traps = 400 - 1300 pending survival / disarm
-	- 2 wight (CR 3) + quaggoth thonot (CR 3) = 2100 / 4200
-	- 1-2 Rage Drage = 1800 / 3600
-	- Phage (CR 7) = 2900
-	- Oni (CR 7) = 2900
-	- Stone Giant (CR 7) = 2900
+    - Hezrou (C/D)
+    - Traps = 400 - 1300 pending survival / disarm
+    - 2 wight (CR 3) + quaggoth thonot (CR 3) = 2100 / 4200
+    - 1-2 Rage Drage = 1800 / 3600
+    - Phage (CR 7) = 2900
+    - Oni (CR 7) = 2900
+    - Stone Giant (CR 7) = 2900
 
 ---
 
@@ -74,3 +75,10 @@ BLACKSMITH NEWS:  Corros can craft magic weapons or help Charles.  Cost $1000 gp
 - cas and digs find hag coven summoning hezrou while link sleeps off hangover
 digoria 62 hp, cas 29 hp vs. hezrou
 
+- back to Entsteig, talk to Corros
+  - kind of angry about drow not dead
+  - scouts say there's are multiple (presumably evil) armies gathering in the desert north of Cladeum
+  - Digs lets slip that Ellion isn't a drow any more, research with Corros to find that he's a rare Priest of Lolth (suspected)
+  - Cas and Digs persuade Corros that it's best for them to go to Ellion's castle to try and dig up some notes or information to help stop him while letting the evil armies knock each other out.
+  - Corros wants to help train Cas and Digs, tells Cas to go speak with the captain of the guards while Digs stays for a scrimmage with him
+  - digs 8 hp, corros 39 hp, round 12 start w/ digs

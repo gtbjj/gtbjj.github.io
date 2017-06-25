@@ -46,7 +46,7 @@ It is dar, but the tiefling can see well, however, her perception lacks and she 
 springs and the gate at the end of than channel begins to close.  Digoria spring from the floating table and swims wtith the current, narrowly slipping through 
 the gate before it closes!
 
-<a href="https://db4sgowjqfwig.cloudfront.net/campaigns/133075/assets/571192/blue_cave.jpg?1458582386"><img src="/images/extra/blue_cave.jpg" style="max-width: 80%; height: auto"></a>
+<a href="https://db4sgowjqfwig.cloudfront.net/campaigns/133075/assets/571192/blue_cave.jpg?1458582386"><img src="/images/dnd/blue_cave.jpg" style="max-width: 80%; height: auto"></a>
 
 Digoria falls over a short waterfall and finds herself swimming in a huge and relatively well lit alcove.  "This must be the other side of the mountain", she 
 thinks to herself.  Digoria's perception is much better in the light and she spots a long row boat along the side of the cavern and there appears to be a chest 

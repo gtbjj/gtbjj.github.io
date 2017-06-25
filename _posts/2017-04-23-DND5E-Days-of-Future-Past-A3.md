@@ -39,7 +39,7 @@ Inside the other passageway she finds another large cavern with several animals 
 bird-like animal in a cage.  Digoria sneak atacks the Goblin Boss with a Chromatic Orb which sticks in his chest.  An additional Ray of Frost attck "pops the
 Goblin like a zit."  
 
-<a href="http://dessinsflo.canalblog.com/archives/2006/04/07/1662263.html"><img src="/images/extra/pseudodragon-chuck.jpg" style="float: left; max-width: 25%; height: auto; margin: 5px"></a>
+<a href="http://dessinsflo.canalblog.com/archives/2006/04/07/1662263.html"><img src="/images/dnd/pseudodragon-chuck.jpg" style="float: left; max-width: 25%; height: auto; margin: 5px"></a>
 
 A small, white, pseudo dragon is found in the cage and freed by Digoria.  A telepathic bond is immediately formed and the animal lets Digoria know that she will
 be able to sense him up to one mile away and that he can also grant her resistance to magic within fifteen feet.  Digoria fondly names the dragon "Chuck."  

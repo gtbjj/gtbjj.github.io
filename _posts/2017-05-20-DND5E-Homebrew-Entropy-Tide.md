@@ -14,7 +14,7 @@ tags:
 comments: true
 ---
 
-<img src="/images/extra/entropytide.jpg" style="float: right; margin: 5px; max-width: 30%; height: auto">
+<img src="/images/dnd/entropytide.jpg" style="float: right; margin: 5px; max-width: 30%; height: auto">
 
 #### Description & Abilities:
 

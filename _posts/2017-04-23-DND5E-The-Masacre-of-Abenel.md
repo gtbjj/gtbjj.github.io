@@ -17,7 +17,7 @@ comments: true
 
 #### The Massacre of Abenel
 
-<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/phage.jpg"></a>
+<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/dnd/phage.jpg"></a>
 
 *~ 10 years before present day*
 
@@ -37,7 +37,7 @@ landed.  but Phate insta-kills one guard with a fierce bite, bathing all
 parties in blood.  The reamining two guards present some resistance, but
 they cannot match the stamina of Phage's regenerative prowess.
 
-<a href="http://bigbubbasstuff.deviantart.com/art/warhammer-chosen-of-Khorne-glove-335446453"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/ogre-gauntlets.jpg"></a>
+<a href="http://bigbubbasstuff.deviantart.com/art/warhammer-chosen-of-Khorne-glove-335446453"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/dnd/ogre-gauntlets.jpg"></a>
 
 Near the center of the town two knights are protecting the town’s Noble.  
 There are a lot of sloppy and deflected hits.  The knights’ tough 

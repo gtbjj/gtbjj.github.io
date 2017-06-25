@@ -14,7 +14,7 @@ tags:
 comments: true
 ---
 
-<a href=""><img src="/images/extra/ellion.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
+<a href=""><img src="/images/dnd/ellion.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
 **Medium humanoid (elf), neutral (various) evil**
 

@@ -19,7 +19,7 @@ comments: true
 
 ---
 
-<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; max-height: 50%; margin: 5px" src="/images/extra/phage.jpg"></a>
+<a href="https://www.pinterest.com/pin/298222806551995404/"><img style="float: right; max-width: 40%; height: auto; max-height: 50%; margin: 5px" src="/images/dnd/phage.jpg"></a>
 
 **Medium undead, chaotic evil**
 

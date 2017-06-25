@@ -35,7 +35,7 @@ flames or fire.  The closest thing to life is a small stream draining though the
 there is also a small window in the far corner which provides a subtle light to the room.  Standing in the middle, as if on a stage, awaits a Vampire Spawn 
 tapping her toe talons and examining her claws.
 
-<img src="/images/extra/phage.jpg" style="max-width: 30%; height: auto; float: left; margin: 5px">
+<img src="/images/dnd/phage.jpg" style="max-width: 30%; height: auto; float: left; margin: 5px">
 
 She introduces herself as "Phage" and says; "The master told me you would come.  I only hope this will be as sporting as he promised."  Looking at Digoria, 
 Phage says, "You?  You're the best old Arthur could bring?  A piece of mountain driftwood flushed thorugh the sea and forrest..."  Arthur steps forward, 
@@ -48,7 +48,7 @@ presence which affords Phage a surprise attack.  she is fierce and tenacious, bu
 back, drawing her attention.  Arthur prepares to fire again, but is severely wounded from a whimiscal Magic Missile from Ellion who appears to appears to be watching 
 the two apprentices battle for enteratinment.
 
-<a href="http://ind5.ccio.co/QF/43/y6/d2a16b761afb4d77b4198f068b11f81f.jpg"><img src="/images/extra/ellion.jpg" style="float: right; max-width: 40%; height: auto; margin: 5px"></a>
+<a href="http://ind5.ccio.co/QF/43/y6/d2a16b761afb4d77b4198f068b11f81f.jpg"><img src="/images/dnd/ellion.jpg" style="float: right; max-width: 40%; height: auto; margin: 5px"></a>
 
 Digoria is evasive enough to avoid being hit frequently and knocks Phage into the pool of the stream system.  Ellion intervenes with a Cloudkill attack which engulfs 
 even Arthur.  Rather than attack his nemesis, Arthur fires a final ice storm to keep Phage in the water (thereby continuing to burn her like acid).  But here is 

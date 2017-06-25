@@ -20,7 +20,7 @@ comments: true
 
 ---
 
-<a href="http://bancodeseries.com.br/index.php?action=userPage&uid=1000174048"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/extra/balfador.jpg"></a>
+<a href="http://bancodeseries.com.br/index.php?action=userPage&uid=1000174048"><img style="float: right; max-width: 40%; height: auto; margin: 5px" src="/images/dnd/balfador.jpg"></a>
 
 #### Adventures:
 

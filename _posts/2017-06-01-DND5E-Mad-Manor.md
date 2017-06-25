@@ -44,7 +44,7 @@ puzzles need to be solved, most notably a chess table requiring a single move to
 The pair perseveres and prevails!  They gather the skulls and place them on the heads of the dinner guest skeletons.  Upon doing so in the correct 
 order, a secret compartment under the table opens.  It contains a key!
 
-<a href="http://vignette4.wikia.nocookie.net/forgottenrealms/images/f/fc/Doppelganger-5e.jpg/revision/latest?cb=20170309004652"><img src="/images/extra/doppelganger.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
+<a href="http://vignette4.wikia.nocookie.net/forgottenrealms/images/f/fc/Doppelganger-5e.jpg/revision/latest?cb=20170309004652"><img src="/images/dnd/doppelganger.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
 Immediately the two take the key to the final room in the attic.  They don't seem to notice that the poltergeist is no longer in the attic where 
 she once resided.  They enter the room carefully, but are attacked by a [doppelganger](https://roll20.net/compendium/dnd5e/Doppelganger#content)!  

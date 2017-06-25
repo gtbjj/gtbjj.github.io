@@ -21,7 +21,7 @@ comments: true
 
 ---
 
-<a href="http://benwootten.deviantart.com/art/Warlock-125953145"><img src="/images/extra/digoria.jpg" style="float: right; max-width: 40%; height: auto; max-height: 50%; margin: 5px"></a>
+<a href="http://benwootten.deviantart.com/art/Warlock-125953145"><img src="/images/dnd/digoria.jpg" style="float: right; max-width: 40%; height: auto; max-height: 50%; margin: 5px"></a>
 
 #### All Adventures:
 
@@ -47,13 +47,13 @@ comments: true
 
 <div style="text-align: center; height: 300px; width: 100%; overflow: scroll">
 
-  <a href="http://dessinsflo.canalblog.com/archives/2006/04/07/1662263.html"><img src="/images/extra/pseudodragon-chuck.jpg" title="psedudodragon named Chuck" style="max-width: 50%; height: auto"></a>
+  <a href="http://dessinsflo.canalblog.com/archives/2006/04/07/1662263.html"><img src="/images/dnd/pseudodragon-chuck.jpg" title="psedudodragon named Chuck" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="https://s-media-cache-ak0.pinimg.com/736x/82/dc/55/82dc552afcfcd101d198a707ac6ee12b.jpg"><img src="/images/extra/ringofwaterwalking.jpg" style="max-width: 50%; height: auto" title="Ring of Water Walking"></a>
+  <a href="https://s-media-cache-ak0.pinimg.com/736x/82/dc/55/82dc552afcfcd101d198a707ac6ee12b.jpg"><img src="/images/dnd/ringofwaterwalking.jpg" style="max-width: 50%; height: auto" title="Ring of Water Walking"></a>
   <br/>
-  <a href="https://1.bp.blogspot.com/-xYSJ30KB4lc/UPBdtjBYYDI/AAAAAAAAAR4/5Iv1C_ZVmWw/s1600/ic.jpg"><img title="Boots of the Winterlands" src="/images/extra/boot-ice-climber.jpg" style="max-width: 50%; height: auto"></a>
+  <a href="https://1.bp.blogspot.com/-xYSJ30KB4lc/UPBdtjBYYDI/AAAAAAAAAR4/5Iv1C_ZVmWw/s1600/ic.jpg"><img title="Boots of the Winterlands" src="/images/dnd/boot-ice-climber.jpg" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="https://s-media-cache-ak0.pinimg.com/236x/40/f8/e6/40f8e69500fcbe1a247424d3c6874de6.jpg"><img title="Frost Bite's Grand Rapier" src="/images/extra/sword_of_charn.jpg" style="max-width: 50%; height: auto"></a>
+  <a href="https://s-media-cache-ak0.pinimg.com/236x/40/f8/e6/40f8e69500fcbe1a247424d3c6874de6.jpg"><img title="Frost Bite's Grand Rapier" src="/images/dnd/sword_of_charn.jpg" style="max-width: 50%; height: auto"></a>
 
 </div>
 
@@ -61,17 +61,17 @@ comments: true
 
 <div style=" text-align: center; height: 300px; width: 100%; overflow: scroll">
 
-  <a href="http://vignette4.wikia.nocookie.net/diablo/images/a/a7/Diablo-3-frozen-orb-wizard.png/revision/latest?cb=20150802172016"><img src="/images/extra/chromaticorb.png" style="max-width: 50%; height: auto" title="Chromatic Orb"></a>
+  <a href="http://vignette4.wikia.nocookie.net/diablo/images/a/a7/Diablo-3-frozen-orb-wizard.png/revision/latest?cb=20150802172016"><img src="/images/dnd/chromaticorb.png" style="max-width: 50%; height: auto" title="Chromatic Orb"></a>
   <br/>
-  <a href="https://www.diablowiki.net/images/thumb/a/ab/Mirrorimg.jpg/200px-Mirrorimg.jpg"><img title="Mirror Image" src="/images/extra/mirrorimage.jpg" style="max-width: 50%; height: auto"></a>
+  <a href="https://www.diablowiki.net/images/thumb/a/ab/Mirrorimg.jpg/200px-Mirrorimg.jpg"><img title="Mirror Image" src="/images/dnd/mirrorimage.jpg" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="http://vignette2.wikia.nocookie.net/diablo/images/2/27/Tumblr_m6clqoqCp61r1ixdd.jpg/revision/latest?cb=20150402153050"><img title="Mage Armor" src="/images/extra/magearmor.jpg" style="max-width: 50%; height: auto"></a>
+  <a href="http://vignette2.wikia.nocookie.net/diablo/images/2/27/Tumblr_m6clqoqCp61r1ixdd.jpg/revision/latest?cb=20150402153050"><img title="Mage Armor" src="/images/dnd/magearmor.jpg" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="http://cdn.blizzardwatch.com/wp-content/uploads/2015/12/Arcane_Sanctum_Diablo_Ray_of_Frost_header.jpg"><img title="Ray of Frost" src="/images/extra/rayoffrost.jpg" style="max-width: 50%; height: auto"></a>
+  <a href="http://cdn.blizzardwatch.com/wp-content/uploads/2015/12/Arcane_Sanctum_Diablo_Ray_of_Frost_header.jpg"><img title="Ray of Frost" src="/images/dnd/rayoffrost.jpg" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="http://as.uuu9.com/herolist/limin/skin141015/images/c1.png"><img title="Magic Missile" src="/images/extra/magicmissile.png" style="max-width: 50%; height: auto"></a>
+  <a href="http://as.uuu9.com/herolist/limin/skin141015/images/c1.png"><img title="Magic Missile" src="/images/dnd/magicmissile.png" style="max-width: 50%; height: auto"></a>
   <br/>
-  <a href="https://us.battle.net/d3/static/images/hero/skill/wizard/wave-of-force.jpg?v=58-99"><img title="Thunderwave" src="/images/extra/thunderwave.jpg" style="max-width: 50%; height: auto"></a>
+  <a href="https://us.battle.net/d3/static/images/hero/skill/wizard/wave-of-force.jpg?v=58-99"><img title="Thunderwave" src="/images/dnd/thunderwave.jpg" style="max-width: 50%; height: auto"></a>
 
 </div>
 

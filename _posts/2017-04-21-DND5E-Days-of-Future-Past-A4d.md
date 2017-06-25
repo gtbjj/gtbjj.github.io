@@ -17,7 +17,7 @@ comments: true
 
 ~ 15 - 20 years before present day
 
-<img src="/images/extra/entropytide.jpg" style="float: right; max-width: 40%; height: auto">
+<img src="/images/dnd/entropytide.jpg" style="float: right; max-width: 40%; height: auto">
 
 Digoria and Phage set sail aboard the Entropy Tide with a crew of 20 skeletons, headed for the Northern Highlands town of Heythorp.  With insight from Ellion, they approach a harbor to the northeast of the town where they're told an encampment of Orcs lies.  The Orcs,   Ellion says, have gotten lazy and sit idle watching the town.  Phage and Digoria are sent to rally the Orcs to attack the town and "send a memorable message", or "teach the Orcs a lesson if need be."  Well past nightfall, the Entorpy Tide rests idle in the bay of an orc encampment.  The crew plus Digoria and Phage carefully watch the nearest vessel, a barge (appearing to be empty), as well as two guard ships (appearing to contain about 20 guards each).  Then, about 300 yards away is the shore and the gate to the encampment.
 
@@ -57,7 +57,7 @@ realms.  Ice Queen from Under the Mountain!  Captain of the Entropy Tide!  Ally 
 a vampire spawn and allegiant to a drow mage...
 ~~~
 
-<a href="http://pre11.deviantart.net/7a9e/th/pre/f/2013/033/2/c/orc_by_saadirfan-d5tk5hm.jpg"><img src="/images/extra/orc_warlord_quiora.jpg" style="max-width: 25%; height: auto; float: right; margin: 5px"></a>
+<a href="http://pre11.deviantart.net/7a9e/th/pre/f/2013/033/2/c/orc_by_saadirfan-d5tk5hm.jpg"><img src="/images/dnd/orc_warlord_quiora.jpg" style="max-width: 25%; height: auto; float: right; margin: 5px"></a>
 
 As if fate were flip a coin, Digoria looks intently at the quibbling noble, then at the grinning orc captain readying himself for combat.  Digoria smirks as a firm magic missile starts the skirmish.  Quiora charges within range as Digoria lands another magic missile lands!  Quioria's greatsword is evaded by the nimble tiefling and she strikes with an advantaged shocking grasp.  
 
