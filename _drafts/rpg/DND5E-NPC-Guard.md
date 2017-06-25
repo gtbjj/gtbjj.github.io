@@ -14,3 +14,4 @@ comments: true
 ---
 
 <a href="https://dviw3bl0enbyw.cloudfront.net/uploads/forum_attachment/file/134120/kolvir_comm_by_yamao-d6uy0t8.jpg"><img src="/images/dnd/panros-altorin.jpg" style="max-width: 30%; height: auto; float: right"</a>
+
