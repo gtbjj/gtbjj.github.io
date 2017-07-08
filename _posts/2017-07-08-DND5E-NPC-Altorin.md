@@ -14,7 +14,7 @@ tags:
 comments: true
 ---
 
-<a href="https://dviw3bl0enbyw.cloudfront.net/uploads/forum_attachment/file/134120/kolvir_comm_by_yamao-d6uy0t8.jpg"><img src="/images/dnd/altorin.jpg" style="max-width: 30%; height: auto; float: right"</a>
+<a href="https://dviw3bl0enbyw.cloudfront.net/uploads/forum_attachment/file/134120/kolvir_comm_by_yamao-d6uy0t8.jpg"><img src="/images/dnd/altorin.jpg" style="max-width: 30%; height: auto; float: right"></a>
 
 **Medium Half-Elf, Lawful Neutral**
 
@@ -43,7 +43,7 @@ comments: true
 
 **Actions**
 
-****Multiattack / Fighting Dirty*** Altorin makes two melee attacks, plus an unarmed strike as a bonus action.
+***Fighting Dirty*** Altorin makes two melee attacks, plus an unarmed strike as a bonus action.
 
 ***Longsword*** Melee weapon attack: +6 to hit, One-Handed Hit: 8 damage, Two-Handed Hit: 9 damage.
 
@@ -52,7 +52,8 @@ comments: true
 ***Unarmed Strike*** Melee unarmed attack: +6 to hit, Hit: 2 damage
 
 ***Parry (reaction):*** 
-Altorin adds 3 to his AC against one melee attack that would hit him.  To do so, Altorin must see the attacker and be wielding a melee weapon.  
+Altorin adds 3 to his AC against one melee attack that would hit him.  To do so, Altorin must see the attacker and be wielding a melee weapon.
+
 ---
 
 #### Personality and History
@@ -60,6 +61,8 @@ Altorin adds 3 to his AC against one melee attack that would hit him.  To do so,
 Altorin is intelligent and skilled in combat.  He is an great leader and commander of his fellow knights of Entsteig.  He has worked under the command of Corros the Archmage for at least a cenury or two.
 
 Altorin tends to be somewhat hasty in his decision making and somewhat careless in his perception, though he tries to make up for his oversights by his ability to rally his troops with strategic and combat prowess.
+
+His personality is based on [The Scotsman ally of the Samurai Jack](http://samuraijack.wikia.com/wiki/The_Scotsman).
 
 ---
 
@@ -76,6 +79,10 @@ Altorin tends to be somewhat hasty in his decision making and somewhat careless 
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
       </div>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
 
 ---
 
