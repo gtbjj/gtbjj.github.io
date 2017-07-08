@@ -47,9 +47,14 @@ Battle Royale:
     - remaining ghouls (horde health %) / 2 = number of driders that attack ghouls
     - he is written with thoughts being attacked by swarms of spiders
   - if Players win
-    - Ellion tries to barter:  says there's a Skeleton King, a Lich, haunting the Tirstram cathedral and he "has what you (Digoria) seek
+    - Ellion tries to barter:  says there's a Skeleton King, a Lich, haunting the Tirstram cathedral and he "has what you (Digoria) seek"
     - he knows this because of diety assistance
     - if players try kill him, CON DC 20 to not be overwheled thoughts of being covered by spiders
+    - if Ellion Wins:  he is petrified at sight of Karasou
+      - says he was freed by his sire Phage (appears w/ Oni) after she learned of his betrayal
+    
+    
+    
   - Tall woman clad in black (Loth) slowly approaches Ellion, speaking in all tongues.
   - makes his body freeze
   - Speaks in commone:  "knows of Ellion's betrayal to her and his loyalty to the necromancer, Cain."
@@ -68,3 +73,6 @@ Location / Objective 5: Corros
 - assassin (CR 8) will attack Corros if you can get him to 50 hp
   - can be interrogated (dc 15), Yeenoghu sent
 - a second joins assassin if Corros < 25 hp
+- assassins says they've gained attention of Yeenoghou and Lolth and that there is an underwold tournament of evils within the Abyss, that the prior war was "little more than a scrimmage" and they're not the only ones searching for the rings, that other powerful mages know of them and would love to bring inter-realm evils to this world as well -- or perhaps restore other primevils.  
+
+assassins / drow - http://68.media.tumblr.com/27739e4f848df10a7a606feb7910ad51/tumblr_oi24r0gdxX1uux5bjo1_1280.jpg

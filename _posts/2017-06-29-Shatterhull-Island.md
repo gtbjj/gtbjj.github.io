@@ -23,7 +23,7 @@ comments: true
 
 ---
 
-After the adventure in the [Cave of Wonders]({% post_url 2017-06-29-Cave-of-Wonders %}) Cas, Digoria, and Link set sail upon a ship that Digoria had "rented" (though with no intention of returning) from a merchant.  While Cas isn't happy about this behavior, he agrees to accompany Digoria, believing that she has friends in high (and low) places that may be able to help in him in regaining his lost memories.
+After the adventure in the [Cave of Wonders]({% post_url 2017-06-29-DND5E-Cave-of-Wonders %}) Cas, Digoria, and Link set sail upon a ship that Digoria had "rented" (though with no intention of returning) from a merchant.  While Cas isn't happy about this behavior, he agrees to accompany Digoria, believing that she has friends in high (and low) places that may be able to help in him in regaining his lost memories.
 
 Link, unsure of his own history accompanies the party as well.  He states that he remembers leaving his homeland (though he can't recall anything about it) and meeting Cas in a tavern in Tristram while adventuring.  They struck up a friendship an when Cas did not quickly return from investigating rumors about a [haunted mansion]({% post_url 2017-06-01-DND5E-Mad-Manor %}), Link pursued his friend.
 

@@ -17,7 +17,26 @@ tags:
 comments: true
 ---
 
-| **Campaign:** Dawn Treaders | **Quest:** Superunknown, 1 | **DM:** Austin |
+| **Campaign:** Dawn Treaders | **Quest:** Superunknown, 2 | **DM:** Austin |
+
+---
+
+    - Traps = 400 - 1300 pending survival / disarm
+    - 2 wight (CR 3) + quaggoth thonot (CR 3) = 2100 / 4200
+    - 1-2 Rage Drage = 1800 / 3600
+    - Phage (CR 7) = 2900
+    - Oni (CR 7) = 2900
+    - Stone Giant (CR 7) = 2900
+    
+Cas is able to defeat "Altorin" due to "lucky strikes."  Altorin is still in good spirits, though he states he was "holding back" against Cas (uknonwn if true).
+
+Chuck returns with letter from Balfador and Alodel, stating that Ellion is now a faux priest in the priesthood of Lolth, though he appears to be harboring necromancer powers and a ghoulish / undead army rather than that of driders and drow which suggest an ulterior motive such as being in league with a necromancer.
+
+Corros is afraid that the war in the East is between dieties, not mere mortal armies.  He refuses to fight as to remain neutral between good and evil.  He believes there is order to the universe and that the burning Kokiri forrest is due to some other sort of imbalance such as the evil in this world becoming too chaotic and thus those forces have turned on eachother... however, it seems to have caused a weakness between realms allowing for other "balances" to enter the world (e.g. other lawful dieties)... he says there's something suspcious about Digs.
+
+Corros can only be persuaded to join fight if he / party learns that Tal Rasha was his grandfather, which angers Corros and moves him to fight against the chaotic armies.  BUT, also needs convinced that the chaos could join forces rather than eraddicate each other.
+
+Party should go to caslte to find clues / information before going headlong into fight with armies.
 
 ---
 
@@ -81,3 +100,5 @@ comments: true
   - 4th floor will collapse after 5 turns, 2d6 bludeoning and fall prone
   
 - Conclusion:  badly injured or retreating to Caldeum
+- Phage aliied with Oni to try and free her sire from the Kokir Forrest Temple
+- Heroes must choose between pursuing her and going to stop Ellion's war

@@ -49,16 +49,13 @@
   - Shatterhull Island
   - Fane of the Drow
   - Link to the Past (1,2,3)
-  - Rainbow in the Dark
+  - Superunknown
 - Wrath of Jadis
   - silver / white dragon
   - storm giant
 - Only My Gnomies
 
 #### Future Plots / Hooks:
-
-- Lolth finds out about Ellion, kills him, forms alliance with Yeenoghu to retaliate against Cain 
-  - betrayed by Phage? - who reveals what entorpy tide does to crew and captains and crew
 
 - Cas character development
   - incorporate outsiders (he speaks celestial)

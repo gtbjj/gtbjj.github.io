@@ -22,6 +22,7 @@ Adventures in Android programming and tinkering.  Featured projects include a [k
   <p><a href="https://github.com/gtbjj/pkgbuild">AUR Packages</a></p>
   <!-- <p>Austin's ROM</p> -->
   <p><a href="https://github.com/gtbjj/dnd-tools">dnd-tools</p></a>
+  <p><a href="https://github.com/haedickecounseling/haedickecounseling.github.io">haedickecounseling.com</a></p>
   <!-- <p>OnlyAOSP</p> -->
   <p><a href="https://github.com/gtbjj/gtbjj.github.io">rockandcode.ga</a></p>
 </div>

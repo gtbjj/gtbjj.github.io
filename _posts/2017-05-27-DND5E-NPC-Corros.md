@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND5E: Corros Davoria, Archmage of Entsteig"
+title: "DND5E: Corros, Archmage of Entsteig"
 excerpt: "NPC"
 category:
 - RPG
@@ -61,9 +61,13 @@ comments: true
 
 ---
 
-#### Peraonality & History
+#### Personality & History
 
-As with all archmages, he is old and powerful.  Some have compared him to Elrond of the Middle Earth Realm.
+As with all archmages, he is old and powerful.  Some have compared him to [Elrond of the Middle Earth Realm](http://lotr.wikia.com/wiki/Elrond) as well as being terse, stern, and somewhat of a killjoy.
+
+Corros's history is largely unknown at this time, though he appears to be familiar with many types of old magic and entities within the world.  For example, he has stated that The Great Deku tree of the Kokiri Forrest was his death and lamented the death of The Deku Tree.  
+
+Corros's staff also appears to contain several spell scrolls.  The number of charges, level and quantity of spells remains unkonwn -- however, at least one spell is known to be [Mordenkainen's Sword](http://thebombzen.com/grimoire/spells/mordenkainens-sword).
 
 ---
 
@@ -72,7 +76,7 @@ As with all archmages, he is old and powerful.  Some have compared him to Elrond
 <ul class="posts">
 {% assign count = 0 %}
 {% for post in site.posts %}
-  {% if post.tags contains 'ellion' %}
+  {% if post.tags contains 'corros' %}
     {% if count < 20 %}
       {% assign count = count|plus:1 %}
       <div class="post_info">
