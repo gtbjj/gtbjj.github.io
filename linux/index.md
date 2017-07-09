@@ -25,4 +25,5 @@ Playing system admin on the weekends and learning about Linux and Open Source So
   <p><a href="https://github.com/haedickecounseling/haedickecounseling.github.io">haedickecounseling.com</a></p>
   <!-- <p>OnlyAOSP</p> -->
   <p><a href="https://github.com/gtbjj/gtbjj.github.io">rockandcode.ga</a></p>
+    <p style="color: white; background-color: #ABB2B9; border-radius: 10px"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CGPJERK69W5T6">Support these projects.</a></p>
 </div>
