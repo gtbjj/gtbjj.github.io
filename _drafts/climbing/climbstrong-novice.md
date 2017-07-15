@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "It Takes Four Years to Become a Novice"
-excerpt:  "Training program review and reflections on the Climbstrong novice program"
+title: "Traning Plan Review:  Climbstrong - Novice"
+excerpt: "It takes four years to become a novice and four months to write a review"
 category:
 - Climbing
 tags:

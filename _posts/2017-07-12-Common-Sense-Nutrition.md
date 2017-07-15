@@ -52,6 +52,7 @@ I'm not going into the calorie thing as it's pretty well been debunked.  For ins
 Even if you're not of the paleo / primal persuasion, some dang good building blocks can be drawn from it's principles.
 
 - Don't eat poisonous things (smoking, hydrogenated oils, refined grains, etc..)
+- Don't eat food that makes you feel like junk:  The [eight most common food allergens](https://www.foodallergy.org/allergens) are peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish.
 - Do eat heathful, nutrient dense foods (fruit, vegetables, organic protein, natural fats)
 - Do eat things that grow, don't eat things that don't grow:  I have a "grandma rule":  If my grandmother (both children in The Great Depression Era) couldn't grow, kill, harvest, or procure it in the back yard I probably shouldn't eat it."
 - All food has calories, *all calories (and nutrient sources) are not created (or used by the body) equally.*
