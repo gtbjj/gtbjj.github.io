@@ -19,6 +19,8 @@ tags:
 comments: true
 ---
 
+<img src="/images/climbing/nutrition.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px" title="less than $10 in less than 15 min" />
+
 This post is, in part, a response to a recent Power Company Climbing podcast, [Common Sense Nutrition with Neely Quinn](http://www.powercompanyclimbing.com/blog/2017/5/22/episode-42-common-sense-nutrition-with-neely-quinn).  If Neely's name sound's familiar, it's probably because you've been all over her site [trainingbeta.com](https://trainingbeta.com).  Interstingly enough, I became familiar with her nutritional guidance from [Paleo Plan](http://www.paleoplan.com/) much before I was researching training for climbing.
 
 #### A Simple Question:

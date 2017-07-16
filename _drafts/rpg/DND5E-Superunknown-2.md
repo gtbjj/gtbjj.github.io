@@ -34,27 +34,21 @@ Chuck returns with letter from Balfador and Alodel, stating that Ellion is now a
 
 Corros is afraid that the war in the East is between dieties, not mere mortal armies.  He refuses to fight as to remain neutral between good and evil.  He believes there is order to the universe and that the burning Kokiri forrest is due to some other sort of imbalance such as the evil in this world becoming too chaotic and thus those forces have turned on eachother... however, it seems to have caused a weakness between realms allowing for other "balances" to enter the world (e.g. other lawful dieties)... he says there's something suspcious about Digs.
 
-Corros can only be persuaded to join fight if he / party learns that Tal Rasha was his grandfather, which angers Corros and moves him to fight against the chaotic armies.  BUT, also needs convinced that the chaos could join forces rather than eraddicate each other.
-
-Party should go to caslte to find clues / information before going headlong into fight with armies.
-
 ---
 
 #### Stealing the Entropy Tide
 
 - First Floor: lots of traps / puzzles (where Digoria fought before)
 	- 1) entrance
-	- 2) 3 x greater potion of healing
+	- 2) empty
 	- 3) pressure plate in middle of room, needs Athletics DC 11 to jump through door
-	- 4) empty
-	- 5) trapped
+	- 4) trapped
 		DC 12 to notice trigger wire, sparks explosive gas
 		(4d10) DEX DC 18 for half dmg
-	- 6) empty
-	- 7) mirror on far wall
+	- 5) empty
+	- 6) mirror on far wall
 		has small key in corner of reflection, moves every time it's looked at
 		INT DC 11 to notice key, will fall off mirror if shaken
-	- 8) empty
 	- 9) trapped
 		DC 11 to spot trigger plate on floor
 		Wall moves 5' / turn, STR DC 15 to stop, 20 to push 5'
@@ -102,3 +96,6 @@ Party should go to caslte to find clues / information before going headlong into
 - Conclusion:  badly injured or retreating to Caldeum
 - Phage aliied with Oni to try and free her sire from the Kokir Forrest Temple
 - Heroes must choose between pursuing her and going to stop Ellion's war
+Party should go to caslte to find clues / information before going headlong into fight with armies.
+
+Corros can only be persuaded to join fight if he / party learns that Tal Rasha was his grandfather, which angers Corros and moves him to fight against the chaotic armies.  BUT, also needs convinced that the chaos could join forces rather than eraddicate each other.

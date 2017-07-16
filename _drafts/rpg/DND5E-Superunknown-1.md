@@ -21,15 +21,6 @@ comments: true
 
 ---
 
-- Rewards
-    - 3 hours roleplaying (C x 1800 / D x 2700 / L x 1800)
-    - 2 hours roleplaying (C x 1200 / D x 1800)
-    - Hezrou (C x 5850 / D x 5850)
-    - Corros (D x 8400)
-    - Altorin (C x 767)
-
----
-
 #### Preface
   - arguing about forrest, link wants to give digoria sympathy
   - cas hunting and being a lunk head
@@ -96,3 +87,11 @@ digoria 62 hp, cas 29 hp vs. hezrou
 Digs and Cas consider summoning a demon / angel to test Corros' allegiance, both opposed to the other's suggestion (alignment).  However, both agree that there's something suspcious about whatever Corros may be hiding.  They spend the night researching lore, specifically vampire spellcasters -- whom it seems Corros has good reason to fear / remain removed from.  Digs wants to (physically) interrogate Corros and kill him if necessary.  Tensions build with Cas, who tells Digs that Corros spared her life ("a mistake perhaps").  At any rate, group decides to approach Corros after sparring match.
 
 - on to part II
+
+---
+
+<!--
+Digs - 18000
+Link - 1800
+Cas - 9600
+-->
