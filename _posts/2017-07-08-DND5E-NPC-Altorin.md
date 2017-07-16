@@ -18,7 +18,7 @@ comments: true
 
 **Medium Half-Elf, Lawful Neutral**
 
-**Armor Clas** 18 (plate)
+**Armor Class** 18 (plate)
 
 **Hit Points** 65 (10d8 + 20)
 
@@ -39,7 +39,7 @@ comments: true
 
 ***Brave:*** Altorin has advantage on saving throws against being frightened.
 
-***Leadership (Recharges after Short or Long Rest):*** For 1 minute, Altorin can utter a special command or warning whenever a nonhostile creatre that he can see within 30 feet of him makes an attack roll or saving throw.  The creature can add 1d4 to its roll provided it can hear and understand the Altorin.  A creature can venefit from only one Leadership die at a time.  This effect ends if Altroin is incapacitated.
+***Leadership (Recharges after Short or Long Rest):*** For 1 minute, Altorin can utter a special command or warning whenever a nonhostile creatre that he can see within 30 feet of him makes an attack roll or saving throw.  The creature can add 1d4 to its roll provided it can hear and understand the Altorin.  A creature can benefit from only one Leadership die at a time.  This effect ends if Altorin is incapacitated.
 
 **Actions**
 
@@ -58,7 +58,7 @@ Altorin adds 3 to his AC against one melee attack that would hit him.  To do so,
 
 #### Personality and History
 
-Altorin is intelligent and skilled in combat.  He is an great leader and commander of his fellow knights of Entsteig.  He has worked under the command of Corros the Archmage for at least a cenury or two.
+Altorin is intelligent and skilled in combat.  He is an great leader and commander of his fellow knights of Entsteig.  He has worked under the command of Corros the Archmage for at least a century or two.
 
 Altorin tends to be somewhat hasty in his decision making and somewhat careless in his perception, though he tries to make up for his oversights by his ability to rally his troops with strategic and combat prowess.
 
