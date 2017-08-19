@@ -27,12 +27,6 @@ comments: true
     - Phage (CR 7) = 2900
     - Oni (CR 7) = 2900
     - Stone Giant (CR 7) = 2900
-    
-Cas is able to defeat "Altorin" due to "lucky strikes."  Altorin is still in good spirits, though he states he was "holding back" against Cas (uknonwn if true).
-
-Chuck returns with letter from Balfador and Alodel, stating that Ellion is now a faux priest in the priesthood of Lolth, though he appears to be harboring necromancer powers and a ghoulish / undead army rather than that of driders and drow which suggest an ulterior motive such as being in league with a necromancer.
-
-Corros is afraid that the war in the East is between dieties, not mere mortal armies.  He refuses to fight as to remain neutral between good and evil.  He believes there is order to the universe and that the burning Kokiri forrest is due to some other sort of imbalance such as the evil in this world becoming too chaotic and thus those forces have turned on eachother... however, it seems to have caused a weakness between realms allowing for other "balances" to enter the world (e.g. other lawful dieties)... he says there's something suspcious about Digs.
 
 ---
 
@@ -68,8 +62,8 @@ Corros is afraid that the war in the East is between dieties, not mere mortal ar
 
 - Third Floor:  Monster in large hall
 	- 1-2 x CR5 [rage drake](https://s-media-cache-ak0.pinimg.com/736x/d7/94/1e/d7941ece84caa6e7cbe336ae05522da7.jpg)
-	- perception 15, phage watching from door
-	- perception 20, oni (shapeshifted to mage)
+	- perception 12, phage watching from door
+	- perception 15, oni (shapeshifted to mage)
 
 - Fourth:  Ellion's lair (Dioria remembers)
     - Upon entering
@@ -78,10 +72,9 @@ Corros is afraid that the war in the East is between dieties, not mere mortal ar
       - DC 10 to notice Oni (shapeshifted to mage), in window fleeting to roof
         - will try to charm someone
       - DC 10 to notice ladder to roof
-	- Locked box under desk (DC 20 to unlock)
+	- Locked box under desk (DC 17 to unlock)
 	  - Mempo of Twilight
 	  - Spell Scroll - break magic
-	  - Greater potion of healing
 
 - Fifth:  Cellar / Waterway / Cavern (where ship is), Digoria should remember (there is stairway that leads to Level 2)
 	- Dex DC 20 to make it through portcullas (will close after 3 tries)
@@ -92,7 +85,21 @@ Corros is afraid that the war in the East is between dieties, not mere mortal ar
   - stones crashing into castle (dc 10 perception)
   - the roof collapses after 5 turns, 1d6 bludeoning and fall prone, trap door revealed
   - 4th floor will collapse after 5 turns, 2d6 bludeoning and fall prone
-  
+
+----
+
+Session 3 Notes:
+
+- kill off wights and quaggoth
+- crew spots vampire spawn and cloaked figure watching
+- large chamber, cas + digs fight rage drake
+- altorin exhcnages arrows with goblins in windows
+- digoria leaves cas to finish drake
+- altorin eventually chips off the goblins
+- crew hears hears screams, yells, and sounds of combat from digoria in hall
+
+----
+
 - Conclusion:  badly injured or retreating to Caldeum
 - Phage aliied with Oni to try and free her sire from the Kokir Forrest Temple
 - Heroes must choose between pursuing her and going to stop Ellion's war
