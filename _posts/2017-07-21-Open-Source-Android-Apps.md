@@ -26,7 +26,7 @@ First, a quick Google search will give you several reources to find library list
 
 [Source Code](https://github.com/moezbhatti/qksms) \| [Play Store](https://play.google.com/store/apps/details?id=com.moez.QKSMS&hl=en)
 
-> QKSMS looks great, has all the standard features you'd expect and is open source.  I've tried it in the past and have to admit some issues with group messaging.  However, that's not something I do every day so it's not much of an inconvenience at all.  Android Message feels like a "guaranteed to work" SMS app, but this is a good second, or full on replacement.  *NOTE:  If you're using Google's Project Fi the MMS issue has to do with QKSMS not being about to dynamically switch the APN (data provider) between T-Mobile / US Cellular / Sprint..*
+> QKSMS looks great, has all the standard features you'd expect and is open source.  I've tried it in the past and have to admit some issues with group messaging.  However, that's not something I do every day so it's not much of an inconvenience at all.  Android Message feels like a "guaranteed to work" SMS app, but this is a good second, or full on replacement.  *NOTE:  If you're using Google's Project Fi the MMS issue has to do with QKSMS not being about to dynamically switch the APN (data provider) between T-Mobile / US Cellular / Sprint.  Because of this, and with Substratum themeing, I actually prefer the stock AOSP messaging app.*
 
 <img src="/images/android/icon_chromium.jpg" style="max-width: 10%; height: auto; float: right">
 
