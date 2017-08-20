@@ -39,7 +39,7 @@ I wanted to learn, found a teacher / resources, learned, did, and give credit wh
 
 #### What does aFlash offer?
 
-aFlash inherits all the features from Flash Kernel.  It is built from the Flash Kernel source code and then patched with additional features of my preference.  At the time of this writing, those *features* are a couple governor (and other setting) profiles that I've found to work well in my testing.  That is, per my [usage habits](https://github.com/gtbjj/aflash_kernel/blob/7.1.2-aflash/usage.md).  Your  mileage may vary.
+aFlash inherits all the features from Flash Kernel.  It is built from the Flash Kernel source code and then patched with additional features of my preference.  At the time of this writing, those *features* are a couple governor (and other setting) profiles that I've found to work well in my testing.  That is, per my [usage habits](https://github.com/savagezen/aflash_kernel/blob/7.1.2-aflash/usage.md).  Your  mileage may vary.
 
 #### How does aFlash perform versus Flash?
 
@@ -76,8 +76,8 @@ battery tests (N, used for computing M and SD) = 133.
 
 Source Code:  
 
-- [aFlash Kernel on GitHub](https://github.com/gtbjj/aflash_kernel)
-- Profiles can be found in [my anykernel repo on GitHub](https://github.com/gtbjj/anykernel)
+- [aFlash Kernel on GitHub](https://github.com/savagezen/aflash_kernel)
+- Profiles can be found in [my anykernel repo on GitHub](https://github.com/savagezen/anykernel)
 
 Download:
 

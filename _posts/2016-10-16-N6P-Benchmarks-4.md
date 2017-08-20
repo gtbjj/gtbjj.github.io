@@ -44,7 +44,7 @@ The raw data is available on the linked spreadsheet and the descriptive statisti
 | hmdrmx1 | -1.666 (2) | -0.366 (2) | -1.016 |
 | hmdrmx2 | -1.77 (2) | **+0.337** (2) | -0.717 |
 | hmdrmx3 | **+0.28** (2) | -0.71 (2) | -0.215 |
-| [Betas](https://github.com/gtbjj/scripts/blob/master/interactive-austin.sh) | **+0.546** (6) | -0.625 (4) | -0.04 |
+| [Betas](https://github.com/savagezen/scripts/blob/master/interactive-austin.sh) | **+0.546** (6) | -0.625 (4) | -0.04 |
 | None | -0.073 (63) | -0.11 (18) | -0.042 |
 
 #### Interpretation:

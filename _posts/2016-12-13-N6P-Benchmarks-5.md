@@ -35,4 +35,4 @@ compromoise of performance and battery life).
 
 <img style="height: auto; width: 100%" src="http://i.imgur.com/3cr4fFf.png">
 
-Scripts for all the profiles referneced can be found on my [respective GitHub page](https://github.com/gtbjj/scripts/tree/master/android).
+Scripts for all the profiles referneced can be found on my [respective GitHub page](https://github.com/savagezen/scripts/tree/master/android).

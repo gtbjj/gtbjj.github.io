@@ -85,7 +85,7 @@ combinations to test with the following Interactive profiles:
 - Eclipse
 - Cyan Lion
 - Butterfly
-- [My Custom Rolled Profile](https://github.com/gtbjj/scripts/blob/master/interactive-austin.sh)
+- [My Custom Rolled Profile](https://github.com/savagezen/scripts/blob/master/interactive-austin.sh)
 
 Thanks for reading, stay tuned!
 

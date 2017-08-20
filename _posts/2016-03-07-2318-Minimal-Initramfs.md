@@ -29,7 +29,7 @@ that you leave on (or suspended) all the time.
 However, my current workstation is a modest [Asus 
 X205TA](https://www.asus.com/us/Notebooks/ASUS_EeeBook_X205TA/).  
 In fact, I have [GitHub repo specifically for tweaking this 
-machine](https://github.com/gtbjj/x205ta).  At any rate, 
+machine](https://github.com/savagezen/x205ta).  At any rate, 
 with a portable machine, starting up quickly is paramount.
 
 This post will specifcally cover customizing / [creating a 

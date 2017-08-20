@@ -63,4 +63,4 @@ HandleLidSwitch=ignore          #suspend
 
 -----
 
-See also, the ongoing discussion in [related issue thread on GitHub](https://github.com/gtbjj/x205ta/issues/8)
+See also, the ongoing discussion in [related issue thread on GitHub](https://github.com/savagezen/x205ta/issues/8)
