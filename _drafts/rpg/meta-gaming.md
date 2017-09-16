@@ -1,29 +1,30 @@
-#### Seeds at Large
+#### Hooks at Large
 
-- Tomb of Queen Paragrin (in mines beneath Ogelstein) sealed by magic, never opened
-- Tristram Cathedral had a "fallen star" crash into it, apparently great power, but may evils plauged the area and adventurers eventually gave up task.
-- Master Sword
+**Tomb of Queen Paragrin** 
+
+> ... (in mines beneath Ogelstein) sealed by magic, never opened
+
+**Tristram Cathedral** 
+
+> ... had a "fallen star" crash into it, apparently great power, but may evils plauged the area and adventurers eventually gave up task.
+
+**Master Sword**
   - Location: Kokiri Forrest
   - Guardian: Magic Fire > Magic Sealed Temple > Vampire Spellcaster
-- Atlantian Faerie Rings
+
+**Atlantian Faerie Rings**
   - Ring 1:
-    - Location: Kokiri Forrest (suspected)
-    - Guardian: Vampire Spellcaster, CR15 (suspected)
+    - Location: Kokiri Forrest
+    - Guardian: Vampire Spellcaster, CR15
   - Ring 2:
-    - Location: Lut Gholein
-    - Guardian: Androsphinx, CR17 + Mummy Lord, CR16
+    - Location: Tristram
+    - Guardian: Mummy Lord, CR16
   - Ring 3:
-    - Location: Unknown (Caldeum?)
+    - Location: Caldeum
     - Guardian: Solar, CR21
   - Ring 4:
     - Location: unknown (Tristram?)
     - Guardian: unknown (Lich? CR21)
-
-#### Balance:
-
-| LG (Link human fam?) | NG (Link)   | CG (Cas)                  |
-| LN (Link elf fam)    | N           | CN (Digoria)              |
-| LE (Jadis, Cain)     | NE (Ellion) | CE (Phage,Lolth,Yeenoghu) |
 
 #### Permanent Gear:
 
@@ -41,20 +42,6 @@
   - Cas:  Armor (R), , ? (R), ?(VR)
   - Digoria: ? (R), ? (VR)
 
-#### Campaigns:
-
-- Dawn Treaders
-  - Mad Manor
-  - Cave of Wonders
-  - Shatterhull Island
-  - Fane of the Drow
-  - Link to the Past (1,2,3)
-  - Superunknown
-- Wrath of Jadis
-  - silver / white dragon
-  - storm giant
-- Only My Gnomies
-
 #### Future Plots / Hooks:
 
 - Cas character development
@@ -65,7 +52,7 @@
   - "you deny your weapon its purpose"
   - "you have one fundamental flaw.  deep down inside, you're a good person.  deep down inside, I'm not."
 
-#### Quest Titles:
+#### Beta Quest Titles:
 
 - Rainbow in the Dark
 - Telephantasm

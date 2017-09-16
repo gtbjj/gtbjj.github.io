@@ -1,4 +1,4 @@
-[gtbjj.github.io](http://gtbjj.github.io)
+[savagezen.github.io > rockandcode.ga](https://rockandcode.ga)
 
 *A blog about Arch Linux, FOSS, and Android; plus rock climbing 
 adventures*
