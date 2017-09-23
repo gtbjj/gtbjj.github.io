@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DND5E: Fane of the Drow"
-exerpt: "Dawn Treaders Campaign, Quest 4.1"
+title: "DND5E: Fane of the Drow, Part 1"
+excerpt: "Dawn Treaders Campaign, Quest 4.1"
 category:
 - RPG
 tags:
@@ -21,15 +21,13 @@ tags:
 comments: true
 ---
 
-| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow | **DM:** Ryan |
+| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow, Part I | **DM:** Ryan |
 
 ---
 
-| **Fane of the Drow:** | Part 1 | [Part II]() | [Part III]() |
-
----
-
-After their adventures in [The Cave of Wonders]({% post_url 2017-06-01-DND5E-Mad-Manor %}).  Cas, Digoria, and Link dock and travel to the nearby, larger, town of [Tristram](http://diablo.wikia.com/wiki/New_Tristram).  The old town has been rebuilt serveral times, though most of it's adventuring worth has been used up by heroes of centuries past.  At any rate, the trio goes to the local tavern to celebrate their accomplishments and reflect on the equipment awarded to them from the Djinni.
+After their adventures in [The Cave of Wonders]({% post_url 2017-06-29-DND5E-Cave-of-Wonders %}).  Cas, Digoria, and Link dock and travel to 
+the 
+nearby, larger, town of [Tristram](http://diablo.wikia.com/wiki/New_Tristram).  The old town has been rebuilt serveral times, though most of it's adventuring worth has been used up by heroes of centuries past.  At any rate, the trio goes to the local tavern to celebrate their accomplishments and reflect on the equipment awarded to them from the Djinni.
 
 <a href="https://s-media-cache-ak0.pinimg.com/originals/9a/b7/ed/9ab7ed07c09d4657f5bef51af7b8d3ff.jpg"><img src="https://s-media-cache-ak0.pinimg.com/originals/9a/b7/ed/9ab7ed07c09d4657f5bef51af7b8d3ff.jpg" style="max-width: 30%; height: auto; float: left; margin: 5px"></a>
 

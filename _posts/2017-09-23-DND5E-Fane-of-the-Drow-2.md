@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DND5E: Fane of the Drow"
-exerpt: "Dawn Treaders Campaign, Quest 4.2"
+title: "DND5E: Fane of the Drow, Part 2"
+excerpt: "Dawn Treaders Campaign, Quest 4.2"
 category:
 - RPG
 tags:
@@ -21,15 +21,9 @@ tags:
 comments: true
 ---
 
-| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow | **DM:** Ryan |
+| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow, Part II | **DM:** Ryan |
 
 ---
-
-| **Fane of the Drow:** | [Part I]() | Part II | [Part III]() |
-
----
-
-#### Part II
 
 Cas and Link awake in Warlock's study and find Digoria missing.  Instead, they are greated by a dwarf, named Balfador, who states that he sympathizes with the Dwarves of the cast and travels about as an adventurer for hire.
 

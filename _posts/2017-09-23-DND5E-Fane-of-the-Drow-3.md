@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DND5E: Fane of the Drow"
-exerpt: "Dawn Treaders Campaign, Quest 4.3"
+title: "DND5E: Fane of the Drow, Part 3"
+excerpt: "Dawn Treaders Campaign, Quest 4.3"
 category:
 - RPG
 tags:
@@ -21,15 +21,9 @@ tags:
 comments: true
 ---
 
-| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow | **DM:** Ryan |
+| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow, Part III | **DM:** Ryan |
 
 ---
-
-| **Fane of the Drow:** | [Part I]() | [Part II]() | Part III |
-
----
-
-#### Part III
 
 Digoria declares to the group that she had left the party becuase Chuck, her familiar, told her that a fortune teller was traveling through town.  Digoria went to visit the foruten teller and hired the dwarf, Balfador, and the elf that was rescued, Alodel, to "attend to some other errands."
 
@@ -43,15 +37,15 @@ With rolling eyes and a sigh, Digoria vaults over Link and attacks the drow arou
 
 Digoria charges further into the towards a throne-like area; killing a slew of drow on her way.  Much to her surprise she is met by a summoned drow cleric!
 
-<a href="https://s-media-cache-ak0.pinimg.com/originals/f0/e5/fd/f0e5fd2f21c3049ddb209b4acd524af9.jpg"><img src="https://s-media-cache-ak0.pinimg.com/originals/f0/e5/fd/f0e5fd2f21c3049ddb209b4acd524af9.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"</a>
+<a href="https://s-media-cache-ak0.pinimg.com/originals/f0/e5/fd/f0e5fd2f21c3049ddb209b4acd524af9.jpg"><img src="https://s-media-cache-ak0.pinimg.com/originals/f0/e5/fd/f0e5fd2f21c3049ddb209b4acd524af9.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
 After the combat settles, Cas and Link finishing off the minions while Digoria slays the cleric (after a fairly close call mind you!), the group dcides to split up.  Digoria sends Chuck to go explore with Cas, while she and Link go the other direction.
 
 Heading south, Digoria and Link find two drow sleeping outside of prison cells.  They are easily killed and one of the drow conveniently has a key to one of the jail cells.  A modest dwarf is inside, and he states that he does not have a key for his friend's jail cell.
 
-<a href="https://s-media-cache-ak0.pinimg.com/736x/5b/dc/68/5bdc683160fe79246e3a495a9ff279c7.jpg"><img src="https://s-media-cache-ak0.pinimg.com/736x/5b/dc/68/5bdc683160fe79246e3a495a9ff279c7.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
-
 Meanwhile, north in the cave, Cas has been spotted by a powerful drow shaman who has been guarding the cave.  Seeing no help readily avaiable, he readies for combat and tells Chuck to go find the others!  Fast!
+
+<a href="https://s-media-cache-ak0.pinimg.com/736x/5b/dc/68/5bdc683160fe79246e3a495a9ff279c7.jpg"><img src="https://s-media-cache-ak0.pinimg.com/736x/5b/dc/68/5bdc683160fe79246e3a495a9ff279c7.jpg" style="max-width: 30%; height: auto; float: right; margin: 5px"></a>
 
 Back on the south end of the cave, after Chuck's flight, Digoria tells Link to take the dwarf and search for the other key while she goes to help Cas.  Cas almost dies at the hand of the doppelganger risen by the shaman as it provides a good enough sheild for her to openly cast spells upon Cas.
 
