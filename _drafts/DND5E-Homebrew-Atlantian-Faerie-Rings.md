@@ -20,7 +20,7 @@ comments: true
 
 | **Type:** | Wonderous Item |
 | **Weight:** | 1 |
-| **Requirement:** | Attunement |
+| **Requirement:** | Attunement, 7th level spellcaster |
 | **Rarity:** | There are atleast 4 (2 yellow, 2 green) known to exist. |
 
 ---

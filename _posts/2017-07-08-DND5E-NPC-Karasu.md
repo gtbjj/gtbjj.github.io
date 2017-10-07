@@ -95,7 +95,7 @@ Karasu is a practitioner of the arcane arts.  He is a 9th-level spellcaster.  Hi
 
 Karasu is known to be cunning and ruthless.  He has stated stated that he learned the art of magic from Cain the Necromancer.  It is also rumored that Karasu also saught out The Master Sword in the Kokiri forrest and killed many elven warriors along the way.  However, once inside The Forrest Temple, he was magically sealed inside the temple by the (sacrificed) life force of the forrest's protective Deku Tree.  It is unknown if he was able to draw The Master Sword from its place of holding.
 
-Karasu has sired at least one vampire spawn ([Phage Elung]({% post_url 2017-04-23-DND5E-NPC-Phage %})).
+Karasu has sired at least one vampire spawn ([Phage Elung](http://rockandcode.ga/tags/#phage)).
 
 Homebrew of the [Yu Yu Hakusho character of the same name](http://yuyuhakusho.wikia.com/wiki/Karasu).
 

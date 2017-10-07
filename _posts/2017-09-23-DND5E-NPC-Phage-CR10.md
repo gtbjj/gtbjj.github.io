@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND5E: Phage Elung"
+title: "DND5E: Phage Elung (CR 10)"
 excerpt: "NPC"
 category:
 - RPG
@@ -25,7 +25,7 @@ comments: true
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** 82
+**Hit Points** 127
 
 **Speed** 30 ft.
 
@@ -35,11 +35,11 @@ comments: true
 
 **Damage Resistances** necrotic, bluedoning, piercing, and slashing from non-magical attacks
 
-**Senses** darkvision 60 ft., passice Perception 13
+**Senses** darkvision 60 ft., passive Perception 13
 
-**Languages** common, elvish, drow sign
+**Languages** common, elvish, drow sign, undercommon
 
-**Challenge** 7 (2,900 XP)
+**Challenge** 10 (5.900)
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | 19 (+4) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
@@ -53,6 +53,12 @@ comments: true
 ***Vampire Weakness.*** The vampire has the following flaws: Forbiddance. The vampire can’t enter a residence without an invitation from one of the occupants. Harmed by Running Water. The vampire takes 20 acid damage when it ends its turn in running water. Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place. Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
 ***Etherealness:***  Phage magically enters the Ehtereal Plan from the Material Plane, or vice versa.  To do so, she must have a heartstone in her posession.  (This was given to her by her mother, a night hag.)
+
+***Spellcasting:***  Phage's spellcasting ability comes through worship of the occult.  Her spellcasting ability is Charisma (save DC 12, +4 to hit).  She has the following sorcerer spells prepared:
+
+- *Cantrips (at will)*:  Blade Ward
+- *1st level (4 slots)*:  Sheild
+- *2nd level (3 slots)*:  Hold Person, Darkness
 
 **Actions**
 
@@ -69,6 +75,7 @@ comments: true
 - [Hearthstone](https://www.dandwiki.com/wiki/Hearthstone_(5e_Equipment))
 - [Ring of Warmth](https://open5e.com/equipment/magic-items/ring-of-warmth.html)
 - [Gauntlets of Ogre Power](https://roll20.net/compendium/dnd5e/Gauntlets%20of%20Ogre%20Power#content)
+- [Broom of Flying](https://roll20.net/compendium/dnd5e/Broom%20of%20Flying#content)
 
 ---
 
@@ -102,35 +109,27 @@ Phage was allegely born from a Vampire Spellcaster and has stated that she was g
 
 ---
 
-#### Other Versions:
+#### Base Version:
 
 - [Vampire Spawn](https://chisaipete.github.io/bestiary/creatures/vampire-spawn), CR 5 (1,800 XP)
 
+#### Other Notes:
+
+- [Night Mother](https://i.pinimg.com/originals/04/26/c6/0426c6fdf9294d03cdef59734d4a127a.png), CR 12 (8,400 XP)
+
 <!--
-Future (from Night Mother vampire variant):
-- CR 10
-  - 112 HP
-  - Spellcasting (CHA 15, +4 to hit)
-  - Cantrips (at will): Blade Ward
-- CR 12
-  - 127 HP
-  - Spellcasting (CHA 16)
-  - +8 to physical hit, +5 to spells
-  - Cantrips (at will): Blade Ward
-  - 1st level spells (2): Sheild
-  - 2nd level spells (1): Darkness
-- CR 15
+- CR 12 (after Karasu / Corros)
   - 142 HP
   - Spellcasting (CHA 16)
-  - +8 to physical hit, +5 to spells
+  - +8 to physical hit
   - Cantrips (at will): Blade Ward
-  - 1st level spells (3): Sheild
-  - 2nd level spells (2): Darkness
+  - 1st level spells (4): Sheild
+  - 2nd level spells (3): Darkness, Hold Person
   - 3rd level spells (1): Haste
-- CR 16
+- CR 15
   - 157 HP
   - Spellcasting (CHA 16)
-  - +8 to physical hit, +5 to spells
+  - +5 to spells
   - Cantrips (at will): Blade Ward
   - 1st level spells (3): Sheild
   - 2nd level spells (2): Darkness

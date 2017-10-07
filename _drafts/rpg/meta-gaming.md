@@ -2,29 +2,36 @@
 
 **Tomb of Queen Paragrin** 
 
-> ... (in mines beneath Ogelstein) sealed by magic, never opened
+> ... (in mines beneath Tristram) sealed by magic, never opened
 
 **Tristram Cathedral** 
 
-> ... had a "fallen star" crash into it, apparently great power, but may evils plauged the area and adventurers eventually gave up task.
+> apparently haunted by great magic after a "falling star" crashed into it
 
 **Master Sword**
-  - Location: Kokiri Forrest
-  - Guardian: Magic Fire > Magic Sealed Temple > Vampire Spellcaster
+  > Location: ?
+  > Guardian: ?
+
+---
+
+
+Alodel been studying the Horadrim and Tal Rasha's tomb.  Researching soul stones and how to seal things / people / spirits inside them.
 
 **Atlantian Faerie Rings**
   - Ring 1:
     - Location: Kokiri Forrest
-    - Guardian: Vampire Spellcaster, CR15
+    - Guardian: Vampire Spellcaster, CR15 (can't use was seeking dark fey magic in Kokiri Forrest, not master sword -- which is apparently missing.  Lost in battle to Corros and his guardians.  Now freed by his death.)
   - Ring 2:
-    - Location: Tristram
-    - Guardian: Mummy Lord, CR16
+    - Location: Tristram Cathedral
+    - Guardian: Mummy Lord, CR16 (given by Lich) / Demilich CR 18
   - Ring 3:
-    - Location: Caldeum
-    - Guardian: Solar, CR21
+    - Location: Entsteig
+    - Guardian: Corros (Archmage, CR12)
   - Ring 4:
     - Location: unknown (Tristram?)
     - Guardian: unknown (Lich? CR21)
+
+---
 
 #### Permanent Gear:
 
@@ -42,15 +49,13 @@
   - Cas:  Armor (R), , ? (R), ?(VR)
   - Digoria: ? (R), ? (VR)
 
+---
+
 #### Future Plots / Hooks:
 
 - Cas character development
   - incorporate outsiders (he speaks celestial)
   - wife / family / kids killed in some catastrophe and he survived
-
-- Clash between Digoria and Cas / Link
-  - "you deny your weapon its purpose"
-  - "you have one fundamental flaw.  deep down inside, you're a good person.  deep down inside, I'm not."
 
 #### Beta Quest Titles:
 

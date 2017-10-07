@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND5E: Fane of the Drow, Part 3"
+title: "DND5E: Fane of the Drow, Part III"
 excerpt: "Dawn Treaders Campaign, Quest 4.3"
 category:
 - RPG
@@ -21,7 +21,7 @@ tags:
 comments: true
 ---
 
-| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow, Part III | **DM:** Ryan |
+| **Campaign:**  Dawn Treaders | **Quest:**  Fane of the Drow, Part 3 | **DM:** Ryan |
 
 ---
 

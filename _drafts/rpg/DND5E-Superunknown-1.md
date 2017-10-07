@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DND5E: Superunknown, I"
-excerpt: "Dawn Treaders Campaign, Quest 5.1"
+excerpt: "Dawn Treaders Campaign, Quest 6.1"
 category:
 - RPG
 tags:
@@ -10,7 +10,7 @@ tags:
 - dungeons and dragons
 - quest log
 - dawn treaders
-- rainbow in the dark
+- superunknown
 - digoria
 - cas
 - link
