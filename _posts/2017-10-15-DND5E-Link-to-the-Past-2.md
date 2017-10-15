@@ -42,11 +42,11 @@ The Great Deku Tree tells Link that he must seek help for the forrest as his pur
 
 Link is feeling energized while Digoria is looking more suspicous than usual.  Cas, apparently more weary than he led on has fallen asleep sitting agianst the tree stump.  Digoria and Link decide to do a bit more exploring, perhaps one of the other paths before waking Cas.
 
+<a href="https://pre00.deviantart.net/2d7b/th/pre/i/2012/100/5/9/burning_woods_by_alexlinde-d4ug2ph.jpg"><img src="/images/dnd/burning_woods.jpg" style="height: auto;l width: 100%"></a>
+
 They come to the burning path and Link self-righteously, though foolhardy, asserts that this must be the path to the forest temple where *"it is his duty to draw the master sword and slay the vampire"*.  Digoria promptly imforms him of his stupidity and states that he wouldn't stand a chance against a spellcasting vampire even if he had The Master Sword.
 
 Only slightly swayed, Link has his heart set on trying to make it through the blazing walls of fire.  Digoria, giving in (as she often does) to a mischevious nature, antganoizes Link's naivette and takes advantage of his huberous:  suggesting that he try to belly slide on his sheild through the blaze.
-
-<a href="https://pre00.deviantart.net/2d7b/th/pre/i/2012/100/5/9/burning_woods_by_alexlinde-d4ug2ph.jpg"><img src="/images/dnd/burning_woods.jpg" style="height: auto;l width: 100%"></a>
 
 Link thinks it's a great idea!  He readies himself and takes fully charge.  However, he makes it about 15 feet into the 50+ fleet of blazing forrest before coming to standstill and realizing that now he will likely die before he can make it out of the fire.  After much pleading with Digoria, she is able to delicately vault into the fire and pull Link out, though the she (concealing the fact) is badly wounded in the process as well.
 
