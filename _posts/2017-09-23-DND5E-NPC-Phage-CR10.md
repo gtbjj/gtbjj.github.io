@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND5E: Phage Elung (CR 10)"
+title: "DND5E: Phage Elung (CR 12)"
 excerpt: "NPC"
 category:
 - RPG
