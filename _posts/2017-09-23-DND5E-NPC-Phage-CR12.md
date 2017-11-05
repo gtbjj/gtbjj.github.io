@@ -39,7 +39,7 @@ comments: true
 
 **Languages** common, elvish, drow sign, undercommon
 
-**Challenge** 10 (5.900)
+**Challenge** 12 (8,400)
 
 | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
 | 19 (+4) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |

@@ -17,18 +17,23 @@ Amusing myself with fantasy, projection, and escapism somewhere between fan fict
 
 <div style="height: 400px; width: 30%; overflow: scroll; float: right; text-align: center">
   <p style="color: white; background-color: black; border-radius: 10px">Cast / Characters</p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-Profile-Digoria/"><img title="Digoria Antica" src="../images/dnd/digoria.jpg" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-Profile-Balfador/"><img title="Balfador Bombador" src="../images/dnd/balfador.jpg" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Corros/"><img title="Corros" src="../images/dnd/corros.jpg" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Ellion/"><img title="Ellion Stryfe" src="../images/dnd/ellion.jpg" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Phage-Elung-CR12/"><img title="Phage Elung" src="../images/dnd/phage.jpg" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="https://drive.google.com/file/d/0BwQNloQbtainM0g2OTZTMU9EOUk/view?usp=sharing"><img title="Link" src="../images/dnd/link.png" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing"><img title="Raiden" src="../images/mhrp/raiden.jpg" style="max-width: 60%; height: auto; border-raidus: 10px"></a></p>
-  <p><a href="https://drive.google.com/file/d/0B3L-FHD8lwfVdTBzblJXTU1RSnc/view?usp=sharing"><img title="Cas" src="../images/dnd/cas.jpg" style="max-width: 60%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-Profile-Digoria/"><img title="DND - Digoria Antica" src="/images/dnd/digoria.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-Profile-Balfador/"><img title="DND - Balfador" src="/images/dnd/balfador.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+    <p><a href="https://drive.google.com/file/d/0B3L-FHD8lwfVdTBzblJXTU1RSnc/view?usp=sharing"><img title="DND - Cas" src="/images/dnd/cas.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPTWxtd3M2cHkwVGs/view?usp=sharing"><img title="DND - Alodel Erwer" src="/images/dnd/alodel.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Phage-Elung-CR12/"><img title="DND - Phage Elung" src="/images/dnd/phage.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Karasu/"><img title="DND - Karasu" src="/images/dnd/karasu.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Ellion/"><img title="DND - Ellion Stryfe" src="/images/dnd/ellion.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Gachev"><img title="DND - Gachev" src="/images/dnd/gachev.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Natalya"><img title="DND - Natalya" src="/images/dnd/natalya.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="https://drive.google.com/file/d/0BwQNloQbtainM0g2OTZTMU9EOUk/view?usp=sharing"><img title="DND - Link" src="/images/dnd/link.png" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Altorin/"><img title="DND - Altorin" src="/images/dnd/altorin.jpg" style="max-width: 50%; height: auto; border-raidus: 10px"></a></p>
+  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Corros/"><img title="DND - Corros" src="/images/dnd/corros.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
+
+
+  <p><a href="https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing"><img title="MHRP - Raiden" src="/images/mhrp/raiden.jpg" style="max-width: 50%; height: auto; border-raidus: 10px"></a></p>
+
   <!--
-  <p><a><img title="Altorin" src="../images/dnd/altorin.jpg" style="max-width: 60%; height: auto; border-raidus: 10px"></a></p>
-  <p><a><img title="Karasu"></a></p>
-  <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPTWxtd3M2cHkwVGs/view?usp=sharing"><img title="Alodel Erwer"></a></p>
   <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPbTNNQTBudmtfc2M/view?usp=sharing"><img title="Alushiv Vandel"></a></p>
   <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPS25GTG14QXlNY1E/view?usp=sharing"><img title="Panapos Thorivian"></a></p>
   -->

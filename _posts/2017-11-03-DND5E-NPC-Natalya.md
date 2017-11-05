@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DND5E: Citara"
+title: "DND5E: Natalya"
 excerpt: "NPC - Diablo 3 Demon Hunter"
 category:
 - RPG
@@ -12,9 +12,9 @@ comments: true
 
 ----
 
-**Medium Human, chaotic good**
+**Medium Human, Lawful Good (chaotic tendencies)**
 
-<a href="https://orig00.deviantart.net/4305/f/2010/301/9/f/demon_hunter_diablo_3___talia_by_shikamaru_no_kage-d31op84.jpg"><img src="/images/dnd/citara.jpg" style="float: right; width: 30%; height: auto"></a>
+<a href="https://orig00.deviantart.net/4305/f/2010/301/9/f/demon_hunter_diablo_3___talia_by_shikamaru_no_kage-d31op84.jpg"><img src="/images/dnd/natalya.jpg" style="float: right; width: 30%; height: auto"></a>
 
 **Armor Class** 17 (half plate)
 

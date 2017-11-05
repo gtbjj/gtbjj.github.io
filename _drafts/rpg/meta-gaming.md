@@ -5,12 +5,12 @@
 > ... (in mines beneath Tristram) sealed by magic, never opened
 
 **Master Sword**
-  > Location: ?
+  > Location: ? (Kokiri Forest Temple has not been checked after opened after Corros' death)
   > Guardian: ?
 
 ---
 
-**Atlantian Faerie Rings**:  *14 total, one for each out plane of heaven / hell*
+**Fey Rings of Atlantis**:  *14 total, one for each out plane of heaven / hell*
   - Ring 1:
     - Location: Kokiri Forrest
     - Guardian: Vampire Spellcaster, CR15 (can't use was seeking dark fey magic in Kokiri Forrest, not master sword -- which is apparently missing.)
@@ -20,15 +20,13 @@
   - **Ring 3:**
     - Location: Entsteig
     - Guardian: Corros (Archmage, CR12)
-  - Ring 4:
-    - Location: unknown
-    - Guardian: unknown
+    - Status: Posessed by Digoria
 
 ---
 
 #### Permanent Gear:
 
-|                    | Digoria (10)  | Cas (8)      | Link (6)     | Alodel (5) |
+|                    | Digoria (11)  | Cas (8)      | Link (6)     | Alodel (5) |
 | ------------------ | ------------- | ------------ | ------------ | ---------- |
 | Uncommon (lvl 4)   | **yes**       | **yes**      | **yes**      |
 | Uncommon (lvl 7)   | **yes**       | **yes**      | **yes**      |
