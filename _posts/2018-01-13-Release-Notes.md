@@ -1,0 +1,87 @@
+---
+layout: post
+title: "Release notes:  2018-01"
+excerpt: "January 2018 build, progress, and update notes."
+category:
+- Android
+tags:
+- android
+- root
+- rom
+- kenrel
+- release notes
+- developer notes
+- nexus 6p
+- angler
+- n6p
+---
+
+### Pure AOSP
+
+Every month I make a pure [AOSP build](https://source.android.com/source/) from [the latest Nexus 6P 
+branch](https://source.android.com/source/build-numbers#source-code-tags-and-builds) and [vendor 
+binaries](https://developers.google.com/android/drivers#angler).  I dont' have the time to figure out updater scripts as of late, but I can 
+still host the generated images ([download boot/system/vendor images](https://mega.nz/#F!UmxjEAya!HJUnR9-F8qjYUFbI_Y9nYw)).  [Open 
+GApps](http://opengapps.org/) does not yet support Android 8.0, so I also host another 8.0 GApps package I've found ([download 
+GApps](https://mega.nz/#F!UjQxgBxZ!GqjeySRzSKOR0E6j9xmI0A)).
+
+I also recommend checking your [TWRP version](https://dl.twrp.me/angler/) and [SuperSU version](http://www.supersu.com/download) when 
+updating.  It may also be necessary to flash [gladiac's build.prop 
+fix](https://forum.xda-developers.com/nexus-9/development/fix-build-prop-variety-fix-aka-contact-t3133347) as well.  All images can be 
+downloaded directly to device and then falshed in TWRP.
+
+> 2017-11-08:  For several months now I've been having build issues with AOSP and have not been able to update.  I have presented [the issue on 
+StackOverflow](https://stackoverflow.com/questions/47215205/android-build-error-make-build-core-main-mk21-run-soong-ui-error-1).  Until then, I 
+recommend downloading and unzipping the lated [factory image](https://developers.google.com/android/images#angler).  From there, you can unzip 
+the built .img and rather than "flashall", manually flash boot.img, system.img, and vendor.img.  After doing so you'll need to use fastboot to 
+reinstall TWRP and then reflash SuperSU.  You do not need to add GApps when using this method.
+
+---
+
+#### Austin's ROM
+
+This ROM will feature an AOSP build plus my aFlash Kenrel (above), in additon to some other personal tweaks.
+
+2017-11-08:  Due to the problems I've been having building AOSP, my ROM development is on an indefinite hiatus.  However, as I continue to 
+pull and theme different apps, there will be links posted to their respective repos.
+
+> *Developer Note:*  Color schemes for apps can be changed in:
+```platform/pcakages/apps/APP_NAME/res/values/colors.xml```
+
+> *Developer Note:*  Can extract ```system.img```, ```boot.img```, and ```vendor.img``` from [factory images](https://developers.google.com/android/images#angler)) by unzipping the downloaded file and contained .zip.
+
+---
+
+#### Nexus 6P (Angler) Kernel
+
+Formerly, I had forked [Flash Kernel](https://github.com/nathanchance/angler) and renamed the kernel *aFlash Kernel* after applying a personalized init profile via [AnyKernel](https://github.com/nathanchance/AnyKernel2).
+
+Then I added many (many!) of the published interactive governor profiles around the interwebs to [my AnyKernel repo](https://github.com/savagezen/anykernel) which alloed the profiles to be switiched in [init.profiles.rc](https://github.com/savagezen/anykernel/blob/angler-personal/ramdisk/init.profiles.rc).
+
+The benefit here is that a single digit can be changed in [init.profiles.sh](https://github.com/savagezen/anykernel/blob/angler-personal/ramdisk/init.profiles.sh) and the kernel can be re-zipped and flashed.  There's no need to re-compile and this avoids the (in my experience) problem of apps such as Kernel Auditor sucking huge amounts of power to "hold" settings -- which is very counter-intuitive.
+
+The kernel was then, for a short term, dubbed "Savage Kernel" after Flash Kernel development (for Angler) appeared to stop at Android 8.0.0 (that is, at the time of writing, no 8.1.0 release has been made).  For simplicity sake I've dropped any naming convention other than ```made by @savagezen```.
+
+Going forward my personalize kernel will adhere to the following principles:
+
+- **Source**:  The project will remain [open source (GitHub)](https://github.com/savagezen/kernel_huawei_angler)... always.
+- **Security**: The project is forked from the [CopperheadOS](https://github.com/CopperheadOS) Angler kernel.  CopperheadOS is developed in line with ```linux-hardened``` ([technical overview](https://copperhead.co/android/docs/technical_overview)).
+- **Simplicity**:  Features will be added only as needed.
+- **Sanity (and balance)**:  Simply put, I need my phone to get s* done and I want it done fast.  But, I don't want to have to charge my phone between waking up and going to bed.  Uptimes and SOT (screen on time) can be manipulated, and synthetic benchmarks are not an accurate indication of day-to-day use.  All of those things are metrics for comoparison; tools for insight.
+
+> *Developer Note:*  Kernel / ROM does not need to be rebuilt to get latest security patch.  The [full OTA imagtes](https://developers.google.com/android/ota#angler) can be flashed to gain the update (often sooner than their available OTA).  However, you need to reflash [TWRP](https://dl.twrp.me/angler/) and reroot after doing so.  SuperSU did not work for me on Android v8.1.0, but Magisk did.
+
+**Kernel Features**:
+
+- Forked from [CopperheadOS angler kernel](https://github.com/CopperheadOS/kernel_huawei_angler)
+- Flashed with AnyKernel2 by [osm0sis](https://github.com/osm0sis/AnyKernel2)
+- My personal init profiles as well as dozens from around the web (see [init.profiles.rc](https://github.com/savagezen/anykernel/blob/angler-personal/ramdisk/init.profiles.rc)).
+- fiops I/O scheduler
+- TCP alogrithms (for congestion control):  bic, cubic, highspeed, h-tcp, hybia, illinois, lp, reno, scalable, vegas, veno, yeah, westwood (default)
+- touchboost disabled (in init profile)
+- removed secure boot and dm-verity checks
+- wakelock control:  wireless driver wakelock and wakelock period
+- wakelock control: remove unecessary wakelock gestures
+- fixed possible bluetooth memory leak fix and driver bug
+- Faux Sound Control support
+- KCAL color control

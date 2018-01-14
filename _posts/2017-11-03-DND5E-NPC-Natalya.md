@@ -8,7 +8,7 @@ tags:
 comments: true
 ---
 
-#### Citara
+#### Natalya
 
 ----
 
@@ -53,7 +53,7 @@ comments: true
 
 ***Blood Maledict (2/rest)*** *Blood Curse of the Marked:* As a bonus action, you can mark an enemy within 30 feet.  Until the end of your turn, all crimson rite damage you deal to the target is doubled.
 
-***Multiattack***  Citara makes two attacks.
+***Multiattack***  Natalya makes two attacks.
 
 ***Hand Crossbow, ranged weapon attack*** +7 to hit, range 30/120 ft. one target.  *Hit:* 7 (1d6 +4) piercing damage.
 
@@ -63,7 +63,7 @@ comments: true
 
 #### History and Personality
 
-Citara favors dual weilding [repeating hand crossbows](https://www.dandwiki.com/wiki/Crossbow,_Hand_Repeating_(5e_Equipment))
+Natalya favors dual weilding [repeating hand crossbows](https://www.dandwiki.com/wiki/Crossbow,_Hand_Repeating_(5e_Equipment))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qis_X2jiXCU" frameborder="0" allowfullscreen></iframe>
 
