@@ -17,8 +17,7 @@ Playing system admin on the weekends and learning about Linux and Open Source So
 
 <div style="height: 400px; width: 30%; overflow: scroll; float: right; text-align: center">
   <p style="color: white; background-color: black; border-radius: 10px">Projects</p>
-  <p><a href="https://github.com/savagezen/angler">aFlash Kernel</a></p>
-  <p><a href="https://github.com/savagezen/angler">Pure AOSP</a></p>
+  <p><a href="https://github.com/savagezen/kernel_huawei_angler">Angler Kernel</a></p>
   <p><a href="https://github.com/savagezen/x205ta">ASUS X205TA Help Guides</a></p>
   <p><a href="https://github.com/savagezen/pkgbuild">AUR Packages</a></p>
   <p><a href="https://github.com/savagezen/dnd-tools">dnd-tools</a></p>
