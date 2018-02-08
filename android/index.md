@@ -7,6 +7,10 @@ search_omit: true
 
 Adventures in Android programming and tinkering.  Featured projects include a [kernel for the Nexus 6P](https://github.com/savagezen/kernel_huawei_angler).  See also the <a href="/data_screens/">data and screenshots page</a>.
 
+| **Downloads:** | [Angler Kernel](https://www.androidfilehost.com/?w=files&flid=244515) | [Angler AOSP](https://www.androidfilehost.com/?w=files&flid=244516) | [Pure AOSP](https://www.androidfilehost.com/?w=files&flid=244519) | [GAPPS](https://www.androidfilehost.com/?w=files&flid=244522) |
+
+<br/>
+
 <div style="height: 400px; width: 65%; overflow: scroll; float: left">
   <ul class="post-list">
   {% for post in site.categories.Android %} 
