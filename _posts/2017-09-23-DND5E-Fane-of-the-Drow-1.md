@@ -18,6 +18,7 @@ tags:
 - digoria
 - alodel
 - balfador
+- rpg_quest
 comments: true
 ---
 

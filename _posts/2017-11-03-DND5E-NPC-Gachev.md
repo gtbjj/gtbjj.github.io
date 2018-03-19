@@ -5,6 +5,13 @@ excerpt: "NPC - Diablo 3 Monk"
 category:
 - RPG
 tags:
+- d&d
+- 5e
+- rpg
+- npc
+- rpg_people
+- diablo
+- monk
 comments: true
 ---
 

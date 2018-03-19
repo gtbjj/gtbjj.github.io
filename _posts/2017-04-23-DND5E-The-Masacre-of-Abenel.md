@@ -12,6 +12,7 @@ tags:
 - quest log
 - phage
 - magic the gathering
+- rpg_quest
 comments: true
 ---
 

@@ -12,6 +12,7 @@ tags:
 - quest log
 - digoria
 - days of future past
+- rpg_quest
 caomments: true
 ---
 

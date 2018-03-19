@@ -11,6 +11,7 @@ tags:
 - dungeons and dragons
 - homebrew
 - entropy tide
+- rpg_item
 comments: true
 ---
 

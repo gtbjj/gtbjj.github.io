@@ -9,6 +9,7 @@ tags:
 - d&d
 - dungeons and dragons
 - character profile
+- rpg_people
 - steampunk
 - balfador
 comments: true

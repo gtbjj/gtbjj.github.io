@@ -16,6 +16,7 @@ tags:
 - digoria
 - cas
 - link
+- rpg_quest
 comments: true
 ---
 

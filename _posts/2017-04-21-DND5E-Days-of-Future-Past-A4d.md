@@ -12,6 +12,7 @@ tags:
 - quest log
 - digoria
 - phage
+- rpg_quest
 comments: true
 ---
 

@@ -12,6 +12,7 @@ tags:
 - dungeons and dragons
 - digoria
 - days of future past
+- rpg_quest
 comments: true
 ---
 

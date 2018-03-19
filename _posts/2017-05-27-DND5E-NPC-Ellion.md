@@ -11,6 +11,7 @@ tags:
 - dungeons and dragons
 - npc
 - ellion
+- rpg_people
 comments: true
 ---
 

@@ -10,6 +10,7 @@ tags:
 - 5e
 - dungeons and dragons
 - npc
+- rpg_people
 comments: true
 ---
 

@@ -12,6 +12,7 @@ tags:
 - quest log
 - digoria
 - narnia
+- rpg_quest
 comments: true
 ---
 

@@ -12,6 +12,7 @@ tags:
 - dungeons and dragons
 - character profile
 - digoria
+- rpg_people
 comments: true
 ---
 

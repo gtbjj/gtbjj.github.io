@@ -11,6 +11,7 @@ tags:
 - dungeons and dragons
 - npc
 - altorin
+- rpg_people
 comments: true
 ---
 

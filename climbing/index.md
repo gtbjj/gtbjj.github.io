@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Rock Climbing
+title: Canines and Climbing
 excerpt: ""
 search_omit: true
 ---
 
 <div style="height: auto; width: 30%; float: right">
-  <iframe 
-src="//users.instush.com/side-bar/?rows=3&round=true&circle=false&pin=true&user_id=1769639109&username=savagezen&sid=-1&susername=-1&tag=-1&stype=mine&t=999999U-PODrPK3a_GOqZhPPPf2WzMHqCcxM3y5bouiLcTljpO9a-yZ7JKfeK736jVyhNJZApBTUW-ZoY" 
-allowtransparency="true" frameborder="0" scrolling="no"  
-style="display:block;width:160px;height:510px;border:none;overflow:visible;" ></iframe>
+  <!-- climbing feed -->
+  <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/aab59e0e2efa5c39a23beb375fe5dc83.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+  <!-- canine feed -->
+  <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/5a412d6cb7615f24af931acf03cc7762.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 </div>
 
 <div style="height: 510px; width: 65%; overflow: scroll; float: left">

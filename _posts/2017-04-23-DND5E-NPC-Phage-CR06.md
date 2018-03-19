@@ -8,6 +8,7 @@ tags:
 - rpg
 - dnd5e
 - d&d
+- rpg_people
 - dungeons and dragons
 - npc
 - phage

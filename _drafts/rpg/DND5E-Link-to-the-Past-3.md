@@ -8,9 +8,8 @@ tags:
 - d&d
 - 5e
 - dungeons and dragons
-- quest log
 - dawn treaders
-- tabletopthursday
+- rpg_quest
 - link to the past
 - link
 - cas
@@ -20,11 +19,20 @@ comments: true
 
 | **Campaign:**  Dawn Treaders | **Quest:** Link to the Past, Part 3 | **DM:** Austin |
 
+While casually relaxing in Headrig's tavern, the party learns through rumors that the town they call Tristram is actually "New Tristram" which reflects that it was founded on the ruins of "Old Tristram."  The stories follow that after many run ins with both lesser and greater evils, the darkening of the town lead to its eventual destruction, though the subsequent defeat of the Prime Evils as well.  New Tristram then began as a collection of merchants looking to profit on adventurers and travels drawn in by the old legends, looking to seek the riches of the Tristram Cathedral or adventuring fame.  The town slowly developed steady roots and became an established city.
+
+The party is tipped off to a potential adventure in the northern city-state of Entsteig.  where "a mountainous forest blankets a proud kindom that has pledged its loyalties to the Zakarum faith.  However, faith in the light is mixed with paganistic beliefs, and its people believe the neighboring Kokir Forest to be an enchanted place of fey spirits."  Legends speak of everything from goblins to archfey to vampire lords taking refuge in the forrest.
+
+Excited for the adventure at hand, Cas, Digoria, and Link set out through the central woodlands and mountainous foothills and make their way to the Kokir Forest.  
+
+
+
+
+There is some debate among the party as to what actions to take next while they are resting in Entsteig.  Cas and Link decide to go talk to Corros, but Digoria decides to go investigate the strange happenings with the disappearing guards.
+
+Link and Cas are greeted happily, or as happy as a tearse man can be, by Corros.  The two have many questions for the archmage, who starts by saying that the town they know as Tristram is actually "New" Tristram and it was founded on the ruins of the "Old Tristram."
+
 ---
-
-#### Story
-
-- Cas and Link go to talk to Corros
 
 While Digoria Away:
 - fights warlock (mage)
@@ -71,16 +79,6 @@ While Digoria Away:
 - Rumor 2:  [If Link asks Deku tree about parents] mother had a strong relationship with faerie folk
 - Rumor 3:  Link's father didn't die in combat, may have succomb to dark forces; though some brave mortal men tried to stop / save him (Cas mother / father / family)
 - Romor 4:  Where is Link's mother?  In bow?
-
-#### Locations:
-- Tristram (start):
-  - "Tristram / New Tristram was founded and built on the ruins of Old Tristram after the town's drakening and eventual distruction as well as 
-     the subesequent defeat of the Prime Evils.  Originally, simply a collection of merchants looking to profit on adventures and travelers 
-     drawn by legends of riches, it slowly set down roots and became and established town."
-- Ensteig (check comparison to Hyrule w/ Josh):
-  - "This, mountainous forests blanket Entsteig, and it is a proud kingdom that has pledged its loyalties to the Zakarum fail.
-    However, faith in the light is mixed with paganistic beliefs, and its people belive the Sharval Wilds to be an enchanted place of fey spirits.
-    Goblins and dragons feature in Entsteig folklore."
 
 #### Encounters:
 - Kokiri Forest

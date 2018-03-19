@@ -11,6 +11,7 @@ tags:
 - dungeons and dragons
 - npc
 - karasu
+- rpg_people
 comments: true
 ---
 

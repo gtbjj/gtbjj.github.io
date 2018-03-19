@@ -5,6 +5,11 @@ excerpt: "NPC - Diablo 3 Demon Hunter"
 category:
 - RPG
 tags:
+- d&D
+- 5e
+- diablo
+- rpg_people
+- npc
 comments: true
 ---
 

@@ -15,6 +15,7 @@ tags:
 - cas
 - link
 - corros
+- rpg_quest
 comments: true
 ---
 

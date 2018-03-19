@@ -11,6 +11,7 @@ tags:
 - dungeons and dragons
 - quest log
 - balfador
+- rpg_quest
 comments: true
 ---
 

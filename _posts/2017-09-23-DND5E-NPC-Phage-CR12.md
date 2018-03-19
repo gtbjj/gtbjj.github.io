@@ -12,6 +12,7 @@ tags:
 - npc
 - phage
 - magic the gathering
+- rpg_people
 comments: true
 ---
 

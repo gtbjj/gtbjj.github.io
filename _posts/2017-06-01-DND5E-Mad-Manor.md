@@ -15,6 +15,7 @@ tags:
 - mad manor
 - cas
 - link
+- rpg_quest
 comments: true
 ---
 

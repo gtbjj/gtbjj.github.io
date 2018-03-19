@@ -5,7 +5,14 @@ excerpt: ""
 search_omit: true
 ---
 
-Amusing myself with fantasy, projection, and escapism somewhere between fan fiction and proper pen-and-paper role playing games.
+Amusing ourselves with fantasy, projection, and escapism with pens, paper, and dice.  This is the "wiki" for the D&D (5e) world my campaign and I have created.
+
+<div style="width: 65%; float: left">
+  <h3><u>All RPG Posts</u></h3>
+</div>
+<div style="width: 25%; float: right">
+  <h3><u>D&D 5E Wiki</u></h3>
+</div>
 
 <div style="height: 400px; width: 65%; overflow: scroll; float: left">
   <ul class="post-list">
@@ -16,25 +23,9 @@ Amusing myself with fantasy, projection, and escapism somewhere between fan fict
 </div>
 
 <div style="height: 400px; width: 30%; overflow: scroll; float: right; text-align: center">
-  <p style="color: white; background-color: black; border-radius: 10px">Cast / Characters</p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-Profile-Digoria/"><img title="DND - Digoria Antica" src="/images/dnd/digoria.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-Profile-Balfador/"><img title="DND - Balfador" src="/images/dnd/balfador.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-    <p><a href="https://drive.google.com/file/d/0B3L-FHD8lwfVdTBzblJXTU1RSnc/view?usp=sharing"><img title="DND - Cas" src="/images/dnd/cas.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPTWxtd3M2cHkwVGs/view?usp=sharing"><img title="DND - Alodel Erwer" src="/images/dnd/alodel.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Phage-Elung-CR12/"><img title="DND - Phage Elung" src="/images/dnd/phage.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Karasu/"><img title="DND - Karasu" src="/images/dnd/karasu.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Ellion/"><img title="DND - Ellion Stryfe" src="/images/dnd/ellion.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Gachev"><img title="DND - Gachev" src="/images/dnd/gachev.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Natalya"><img title="DND - Natalya" src="/images/dnd/natalya.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="https://drive.google.com/file/d/0BwQNloQbtainM0g2OTZTMU9EOUk/view?usp=sharing"><img title="DND - Link" src="/images/dnd/link.png" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Altorin/"><img title="DND - Altorin" src="/images/dnd/altorin.jpg" style="max-width: 50%; height: auto; border-raidus: 10px"></a></p>
-  <p><a href="http://rockandcode.ga/rpg/DND5E-NPC-Corros/"><img title="DND - Corros" src="/images/dnd/corros.jpg" style="max-width: 50%; height: auto; border-radius: 10px"></a></p>
-
-
-  <p><a href="https://docs.google.com/spreadsheets/d/1p-WQgYI7Ct9d_1YGmA7DXQ6TMRv-c2dUVo1vQdtRU7M/edit?usp=sharing"><img title="MHRP - Raiden" src="/images/mhrp/raiden.jpg" style="max-width: 50%; height: auto; border-raidus: 10px"></a></p>
-
-  <!--
-  <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPbTNNQTBudmtfc2M/view?usp=sharing"><img title="Alushiv Vandel"></a></p>
-  <p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPS25GTG14QXlNY1E/view?usp=sharing"><img title="Panapos Thorivian"></a></p>
-  -->
+  <p><a href="/rpg_people"><h3>People</h3></a></p>
+  <p><a href="/rpg_places"><h3>Places & Maps</h3></p>
+  <p><a href="/rpg_items"><h3>Items</h3></a></p>
+  <p><a href="/rpg_lore"><h3>Lore</h3></a></p>
+  <p><a href="/rpg_quests"><h3>Quests</h3></a></p>
 </div>
