@@ -5,10 +5,8 @@ excerpt: ""
 search_omit: false
 ---
 
-<div style="height: 400px; width: 65%; overflow: scroll; float: left">
-  <div style="height: 400px; width: 30%; overflow: scroll; float: right">
-    <iframe src="https://drive.google.com/embeddedfolderview?id=1kn9cyuGydB0itmdrbzl15Ajh-fAjUeKz#list" style="width:100%; height:600px; border:0;"></iframe>
-  </div>
+<div style="height: 400px; width: 100%; overflow: scroll">
+  <iframe src="https://drive.google.com/embeddedfolderview?id=1kn9cyuGydB0itmdrbzl15Ajh-fAjUeKz#list" style="width:100%; height:600px; border:0;"></iframe>
   <ul class="posts">
   {% assign count = 0 %}
   {% for post in site.posts %}

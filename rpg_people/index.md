@@ -5,7 +5,8 @@ excerpt: ""
 search_omit: false
 ---
 
-<div style="height: 400px; width: 65%; overflow: scroll; float: left">
+<div style="height: 400px; width: 100%; overflow: scroll">
+  <iframe src="https://drive.google.com/embeddedfolderview?id=0B2RH_BSaD6YPN1FySkNyM2JuSms#list" style="width:100%; height:600px; border:0;"></iframe>
   <ul class="posts">
   {% assign count = 0 %}
   {% for post in site.posts %}
