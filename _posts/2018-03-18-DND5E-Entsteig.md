@@ -14,3 +14,5 @@ comments: true
 ---
 
 coming soon
+
+<img src="https://drive.google.com/uc?export=view&id=FILEID" />
