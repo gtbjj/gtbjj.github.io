@@ -43,6 +43,8 @@ Things I'm Still Working On:
 - Drives and motivation change:  it's my job to make myself interesting to my dog so that he will be engaged with and work for me.  Somedays we like food.  Somedays we like would starve to bite a stick.
 - Egos:  Things were easier when we knew nothing about eachother.  Now we have some progress and I have to watch my temper closer than ever because expectations, tension, and disappointment (in myself) travel "right down the leash to the dog" (as they saying goes).
 - Having Fun:  Sometimes it's difficult to remember.  The whole point (for me) of training my dog in a working dog fashion is to have a protector and a companion.  The above mentions of *physicality* and *egos* sometimes rob training and palying of their fun which is, in fact, the anteithesis of *good* training and *bonding*.
+- Take the long view:  Early progresss skews (or skewed my) perception.  Great things take great effort over a long time.  It's easier for me to see this with things that I've been practicing for a while (like climbing), but am still grasping at with dog training.  As Dan John says, "A little bit, often, for a long time" is give you the best and easiest results.
+- **Listen to the damn dog!**:  As summer is setting in, Dean's endurance for any given training session is getting shorter -- he's never been worked in the heat before.  Also, I find myself being more irritable when I and the weather are hot.
 
 
 
