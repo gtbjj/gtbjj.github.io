@@ -8,7 +8,9 @@ tags:
 - d&d
 - dnd
 - 5e
-- Dawn Treaders
+- quest log
+- dawn treaders
+- darkening of entsteig
 - Digoria
 - Cas
 - Alodel
@@ -16,6 +18,8 @@ tags:
 - Entsteig
 comments: true
 ---
+
+| **Campaign:** Dawn Treaders | **Quest:** Darkening of Entsteig, Part I | **DM:** Austin |
 
 Our adventurers Digoria, Cas, and Alodel found themselves in the safehouse in Entsteig, with access to a secret tunnel into the keep. Karasu, the vampire, has left in search of a powerful magic ring, but has left a powerful vampire spawn, Phage, patrolling the city on broomstick. The party has encountered her before, but does not know her exact whereabouts in the city at this time. The townspeople let us know that what was left of Corros was buried in the Kokiri Forest near the Deku tree. 
 

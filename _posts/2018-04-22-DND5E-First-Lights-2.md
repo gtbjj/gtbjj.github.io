@@ -9,7 +9,8 @@ tags:
 - dnd
 - 5e
 - quest log
-- Dawn Treaders
+- dawn treaders
+- first lights
 - Digoria
 - Cas
 - Alodel
@@ -19,6 +20,8 @@ tags:
 - Duncraig
 comments: true
 ---
+
+| **Campaign:** Dawn Treaders | **Quest:** First Lights, Part II | **DM:** Ryan |
 
 The party departed Einsteig and headed south across the sea toward Duncraig. Nearly there, they encountered a huge storm and made port near a Salwhn Manor, where they were received by Lord Salwhn and a maid. Salwhn offered them refuge from the storm for the night.
 

@@ -8,14 +8,17 @@ tags:
 - d&d
 - dnd
 - 5e
-- Dawn Treaders
 - Digoria
 - Cas
 - Alodel
 - Corros
 - quest log
+- dawn treaders
+- darkening of entsteig
 comments: true
 ---
+
+| **Campaign:** Dawn Treaders | **Quest:** Darkening of Entsteig, Part II | **DM:** Austin |
 
 The party attempted to sneak back through the town, and while Digoria made it out unseen, Alodel is spotted near the gate. He took one large rock to the head from the guard, but managed to jump down to the moat and, with Digoria freezing the gate behind them, managed to make it back to the Kokiri forest largely unscathed. The party then made its way to the Deku tree, deep within the Kokiri forest.
 

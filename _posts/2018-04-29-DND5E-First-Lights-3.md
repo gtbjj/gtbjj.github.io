@@ -9,7 +9,8 @@ tags:
 - dnd
 - 5e
 - quest log
-- Dawn Treaders
+- dawn treaders
+- first lights
 - Digoria
 - Cas
 - Alodel
@@ -19,6 +20,8 @@ tags:
 - Altorin
 comments: true
 ---
+
+| **Campaign:** Dawn Treaders | **Quest:** First Lights, Part III | **DM:** Ryan |
 
 The party treks to Rondora to the east, and after a quick *and typical* exchange with the guards at the gate, the party enters the town and beings surveying their surroundings.
 
