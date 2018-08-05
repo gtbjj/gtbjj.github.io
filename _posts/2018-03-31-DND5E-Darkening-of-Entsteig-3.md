@@ -9,6 +9,7 @@ tags:
 - dnd
 - 5e
 - dawn treaders
+- darkening of entsteig
 - Digoria
 - Cas
 - Alodel
