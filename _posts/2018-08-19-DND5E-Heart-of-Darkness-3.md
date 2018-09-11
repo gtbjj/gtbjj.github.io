@@ -18,6 +18,8 @@ tags:
 comments: true
 ---
 
+| **Campaign:** Dawn Treaders | **Quest:** Heart of Darkness, Part III | **DM:** Ryan |
+
 The team wakes from a long rest and begins to examine the room they're in.  They find that the room has eight doors, not counting the stairwell from which they arrived.  The center of the room contains, not an altar, but some sort of large round, mechanical device embedded in the floor with many engravings around it.  Cas tries to use his strength to forcefully turn the object, but while it appears to be intended to move, only slightly budges as the device appears locked in place.
 
 Alodel opens the northern door after inspecting it for traps and takes note of the elaborate carvings of the heavens and angels on the ceiling.  Quickly, Alodel also notices a salt golem on the far side of the room and call over the other party members.  The golem does not appear initially hostile, but Alodel is suspicious of entering the room.  Digoria suggests that the other rooms be examined before entering in lieu of an ambush.  Cas and Alodel agree.

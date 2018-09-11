@@ -18,7 +18,7 @@ tags:
 comments: true
 ---
 
-*2018-07-29 Session:*
+| **Campaign:** Dawn Treaders | **Quest:** Heart of Darkness, Part II | **DM:** Ryan |
 
 As the party continued to explore the labyrinth they encountered a Yuan Ti Nightmare and a Yuan Ti Pit Master guarding one of the labyrinth's central chambers.  The pit master was distracted by some trickery from Digoria while she reported back to the party in order to avoid being detected by the monsters.  Once combat was initiated by the party the nightmare was quickly finished off by Cas while the pit master returned and tried to sneak attack Digoria who's frigid and protective thorn spells quickly reminded the pit master that you can't trick a trickster.
 
