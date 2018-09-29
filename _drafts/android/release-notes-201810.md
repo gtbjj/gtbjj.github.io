@@ -18,6 +18,46 @@ comments: true
 
 To Do:
 - october security patch
+- sweep to wake / sleep
+- FSYNC not disabling
+
+
+gestures:
+- electron: no conflicts or errors in build
+- perissions / settings not being set in init
+- set in spectrum.rc due to permissions?
+
+
+
+fsync:
+- echo N > /sys/module/sync/parameters/fsync_enabled
+- set in spectrum.rc due to permissions?
+
+
+init.sz.rc not being applied
+ - core control gets enabled
+ - no msm-thermal
+ - no fingerprint boost
+ - no spectrum profiles (? partial)
+ - no laptop mode
+ - fsync not isabled
+ - no backlight dimmer
+
+testing:
+- oreo-testing-201809-01.zip
+  - reset to august release
+  - wireguard support
+  - maple and sioplus io schedulers
+- oreo-testing-201809-02.zip
+  - wake gestures
+- oreo-testing-201809-03.zip
+  - september security patch
+  - NEED:  edit init.sz.rc / anykernel.sh to apply, try clean wipe / install
+
+- hima hotplug
+
+
+
 
 
 
