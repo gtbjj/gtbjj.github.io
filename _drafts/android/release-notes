@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Release Notes 2018-12-XX
+excerpt: "Savagezen's Angler Kernel Release Notes, Dec. 2018"
+category:
+- Android
+tags:
+- android
+- n6p
+- nexus 6p
+- root
+- kernel
+- release notes
+- developer notes
+- security patch
+- nexus
+comments: true
+---
+
+To Do:
+- Oreo
+  - add Dec. security patch (if it comes)
+  - rebase to Copperhead OS
+    - a brief history...
+  - test compilation with clang (vs. linaro)
+- Pie
+  - 9.0 ROMs:
+      - StatixOS:  https://forum.xda-developers.com/nexus-6p/development/rom-statixos-t3832438
+      - AOSP (beta):  https://forum.xda-developers.com/nexus-6p/development/rom-aosp-t3843647
+      - Havoc OS:  https://sourceforge.net/projects/havoc-os/files/angler/
+  - add pie compatibility
+
+
+#### Linaro vs. Clang
+
+Linaro 4.9 Compile Times (1 core):
+- 15:45:13
+- 13:04:19
+-
+
+Clang Compile Times (1 core):
