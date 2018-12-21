@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
+disqus: archnfoss
 google_analytics: UA-63934221-2
 title: Savagezen's Blog
 
