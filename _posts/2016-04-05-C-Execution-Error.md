@@ -4,7 +4,6 @@ title:  C Compilation and Execution Error
 excerpt:  "Fix for error:  C compilare cannot create executable."
 category:
 - Linux
-- Troubleshooting
 tags:
 - linux
 - arch linux

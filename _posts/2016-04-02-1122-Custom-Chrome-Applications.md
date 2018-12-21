@@ -4,8 +4,6 @@ title:  Custom Chrome Applications
 excerpt:  Building custom web apps for your local servers in less than 5 minutes.
 category:
 - Linux
-- Networking
-- Applications
 tags:
 - google
 - linux

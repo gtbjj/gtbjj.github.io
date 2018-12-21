@@ -3,11 +3,11 @@ layout: post
 title: PGP Signature Error
 excerpt: "Fix for makepkg error - one or more pgp signatures could not be verified" 
 category: 
-- Troubleshooting 
 - Linux 
 tags: 
 - arch 
 - linux 
+- troubleshooting
 - security 
 - makepkg 
 - pgp 

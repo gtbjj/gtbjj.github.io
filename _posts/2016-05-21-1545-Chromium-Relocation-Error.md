@@ -5,8 +5,6 @@ excerpt: "Fix for chromium relocation erorr related to
 pciutils update"
 category:
 - Linux
-- Applications
-- Troubleshooting
 tags:
 - linux
 - applications

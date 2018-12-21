@@ -1,71 +1,42 @@
-# Site wide configuration
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-title: "> rock(code) _"
-locale: en_US
-description: "rockandcode.ga (blog) | Musing about and documenting the things I do for fun:  Android, Linux, RPGs, and Rock Climbing."
-logo: site-logo.png
-search: true
-#url: https://gtbjj.github.io
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+paginate: 3 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
+markdown: kramdown
+disqus: dbyll
+google_analytics: UA-63934221-2
+title: Savagezen Blog
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Savagezen Blog
 
-mathjax: true
+description: 
+author:
+  name: Austin Haedicke  (@savagezen)
+  email: 
+  github: savagezen
+  twitter: 
+  pinterest: 
+  linkedin: 
+  telegram: savagezen
+  instagram: savagezen
+  bio: A minimalist guide to the things I do for fun.
+  email_md5:
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
 
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
-# Octopress
+BASE_PATH:
 
-# Default extensions
-post_ext: md
-page_ext: md
-
-# Found in _templates/
-post_layout: post
-page_layout: page
-
-# Format titles with titlecase?
-titlecase: true
-
-
-# Site owner
-owner:
-  name: Austin Haedicke
-  avatar: bio-photo.jpg
-  email: austin.haedicke@gmail.com
-  disqus-shortname: archnfoss
-  twitter: #username
-  facebook: #username
-  github: savagezen #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: savagezen #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: Austin Haedicke #username
-    analytics: 'UA-63934221-2'
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+plugins:
+  - jekyll-paginate

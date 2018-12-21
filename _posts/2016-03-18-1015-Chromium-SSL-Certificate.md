@@ -3,11 +3,11 @@ layout: post
 title: Chromium Certificate Error
 excerpt: "Solutions to Chromium complaints about 'connection not private'"
 category:
-- Troubleshooting
 - Linux
 tags:
 - arch
 - linux
+- troubleshooting
 - chromium
 - certificate
 - error

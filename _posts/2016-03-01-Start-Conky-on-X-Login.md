@@ -4,10 +4,10 @@ title: Starting Conky with X Login
 excerpt: "Simple fix to a simple operation"
 category: 
 - Linux
-- Troubleshooting
 tags:
 - arch
 - linux
+- troubleshooting
 - conky
 - login
 comments: true

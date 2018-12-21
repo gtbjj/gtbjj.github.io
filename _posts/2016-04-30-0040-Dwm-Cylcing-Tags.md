@@ -4,7 +4,6 @@ title: Cycling Tags in DWM
 excerpt: "Cycling through tags in DWM with arrow keys."
 category:
 - Linux
-- Applications
 tags:
 - linux
 - applications

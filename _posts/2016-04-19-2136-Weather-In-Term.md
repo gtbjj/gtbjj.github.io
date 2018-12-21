@@ -4,8 +4,6 @@ title: Terminal Weather with Adaptive Location
 excerpt: "Getting adaptive location based weather and forecast in terminal"
 category:
 - Linux
-- Eye Candy
-- Applications
 tags:
 - linux
 - applications

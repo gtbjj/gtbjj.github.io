@@ -8,8 +8,6 @@ excerpt: "Testing performance of Arch Linux installed over RAID0 on Asus X205TA"
 
 category:
 
-- Performance
-
 - Linux
 
 tags:
@@ -17,6 +15,8 @@ tags:
 - arch
 
 - linux
+
+- performance
 
 - raid
 

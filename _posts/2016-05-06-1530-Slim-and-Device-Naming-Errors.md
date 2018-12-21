@@ -4,7 +4,6 @@ title: Errors with SLiM and Block Device Naming
 excerpt: "Troubleshooting incorrect block device names after hard reboot resulting from SLiM failure to halt."
 category:
 - Linux
-- Troubleshooting
 tags:
 - linux
 - troubleshooting

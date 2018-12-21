@@ -4,7 +4,6 @@ title: Tweaking Swappiness for Performance
 excerpt:  "Adjusting swappiness based on system needs"
 category:
 - Linux
-- Performance
 tags:
 - linux
 - performance

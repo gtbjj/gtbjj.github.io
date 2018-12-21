@@ -4,10 +4,10 @@ title: Home Folder Encryption
 excerpt: "Encrypt your home folder / partition and decypt on user login"
 category:
 - Linux
-- Backup and Security
 tags:
 - linux
-- backup and security
+- backup
+- security
 - encryption
 - dm-crypt
 - home encryption

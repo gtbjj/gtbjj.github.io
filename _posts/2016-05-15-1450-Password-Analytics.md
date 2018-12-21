@@ -4,7 +4,6 @@ title: Password Analytics
 excerpt: "Some quality assurance checks and breif discussion of password strength"
 category:
 - Linux
-- Backup and Security
 tags:
 - linux
 - security
