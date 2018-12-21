@@ -18,7 +18,7 @@ defaults:
 
 description: 
 author:
-  name: Austin Haedicke  (@savagezen)
+  name: Austin Haedicke
   email: 
   github: savagezen
   twitter: 
@@ -26,7 +26,7 @@ author:
   linkedin: 
   telegram: savagezen
   instagram: savagezen
-  bio: A minimalist guide to the things I do for fun.
+  bio: A minimalist guide to my many projects.
   email_md5:
 
 rss_path: feed.xml
