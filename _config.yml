@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: UA-63934221-2
-title: Savagezen Blog
+title: Savagezen's Blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Savagezen Blog
+      title: Savagezen's Blog
 
 description: 
 author:
