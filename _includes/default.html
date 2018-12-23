@@ -6,7 +6,7 @@
 	{% if page.description %}
 	<meta name="description" content="{{ page.description }}">
 	{% endif %}
-	<meta name="author" content="{{ site.author.name }}">
+	<meta name="author" content="Unknown" >
 
 	<!-- Enable responsive viewport -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,24 +43,25 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
+			<a type="button" class="navbar-toggle nav-link" href="{{ site.BASE_PATH }}/{{ site.rss_path }}"><i class="fa fa-rss" style="color: #5294e2"></i></a>
 			{% if site.author.telegram %}
 			<a type="button" class="navbar-toggle nav-link" href="http://telegram.me/{{ site.author.github }}">
-				<i class="fa fa-envelope"></i>
+				<i class="fa fa-envelope" style="color: #5294e2"></i>
 			</a>
 			{% endif %}
 			{% if site.author.github %}
 			<a type="button" class="navbar-toggle nav-link" href="http://github.com/{{ site.author.twitter }}">
-				<i class="fa fa-github"></i>
+				<i class="fa fa-github" style="color: #5294e2"></i>
 			</a>
 			{% endif %}
 			{% if site.author.instagram %}
 			<a type="button" class="navbar-toggle nav-link" href="http://instagram.com/{{ site.author.instagram }}">
-				<i class="fa fa-instagram"></i>
+				<i class="fa fa-instagram" style="color: #5294e2"></i>
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-                                <img src="/assets/media/site-logo.jpeg" style="height: 30px; width: auto' border-raidus: 50%"></i>
-				<!--{{ site.title }}-->
+                                <!-- <img src="/assets/media/site-logo.jpeg" style="height: 30px; width: auto' border-raidus: 50%"></i>
+				{{ site.title }} -->
 			</a>
 		</div>
 

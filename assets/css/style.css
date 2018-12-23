@@ -1,5 +1,17 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
+/*
+Arc-Dark Color Palette 
+https://www.color-hex.com/color-palette/36646
+
+Charcol     #383c4a
+Dark Gray   #404552
+Gray        #4b5162
+Light Blue  #5294e2
+Light Gray  #7c818c
+
+*/
+
 body{
 	color: #FCF7FF;
 	background-color: #383c4a;
@@ -28,12 +40,12 @@ body{
 }
 
 a.nav-link {
-	padding-bottom: 5px;
-	padding-top: 7px;
+	padding-bottom: 2px;
+	padding-top: 4px;
 	color: #aaa;
 }
 a.nav-link i{
-	font-size: 16px;
+	font-size: 24px;
 }
 a.nav-link:hover { color: #777; }
 
@@ -197,7 +209,7 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 .navbar-default .navbar-brand {
-    color: #fff;
+    color: #5294e2;
 }
 
 .btn-default {
