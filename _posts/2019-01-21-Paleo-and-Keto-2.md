@@ -3,7 +3,7 @@ layout: post
 title:  "Experiments 014:  Paleo, Keto, Sodium, and Nutrient Profiles"
 excerpt:  "3 week Paleo / Keto follow up micro nutrient profiling.  Exploring sodium reduction effects on blood pressure."
 category:
-- bjj
+- BJJ
 tags:
 - training
 - nutrition
