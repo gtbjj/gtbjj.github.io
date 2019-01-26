@@ -78,9 +78,9 @@ For many years I have been an advocate for and practicioner of a [primal](https:
 
 **Results / Log:**
 
-<a href="/images/bjj/vitamins_1.png"><img src="/images/bjj/vitamins_1.png" style="width: 30%; height: auto" /></a>
-<a href="/images/bjj/vitamins_2.png"><img src="/images/bjj/vitamins_2.png" style="width: 30%; height: auto" /></a>
-<a href="/images/bjj/vitamins_3.png"><img src="/images/bjj/vitamins_3.png" style="width: 30%; height: auto" /></a>
+<a href="/images/bjj/vitamins_1a.png"><img src="/images/bjj/vitamins_1a.png" style="width: 30%; height: auto" /></a>
+<a href="/images/bjj/vitamins_1b.png"><img src="/images/bjj/vitamins_1b.png" style="width: 30%; height: auto" /></a>
+<a href="/images/bjj/vitamins_1c.png"><img src="/images/bjj/vitamins_1c.png" style="width: 30%; height: auto" /></a>
 
 *Average:  2263 cal @ 65% fat, 27% protein, 8% net carbs
 
