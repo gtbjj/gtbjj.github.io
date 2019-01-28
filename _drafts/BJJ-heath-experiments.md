@@ -1,11 +1,9 @@
 - EXP015:  Blood Pressure: reduce sodium cap to 1000 mg / day (recommended for hypertensive / high blood pressure, [reference](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/shaking-the-salt-habit-to-lower-high-blood-pressure)) rather than the FDA recommended cap of 2300 mg ([reference](https://www.fda.gov/food/resourcesforyou/consumers/ucm315393.htm))
   - Hypertension Stage 1 / Hypertension Stage 2 [reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings).  Genetics / medications (caffiene)
 
-| Date | Systolic | Diastolic |
-| ---- | -------- | --------- |
-| 12/21/18 | 176 | 74 |
+| Date | Systolic | Diastolic | RHR |
+| ---- | -------- | --------- | --- |
 
-Description:
 12/21/18: 176  / 74, 76
 1/3/19:  144 / 88, 77
 1/9/19:  148 / 91, 78
@@ -14,14 +12,22 @@ Description:
 
 * measured after being away for ~5-6 hours, 1 cup coffee on waking, 2 cups daily
 * see previous post for nutrient / diet profile
-* difficult to measure extreme low (< 1000 mg) sodium due to being an active athlete (e.g. electrolyte balance)([refernece]())
+* difficult to measure extreme low (< 1000 mg) sodium due to being an active athlete (e.g. electrolyte balance)
 
 ---
 
-- EXP***:  blood pressure:  increase magnesium intake (replace red meat with fish, pumpkin seed), moderate sodium intake (< 1500 mg)
+- EXP***:  blood pressure:  increase magnesium intake (replace red meat with fish, pumpkin seed 2oz / day), moderate sodium intake (< 1500 mg), see full nutrient profile(link)
 
 [Magnesium and Hypertension](https://www.ncbi.nlm.nih.gov/pubmed/15692166)
 [Minerals to Control Blood Pressure](https://www.health.harvard.edu/heart-health/key-minerals-to-help-control-blood-pressure)
+
+1/28/19:
+2/4/19:
+2/11/19:
+2/18/19:
+2/26/19:
+
+
 
 ---
 
