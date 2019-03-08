@@ -1,25 +1,3 @@
-Blood Pressure Target:  122 / 81 [reference](https://www.researchgate.net/figure/Blood-pressure-range-according-to-age_tbl3_305440337)
-
-RHR Target:  < 65 [reference](https://www.lifespanfitness.com/fitness/resources/articles/your-resting-heart-rate-what-is-normal-and-healthy)
-
-- EXP015:  Blood Pressure: reduce sodium cap to 1000 mg / day (recommended for hypertensive / high blood pressure, [reference](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/shaking-the-salt-habit-to-lower-high-blood-pressure)) rather than the FDA recommended cap of 2300 mg ([reference](https://www.fda.gov/food/resourcesforyou/consumers/ucm315393.htm))
-  - Hypertension Stage 1 / Hypertension Stage 2 [reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings).  Genetics / medications (caffiene)
-
-| Date | Systolic | Diastolic | RHR |
-| ---- | -------- | --------- | --- |
-
-12/21/18: 176  / 74, 76
-1/3/19:  144 / 88, 77
-1/9/19:  148 / 91, 78
-1/15/19:  144 / 88, 75
-1/20/19:  133 / 81, 78
-
-* measured after being away for ~5-6 hours, 1 cup coffee on waking, 2 cups daily
-* see previous post for nutrient / diet profile
-* difficult to measure extreme low (< 1000 mg) sodium due to being an active athlete (e.g. electrolyte balance)
-
-Different machine measured much lower, but overal not a significant difference (see weeks 2 and 4))
----
 
 - EXP016:  blood pressure:  increase magnesium intake (replace red meat with fish, pumpkin seed 2oz / day), moderate sodium intake (< 1500 mg), see full nutrient profile(link)
 
@@ -43,13 +21,93 @@ No abservable effect, but after follow up with RN, intake is not high enough fro
 
 Magnesium supplements are easy to find ([Amazon Link](), or any pharmacy), but note that Magnesium Citrate has a much better absorbtion rate that Magnesium Oxide.
 
-Dosage:  2 x 250 mg servings / day (this is a little high, but my daily food intake is a little below the RDA; so I'd still average about 750 mg / day).  *Start 2/19/19.*
+Dosage:  2 x 250 mg servings / day (this is a little high, but my daily food intake is a little below the RDA (400 mg); so I'd still average about 750 mg / day).  *Start 2/19/19.*
 
 | Date    | Blood Pressure | RHR |
 | ------- | -------------- | --- |
-| 2/12/19 | 141 / 86       | 59  |
-| 2/26/19 |
-| 
+| [2/12/19](https://photos.app.goo.gl/5VpNmRpyWyHULXdS6) | 141 / 86       | 59  |
+| 2/26/19 | 132 / 78       | 63  |
+
+---
+
+EXP***:  blood pressure and cholesterol
+
+Since starting keto, cholesterol has gone up, which is to be expected.  My HDL is awesome, unfortunately, my LDL has gone up by a larger amount which has resulted in my overall cholesterol being high as well.
+
+|                   | Lipid Profile (2/26/19) | Recommended Lipid Profile ([1](https://drjockers.com/high-cholesterol-ketogenic-diet/),[2](https://ketodietapp.com/Blog/lchf/high-cholesterol-on-a-keto-diet-should-you-be-concerned)) |
+| ----------------- | ----------------------- | ----------------------------- |
+| Total Cholesterol | 257                     | 180 - 300 (but, ratios are more important) |
+| HDL               | **89**                  | > 40 men, > 50 women |
+| LDL               | 150                     | < 130 |
+| Tirglyceride      | **92**                  | < 150 |
+| LDL:HDL           | **1.69**                | 3:1 or less (ideal 2:1) |
+| Triglyceride:HDL  | **1.03**                | 2:1 or less (ideal 1:1) |
+
+Info on sub-types of LDL / Non-HDL cholesterol and recommendation to remove bulletproof coffe:
+  - https://www.healthline.com/nutrition/low-carb-diets-and-cholesterol#section3
+  - article makes a the "too much of a good thing" argument, which I can fall in to as much as anyone... "if it's paleo / keto approved, I can eat as much as I want of it!"; but this is the lack of common sense I've often complained about ... I digress
+  - coconut oil actually doesn't have any cholesterol, but butter has about 31 mg / TB
+  - still need to get those calories in (~200 / day for me)
+
+25% total cholesterol comes from diet (75% is genetic)([reference](https://perfectketo.com/truth-about-keto-cholesterol/))
+
+"For predicting your risk of heart disease, many doctors now believe that determining your non-HDL cholesterol level may be more useful than calculating your cholesterol ratio. And either option appears to be a better risk predictor than your total cholesterol level or even your low-density lipoprotein (LDL, or "bad") cholesterol level." ([source](https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/expert-answers/cholesterol-ratio/faq-20058006))
+
+The person reading my results asserted the importance of total cholesterol / HDL (2.9 for me)
+ * there is [some evidence for this](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/752318) -- 2001
+ * lets get [something more current than 17 years ago](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747394/) -- 2009
+   *both TC/HDL and LDL/HDL are accurate indicators of heart disease
+   *TC/HDL is suspected to me more accurate *if* triglycerides are higher than 300 mg (more than tripple my value)
+   *"On the other hand, no conclusive data were obtained in relation to the superiority of the total/HDL cholesterol ratio over the LDL/HDL ratio, or vice versa"
+   *mentioned several times that TC/HDL and LDL/HDL ratios are much more concerning *if* triglycerides are also high (< 150, [source](https://www.webmd.com/cholesterol-management/guide/understanding-numbers#1))
+*include picture of previous "daily diet" w/ butter
+*removing some (butter) cholesterol may be a "happy medium"
+
+---
+
+EXP***:  Sleep quality and recovery
+
+Sleep quality may increase stress hormones and thereby increasing blood pressure ([reference 1](https://www.ncbi.nlm.nih.gov/pubmed/10075386), [reference 2](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/sleep-deprivation/faq-20057959))
+
+**Baseline Test**
+
+| Dates | No. Nights | Time in Bed | Sleep Quality | Sleep Time |
+| ----- | ---------- | ----------- | ------------- | ---------- |
+|
+
+*Variables of Note:*
+
+- Training:
+- Caffiene Intake:
+
+Simple Sleep Routine:
+
+* take dog out / feed dog
+* turn phone on airplane mode
+* pick clothes for next day
+* pack gym back / supplements for next day
+* pee / poop
+* drink (< 16oz) water
+* brush teeth
+* get in bed
+
+? sleepy time tea?
+
+| Dates | No. Nights | Time in Bed | Sleep Quality | Sleep Time |
+| ----- | ---------- | ----------- | ------------- | ---------- |
+|
+|
+
+---
+
+- EXP***:  Blood Pressure / Sleep Quality:  Coffee vs. Tea
+  - prior caffiene consumption
+  - see sources below
+  - Pu-Erh ($4.50 / 18; $0.25 ea.) + Green Tea ($3.72 / 100; $0.03 ea.); ~$0.3 / serving, 2x / day ($0.60 total)
+
+
+- [Pu-Erh @ Kroger](https://ship.kroger.com/p/879792000181/uncle-lees-imperial-organic-pu-erh)
+- [Green Tea @ kroger](https://ship.kroger.com/p/011110824325/kroger-green-tea-100-bags?psrc=search)
 
 ---
 
@@ -83,17 +141,6 @@ References:
 ---
 
 - EXP***:  effects of lowered blood pressure on VO2 Max (should have negative correlation [reference](https://www.ncbi.nlm.nih.gov/pubmed/25460373)), VO2 max may also go up with increased exercise habbits.
-
----
-
-EXP***:  Blood Pressure:  Sleep quality may increase stress hormones and thereby increasing blood pressure ([reference 1](https://www.ncbi.nlm.nih.gov/pubmed/10075386), [reference 2](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/sleep-deprivation/faq-20057959))
-- Baseline:
-- Intervention:
-  - 8 Hours minimum
-  - Phone on Airplane Mode 30 min before bed
-  - 1 Sleep Time Extra Tea 30 min before bed
-  - 15 in reading before bed
-- Ending BP / RHR:
 
 ---
 
