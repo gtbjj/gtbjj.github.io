@@ -45,3 +45,35 @@ So, here is where my process went:
       - This was actually almost as "low carb" as OPTION 3, but with more fat and the benefit of exogenous ketones (rather than just generally higher fat intake))
       - The product I used was [BPI Keto Weight Loss](https://www.amazon.com/Keto-Weight-Loss-Ketogenic-Burner/dp/B01NAGJ45R/ref=sr_1_3_a_it?ie=UTF8&qid=1550325625&sr=8-3&keywords=bpi+ketone+capsules), which I selected merely because it was readily available at Walgreens / Kroger's.  There are better products out there, such as [Perfect Keto Exogenous Ketones BHB](https://www.amazon.com/dp/B07C671SQL/?coliid=I2HK72OZLDEEXW&colid=29TQFJIH9OSGB&psc=0&ref_=lv_ov_lig_dp_it) that do not contain caffiene and have MCT oil (about 6x more concentrated than raw coconut oil).  Knowing the product I used contained caffiene, I simply skipped one cup of coffee that day.  I didn't experience any side effects other than the supplements are (by design) VERY salty, not in taste, but I felt very thirsty for the rest of the day afterwards.
       - Urine results:
+
+
+
+
+#### More Thoughts on "Cheating:"
+
+The long / short is that it depends on:
+
+- how overboard you went
+  - Did you eat one cup of ice cream, or a pint (then go out for pizza... and beer, then get fast food on the way home?)
+- how long you were in ketosis prior
+  - if you were barely starting out, your may have not even fully gotten into ketosis before "cheating"; thereby slowing your progress.  if you've been at this for a few months or years, you will probably rebound much faster or your body will at least let you know you screwed up, and in a hurry (think diahhrea, cramps, bloating, headaches, acne, etc...)
+- and how active / low carb you are after
+  - you just dropped a sugar bomb (and probably starch and sodium bombs too), all those thing bind up you GI and soak up water like cellular sponges.  So, you need to get rid of them... again.
+
+
+Haven't met your goal / have a competition coming up?
+
+- you shouldn't be cheating IMO.  Save it for a victory meal.
+
+Met your goal?  What happens when you cheat:
+
+- once per week? (planned, but not special or rare)
+  - in my case I gained about 8 - 10 lbs (160 to 168/170) with a cheat meal or two on Friday or Saturday, and it too more than a week to get back into ketosis.  For reference, I do BJJ 5-7 days per week and those "meals" were single sitting, non-buffet, normally proportioned meals (just delicious, sugary, junky ones)
+- once per two weeks? (planned, rare, not special)
+- once per month? (planned, special, too rare?)
+
+
+*Futher Reading*:
+
+- [5 Ways to Cheat on Keto](https://www.heyketomama.com/5-ways-to-cheat-on-keto/)
+- Oft cited by me, [Life After Day 30](https://robbwolf.com/2012/02/02/8204/)

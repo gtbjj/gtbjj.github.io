@@ -53,8 +53,8 @@ Taking things one step further to see if there's a difference between types of m
 
 Also reducing caffeine:
 
-- Previous 3 Cups / Day = 300 -400 mg
-- New 1 Cup + Tea = 180 - 280 mg
+- Previous 3 Cups / Day = ~350 mg (300 - 400 mg)
+- New 1 Cup + Tea = ~250mg (180 - 280 mg, slightly more on the weekends)
 
 | Date    | Blood Pressure | RHR |
 | ------- |:--------------:|:---:|
@@ -65,6 +65,10 @@ Also reducing caffeine:
 *other factors:*
 
 - potential sleep / recovery study
+
+
+*if no effect from magnesium ketones:  keep full spectrum BHB on hand for recovering from cheat meals (1 / 2 weeks) or from long training sessions (2/wk) depending on price
+
 
 Overall Progress: Cardio / Activity Level + Magnesium + Less Caffeine
 

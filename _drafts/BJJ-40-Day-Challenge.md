@@ -29,8 +29,12 @@ Dan John - [Even "Easier Strength"](http://danjohn.net/2011/06/even-easier-stren
 - Day 21:  nagging wear (sore shoulder, swolen fingers (grips), cauliflower ear), need more sleep; very light drill / movement
 - Day 27:  awesome day with lots of guest drop ins for open mat -- first day ladies out numbered men, good variety white/blue/purple; headgear isn't so bad (old school asics = more low profile than comfy cliff keen)
 - Day 30:  what day is it?  What are we doing tonight Brain?  The same thing we do every night Pinky, training to win the worlds!; averaging ~8 hours of SLEEP TIME (not just "in bed"), doesn't feel like enough (training ~8-9 hours / week)
-- 
-
+- Day 41 (sat, 3/31): elbows a little achy, body feels worn down, not injured, but not at 100% for each session
+- Day 49 (mon, 4/8):  creaky swolen fingers overnight, very sore and stiff muscles after nap after morning training
+- Day 56 (mon, 4/15): overall energy feels low, missing a little sleep make a BIG difference, muscles sore, elbows stiff
+- Day 61 (sat, 4/20): DAMN, my fingers and elbows hurt!  But, damn I went at it hard agianst upper belts
+- Day 62 (sun, 4/21): light drilling and rolling, overall sore and stiff everywhere
+- Day 68 (sat, 4/27):  feels like brain has stopped "thinking" and body is just "reacting", very fast and fluid transitions (limited by technical knowledge)
 
 
 #### Sustainable 7-Day Training Schedule
