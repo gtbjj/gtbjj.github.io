@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Experiment 016:  Magnesium and Blood Pressure"
-excerpt: "Observing effects of magnesium supplementation on blood pressure."
+title: "Experiment 016:  Magnesium, Cafiene, and Blood Pressure"
+excerpt: "Observing effects of magnesium supplementation and cafiene reduction on blood pressure."
 category: [BJJ, climbing]
-tags: [bjj, climbing, nutrition, paleo, keto, open science, experiment 016, blood pressure]
+tags: [bjj, climbing, nutrition, paleo, keto, open science, experiment 016, blood pressure, cafiene, magnesium]
 comnments: true
 ---
 
@@ -27,7 +27,7 @@ comnments: true
 
 Overall workout volume has increased dramatically in the last month or two (since the new year and picking up BJJ again).  Average intensity and volume have increased significantly, regarding effects on RHR
 
-No abservable effect, but after follow up with RN, intake is not high enough from food alone to effect blood pressure.  Needs to be about 400mg agove RDA (e.g. supplement) ([reference](https://www.livescience.com/55355-magnesium-blood-pressure.html)); that's about 800 mg total / day (400 RDA + 400 supplement).  I was averaging (from food intake alone) only 270 mg / day.
+**Verdict:**  No abservable effect, but after follow up with RN, intake is not high enough from food alone to effect blood pressure.  Needs to be about 400mg agove RDA (e.g. supplement) ([reference](https://www.livescience.com/55355-magnesium-blood-pressure.html)); that's about 800 mg total / day (400 RDA + 400 supplement).  I was averaging (from food intake alone) only 270 mg / day.
 
 ------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Dosage:  2 x 250 mg servings / day (this is a little high, but my daily food int
 | 2/26/19 | 132 / 78       | 63  |
 | [3/29/19](https://photos.app.goo.gl/soTdGqZTuuat4Tow5) | 139 / 78       | 69  |
 
-**Result:**  Virtually none
+**Verdict:** Small effect
 
 ------------------------------------------------------------------------------
 
@@ -53,32 +53,51 @@ Taking things one step further to see if there's a difference between types of m
 
 Also reducing caffeine:
 
-- Previous 3 Cups / Day = ~350 mg (300 - 400 mg)
-- New 1 Cup + Tea = ~250mg (180 - 280 mg, slightly more on the weekends)
+- Previous 3 Cups / Day = ~350 mg / day average (300 - 400 mg); 3 Cups of Coffee
+- 3/24 - 5/4 (6 weeks):  ~250 mg / day average; 1 Cup Coffee + Green / Yerba Mate Tea = 180 - 280 mg, slightly more on the weekends
+- 5/5 - 5/31 (4 weeks):  ~156 mg / day average; 3 Cups of Green Tea = 105 mg plus 1 Cup coffee on weekends
 
-| Date    | Blood Pressure | RHR |
-| ------- |:--------------:|:---:|
-| 3/24/19 | 139 / 78       | 69  |
-| 4/22/19 |                |     |
-| 5/20/19 |                |     |
+| Date    | Blood Pressure | RHR | Daily Caffeine | Caffeine Note                                                 |
+| ------- |:--------------:|:---:|:-------------:|:------------------------------------------------------------:|
+| 3/24/19 | 139 / 78       | 69  | 350 mg        | 3 Cups Coffee Daily                                          |
+| 5/4/19  | 125 / 80       | 69  | 250 mg        | M-F 1 Coffee + 1 Green/Yerba Mate Tea, +1 Coffee on Weekends |
+| 5/31/19 | 136 / 74       | 76  | 160 mg        | M-F 3 Green Teas, +1 Coffee on Weekends                      |
 
-*other factors:*
-
-- potential sleep / recovery study
+**Verdict:**  small effect
 
 
 *if no effect from magnesium ketones:  keep full spectrum BHB on hand for recovering from cheat meals (1 / 2 weeks) or from long training sessions (2/wk) depending on price
 
+----------------------------------------------------------------------------
+
+*take four*
+
+- remove daily ketones (magnesium supplement)
+- daily caffeine:  ~160 mg
+
+| Date    | Blood Pressure | Pulse | Daily Sodium |
+| ------- |:--------------:|:-----:|:------------:|
+| 5/31/19 | 136 / 74       | 76    | 2.7 g        |
+| 7/1/19  |                |       | 5.9g         |
+
+*concurrent sodium study*: link to robb wolf instagram saved suggestion of 5g
+
+**Verdict:**
+
+*if blood pressure raises*, reset sodium and test w/o magnesium
+
+----------------------------------------------------------------------------
 
 Overall Progress: Cardio / Activity Level + Magnesium + Less Caffeine
 
-| Date    | Blood Pressure | RHR |
-| ------- |:--------------:|:---:|
-| 1/15/19 | 144 / 88       | 77  |
-| 2/12/19 | 141 / 86       | 59  |
-| 2/26/19 | 132 / 78       | 63  |
-| 3/24/19 | 139 / 78       | 69  |
-
+| Date    | Blood Pressure     | RHR |
+| ------- |:------------------:|:---:|
+| 1/15/19 | 144 / 88 (107 MAP) | 77  |
+| 2/12/19 | 141 / 86 (104 MAP) | 59  |
+| 2/26/19 | 132 / 78 (96 MAP)  | 63  |
+| 3/24/19 | 139 / 78 (98 MAP)  | 69  |
+| 5/4/19  | 125 / 80 (95 MAP)  | 69  |
+| 5/31/19 | 136 / 74 (94 MAP)  | 76  |
 
 
 
@@ -98,3 +117,5 @@ Overall Progress: Cardio / Activity Level + Magnesium + Less Caffeine
   References:
 - [What is BHB](https://www.ketovale.com/what-is-beta-hydroxybutyrate/)
 - [What does BHB do?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4743170/)
+- [How much cafiene is in Green Tea?](https://www.healthline.com/nutrition/caffeine-in-green-tea#section2)
+- [Calculating Mean Arterial Pressure (MAP)](https://www.nursingcenter.com/ncblog/december-2011/calculating-the-map)

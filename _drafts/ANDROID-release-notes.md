@@ -49,7 +49,7 @@ To Do:
 
 2 Pie Testing Versions:  AOSiP / StatixOS; both have File-Based Encryption (FBE), require custom TWRP ([download](https://androidfilehost.com/?fid=11410963190603914945))
 
-FBE is supported by both kernel / rom bases; need patched TWRP
+FBE is supported by both kernel / rom bases; need [patched TWRP](https://androidfilehost.com/?fid=11410963190603914945))
 
 **Boot Check:**
 
@@ -60,7 +60,10 @@ FBE is supported by both kernel / rom bases; need patched TWRP
 | StatixOS | AOSiP       | v18    | nano 9.0, 20190203 | yes, 3.4 min | SysUI crash |
 | StatixOS | StatixOS    | v18    | nano 9.0, 20190203 | yes, 3.5 min |
 
-- 
+- test build with AOSP Beta (by Winxuser, [XDA](https://forum.xda-developers.com/nexus-6p/development/rom-aosp-t3843647), [source](https://gitlab.com/winxuser/android_kernel_huawei_angler/commits/android-9))
+  - successful build w/ from kernel source w/ hardened clang and linaro, angler_defconfig
+  - zipped w/ savagezen anykernel, testing branch pie-testing-aosp
+  
 
 
 ---
