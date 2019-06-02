@@ -2,7 +2,7 @@
 layout: post
 title: "Returning to BJJ"
 excerpt: "Lessons learned returning after 6 years off and training 100 days in a row"
-category:
+category: bjj
 tags: [bjj, training, mma, mixedmartialarts, 100daychalleng, 100daysofbjj, wisdom, back to the future, paleo, keto]
 comments: true
 ---
