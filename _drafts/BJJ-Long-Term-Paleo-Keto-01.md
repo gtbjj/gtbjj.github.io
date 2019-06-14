@@ -30,6 +30,9 @@ Perks:
 
 #### Performance
 
+- summer change, don't have a "kill switch", but may just be tired due to 2 hour days x 5 rather than 1 hour days x 7
+- sodium test in blood pressure 02
+
 ---
 
 #### Budget

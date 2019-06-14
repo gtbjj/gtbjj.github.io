@@ -1,79 +1,4 @@
----
-layout: post
-title: "Experiment 016:  Magnesium, Cafiene, and Blood Pressure"
-excerpt: "Observing effects of magnesium supplementation and cafiene reduction on blood pressure."
-category: [BJJ, climbing]
-tags: [bjj, climbing, nutrition, paleo, keto, open science, experiment 016, blood pressure, cafiene, magnesium]
-comnments: true
----
-
-
-
-- EXP016:  blood pressure:  increase magnesium intake (replace red meat with fish, pumpkin seed 2oz / day), moderate sodium intake (< 1500 mg), see full nutrient profile(link)
-
-[Magnesium and Hypertension](https://www.ncbi.nlm.nih.gov/pubmed/15692166)
-[Minerals to Control Blood Pressure](https://www.health.harvard.edu/heart-health/key-minerals-to-help-control-blood-pressure)
-
-------------------------------------------------------------------------------
-
-**Take One:**
-
-|        | Avg. Magnesium Intake | Blood Pressure, RHR |
-| ------ |:---------------------:|:-------------------:|
-| Start  | 42%                   | ~ 144 / 88, ~ 77    |
-| Week 1 | [383 mg, 96% RDA](https://photos.app.goo.gl/Xn5StjnVBTjqKx1x7) | N/A |
-| Week 2 | [251 mg, 63% RDA](https://photos.app.goo.gl/r5yjVnss6hHKJUTP8) | N/A |
-| Week 3 | [172 mg, 43% RDA](https://photos.app.goo.gl/gbhBp9VYrUWqFVs79) | 141 / 86, 59 |
-
-Overall workout volume has increased dramatically in the last month or two (since the new year and picking up BJJ again).  Average intensity and volume have increased significantly, regarding effects on RHR
-
-**Verdict:**  No abservable effect, but after follow up with RN, intake is not high enough from food alone to effect blood pressure.  Needs to be about 400mg agove RDA (e.g. supplement) ([reference](https://www.livescience.com/55355-magnesium-blood-pressure.html)); that's about 800 mg total / day (400 RDA + 400 supplement).  I was averaging (from food intake alone) only 270 mg / day.
-
-------------------------------------------------------------------------------
-
-**Take Two:**
-
-Magnesium supplements are easy to find ([Amazon Link](), or any pharmacy), but note that Magnesium Citrate has a much better absorbtion rate that Magnesium Oxide.
-
-Dosage:  2 x 250 mg servings / day (this is a little high, but my daily food intake is a little below the RDA (400 mg); so I'd still average about 750 mg / day).  *Start 2/19/19.*
-
-| Date    | Blood Pressure | RHR |
-| ------- |:--------------:|:---:|
-| [2/12/19](https://photos.app.goo.gl/5VpNmRpyWyHULXdS6) | 141 / 86       | 59  |
-| 2/26/19 | 132 / 78       | 63  |
-| [3/29/19](https://photos.app.goo.gl/soTdGqZTuuat4Tow5) | 139 / 78       | 69  |
-
-**Verdict:** Small effect
-
-------------------------------------------------------------------------------
-
-**Take Three:**
-
-Taking things one step further to see if there's a difference between types of magnesium supplement.  Previously used magnesium citrate gel cap, switching to magnesium-BHB powder.  The powder also has 722 mg magnesium versus 500 I was consuming in gel caps.  That on top of dietary intake may be too much, so I'll have to keep an eye out for side effects -- though this does afford more dietary flexability; and with my current training demands (7 hours of BJJ + 2 hours movement / active recovery and easy drilling).
-
-Also reducing caffeine:
-
-- Previous 3 Cups / Day = ~350 mg / day average (300 - 400 mg); 3 Cups of Coffee
-- 3/24 - 5/4 (6 weeks):  ~250 mg / day average; 1 Cup Coffee + Green / Yerba Mate Tea = 180 - 280 mg, slightly more on the weekends
-- 5/5 - 5/31 (4 weeks):  ~156 mg / day average; 3 Cups of Green Tea = 105 mg plus 1 Cup coffee on weekends
-
-| Date    | Blood Pressure | RHR | Daily Caffeine | Caffeine Note                                                 |
-| ------- |:--------------:|:---:|:-------------:|:------------------------------------------------------------:|
-| 3/24/19 | 139 / 78       | 69  | 350 mg        | 3 Cups Coffee Daily                                          |
-| 5/4/19  | 125 / 80       | 69  | 250 mg        | M-F 1 Coffee + 1 Green/Yerba Mate Tea, +1 Coffee on Weekends |
-| 5/31/19 | 136 / 74       | 76  | 160 mg        | M-F 3 Green Teas, +1 Coffee on Weekends                      |
-
-**Verdict:**  small effect
-
-
-*if no effect from magnesium ketones:  keep full spectrum BHB on hand for recovering from cheat meals (1 / 2 weeks) or from long training sessions (2/wk) depending on price
-
-----------------------------------------------------------------------------
-
-*take four*
-
-- remove daily ketones (magnesium supplement)
-- daily caffeine:  ~160 mg
+Blood Pressure 04:  increase sodium / remove magnesium supplment (sodium is for electrolyte performance)
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/ByGXE0Po1J2/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByGXE0Po1J2/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/ByGXE0Po1J2/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Robb Wolf (@dasrobbwolf)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-05-30T20:03:28+00:00">May 30, 2019 at 1:03pm PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
 
@@ -90,19 +15,52 @@ Also reducing caffeine:
 
 ----------------------------------------------------------------------------
 
+Blood Pressure 05: CBD Oil (also for sleep / recovery)
+
+[Reptra Active](https://receptranaturals.com/product/receptra-active-cbd-oil/), 15mg (one serving / day) x 33 days.  CBH + olive oil (good) + tumeric (anti-imflamatory, excellent), MCT oil (yas!)
+
+Start Blood Pressure (MAP) / Pulse:
+End Blood Pressure (MAP) / Pulse:
+
+[Start Sleep Stats](https://photos.app.goo.gl/GJDPsnu4cpP9wLFT7)(30 day average): Sleep Time - 8:02 hours, 31% deep sleep
+
+
+Goal Deep Sleep = 20% ([source 1(https://site.eightsleep.com/blogs/news/the-difference-between-light-and-deep-sleep-how-much-do-you-really-need)], [source 2](https://www.medicaldaily.com/how-much-deep-sleep-optimal-and-how-get-more-422432))
+
+
+----------------------------------------------------------------------------
+
 Overall Progress: Cardio / Activity Level + Magnesium + Less Caffeine
 
-| Date    | Blood Pressure     | RHR |
-| ------- |:------------------:|:---:|
-| 1/15/19 | 144 / 88 (107 MAP) | 77  |
-| 2/12/19 | 141 / 86 (104 MAP) | 59  |
-| 2/26/19 | 132 / 78 (96 MAP)  | 63  |
-| 3/24/19 | 139 / 78 (98 MAP)  | 69  |
-| 5/4/19  | 125 / 80 (95 MAP)  | 69  |
-| 5/31/19 | 136 / 74 (94 MAP)  | 76  |
+| Date    | Blood Pressure     | RHR | Intervention     |
+| ------- |:------------------:|:---:|:----------------:|
+| 1/15/19 | 144 / 88 (107 MAP) | 77  | sodium reduction | link to BP01
+| 2/12/19 | 141 / 86 (104 MAP) | 59  | dietary magnesium | link to BP02
+| 2/26/19 | 132 / 78 (96 MAP)  | 63  | magnesium supplment | link to BP02
+| 5/31/19 | 136 / 74 (94 MAP)  | 76  | caffeine reduction | link to BP03
+|
 
+Other Data Points:
+| 1/3/19  | 144 / 88 (107 MAP) | 77 |
+| 1/9/19  | 148 / 91 (110 MAP) | 78 |
+| 1/15/19 | 144 / 88 (107 MAP) | 75 |
+| 1/20/19 | 133 / 81 (98 MAP)  | 78 |
+| 3/24/19 | 139 / 78 (98 MAP)  | 69 | 
+| 5/4/19  | 125 / 80 (95 MAP)  | 69 |
 
+**Statistical Correlation to MAP:**
 
+| Intervention         | p (correlation) | r (significance) |
+|----------------------|:---------------:|:----------------:|
+| sodium reduction     |
+| dietary magnesium    |
+| magnesium supplement |
+| caffeine reduction   |
+| sodium increase      |
+| remove magnesium     |
+| CBD Oil              |
+
+*note:*  here we're wanting a high significance (< 0.1, or ideally < 0.01), and a negative correlation
 
 ----------------------------------------------------------------------------
 
@@ -117,7 +75,4 @@ Overall Progress: Cardio / Activity Level + Magnesium + Less Caffeine
   - the down side is that BHB supplements can be fairly expensive, so I'm not sure about the intake or effective dosage levels, etc... I'm not super thrilled about the high sodium intake either so it might be relegated to expcetionally hard training days.  Raw ketone's don't have this, but they are not widely commercially available and VERY expensive ($15 / ounce!).
   
   References:
-- [What is BHB](https://www.ketovale.com/what-is-beta-hydroxybutyrate/)
-- [What does BHB do?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4743170/)
-- [How much cafiene is in Green Tea?](https://www.healthline.com/nutrition/caffeine-in-green-tea#section2)
 - [Calculating Mean Arterial Pressure (MAP)](https://www.nursingcenter.com/ncblog/december-2011/calculating-the-map)

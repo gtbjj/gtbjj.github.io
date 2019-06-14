@@ -72,6 +72,14 @@ Met your goal?  What happens when you cheat:
 - once per two weeks? (planned, rare, not special)
 - once per month? (planned, special, too rare?)
 
+- How long does it take to get (back) into ketosis:
+  - google results:  2-10 days?
+  - keto answers podcast - you may be doing more damamge in your cheat meal/day (for sure weekend) than you can heal your gut from in the coming week before you do it again
+  - Personally:  ran 2 experiments (see calendar for details), < 4 days without supplmenets on current diet to get back to ketosis
+  - that's 3 days "in the black" of healthy eating / living; not bad, but still less than 50% of the week
+  - If we try to limit our planned indulgences (social or otherwise) to every-other-week, then were in ketosis 70% of the time (10 / 14 days).)
+  - NOTE:  could still do 1 / week if more aggressive methods are used
+
 
 *Futher Reading*:
 

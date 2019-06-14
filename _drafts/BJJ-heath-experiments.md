@@ -1,14 +1,40 @@
+---
 
-- EXP***:  blood pressure:  organic coffee + BHB supplement vs. regular
-  - The source matters, [Coffee and Blood Pressure](https://www.health.harvard.edu/newsletter_article/Coffee_and_your_blood_pressure)
-  - Other References:  [Reference 2](https://www.webmd.com/hypertension-high-blood-pressure/news/20020517/caffeines-effect-on-blood-pressure#1), [Reference 3](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058543)
-  - Folgers Breakfast Blend 40 mg / TB ([source](https://cspinet.org/eating-healthy/ingredients-of-concern/caffeine-chart)), though I usually drink Folgers Black Silk
-  - I don't want to cut out coffee completely becasue frankly I enjoy it, and don't like water in my protein shakes
-  - I'm hesitant towards decaf coffee (though not opposed to 1/2 caf) because frequently the decaffinating process changes the flaver (and I DO NOT like that)
+- EXP***:  Blood Pressure / Sodium Increase
 
-  - Starting:  2 cups M-F (2 TB each) and 3 on weekend, but more recently 3 / day given 7 a.m. BJJ workouts and sometimes rock climbing in the same day (I've got to be ready when the weather is willing to cooperate).  At 40 mg / TB, 2 TB (80 mg) / cup, and 3 cups / day, that's ~240 mg per day.
-  - Intervention:  Simple Truth Organic Ground Coffe (unable to find caffeine content)
-  - Cost / Benefit Analysis:
+---
+
+- EXP***:  Electrolyte Supplement & Performance / Ketone Levels
+  - [Athletic Wellness Questionnare](https://www.naseinc.com/uncategorized/effective-athlete-monitoring-wellness-questionnaires/)
+
+| Week (Hours) | Fatigue | Sleep Quality | Soreness | Stress | Mood | **Total** |
+|:-----------:|:-------:|:-------------:|:--------:|:------:|:----:|:---------:|
+| 1    | 2 / 5   | 2 / 5         | 3 / 5    | 2 / 5  | 3/5  | 12 / 25   |
+| 2    |
+| 3    |
+| 4    |
+
+*vacation during week 1
+
+  - Part I (week 1) - electrolytes only
+      - https://www.vitaminshoppe.com/p/bodytech-electrolyte-fizz-lemon-lime-32-packets/vs-2573 + 1/2 tsp salt; dissolve in 32oz water (LMNT is better, note magnesium type and sugar content, but VS is easy to pick up on demand; only 2.5g sugar)
+      
+  - Part II (week 1) - electrolytes with dextrose / glucose
+
+
+**Results**
+
+| Week / Day | Test              |  Ketone Before | Ketone After |
+|:----------:|:-----------------:|:--------------:|:------------:|
+| 1          | control           | N/A            | N/A          |
+| 2          | electrolytes only | N/A            |              |
+| 3          | TKD (30g)         |
+| 4          | TKD (50g)         |
+
+
+---
+
+- EXP***:  CBD (or hemp) oil x blood pressure x sleep / recovery
 
 ---
 

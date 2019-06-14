@@ -2,7 +2,7 @@
 layout: post
 title: "Experiment 015:  Blood Pressure, Part I"
 excerpt: "Examining effects of reduced sodium intake on blood pressure."
-category: [BJJ, climbing]
+category: [BJJ, Climbing]
 tags: [bjj, climbing, nutrition, paleo, keto, open science, experiment 015, blood pressure]
 comments: true
 ---
