@@ -1,36 +1,42 @@
----
+- EXP***:  Electrolyte Supplement & Performance / Ketone Levels (+ blood pressure))
+  - [Athletic Wellness Questionnaire](https://www.naseinc.com/uncategorized/effective-athlete-monitoring-wellness-questionnaires/)
+  - Part I (1 month + BP) - electrolytes only (formula below), easy availability at Vitamin Shoppe
+      - vacation during week 1
+  - Part II (month 2 + BP + ketones) - electrolytes + 30g dextrose ([supplement]())
+  - Part III (month 3 + BP + ketones) - electrolytes + 50g dextrose ([supplement]())
 
-- EXP***:  Blood Pressure / Sodium Increase
+**Electrolyte Drink Comparison**
+|           | Gatorade* | Powerade* | LMNT     | Custom** |
+|-----------|:---------:|:---------:|:--------:|:--------:|
+| Carbs     |           |           | 0 g      | 3 g      |
+| Sodium    |           |           | 1,000 mg | 1,250 mg |
+| Potassium |           |           |          | 100 mg   |
+| Magnesium |           |           |          | 200 mg   |
+| Calcium   |           |           |          | 60 mg    |
+| Cost      |           |           |          | 
+*Gatorade and Powerade both have zero sugar options
+**Custom:  [Bodytech Electrolyte Fizz](https://www.vitaminshoppe.com/p/bodytech-electrolyte-fizz-lemon-lime-32-packets/vs-2573) + 1/2 tsp sea salt (+ dextrose for sugar source for Target Ketogenic entries)
++ [LMNT]()
 
----
+#### Results
 
-- EXP***:  Electrolyte Supplement & Performance / Ketone Levels
-  - [Athletic Wellness Questionnare](https://www.naseinc.com/uncategorized/effective-athlete-monitoring-wellness-questionnaires/)
+**Athletic Wellness Questionnaire Reults**
+| Month (Hours) | Fatigue | Sleep Quality | Soreness | Stress | Mood | **Total** |
+|:-------------:|:-------:|:-------------:|:--------:|:------:|:----:|:---------:|
+| Base (9)      | 2 / 5   | 2 / 5         | 3 / 5    | 2 / 5  | 3/5  | 12 / 25   |
+| Electrolytes  |
+| TKD 30g*      |
+| TKD 50g*      |
+*TKD months also included electrolyte supplementation identical to electrolyte only month
+**[Raw data link]()*
 
-| Week (Hours) | Fatigue | Sleep Quality | Soreness | Stress | Mood | **Total** |
-|:-----------:|:-------:|:-------------:|:--------:|:------:|:----:|:---------:|
-| 1    | 2 / 5   | 2 / 5         | 3 / 5    | 2 / 5  | 3/5  | 12 / 25   |
-| 2    |
-| 3    |
-| 4    |
-
-*vacation during week 1
-
-  - Part I (week 1) - electrolytes only
-      - https://www.vitaminshoppe.com/p/bodytech-electrolyte-fizz-lemon-lime-32-packets/vs-2573 + 1/2 tsp salt; dissolve in 32oz water (LMNT is better, note magnesium type and sugar content, but VS is easy to pick up on demand; only 2.5g sugar)
-      
-  - Part II (week 1) - electrolytes with dextrose / glucose
-
-
-**Results**
-
-| Week / Day | Test              |  Ketone Before | Ketone After |
-|:----------:|:-----------------:|:--------------:|:------------:|
-| 1          | control           | N/A            | N/A          |
-| 2          | electrolytes only | N/A            |              |
-| 3          | TKD (30g)         |
-| 4          | TKD (50g)         |
-
+**Blood Pressure, Ketone Production, and Target Sugar Intake**
+| Test              | Ketone Before / After | AWQ avg. | Blood Pressure |
+|-------------------|:---------------------:|:--------:|:--------------:|
+| control           | N/A                   | 12 / 25  | 136 / 74       |
+| electrolytes only | N/A                   |          |                |
+| TKD (30g)         |                       |          |                |
+| TKD (50g)         |                       |          |                |
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Experiment 017:  Blood Pressure, Part 3"
 excerpt: "Blood pressure experiment with reducing caffeine"
-category: [BJJ, Climbing]
+category: Nutrition
 tags: [bjj, climbing, nutrition, open science, experiment 017, blood pressure, hypertension, magnesium, caffeine]
 comments: true
 ---

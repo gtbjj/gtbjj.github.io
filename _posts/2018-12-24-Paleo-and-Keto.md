@@ -3,7 +3,7 @@ layout: post
 title: "Experiments 011 - 013:  Paleo and Keto Reset"
 excerpt: "Experiments examining paleo and keto effects on weight lost, sport performance, and micronutrient availability."
 category:
-- BJJ
+- Nutrition
 tags:
 - training
 - nutrition

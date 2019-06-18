@@ -2,7 +2,7 @@
 layout: post
 title: "Experiment 016:  Blood Pressure, Part 2"
 excerpt: "Examining effects of red meat, magnesium, and BHB on blood pressure."
-category: [BJJ, Climbing]
+category: Nutrition
 tags: [bjj, climbing, nutrition, paleo, keto, blood pressure, hypertension, magnesium, red meat, bhb, open science, experiment 016]
 comments: true
 ---
