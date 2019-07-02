@@ -7,6 +7,9 @@ tags: [bjj, climbing, nutrition, cholesterol, open science, experiment ***, pale
 comments: true
 ---
 
+
+#### Due Date:  February 2020
+
 Since starting keto, cholesterol has gone up, which is to be expected.  My HDL is awesome, unfortunately, my LDL has gone up by a larger amount which has resulted in my overall cholesterol being high as well.
 
 |                   | Lipid Profile (2/26/19) | Recommended Lipid Profile ([1](https://drjockers.com/high-cholesterol-ketogenic-diet/),[2](https://ketodietapp.com/Blog/lchf/high-cholesterol-on-a-keto-diet-should-you-be-concerned)) |

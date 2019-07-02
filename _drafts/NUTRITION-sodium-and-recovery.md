@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Experiment***: Recovery, Sodium, and Blood Pressure"
+excerpt: "A look at how increased sodium and electrolyte intake impact performance."
+category: Nutrition
+tags: [nutrition, bjj, training, recovery, open science, experiment ***, blood pressure, hypertension, sodium, electrolytes]
+comments: true
+---
+
 - EXP***:  Electrolyte Supplement & Performance / Ketone Levels (+ blood pressure))
   - [Athletic Wellness Questionnaire](https://www.naseinc.com/uncategorized/effective-athlete-monitoring-wellness-questionnaires/)
   - Part I (1 month + BP) - electrolytes only (formula below), easy availability at Vitamin Shoppe
@@ -8,15 +17,15 @@
 **Electrolyte Drink Comparison**
 |           | Gatorade* | Powerade* | LMNT     | Custom** |
 |-----------|:---------:|:---------:|:--------:|:--------:|
-| Carbs     |           |           | 0 g      | 3 g      |
-| Sodium    |           |           | 1,000 mg | 1,250 mg |
-| Potassium |           |           |          | 100 mg   |
-| Magnesium |           |           |          | 200 mg   |
-| Calcium   |           |           |          | 60 mg    |
-| Cost      |           |           |          | 
-*Gatorade and Powerade both have zero sugar options
+| Carbs     | < 1 g     | < 1 g     | 2 g      | 3 g      |
+| Sodium    | 400 mg    | 375 mg    | 1,000 mg | 1,250 mg |
+| Potassium | 112 mg    | 88 mg     | 200 mg   | 200 mg   |
+| Magnesium | 0 mg      | 0 mg      | 60 mg    | 100 mg   |
+| Calcium   | 0 mg      | 0 mg      | 0 mg     | 60 mg    |
+| Vitamin C | 0 mg      | 0 mg      | 0 mg     | 1,200 mg |
+| Cost      | $1.00     | $0.80     | $1.57 ea | $0.40 ea |
+*Gatorade and Powerade "zero" options
 **Custom:  [Bodytech Electrolyte Fizz](https://www.vitaminshoppe.com/p/bodytech-electrolyte-fizz-lemon-lime-32-packets/vs-2573) + 1/2 tsp sea salt (+ dextrose for sugar source for Target Ketogenic entries)
-+ [LMNT]()
 
 #### Results
 
@@ -28,7 +37,7 @@
 | TKD 30g*      |
 | TKD 50g*      |
 *TKD months also included electrolyte supplementation identical to electrolyte only month
-**[Raw data link]()*
+**[Raw data link](https://docs.google.com/spreadsheets/d/1IU5-A1XtKTGN1AyGS6J562pRoQ8XduEmuM1_xzhbaz8/edit?usp=sharing)*
 
 **Blood Pressure, Ketone Production, and Target Sugar Intake**
 | Test              | Ketone Before / After | AWQ avg. | Blood Pressure |
@@ -38,18 +47,8 @@
 | TKD (30g)         |                       |          |                |
 | TKD (50g)         |                       |          |                |
 
----
 
-- EXP***:  CBD (or hemp) oil x blood pressure x sleep / recovery
+#### References
 
----
-
-- EXP***:  effects of lowered blood pressure on VO2 Max (should have negative correlation [reference](https://www.ncbi.nlm.nih.gov/pubmed/25460373)), VO2 max may also go up with increased exercise habbits.
-
----
-
-- EXP***:  CBD (or hemp) oil x blood pressure
-
----
-
-- EXP***:  Neuroleptics (choline)
+- [LMNT](https://drinklmnt.com/products/lmnt-recharge-electrolyte-drink)
+- [Vitamin C and recovery](https://www.ncbi.nlm.nih.gov/pubmed/11915781)
