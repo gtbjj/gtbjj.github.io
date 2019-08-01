@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: savagezen.ga
-Token: 2eb1e325642e485e116d66461f84e5ff1e21699d4cff3f0fef0ec896c06c12c8
+Token: d9035fc1424ab8fc9d9d638da0fcd514e63013dc64d2aa58acd7e3de149bd457
