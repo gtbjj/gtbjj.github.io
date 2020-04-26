@@ -2,7 +2,7 @@
 title: Returning to BJJ
 author: Austin
 date: 2019-05-31
-categories: [BJJ]
+categories: [BJJ, Training]
 tags: [bjj, training, mma, mixedmartialarts, 100daychallenge, 100daysofbjj, wisdom, back to the future, paleo, keto]
 comments: true
 ---

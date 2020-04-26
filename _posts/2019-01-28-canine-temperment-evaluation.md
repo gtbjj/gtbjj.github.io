@@ -1,9 +1,9 @@
 ---
-title: Controlled Aggression: Temperment Evaluation
+title: "Controlled Aggression: Temperament Evaluation"
 author: Austin
 date: 2019-01-28
-categories: [Dogs]
-tags: [dogs, controlled aggression, temperment, drive, socialization, nerves, hardness, focus, attention, evaluation, assessment]
+categories: [Dogs, Training]
+tags: [dogs, controlled aggression, temperament, drive, socialization, nerves, hardness, focus, attention, evaluation, assessment]
 ---
 
 I recently got a copy of [Controlled Aggression](https://www.amazon.com/Controlled-Aggression-Girard-Bradshaw/dp/B005D2SAQ6/ref=sr_1_1?ie=UTF8&qid=1548425622&sr=8-1&keywords=controlled+aggression) by [Jerry Bradshaw](https://www.instagram.com/tarheelk9/) which I'm very excited to start reading.  I've been a listener of the [Controlled Aggression Podcast](http://controlledaggressionpodcast.com/) since it started.  As I work my way through the book I'm going to make summary posts of different chapters as reminders to myself and hope they can be of use to others as well.

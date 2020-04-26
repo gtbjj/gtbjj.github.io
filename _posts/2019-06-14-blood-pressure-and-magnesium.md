@@ -2,7 +2,7 @@
 title: Blood Pressure and Magnesium
 author: Austin
 date: 2019-06-14
-categories: [Nutrition]
+categories: [Nutrition, Keto]
 tags: [bjj, climbing, nutrition, paleo, keto, blood pressure, hypertension, magnesium, red meat, bhb, open science]
 ---
 

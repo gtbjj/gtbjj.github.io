@@ -2,7 +2,7 @@
 title: Blood Pressure and Sodium
 author: Austin
 date: 2019-03-08
-categories: [Nutrition]
+categories: [Nutrition, Keto]
 tags: [bjj, climbing, nutrition, paleo, keto, open science, sodium, blood pressure]
 ---
 
