@@ -1,5 +1,5 @@
 ---
-title: MHRP: Trainign Day - Act 3
+title: "MHRP: Trainign Day - Act 3"
 author: Austin
 date: 2016-06-09
 categories: [RPG, MHRP]

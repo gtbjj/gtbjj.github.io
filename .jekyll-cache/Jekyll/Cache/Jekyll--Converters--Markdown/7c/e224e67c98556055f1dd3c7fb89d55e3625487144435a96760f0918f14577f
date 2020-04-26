@@ -1,4 +1,4 @@
-I"7U
+I"SX
 <div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
 
 
@@ -455,7 +455,27 @@
   </div>
 
   <div>
+    <a class="tag" href="/tags/marvel/">marvel<span class="text-muted">2</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/marvel-heroic-roleplaying/">marvel heroic roleplaying<span class="text-muted">4</span></a>
+  </div>
+
+  <div>
     <a class="tag" href="/tags/memory/">memory<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/metal-gear-solid/">metal gear solid<span class="text-muted">3</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/metalgear-solid/">metalgear solid<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/mhrp/">mhrp<span class="text-muted">1</span></a>
   </div>
 
   <div>
@@ -635,6 +655,10 @@
   </div>
 
   <div>
+    <a class="tag" href="/tags/rpg/">rpg<span class="text-muted">4</span></a>
+  </div>
+
+  <div>
     <a class="tag" href="/tags/ruby/">ruby<span class="text-muted">1</span></a>
   </div>
 
@@ -804,6 +828,10 @@
 
   <div>
     <a class="tag" href="/tags/work/">work<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/world-marshals/">world marshals<span class="text-muted">1</span></a>
   </div>
 
   <div>

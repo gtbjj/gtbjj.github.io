@@ -1,5 +1,5 @@
 ---
-title: MHRP: World Marshals - Act 1
+title: "MHRP: World Marshals - Act 1"
 author: Austin
 date: 2016-06-16
 categories: [RPG, MHRP]
