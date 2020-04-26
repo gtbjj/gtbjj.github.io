@@ -1,5 +1,5 @@
 ---
-title: SLIM: Errors with Block Device Naming
+title: "SLIM: Errors with Block Device Naming"
 author: Austin
 date: 2016-05-06 15:30
 categories: [Linux, Slim]
