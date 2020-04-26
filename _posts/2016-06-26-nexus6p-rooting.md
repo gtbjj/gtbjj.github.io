@@ -1,8 +1,8 @@
 ---
-title: Nexus 6P: Rooting, Part I
+title: "Nexus 6P: Rooting, Part I"
 author: Austin
 date: 2016-06-26 18:46:00
-categories: [Android, Tutorial
+categories: [Android, Tutorial]
 tags: [android, google, nexus 6p, root, adb]
 ---
 

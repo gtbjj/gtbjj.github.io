@@ -1,5 +1,5 @@
 ---
-title: Nexus 6P: Rooting and Recovery, Part 2
+title: "Nexus 6P: Rooting and Recovery, Part 2"
 author: Austin
 date: 2016-06-27
 categories: [Android, Tutorial]

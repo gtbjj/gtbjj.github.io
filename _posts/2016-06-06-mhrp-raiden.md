@@ -1,5 +1,5 @@
 ---
-title: MHRP: Raiden Introduction
+title: "MHRP: Raiden Introduction"
 author: Austin
 date: 2016-06-06
 categories: [RPG, MHRP]

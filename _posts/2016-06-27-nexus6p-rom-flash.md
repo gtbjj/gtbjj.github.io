@@ -1,5 +1,5 @@
 ---
-title: Nexus 6P: Rooting, Part IV
+title: "Nexus 6P: Rooting, Part IV"
 author: Austin
 date: 2016-06-27 14:02:00
 categories: [Android, Tutorial]

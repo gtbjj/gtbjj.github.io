@@ -1,5 +1,5 @@
 ---
-title: X205TA: Blutetooth
+title: "X205TA: Blutetooth"
 author: Austin
 date: 2016-06-11
 categories: [Linux, X205TA]

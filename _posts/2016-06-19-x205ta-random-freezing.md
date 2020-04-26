@@ -1,5 +1,5 @@
 ---
-title: X205TA: Random Freezing
+title: "X205TA: Random Freezing"
 author: Austin
 date: 2016-06-19
 categories: [Linux, X205TA]

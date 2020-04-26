@@ -1,5 +1,5 @@
 ---
-title: X205TA: Freezing After Suspend Resume
+title: "X205TA: Freezing After Suspend Resume"
 author: Austin
 date: 2016-06-18
 categories: [Linux, X205TA]

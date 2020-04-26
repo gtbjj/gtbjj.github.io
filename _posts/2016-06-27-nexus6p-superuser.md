@@ -1,8 +1,8 @@
 ---
-title: Nexus 6P: Rooting and Superuser, Part III
+title: "Nexus 6P: Rooting and Superuser, Part III"
 author: Austin
 date: 2016-06-27
-categories: [Android]
+categories: [Android, Tutorial]
 tags: [android, google, nexus 6p, flash, adb, root, superuser]
 ---
 
