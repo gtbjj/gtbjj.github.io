@@ -2,7 +2,7 @@
 title: "X205TA: Minimal Initramfs"
 author: Austin
 date: 2016-03-07
-categories: [Linux, X205TA
+categories: [Linux, X205TA]
 tags: [arch, linux, asus, x205ta, initramfs, kernel, performance]
 toc: false
 ---

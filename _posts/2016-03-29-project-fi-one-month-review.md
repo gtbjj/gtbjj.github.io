@@ -1,8 +1,8 @@
 ---
-title: Project Fi: One Month Review
+title: "Project Fi: One Month Review"
 author: Austin
 date: 2016-03-29 18:52:00
-categories: [Android]
+categories: [Android, Review]
 tags: [google, android, project fi, mobile, carrier, prepaid, review]
 ---
 
