@@ -1,7 +1,7 @@
 ---
 title: "Carnivore75Hard: Week 1"
 author: Austin
-date: 2020-26-24
+date: 2020-04-26
 categories: [Nutrition, Carnivore]
 tags: [carnivore, carnivore diet, challenge, carnivore75hard]
 toc: false
