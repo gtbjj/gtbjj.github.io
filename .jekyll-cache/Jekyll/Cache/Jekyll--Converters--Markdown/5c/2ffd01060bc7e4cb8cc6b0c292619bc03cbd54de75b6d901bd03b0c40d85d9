@@ -1,0 +1,65 @@
+I":<p>SLiM has well documented errors with <em>systemd</em>’s shutdown process (<a href="https://wiki.archlinux.org/index.php/SLiM#Shutdown_or_Reboot_Stalled">See 
+ArchWiki</a>).  While this was the root of the problem, the related errors 
+I found while working backwards are worth pointing out.</p>
+
+<h3 id="failure-to-mount-boot">Failure to mount /boot:</h3>
+
+<p>I noticed periodically that my boot process was failing and I was getting dropped to recovery mode.  Of course, the first thing I did was check 
+<em>/etc/fstab</em> for errors, but found none.  Running <code class="highlighter-rouge">$ lsblk</code> showed that my block devices had been mislabeled.</p>
+
+<p>I don’t think this is particularly an Arch or Linux issue, but maybe to do with the MicroSD slots of the Asus X205TA.  <em>/dev/mmcblk0</em> is the 
+onboard card, while <em>/dev/mmcblk1</em> is the external that I use for a swap partition and backups.</p>
+
+<p>A proper mount would look like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+</pre></td><td class="rouge-code"><pre>NAME               MAJ:MIN RM  SIZE RO TYPE  MOUNTPOINT
+mmcblk0rpmb        179:24   0    4M  0 disk  
+mmcblk0boot0       179:8    0    4M  1 disk  
+mmcblk0boot1       179:16   0    4M  1 disk  
+mmcblk0            179:0    0 29.1G  0 disk  
+├─mmcblk0p1        179:1    0  100M  0 part  /boot
+├─mmcblk0p2        179:2    0   10G  0 part  /
+└─mmcblk0p3        179:3    0   19G  0 part  
+  └─_dev_mmcblk0p3 254:0    0   19G  0 crypt /home/austin
+mmcblk1            179:32   0 29.7G  0 disk  
+└─mmcblk1p1        179:33   0    2G  0 part  [SWAP]
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p>However, after the initial boot, the devices were getting mixed up (e.g. the system thought <em>/devmmcblk1p1</em> was the <em>/boot</em> partition).</p>
+
+<ul>
+  <li>One solution would be to remove the <em>/boot</em> entry from <em>/etc/fstab</em> since it technically isn’t needed after the boot process.  However, this 
+can cause some inconvenience when it comes to things like updating your kernel or initramfs.</li>
+  <li>So, I found that using UUIDs in <em>/etc/fstab</em> took care of this problem just as well.</li>
+</ul>
+
+<h3 id="failure-to-execute-login-command">Failure to Execute Login Command:</h3>
+
+<p>Once I got to past the boot (re)mount problems I was getting “random” <em>failure to execute login command</em> errors from SLiM when trying to login. 
+ Typically this happens when you’ve got a typo or other errors in <em>~/.xinitrc</em>.  But I had no erorrs there.</p>
+
+<p>I have been using <a href="https://gtbjj.github.io/linux/backup%20and%20security/2016/04/13/2359-Home-Encryption.html">Home Folder 
+Encryption</a> so, next I checked my <em>dm-crypt</em> setup 
+and everything looked fine.</p>
+
+<p>Remembering the above erros, <strong>I was able to recreate it</strong> by observing that SLiM interferes with the shutdown process.  When a proper shutdown 
+occurred, there was <em>not</em> a labeling error.  However, when I had to hard reboot (via power button) – due to SLiM inhibiting the shutdown 
+process – the mislabeling happend on the subsequent startup.</p>
+
+<p><strong>The solution</strong> here for me was, rather than creating a system call as the Arch Wiki suggests, just a simple shell alias to force SLiM 
+to stop before the system tries to poweroff.  Something like:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>alias shutdown="sleep 1 &amp;&amp; sudo shutdown now | sudo systemctl stop slim"
+</pre></td></tr></tbody></table></code></pre></div></div>
+:ET

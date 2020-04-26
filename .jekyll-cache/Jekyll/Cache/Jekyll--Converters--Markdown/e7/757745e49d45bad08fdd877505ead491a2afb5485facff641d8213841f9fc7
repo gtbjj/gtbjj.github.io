@@ -1,0 +1,72 @@
+I"9<p>I just paid my 5 month Project Fi bill with, and thus I’ve decided I’m long overdue to root my Hauwei Nexus 6P!</p>
+
+<p>Honestly though, the Nexus 6P is such a great device I really didn’t feel an urgent need to get rooting away with with it.  I had come to it 
+from a modest HTC One Remix.  So, I was thrilled just to have sufficient storage space, a BA camera, and hardware that wouldn’t crap out when I 
+tried to pictures and documents from between my phone and laptop.</p>
+
+<p>Anyway, I’ve been out of the XDA realm for quite a while now – think back to Samsung Galaxy S3 era.  I was still a graduate student then and 
+had… uh… pleny of free time to break, fix, and do whatever to my phone.  I also went down the Linux rabbit hole in the mean time and that 
+became the forefont of my IT hobbying.</p>
+
+<p>Rather than cram a ton into one post, I’m going to spread this process out over severl so stay tuned.</p>
+
+<hr />
+
+<p>Without further adue (<strong>proceed at your own risk</strong>), first be sure to have Android Debugging Bridge (ADB) setup and working properly.  Take a few minutes to visit the <a href="https://wiki.archlinux.org/index.php/android#Android_Debug_Bridge_.28ADB.29">ADB page on the Arch Wiki</a>.</p>
+
+<p>1) Go into phone’s <em>Settings</em> &gt; <em>About Phone</em> &gt; and tap <em>Build Number</em> until you see at toast message about <em>being a developer</em>.  Then, go back 
+to <em>Settings</em> and then to <em>Developer Options</em>.  Tick <em>Enable OEM Unlock</em> and <em>USB Debugging</em> and proceed below.</p>
+
+<p>2) Connect your phone via USB and check that ADB has found it:</p>
+
+<p><code class="highlighter-rouge">$ adb devices</code></p>
+
+<p>The terminal output should list your phone’s serial number and a status report (should say <em>device</em>, but may read <em>unknonwn,unauthorized,etc..</em>)</p>
+
+<p>3) Boot to the phone’s bootloader (this can also be done by powering off, then holding the <em>power</em> and <em>volume down</em> buttons):</p>
+
+<p><code class="highlighter-rouge">$ adb reboot bootloader</code></p>
+
+<p>4) Check that fastboot is working (output should be similar to <em>$ adb devices</em>):</p>
+
+<p><code class="highlighter-rouge">$ fastboot devices</code></p>
+
+<p>5) Unlock the bootloader:</p>
+
+<p><strong>WARNING:  This will erase all user data on your phone!</strong> 
+Consider a tool like <a href="/posts/syncthing/">Syncthing</a>.  Fortunately, these days (if you’ve configured your Google account 
+accordingly) all your apps, data, WiFi passowrds, and the like get backed up to Google’s servers. So you’re spared some overhead there.</p>
+
+<p><code class="highlighter-rouge">$ fastboot flashing unlock</code></p>
+
+<p>You’ll get a message on the phone asking you to confirm.  Scroll with the volume buttons and select with the power button.</p>
+
+<p>6) Reboot the phone:</p>
+
+<p><code class="highlighter-rouge">$ fastboot reboot</code></p>
+
+<p>You will get an error message about Google not being able to check if the phone is compormoised.  Apparently this is <em>normal</em> and will persist 
+on reboots as long as the phone’s bootloader is unlocked.</p>
+
+<p>Before continuing to <a href="/posts/2016-06-27-nexus6p-recovery/">Part 2</a> you’ll want to disable any security features.  This will allow you to make a backup that can be fallen back on should you break something in the future.  If you do not disable security pins / patterns / fingerprints, then you wont be able to access the backup of the current system once you restore it.  However, there are some possible workarounds in case you forget (see reference at bottom of page).</p>
+
+<h3 id="bumps-along-the-way">Bumps Along the Way:</h3>
+
+<p>ADB lists devices as <em>unauthorized</em>:</p>
+
+<blockquote>
+  <p>Check that USB Debugging is enabled.  Unplug and replug the device into your computer.  There should be a pop-up on the phone asking you to accept that computer as a debugger.  Check the “always allow for this computer” box and then <em>accept</em>.</p>
+</blockquote>
+
+<p>ADB finds device but fastboot does not:</p>
+
+<blockquote>
+  <p>You need to use ADB to boot to the phone’s bootloader prior to checking fastboot.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="references">References:</h3>
+
+<p><a href="http://forum.xda-developers.com/nexus-6p/general/guides-how-to-guides-beginners-t3206928">XDA Developers Guide</a></p>
+:ET

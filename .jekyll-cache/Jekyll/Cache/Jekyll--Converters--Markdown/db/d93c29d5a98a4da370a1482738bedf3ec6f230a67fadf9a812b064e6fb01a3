@@ -1,0 +1,102 @@
+I"�<p><img src="https://avatars1.githubusercontent.com/u/7628018?v=3&amp;s=400" style="float: left" /></p>
+
+<p>My favorite backup utility right now has to be 
+<a href="https://syncthing.net">Syncthing</a>.  It is simple to implement and use and there 
+is no reliance on a third party (e.g. Google Drive, Dropbox, etc…).</p>
+
+<p>We should know by now that one backup is never enough.  Once upon a time I bought 
+a 64 GiB thumb drive from Amazon for about $40 and this served as my “<em>~daily 
+rsync</em>” backup.  This was all good and well and pretty damn nifty to have a 
+perfect, bootable, replica of my home pc attached to my hip all day.</p>
+
+<p>However, when I’m not playing system admin at home, I’m usually rock climbing 
+somewhere in the <a href="http://www.seclimbers.org/">Atlanta-Birmingham-Chattanooga 
+Triangle</a>.  Needless to say I smashed a few of those 
+aforementioned thumb drives in the past few years.</p>
+
+<p>Most of us carry dang powerful pocket-god computers around every day, why not 
+backup to that!?  Many times I experimented with Google Drive 
+(<a href="https://github.com/Grive/grive">grive</a>) and always seemed to come up 
+dissatisfied.  I even went so far as to tinker (and have some success) with a SSH</p>
+<ul>
+  <li>Rsync combo through a home WiFi network.</li>
+</ul>
+
+<p><strong>But there is a better way my FOSS friends!</strong> Hosting your own local server to 
+volley backups to and fro from doesn’t have to be as complicated as it seems.<br />
+Yes, maybe <a href="https://owncloud.org/">ownCloud</a> is a bit more pollished and 
+<a href="https://wiki.archlinux.org/index.php/BitTorrent_Sync">BTsync</a> can do similar 
+things.  But, <a href="https://github.com/syncthing/syncthing">Syncthing is open 
+sourced</a>(and free) and is essentially 
+effortless to set up.</p>
+
+<p>Maybe you want the simple route of syncing  your phone’s pictures back to your 
+desktop:</p>
+
+<p>1) Gather the things:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>* Install the [Syncthing Android  App](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
+* Install the [official Syncthing Arch  package](https://www.archlinux.org/packages/?name=syncthing)
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>2) Prepare your phone:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>* Open the app and add the relevant folder contianing your pictures
+* Swipe over to ```DEVICES``` and tap the ```+``` on the top-right corner
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>3) Ready your PC:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>* On your desktop do ```$ systemctl --user start syncthing```
+* Navigate to ```localhost://8384``` in your pc's web browser
+* Click ```Actions``` then ```Show ID```
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>4) Connect the devices</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>* Tap the QR-Code icon on your phone
+* Snap a pic of the QR-Code on your desktop screen
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>5) You can then go back on your phone and select which folders to share with the 
+<em>new device</em>.</p>
+
+<p>Likewise, do some of that in reverse and sync all of <em>~/home</em> to 
+<em>/storage/ext_sd</em>.  Though, for a copmete backup I’d recommend <a href="https://wiki.archlinux.org/index.php/System_backup_and_reinstall#Configurations">backing up 
+your system 
+settings</a> 
+to somewhere in <em>~/home</em> with a simple <a href="https://wiki.archlinux.org/index.php/Cron">cron 
+job</a> as well.</p>
+
+<p>Seemingly contrary to Android 4.4.x KitKat’s limitations regarding 3rd party apps 
+writing to the external SD Card, there is a work around for this.  You can install 
+and app like <a href="https://play.google.com/store/apps/details?id=org.openintents.filemanager">OI File 
+Manager</a> 
+to create a folder in <em>/storage/ext_sd</em>.  Technically the app “<em>owns</em>” the 
+folder it creates, and thus non-root apps can write there.  Whatever folder you 
+create, maybe <em>/storage/ext_sd/pc-backup</em>, just choos that to sync to 
+<em>~/home</em>.</p>
+
+<p>Everyday use is easy too.  I have a shell alias set up to A) connect to WiFi via 
+<em>netctl</em>, B) deploys my firewall via <em>iptables</em>, and C) start the 
+<em>syncthing</em> server.  All I have to do then is launch the app on my phone while 
+the PC / Laptop are connected to the same WiFi network.</p>
+
+<p>The initial sync will, of course, take quite a while and very long if you have a 
+lot of data.  However, I’ve found it pretty reliable and snappy after that.  Even 
+if you miss a few days, chances are if you launch the app while you’re grinding 
+away at your deask, your files can sync up nicely before bed.</p>
+
+<p>All in all <em>syncthing</em> is simple, savy, easy to use, and just plain gets the 
+job done!  Cheers to the devs!</p>
+
+:ET

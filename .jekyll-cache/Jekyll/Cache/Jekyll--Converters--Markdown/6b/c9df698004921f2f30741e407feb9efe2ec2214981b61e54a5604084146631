@@ -1,0 +1,12 @@
+I"P<p>I’ve run into this problem after system restorations in the past and always have to do some Googling to get to the bottom of it.  Thus, I wanted to document the process here so that I have a record of it. The error in question results from running <em>makepkg</em> and receiving the following output:</p>
+
+<p><code class="highlighter-rouge">==&gt; ERROR:  One or more PGP signatures could not be verified!</code></p>
+
+<p>For some clarification on the distinction between how <em>pacman</em> and <em>makepkg</em> use PGP keyrings, read <a href="http://allanmcrae.com/2015/01/two-pgp-keyrings-for-package-management-in-arch-linux/">this post by Allan McRae</a>.</p>
+
+<p>Per the <a href="https://wiki.archlinux.org/index.php/Makepkg#Signature_checking">relevant Arch Wiki section</a>, if you absolutely trust the package source you can take the lazy way out and instruct <em>makepkg</em> to skip signature checking via the <code class="highlighter-rouge">--skippgpcheck</code> flag.</p>
+
+<p>Alternatively, have have a look at the package’s <em>PKGBUILD</em>.  There should be an array of <em>validpgpkeys</em>.  What you will want to do is copy the given Key IDs into the following command (<a href="https://wiki.archlinux.org/index.php/Gnupg#Use_a_keyserver">1</a>):</p>
+
+<p><code class="highlighter-rouge">$ gpg --recv-keys &lt;key_id&gt;</code></p>
+:ET

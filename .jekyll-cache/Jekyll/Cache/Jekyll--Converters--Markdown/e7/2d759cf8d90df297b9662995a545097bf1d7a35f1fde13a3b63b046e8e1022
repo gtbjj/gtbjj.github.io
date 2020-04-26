@@ -1,0 +1,8 @@
+I"x<p>I got to looking into managing memory and power settings 
+lately which led me to a slew of <em>vm</em> settings.  This is 
+configured through a system daemon 
+(<em>/etc/sysctl.d/daemon_name.conf</em>).  In this case I’m 
+working with virtual memory, so with good sense I dubbed 
+the file <em>vm.conf</em>.  The descriptions below are from 
+examples in the Arch Wiki.</p>
+:ET

@@ -1,0 +1,16 @@
+I"<p>Recently after restoring my system I’ve been getting some 
+funky erorrs when compiling / installing AUR packages and Ruby Gems.  At first I thought 
+the issue was specific to the repspective programs.  (e.g. 
+the ones being compiled by ABS and the gem in question).</p>
+
+<p>However, upon closer inspection, both errors were related 
+to the execution of c programmed executables.  Some quick 
+Googleing lead me to <a href="https://bbs.archlinux.org/viewtopic.php?id=107372">this Arch Linux forum 
+thread</a>.</p>
+
+<p>I don’t remember ever manually doing anything to
+<code class="highlighter-rouge">glibc</code> as suggested in the thread, but at any rate, a 
+simple upgrade did the trick for me.</p>
+
+<p><code class="highlighter-rouge"># pacman -S glibc gcc</code></p>
+:ET

@@ -1,0 +1,6 @@
+I"C<p>DWM comes pre-configured with <code class="highlighter-rouge">MOD + TAB</code> to hop between 
+recent tags.  You can also hit <code class="highlighter-rouge">MOD + TAG_NUM</code> (e.g. 
+alt + {1,2,3,4,5}) to go directly to that tag.  However, 
+that is a bit of a stretch one handed and a tad 
+inconvenient with two.</p>
+:ET
