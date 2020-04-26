@@ -2,7 +2,7 @@
 title: Making Climbing Special Again
 author: Austin
 date: 2017-08-02
-categories: [Climbing]
+categories: [Climbing, Ethics]
 tags: [climbing, gratitude]
 ---
 

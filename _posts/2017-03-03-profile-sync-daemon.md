@@ -2,7 +2,7 @@
 title: Manual Profile Sync Daemon
 author: Austin
 date: 2017-03-03
-categories: [Linux]
+categories: [Linux, Performance]
 tags: [linux, psd, profile sync, daemon, performance, arch]
 ---
 

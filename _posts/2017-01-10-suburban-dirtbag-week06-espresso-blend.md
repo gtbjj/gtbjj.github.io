@@ -1,8 +1,8 @@
 ---
-title: Suburban Dirtbag: Espresso Blend
+title: "Suburban Dirtbag: Espresso Blend"
 author: Austin
 date: 2017-01-10
-categories: [Climbing]
+categories: [Climbing, Dirtbag]
 tags: [climbing, dirtbag, suburban dirtbag, training, cragwagon, fear]
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: aFlash Kernel: Release Notes
+title: "aFlash Kernel: Release Notes"
 author: Austin
 date: 2017-06-24
-categories: [Android]
+categories: [Android, Releases]
 tags: [root, android, nexus 6p, angler, kernel flash kernel, aflash, afk, release notes]
 ---
 

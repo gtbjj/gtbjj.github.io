@@ -1,0 +1,44 @@
+I"<p>I’ve stated before that I feel a great sense of accomplishment when I’m able to attain notable strides in my programming ability, particularly because that is not my trained profession.  Neverthless, today I submitted my first original package to the Arch User Repository (AUR); <code class="highlighter-rouge">dnd-tools</code>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+</pre></td><td class="rouge-code"><pre>Current Features:
+
+- character generator: can be completely randomized, output is to stdout
+- dice roller (any number of sides, any number of dice)
+- wild magic effect roller (for sorcerers)
+- tarokka (tarrot) card game (from Curse of Strahd)
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>I’ve maintained <a href="https://aur.archlinux.org/packages/?O=0&amp;SeB=M&amp;K=gtbjj&amp;outdated=&amp;SB=n&amp;SO=a&amp;PP=50&amp;do_Search=Go">serveral packages</a> for a while now, but was only packaging them and inheriting them from upstream.  Actually, I simply migrated them from the old AUR to the new one (v4).  This time, I am the upstream and said upstream has been built entirely from scratch and by (my) hand.</p>
+
+<p>Quite a while ago I created a python script to create Dungeons &amp; Dragons (5e) characters and submitted it to my <a href="https://github.com/savagezen/scripts">scripts repo on GitHub</a>.  Previously this required the user to download the script and then tell python to execute it via command line.  You also had to reinitiate the script after running a specific function which was inefficient.</p>
+
+<p>The installation process is much more fluid now.  Arch users can manually (or via a helper like Yaourt) install the package just like any other native binary; and execute it the same way as well.  A simple <code class="highlighter-rouge">$ dnd-tools</code> brings up an interactive prompt that is cycled back to after every or any function is run.</p>
+
+<p>The project is <a href="https://github.com/savagezen/dnd-tools">open source</a> and I also maintain a repo for the <a href="https://github.com/savagezen/pkgbuild">PKGBUILDs for all the packages I maintain</a> so that others can collaborate and make suggestions that way as well.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre></td><td class="rouge-code"><pre>Planned Features:
+
+ - generate character to output file
+  - import character file?
+  - loot generator
+  - spell sheet?
+  - npc generator?
+  - random adventure generator?
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>For Windows users, <a href="https://raw.githubusercontent.com/gtbjj/dnd-tools/master/scripts/dnd-tools">the script is still avialable in the source code</a>.  See <a href="http://pythoncentral.io/execute-python-script-file-shell/">instructions for running python script on Windows</a>.</p>
+:ET

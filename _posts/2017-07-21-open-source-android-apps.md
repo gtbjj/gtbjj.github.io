@@ -1,8 +1,8 @@
 ---
-title: App Review: Open Source Android Apps
+title: "App Review: Open Source Android Apps"
 author: Austin
 date: 2017-07-21
-categories: [Android]
+categories: [Android, Review]
 tags: [android, foss, open source, app review]
 ---
 

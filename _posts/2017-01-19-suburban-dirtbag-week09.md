@@ -1,8 +1,8 @@
 ---
-title: Suburban Dirtbag: Week 9
+title: "Suburban Dirtbag: Week 9"
 author: Austin
 date: 2017-01-19
-categories: [Climbing]
+categories: [Climbing, Dirtbag]
 tags: [climbing, goals, dirtbag, suburban dirtbag, stronger, trad daddy]
 -----
 
