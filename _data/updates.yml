@@ -2,8 +2,41 @@
   filename: 'stoic-reflection-006'
   lastmod: '2020-04-26 11:32:57 -0400'
 -
+  filename: 'nexus6p-superuser'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'nexus6p-rom-flash'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'nexus6p-recovery'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'nexus6p-rooting'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'block-io-queue'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'x205ta-random-freezing'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'x205ta-wifi-mouse-suspend-resume'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'x205ta-touchpad'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'x205ta-sd-card'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'x205ta-disable-systemd-lid-suspend'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
   filename: 'mhrp-world-marshals-a1'
   lastmod: '2020-04-26 12:40:51 -0400'
+-
+  filename: 'x205ta-bluetooth'
+  lastmod: '2020-04-26 12:51:41 -0400'
 -
   filename: 'mhrp-training-day-a3'
   lastmod: '2020-04-26 12:40:51 -0400'
@@ -13,6 +46,12 @@
 -
   filename: 'mhrp-training-day-a1'
   lastmod: '2020-04-26 12:40:51 -0400'
+-
+  filename: 'x205ta-iso-image'
+  lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'mhrp-raiden'
+  lastmod: '2020-04-26 12:51:41 -0400'
 -
   filename: 'f2fs-crc32'
   lastmod: '2020-04-26 12:46:59 -0400'
