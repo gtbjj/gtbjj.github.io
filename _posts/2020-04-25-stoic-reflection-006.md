@@ -1,9 +1,8 @@
 ---
 title: "Stoic Reflection: 006"
-excerpt: "This is an excerpt from the post"
 author: Austin
 date: 2020-04-25
-categories: [Philosophy, Psychology
+categories: [Philosophy, Psychology]
 tags: [carnivore75hard, stoicism, philosophy, psychology]
 toc: false
 ---
