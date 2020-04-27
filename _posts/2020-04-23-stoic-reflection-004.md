@@ -3,7 +3,7 @@ title: "Stoic Reflection: 004"
 author: Austin
 date: 2020-04-23
 categories: [Philosophy, Psychology]
-tags: [carnivore75hard, stoicism, philosophy, psychology]
+tags: [carnivore75hard, stoicism, philosophy, psychology, gratitude]
 toc: false
 ---
 
