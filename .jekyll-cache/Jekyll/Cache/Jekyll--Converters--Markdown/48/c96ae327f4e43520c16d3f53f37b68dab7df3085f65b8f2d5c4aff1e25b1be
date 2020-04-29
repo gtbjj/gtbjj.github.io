@@ -1,8 +1,24 @@
-I"Ï<h3 id="introduction">Introduction</h3>
+I"b<h3 id="introduction">Introduction</h3>
 
 <p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions Iâ€™d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
 <p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
+
+<ul>
+  <li>Faxia Roxa - 2/15/20</li>
+  <li>Carnivore - 2/14/20
+    <ul>
+      <li>Keto - Dec. 2018</li>
+      <li>Paleo - 2012</li>
+    </ul>
+  </li>
+  <li>Dog Trainer - Dec 2017</li>
+  <li>Arch Linux - July 2013
+    <ul>
+      <li>Linux Mint - 2012</li>
+    </ul>
+  </li>
+</ul>
 
 <hr />
 
@@ -16,25 +32,31 @@
 
 <hr />
 
-<h3 id="public-data-and-research">Public Data and Research</h3>
+<h3 id="current-projects">Current Projects:</h3>
 
 <details>
   <summary>Click to expand.</summary>
   
   <ul>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/raw_data">Raw Data</a>: used for statistics calculations</li>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/scripts">R Scripts</a>: used to compute statistics</li>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/correlations">R Output - Correlations</a>: output from scripts</li>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/descriptive_stats">R Output - Descriptive Statistics</a>: output from scripts</li>
-    <li><a href="https://drive.google.com/open?id=0B2RH_BSaD6YPSTFKUm9xQ2pqNlk">Public Records - Google Drive</a>: spreadsheet and original documentation</li>
-    <li><a href="https://photos.app.goo.gl/jrqqa6PNoXXHvM3m6">Public Records - Google Photos Album</a>: screenshots from cronometer, and blood panels, etc...</li>
+    <li>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.&lt;/a&gt;
+    </li>
+    <li>
+      <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
+    </li>
+    <li>
+      <a href="https://photos.app.goo.gl/jrqqa6PNoXXHvM3m6">Google Photos Album</a>:  Supplemental information regarding nutrient profiles, blood panels, test results, etc...
+    </li>
+    <li>
+      <a href="https://github.com/savagezen/pkgbuild">AUR Packages</a>:  Mirror repository for packages maintained for the Arch (Linux) User Repository.
+    </li>
   </ul>
   
 </details>
 
 <hr />
 
-<h3 id="the-road-to-carnivory">The Road to Carnivory</h3>
+<h3 id="the-road-to-carnivory">The Road to Carnivory:</h3>
 
 <details>
   <summary>Click to continue reading.</summary>

@@ -1,4 +1,4 @@
-﻿60 day carnivore studies (draft)
+﻿90 day carnivore studies (draft)
 
 ---
 
@@ -58,6 +58,8 @@
     * fasted time : blood sugar
     * fasted time : ketones
     * Na : CVL
+    * O6:O3 : BP
+    * O6:O3 : CVL
     * Electrolyte Sum : CVL
     * Sodium ratio (Na / P) : CVL
     * Fat ratio (calories from fat / calories from protein) : blood sugar
@@ -76,7 +78,8 @@
   * randomize doasge and timing to control for adaptation (getting stronger).
   * dosages up to 10mg / kg; tolerance builds and may deteriorate benefits ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462044/),[r](https://www.ncbi.nlm.nih.gov/pubmed/19924012))
   * arguably total caffeine intake went up, but continued to be regulated prior to workout though I hadn't placed any limits on daily consumption until 4/26.
-    * start decreasing daily total until, potentially will also give good control to A) tolerance, and B) performance
+  * caffeine increases peak power, mean power, and grip strength, but also post-exercise blood pressure ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566184/))
+  * start decreasing daily total until, potentially will also give good control to A) tolerance, and B) performance
 
 > Results (correlation and regression):
 >  Dependent variable = strength output test (timed 500 kb + 75 push press swing @ 20#, for time)

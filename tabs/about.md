@@ -6,6 +6,7 @@ title: About
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2017-2019 Cotes Chung
 # MIT License
+toc: true
 ---
 
 ### Introduction
@@ -13,6 +14,14 @@ title: About
 This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
 
 At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+
+* Faxia Roxa - 2/15/20
+* Carnivore - 2/14/20
+    * Keto - Dec. 2018
+    * Paleo - 2012
+* Dog Trainer - Dec 2017
+* Arch Linux - July 2013
+    * Linux Mint - 2012
 
 ---
 
@@ -24,25 +33,31 @@ At some point quest logs from tabletop role playing games were added as well as 
 
 ---
 
-### Public Data and Research
+### Current Projects:
 
 <details>
   <summary>Click to expand.</summary>
   
   <ul>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/raw_data">Raw Data</a>: used for statistics calculations</li>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/scripts">R Scripts</a>: used to compute statistics</li>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/correlations">R Output - Correlations</a>: output from scripts</li>
-    <li><a href="https://github.com/savagezen/carnivore/tree/master/docs/document_data/descriptive_stats">R Output - Descriptive Statistics</a>: output from scripts</li>
-    <li><a href="https://drive.google.com/open?id=0B2RH_BSaD6YPSTFKUm9xQ2pqNlk">Public Records - Google Drive</a>: spreadsheet and original documentation</li>
-    <li><a href="https://photos.app.goo.gl/jrqqa6PNoXXHvM3m6">Public Records - Google Photos Album</a>: screenshots from cronometer, and blood panels, etc...</li>
+    <li>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.</a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
+    </li>
+    <li>
+      <a href="https://photos.app.goo.gl/jrqqa6PNoXXHvM3m6">Google Photos Album</a>:  Supplemental information regarding nutrient profiles, blood panels, test results, etc...
+    </li>
+    <li>
+      <a href="https://github.com/savagezen/pkgbuild">AUR Packages</a>:  Mirror repository for packages maintained for the Arch (Linux) User Repository.
+    </li>
   </ul>
   
 </details>
 
 ---
 
-### The Road to Carnivory
+### The Road to Carnivory:
 
 <details>
   <summary>Click to continue reading.</summary>

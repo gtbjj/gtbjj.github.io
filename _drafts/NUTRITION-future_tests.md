@@ -7,13 +7,29 @@ title: Future Tests
 
 * 90 day blood panel (~5/14/20)
 * [75 Hard challenge](https://nutritionwithjudy.com/carnivore75hard/) (~7/4/20)
-* sleep quality and measures
-* Caffeine and Triglycerides (pending caffeine / performance results)
+* Caffeine and...
+    * Triglycerides (pending caffeine / performance results)
+    * Blood Pressure / CVL
+        * Caffeine and blood pressure:  I thought I had studied this in the past, and had a minimal / no effect, but I can't find the archive
+        * caffeine does deplete sodium and magnesium ([r](https://www.instagram.com/p/B_fkn1ogmOz/))
+        * 2008, small increase @ 5 cups coffee / day ([r](https://www.ncbi.nlm.nih.gov/pubmed/19183744))
+        * 2010, +6/+3 sys/dia @ 250mg ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940460/)) 
+        * 2017, "coffee restriction not warranted" in otherwise healthy people, 3-4 cups / day ([r](https://www.ncbi.nlm.nih.gov/pubmed/28128673))
+        * 2017, caffeine slows recovery (HRV) and return of BP to baseline (post exercise) ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658389/))
+        * 2019, increased max power, mean power, and grip, but also increased blood pressure ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566184/))
 * Blood Pressure and Sodium:Potassium Ratio (f/u)
+* O3, O6, and Blood Pressure
+    * 2015,  O3 = consistent cardiovascular and anti-inflamatory benefits in animals, but mixed results in humans ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537707/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537707/))
+    * 2020, O3 reduces triglycerides, may reduce cardio mortality, but no effect on all cause mortality; no observed effect on fish consumption  ([https://www.ncbi.nlm.nih.gov/pubmed/32114706](https://www.ncbi.nlm.nih.gov/pubmed/32114706))
+     * 6g fish oil / day for 10 weeks reduced blood pressure; O6 from corn oil increased blood pressure ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6609124/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6609124/))
+    * O3 raises HDL and lowers Triglycerides; lowers 24-h, day, and night sys/dia by way of anti-inflamatory properties ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6085127/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6085127/))
+    *  2019, O3 and O6 can reduce blood pressure ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627798/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627798/))
+    * bp changes in 3 weeks to 3 months ([https://www.pritikin.com/how-long-lower-blood-pressure](https://www.pritikin.com/how-long-lower-blood-pressure))
 
 **Consideration:**
 
 * Water Filter / Testosterone?
+* sleep quality and measures
 
 ---
 
