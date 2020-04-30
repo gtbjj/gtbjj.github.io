@@ -1,52 +1,48 @@
----
-title: About
+I"#<h3 id="introduction">Introduction</h3>
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-### Introduction
-
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
-
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
-    <summary>A brief history:</summary>
-    <ul>
-      <li>Faxia Roxa - 2/15/20</li>
-      <li>Carnivore - 2/14/20</li>
-        <ul>
-          <li>Keto - Dec. 2018</li>
-          <li>Paleo - ~2012</li>
-        </ul>
-      <li>Dog Trainer - Dec 2017</li>
-      <li>MA Psychology (UWG) - 2015</li>
-      <li>Arch Linux - July 2013</li>
-        <ul>
-          <li>Linux Mint - 2012</li>
-        </ul>
-    </ul>
-</details>
-
-<details>
-  <summary>Contribute to current research.</summary>
+  <summary>See my history...</summary>
+  
   <ul>
-    <li><a href="https://forms.gle/zU2e5cf1i4AkhyAc9">Caffeine and Performance</a></li>
-    <li><a href="https://forms.gle/sqHp74duBRRrvE9w7">Electrolytes and Cardiovascular Load</a></li>
-    <li><a href="https://forms.gle/k3mWGBD3xB3Avop88">Cold Showers and Recovery</a></li>
+    <li>Faxia Roxa - 2/15/20</li>
+    <li>Carnivore - 2/14/20</li>
+      <ul>
+        <li>Keto - Dec. 2018</li>
+        <li>Paleo - ~2012</li>
+      </ul>
+    <li>Dog Trainer - Dec 2017</li>
+    <li>MA Psychology (UWG) - 2015</li>
+    <li>Arch Linux - July 2013</li>
+      <ul>
+        <li>Linux Mint - 2012</li>
+      </ul>
   </ul>
 </details>
 
+<hr />
+
+<h3 id="contribute-to-current-research">Contribute to Current Research:</h3>
+
+<ul>
+  <li>Survey:  <a href="https://forms.gle/zU2e5cf1i4AkhyAc9">caffeine and performance</a></li>
+  <li>Survey:  <a href="https://forms.gle/sqHp74duBRRrvE9w7">electrolytes and cardiovascular load</a></li>
+  <li>Survey:  <a href="https://forms.gle/k3mWGBD3xB3Avop88">cold showers and recovery</a></li>
+</ul>
+
+<hr />
+
+<h3 id="current-projects">Current Projects:</h3>
+
 <details>
-  <summary>Current Projects:</summary>
+  <summary>Click to expand.</summary>
+  
   <ul>
     <li>
-      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.</a>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.&lt;/a&gt;
     </li>
     <li>
       <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
@@ -58,20 +54,26 @@ At some point quest logs from tabletop role playing games were added as well as 
       <a href="https://github.com/savagezen/pkgbuild">AUR Packages</a>:  Mirror repository for packages maintained for the Arch (Linux) User Repository.
     </li>
   </ul>
+  
 </details>
 
+<hr />
+
+<h3 id="carnivore-resources">Carnivore Resources:</h3>
+
 <details>
-  <summary>Carnivore Resources:</summary>
+  <summary>Get Started and Join the Community</summary>
   <ul>
-    <li><a href="https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592?country=us">Fundamental Health Podcast</a></li>
-    <li><a href="https://nutritionwithjudy.com/nutritionists-guide-to-the-carnivore-diet-a-beginners-guide/">Beginner's Guide to the Carnivore Diet</a></li>
-    <li><a href="https://meat.health/knowledge-base/carnivore-diet-tinkering/">"Levels" of the Carnivore Diet</a></li>
-    <li><a href="https://t.me/carnivores">Carnivore Telegram Group</a></li>
+    <li>[Fundamental Health Podcast](https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592?country=us)</li>
+    <li>[Beginner's Guide to the Carnivore Diet](https://nutritionwithjudy.com/nutritionists-guide-to-the-carnivore-diet-a-beginners-guide/)</li>
+    <li>["Levels" of the Carnivore Diet](https://meat.health/knowledge-base/carnivore-diet-tinkering/)</li>
+    <li>[Carnivore Telegram Group](https://t.me/carnivores)</li>
   </ul>
 </details>
 
 <details>
   <summary>Read my road to carnivory!</summary>
+
   Many moons ago, circa 2008, I began scouring bodybuilding forums to supplement my wrestling training.  In 2010 I found my self carrying over 200 lbs on my 5'8" frame.  I started training boxing, BJJ, and MMA then, and in 2011 took a more serious look at my diet.
   <br /> <br />
   I started to ditch the "bro-science" and be more methodical, picking up a copy of Tim Ferriss's *The Four Hour Body*.  It wasn't too long then until I transitioned to Robb Wolf's *Paleo Solution* and Mark Sisson's *Primal Blueprint.*  And so I set out on my paleo path happily from 2012 - 2019.
@@ -85,4 +87,6 @@ At some point quest logs from tabletop role playing games were added as well as 
   Eventually I felt I'd gone too far in that direction (fat bombs, gross amounts of liquid calories, junk cravings, etc...) and by nature of the paleo / primal / keto circles I travel in, stumbled upon the carnivore diet.  Sketpical as anyone at first -- we *need* vegetables right! right? -- and an adamant self-tester, I decided I could try anything for 30-days, measure the outcomes, and analyze my next step.
   <br /> <br />
   And so it began.
+     
 </details>
+:ET

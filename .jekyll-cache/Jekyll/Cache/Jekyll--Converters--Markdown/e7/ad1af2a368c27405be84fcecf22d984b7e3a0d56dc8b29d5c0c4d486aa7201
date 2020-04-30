@@ -1,22 +1,11 @@
----
-title: About
+I"�<h3 id="introduction">Introduction</h3>
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-### Introduction
-
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
-
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
-    <summary>A brief history:</summary>
+    <summary>See my history...</summary>
     <ul>
       <li>Faxia Roxa - 2/15/20</li>
       <li>Carnivore - 2/14/20</li>
@@ -46,7 +35,7 @@ At some point quest logs from tabletop role playing games were added as well as 
   <summary>Current Projects:</summary>
   <ul>
     <li>
-      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.</a>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.&lt;/a&gt;
     </li>
     <li>
       <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
@@ -86,3 +75,4 @@ At some point quest logs from tabletop role playing games were added as well as 
   <br /> <br />
   And so it began.
 </details>
+:ET

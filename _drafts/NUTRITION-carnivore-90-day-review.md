@@ -122,6 +122,7 @@
   * blood glucose corresponding to the above urine ketones would be 40 - 75 mg/dL (fasted); less than 40 or over 200 being dangerous, but over 75 (for sure over 100), being non-conducive to ketosis ([r](https://www.thebonesandco.com/blog/ketosis-versus-ketoacidosis-dogs)).
    * Ketones alone may not be good indicator (e.g. less excreted in urine if they're getting used in the blood)([r](https://castbox.fm/episode/Supersoldiers-and-enhanced-cognitive-function-with-ketones!-A-conversation-with-Dominic-D%E2%80%99Agostino%2C-PhD-id2108592-id171881127?country=us)).
    * blood sugar may also go up when fasting due to glucose being squeezed out of the liver (where it's been stored)([r](https://www.dietdoctor.com/why-is-blood-glucose-elevated-when-fasting)).  I'd expect this to normalize or decrease over time ([r](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)) especially if gluconeogenesis isn't an issue.  That is if, even on a carnivore diet, you manipulate your fat:protein ratio to upwards of 2:1 (by calorie).
+   * morning ketones, even trace, indicate depletion of glycogen in liver and allow body to do "house keeping" (especially when followed with exercise?); increased liver glycogen increases fat storage ([r](https://castbox.fm/episode/Will-eating-an-animal-based-diet-over-activate-mTOR---With-James-Clement-id2108592-id220010105?country=us))
 
 **Intermitent Fasting:**
 

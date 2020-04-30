@@ -3,7 +3,7 @@ title: "Stoic Reflection: 010"
 author: Austin
 date: 2020-04-29 06:33:00
 categories: [Philosophy, Psychology]
-tagas: [carnivore75hard, stoicism, philosophy, psychology, gratitude]
+tags: [carnivore75hard, stoicism, philosophy, psychology, gratitude]
 ---
 
 > Stoic Reflections pair a quote for stoic or existential philosophy with my daily gratitude journal as part of the #carnivore75hard challenge.
