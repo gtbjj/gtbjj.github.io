@@ -2,7 +2,7 @@
 title: "Wireless Printing with CUPS"
 author: Austin
 date: 2016-04-21 23:45:00
-categories: [Linux, Printing]
+categories: [Linux, Applications]
 tags: [arch, linux, applications, network, printer, wireless, cups]
 toc: false
 ---

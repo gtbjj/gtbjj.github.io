@@ -2,7 +2,7 @@
 title: Package Library Not Found
 author: Austin
 date: 2016-06-20
-categories: [Linux, Misc]
+categories: [Linux, Troubleshooting]
 tags: [arch, linux, troubleshooting, pacman, no such file]
 ---
 

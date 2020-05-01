@@ -2,7 +2,7 @@
 title: "C Compilation and Execution Error"
 author: Austin
 date: 2016-04-05
-categories: [Linux, Misc]
+categories: [Linux, Applications]
 tags: [arch, linux, c, ruby, gems, jekyll, troubleshooting, aur]
 toc: false
 ---

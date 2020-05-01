@@ -2,7 +2,7 @@
 title: "Chromium Certificate Error"
 author: Austin
 date: 2016-03-18
-categories: [Linux, Chromium]
+categories: [Linux, Applications]
 tags: [arch, linux, troubleshooting, chromium, certificate, ssl]
 toc: false
 ---

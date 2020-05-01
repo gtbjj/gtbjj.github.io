@@ -2,7 +2,7 @@
 title: Download PDFs from Google Play Books
 author: Austin
 date: 2016-06-10
-categories: [Linux, Misc]
+categories: [Linux, Applications]
 tags: [google, android, linux, books, troubleshooting, local storage]
 ---
 

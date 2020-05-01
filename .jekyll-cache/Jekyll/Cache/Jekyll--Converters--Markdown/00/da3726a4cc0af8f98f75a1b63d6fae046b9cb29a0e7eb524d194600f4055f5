@@ -1,0 +1,566 @@
+I"#;
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Android">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/android/" class="ml-1 mr-2">Android</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          4
+          categories,
+        
+          29
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_Android" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_Android" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/performance/" class="ml-1 mr-2">Performance</a>
+          
+          <span class="text-muted small font-weight-light">9
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/releases/" class="ml-1 mr-2">Releases</a>
+          
+          <span class="text-muted small font-weight-light">11
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/review/" class="ml-1 mr-2">Review</a>
+          
+          <span class="text-muted small font-weight-light">9
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/tutorial/" class="ml-1 mr-2">Tutorial</a>
+          
+          <span class="text-muted small font-weight-light">4
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_BJJ">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/bjj/" class="ml-1 mr-2">BJJ</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          2
+          categories,
+        
+          4
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_BJJ" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_BJJ" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/recovery/" class="ml-1 mr-2">Recovery</a>
+          
+          <span class="text-muted small font-weight-light">2
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/training/" class="ml-1 mr-2">Training</a>
+          
+          <span class="text-muted small font-weight-light">7
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Climbing">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/climbing/" class="ml-1 mr-2">Climbing</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          3
+          categories,
+        
+          33
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_Climbing" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_Climbing" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/dirtbag/" class="ml-1 mr-2">Dirtbag</a>
+          
+          <span class="text-muted small font-weight-light">27
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/ethics/" class="ml-1 mr-2">Ethics</a>
+          
+          <span class="text-muted small font-weight-light">2
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/training/" class="ml-1 mr-2">Training</a>
+          
+          <span class="text-muted small font-weight-light">7
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Dogs">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/dogs/" class="ml-1 mr-2">Dogs</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          1
+          category,
+        
+          1
+          post
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_Dogs" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_Dogs" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/training/" class="ml-1 mr-2">Training</a>
+          
+          <span class="text-muted small font-weight-light">7
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Linux">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/linux/" class="ml-1 mr-2">Linux</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          10
+          categories,
+        
+          41
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_Linux" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_Linux" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/applications/" class="ml-1 mr-2">Applications</a>
+          
+          <span class="text-muted small font-weight-light">8
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/backup-%26-security/" class="ml-1 mr-2">Backup &amp; Security</a>
+          
+          <span class="text-muted small font-weight-light">3
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/installation/" class="ml-1 mr-2">Installation</a>
+          
+          <span class="text-muted small font-weight-light">3
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/misc/" class="ml-1 mr-2">Misc</a>
+          
+          <span class="text-muted small font-weight-light">5
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/performance/" class="ml-1 mr-2">Performance</a>
+          
+          <span class="text-muted small font-weight-light">9
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/security/" class="ml-1 mr-2">Security</a>
+          
+          <span class="text-muted small font-weight-light">4
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/slim/" class="ml-1 mr-2">Slim</a>
+          
+          <span class="text-muted small font-weight-light">2
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/terminal/" class="ml-1 mr-2">Terminal</a>
+          
+          <span class="text-muted small font-weight-light">1
+            post
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/urxvt/" class="ml-1 mr-2">URXVT</a>
+          
+          <span class="text-muted small font-weight-light">1
+            post
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/x205ta/" class="ml-1 mr-2">X205TA</a>
+          
+          <span class="text-muted small font-weight-light">10
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Nutrition">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/nutrition/" class="ml-1 mr-2">Nutrition</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          3
+          categories,
+        
+          12
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_Nutrition" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_Nutrition" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/carnivore/" class="ml-1 mr-2">Carnivore</a>
+          
+          <span class="text-muted small font-weight-light">5
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/keto/" class="ml-1 mr-2">Keto</a>
+          
+          <span class="text-muted small font-weight-light">4
+            posts
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/paleo/" class="ml-1 mr-2">Paleo</a>
+          
+          <span class="text-muted small font-weight-light">3
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Philosophy">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/philosophy/" class="ml-1 mr-2">Philosophy</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          1
+          category,
+        
+          9
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_Philosophy" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_Philosophy" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/psychology/" class="ml-1 mr-2">Psychology</a>
+          
+          <span class="text-muted small font-weight-light">9
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<div class="card categories">
+    <!-- top-category -->
+    <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_RPG">
+      <span>
+      
+        <i class="far fa-folder-open fa-fw"></i>
+      
+        <a href="/categories/rpg/" class="ml-1 mr-2">RPG</a>
+        <!-- content count -->
+        
+        <span class="text-muted small font-weight-light">
+        
+          2
+          categories,
+        
+          9
+          posts
+        </span>
+      </span>
+
+      <!-- arrow -->
+      <a href="#l_RPG" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
+        
+        <i class="fas fa-fw fa-angle-down"></i>
+        
+      </a>
+
+    </div> <!-- .card-header -->
+
+    <!-- Sub-categories -->
+    
+    <div id="l_RPG" class="collapse show" aria-expanded="true">
+      <ul class="list-group">
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/d%26d/" class="ml-1 mr-2">D&amp;D</a>
+          
+          <span class="text-muted small font-weight-light">1
+            post
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/mhrp/" class="ml-1 mr-2">MHRP</a>
+          
+          <span class="text-muted small font-weight-light">8
+            posts
+          </span>
+        </li>
+        
+      </ul>
+    </div>
+    
+
+  </div>
+<p><!-- .card --></p>
+
+<script src="/assets/js/dist/category-collapse.min.js" async=""></script>
+
+:ET

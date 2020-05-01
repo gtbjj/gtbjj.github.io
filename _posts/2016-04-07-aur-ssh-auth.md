@@ -2,7 +2,7 @@
 title: "AUR SSH Key Error"
 author: Austin
 date: 2016-04-07 14:05:00
-categories: [Linux, Security]
+categories: [Linux, Applications]
 tags: [arch, linux, troubleshooting, development, aur, packages, github, ssh]
 toc: false
 ---

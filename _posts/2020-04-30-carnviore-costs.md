@@ -15,7 +15,7 @@ Will you pay more on at the grocery store on a carnivore, or even paleo, diet?  
 
 In my first [30 day test of the carnivore diet](https://docs.google.com/spreadsheets/d/13WCRykhYSVscl9QhU4B3CNdaC7-n2UEKnWZBDMZJoBs/edit?usp=sharing) I logged my all my food related costs.  This is important, not just groceries, but all food, drink, snacks, etc...  My paleo / keto food costs (conventionally grown) with supplements and eating out was *$85 / week*.  Switching to carnivore I stopped eating out, didn't have craving so I didn't need cheat meals, and didn't need any supplements (though I did look into this in the future), my cost was *$66 / week!*
 
-This brings us to the [grass fed vs. grain fed argument](ttps://carnivoreaurelius.com/grass-fed-vs-grain-fed/).  I am adamant about advocating for [regenerative agriculture](https://regenerationinternational.org/why-regenerative-agriculture/) and grass fed / free range animal products, so let's look at my current carnivore grocery budget:
+This brings us to the [grass fed vs. grain fed argument](https://carnivoreaurelius.com/grass-fed-vs-grain-fed/).  I am adamant about advocating for [regenerative agriculture](https://regenerationinternational.org/why-regenerative-agriculture/) and grass fed / free range animal products, so let's look at my current carnivore grocery budget:
 
 
 * In-Store Total: $48 / week; $192 / month
@@ -45,7 +45,7 @@ Let's look at those numbers again.  We'll assume that in both cases dinning out 
 | Alcohol | $40 | $0 |
 | Vitamins | $6 - $30 | $0 |
 | Health Care | $800 - $1,100 | $0 |
-| **Total** | **$1,123** | **292** |
+| **Total** | **$1,123** | **$292** |
 
 \* NTTC = nose-to-tail carnivore
 
@@ -62,7 +62,7 @@ Next, let's give people the benefit of the doubt.  Maybe you really don't drink 
 | Health Care | $400 | $0 |
 | **New Total** | **$481** | **$302** |
 
-I'll assume that those health care costs include the long term consequences of a SAD, but we haven't even touched on the long term lifeytyle costs (immobility, degenerative brain disease, depression, anxiety, etc...)([r](https://castbox.fm/episode/Tommy-Wood%2C-MD%2C-PhD.-Should-you-worry-about-ApoE4-on-a-ketocarnivore-diet-and-how-to-avoid-Alzheimer%E2%80%99s-disease-id2108592-id176600053?country=us).[r](https://castbox.fm/episode/Paradigm-shifting-treatment-of-schizophenia-and-bipolar-disoder-with-a-ketogenic-diet%2C-with-Harvard-MD-%2C-Chris-Palmer-id2108592-id190042097?country=us))!  As far as my personal out-of-pocket health care costs, I guess I buy toothpaste and deodorant; and pay more for paraben and phtalate free personal care products.  Though, $400 / month is a helluva lot of laundry detergent!
+I'll assume that those health care costs include the long term consequences of a SAD, but we haven't even touched on the long term lifestyle costs (immobility, degenerative brain disease, depression, anxiety, etc...)([r](https://castbox.fm/episode/Tommy-Wood%2C-MD%2C-PhD.-Should-you-worry-about-ApoE4-on-a-ketocarnivore-diet-and-how-to-avoid-Alzheimer%E2%80%99s-disease-id2108592-id176600053?country=us).[r](https://castbox.fm/episode/Paradigm-shifting-treatment-of-schizophenia-and-bipolar-disoder-with-a-ketogenic-diet%2C-with-Harvard-MD-%2C-Chris-Palmer-id2108592-id190042097?country=us))!  As far as my personal out-of-pocket health care costs, I guess I buy toothpaste and deodorant; and pay more for paraben and phtalate free personal care products.  Though, $400 / month is a helluva lot of laundry detergent!
 
 > Again, this is not a post about the ecological impact of food consumption; though I'll happily direct people to research regenerative agriculture, effects of monocropping, the ecological cost of shipping avocados from Mexico (plus celebrities flying private jets and the ecological impact of the pharmaceutical industry); and do some critical thinking about alleged "blue zones." ([r](http://blog.whiteoakpastures.com/blog/carbon-negative-grassfed-beef), [r](https://castbox.fm/episode/The-Blue-Zones-are-a-myth!-Your-optimal-microbiome-and-much-more-with-Tommy-Wood-MD%2C-PhD-id2108592-id162196055?country=us), [r](https://noharm-europe.org/sites/default/files/documents-files/5731/2018_PharmaceuticalIndustryReport_WEB.pdf), [r](https://regenerative.com/six-problems-monoculture-farming/)).  Obviously if you're not eating meat for religious or spiritual reasons, that's entirely up to you.
 

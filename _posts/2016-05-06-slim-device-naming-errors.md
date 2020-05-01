@@ -2,7 +2,7 @@
 title: "SLIM: Errors with Block Device Naming"
 author: Austin
 date: 2016-05-06 15:30
-categories: [Linux, Slim]
+categories: [Linux, Installation]
 tags: [arch, linux, troubleshooting, slim, block device naming, failed login command, x205ta]
 ---
 

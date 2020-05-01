@@ -2,7 +2,7 @@
 title: "Custom Chrome Applications"
 author: Austin
 date: 2016-04-02 11:22:00
-categories: [Linux, Chromium]
+categories: [Linux, Applications]
 tags: [linux, chrome, chromium, applications, web apps, local server]
 toc: false
 ---

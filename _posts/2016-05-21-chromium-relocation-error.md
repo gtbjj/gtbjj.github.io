@@ -2,7 +2,7 @@
 title: Chromium Relocation Error
 author: Austin
 date: 2016-05-21 14:45:00
-categories: [Linux, Chromium]
+categories: [Linux, Applications]
 tags: [linux, chromium, relocation, troubleshooting, libpci.so.3, pciutils]
 ---
 

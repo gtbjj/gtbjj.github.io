@@ -2,7 +2,7 @@
 title: Password Analytics
 author: Austin
 date: 2016-05-15 14:50:00
-categories: [Linux, Security]
+categories: [Linux, Backup & Security]
 tags: [arch, linux, security, backup, passwords, network, encryption]
 ---
 

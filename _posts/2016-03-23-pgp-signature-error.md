@@ -2,7 +2,7 @@
 title: "PGP Signature Error"
 author: Austin
 date: 2016-03-23 23:11:00
-categories: [Linux, Security]
+categories: [Linux, Backup & Security]
 tags: [arch, linux, troubleshooting, security, makepkg, pgp, signature]
 toc: false
 --- 

@@ -2,7 +2,7 @@
 title: LLVM libs not Found on System Upgrade
 author: Austin
 date: 2019-01-23
-categories: [Linux, Misc]
+categories: [Linux, Troubleshooting]
 tags: [linux, arch, troubleshoot, llvm, pacman, upgrade]
 ---
 

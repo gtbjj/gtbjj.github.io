@@ -2,7 +2,7 @@
 title: Trusting and Adding PGP Signatures
 author: Austin
 date: 2016-06-16
-categories: [Linux, Security]
+categories: [Linux, Backup & Security]
 tags: [linux, troubleshooting, pgp, arch, signature, pacman, packages, installation]
 ---
 

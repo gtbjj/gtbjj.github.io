@@ -2,7 +2,7 @@
 title: Error with Bundle and Jekyll
 author: Austin
 date: 2019-01-23
-categories: [Linux, Misc]
+categories: [Linux, Troubleshooting]
 tags: [linux, troubleshoot, ruby, gems, bundler, jekyll]
 ---
 

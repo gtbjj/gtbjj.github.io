@@ -2,7 +2,7 @@
 title: "DWM: Cycling Tags"
 author: Austin
 date: 2016-04-30 00:40:00
-categories: [Linux, DWM]
+categories: [Linux, Applications]
 tags: [arch, linux, dwm, scrolling, tags, arrow keys]
 toc: false
 ---

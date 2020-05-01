@@ -2,7 +2,7 @@
 title: "Tuning Slim"
 author: Austin
 date: 2016-04-29 21:29:00
-categories: [Linux, Login]
+categories: [Linux, Applications]
 tags: [arch, linux, applications, eye candy, security, login, slim]
 toc: false
 ---

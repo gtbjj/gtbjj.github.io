@@ -2,7 +2,7 @@
 title: "Home Folder Encryption"
 author: Austin
 date: 2016-04-13 23:59:00
-categories: [Linux, Security]
+categories: [Linux, Backup & Security]
 tags: [linux, backup, arch, security, encryption, dm-crypt, home]
 toc: false
 ---

@@ -2,7 +2,7 @@
 title: "Terminal Weather with Adaptive Location"
 author: Austin
 date: 2016-04-19 21:36:00
-categories: [Linux, Terminal]
+categories: [Linux, Applications]
 tags: [arch, linux, applications, eye, candy, terminal, forecast, weather]
 toc: false
 ---

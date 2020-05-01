@@ -2,7 +2,7 @@
 title: "Start Conky with X Login"
 author: Austin
 date: 2016-03-01
-categories: [Linux, Login]
+categories: [Linux, Installation]
 tags: [linux, arch, troubleshooting, conky, login]
 ---
 

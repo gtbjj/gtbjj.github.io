@@ -2,7 +2,7 @@
 title: "URXVT Copy and Paste"
 author: Austin
 date: 2016-04-29 22:50:00
-categories: [Linux, URXVT]
+categories: [Linux, Applications]
 tags: [arch, linux, urxvt, xclip, termianl, copy and paste]
 toc: false
 ---
