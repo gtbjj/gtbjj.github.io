@@ -1,6 +1,15 @@
 -
+  filename: 'carnviore-costs'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
   filename: 'stoic-reflection-010'
   lastmod: '2020-04-30 08:41:33 -0400'
+-
+  filename: 'stoic-reflection-009'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'stoic-reflection-008'
+  lastmod: '2020-05-01 09:59:00 -0400'
 -
   filename: 'stoic-reflection-007'
   lastmod: '2020-04-27 08:49:45 -0400'
@@ -17,6 +26,15 @@
   filename: 'stoic-reflection-004'
   lastmod: '2020-04-27 08:49:45 -0400'
 -
+  filename: 'llvm-libs-not-found-on-system-upgrade'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'bundle-not-found-on-jekyll-serve'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'xorg'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
   filename: 'release-notes-201709'
   lastmod: '2020-04-26 13:07:53 -0400'
 -
@@ -24,7 +42,7 @@
   lastmod: '2020-04-26 13:07:53 -0400'
 -
   filename: 'dnd-tools'
-  lastmod: '2020-04-26 13:07:53 -0400'
+  lastmod: '2020-05-01 09:59:00 -0400'
 -
   filename: 'deadlifting-for-climbing'
   lastmod: '2020-04-26 13:07:53 -0400'
@@ -47,6 +65,9 @@
   filename: 'block-io-queue'
   lastmod: '2020-04-26 12:51:41 -0400'
 -
+  filename: 'package-library-not-found'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
   filename: 'x205ta-random-freezing'
   lastmod: '2020-04-26 12:51:41 -0400'
 -
@@ -62,11 +83,17 @@
   filename: 'x205ta-disable-systemd-lid-suspend'
   lastmod: '2020-04-26 12:51:41 -0400'
 -
+  filename: 'uknown-pgp-signature'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
   filename: 'mhrp-world-marshals-a1'
   lastmod: '2020-04-26 12:40:51 -0400'
 -
   filename: 'x205ta-bluetooth'
   lastmod: '2020-04-26 12:51:41 -0400'
+-
+  filename: 'download-play-books'
+  lastmod: '2020-05-01 09:59:00 -0400'
 -
   filename: 'mhrp-training-day-a3'
   lastmod: '2020-04-26 12:40:51 -0400'
@@ -84,13 +111,64 @@
   lastmod: '2020-04-26 12:51:41 -0400'
 -
   filename: 'f2fs-crc32'
-  lastmod: '2020-04-26 12:46:59 -0400'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'chromium-relocation-error'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'password-analytics'
+  lastmod: '2020-05-01 09:59:00 -0400'
 -
   filename: 'slim-device-naming-errors'
-  lastmod: '2020-04-26 12:46:59 -0400'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'dwm-tag-cycling'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'urxvt-copy-and-paste'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'tuning-slim'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'cups-printing'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'weather-in-terminal'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'home-encryption'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'wm-conky'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'aur-ssh-auth'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'firewall'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'c-execution-error'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'custom-chrome-applications'
+  lastmod: '2020-05-01 09:59:00 -0400'
 -
   filename: 'project-fi-one-month-review'
   lastmod: '2020-04-26 12:43:06 -0400'
 -
+  filename: 'pgp-signature-error'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'chromium-ssl-certificate'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
   filename: 'minimal-initramfs'
   lastmod: '2020-04-26 12:43:06 -0400'
+-
+  filename: '3-way-backup'
+  lastmod: '2020-05-01 09:59:00 -0400'
+-
+  filename: 'start-conky-on-x-login'
+  lastmod: '2020-05-01 09:59:00 -0400'
