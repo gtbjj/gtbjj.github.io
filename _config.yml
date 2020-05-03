@@ -40,7 +40,8 @@ instagram:
 linkedin:
   username: austinhaedicke
 
-#  username: twitter_username            # change to your twitter username
+twitter:
+  username: carnivorebjj
 
 social:
   name: Austin Haedicke                  # it will shows as the copyright owner in Footer

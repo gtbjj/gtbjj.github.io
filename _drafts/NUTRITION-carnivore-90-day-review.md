@@ -23,7 +23,7 @@
     * adaptation (% working days) : strength output
     * caffeine dose (mg) : strength output
     * caffeine time (minutes first dose before start of exercise) : strength output
-    * caffeine rate (mg / minute) : strength output
+    * caffeine ratio (mg / minute) : strength output
     * electrolytes (sum Na, Ca, K, Mg) : strength output
     * sleep : strength output
     * AWQ : strength output
@@ -35,6 +35,9 @@
     * ketones : strength output
     * blood sugar : strength output
     * fasted time : strength output
+
+    > Factors: caffeine-time * caffeine-dose, adaptation * AWQ, blood sugar * ketones, caffeine-ratio * adaptation, fasted-time * caffeine-ratio
+
 * Recovery (correlation and regression):
     * Sleep : Blood Sugar
     * Sleep : AWQ
@@ -50,8 +53,9 @@
     * Na : RHR
     * Electrolyte Sum : AWQ
     * Electrolyte Sum : RHR
-    * IGF-1 (Zinc, Selenium, Magnesium) : AWQ
-    * IGF-1 (Zinc, Selenium, Magnesium) : RHR
+
+    > Factors: IFG-1 * AWQ, IFG-1 * RHR, cold-time * AWQ, cold-time * sleep, electrolyte-sum * cold-time, electrolyte-sum * sleep, electrolyte-sum * AWQ
+
 * Misc (correlation and regression):
     * Blood Sugar : ketones
     * fasted time : ketones
@@ -64,6 +68,8 @@
     * Sodium ratio (Na / P) : CVL
     * Fat ratio (calories from fat / calories from protein) : blood sugar
     * fat ratio : ketones
+
+    > Factors: 
 
 ---
 
