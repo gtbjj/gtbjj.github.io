@@ -1,7 +1,7 @@
 ---
 title: "Stoic Reflection: 015"
 author: Austin
-date: 2020-05-05 21:16:00
+date: 2020-05-04 21:16:00
 categories: [Philosophy, Psychology]
 tags: [carnivore75hard, stoicism, philosophy, psychology, gratitude]
 ---
