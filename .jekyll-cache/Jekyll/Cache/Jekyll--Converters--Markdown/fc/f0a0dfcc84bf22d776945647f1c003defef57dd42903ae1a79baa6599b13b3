@@ -1,8 +1,8 @@
-I"Ç6
+I"ë7
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Android">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -79,7 +79,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_BJJ">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -88,10 +88,10 @@
         
         <span class="text-muted small font-weight-light">
         
-          2
+          3
           categories,
         
-          4
+          6
           posts
         </span>
       </span>
@@ -112,6 +112,15 @@
         
         <li class="list-group-item">
           <i class="far fa-folder fa-fw"></i>
+          <a href="/categories/journal/" class="ml-1 mr-2">Journal</a>
+          
+          <span class="text-muted small font-weight-light">1
+            post
+          </span>
+        </li>
+        
+        <li class="list-group-item">
+          <i class="far fa-folder fa-fw"></i>
           <a href="/categories/recovery/" class="ml-1 mr-2">Recovery</a>
           
           <span class="text-muted small font-weight-light">2
@@ -123,7 +132,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/training/" class="ml-1 mr-2">Training</a>
           
-          <span class="text-muted small font-weight-light">7
+          <span class="text-muted small font-weight-light">8
             posts
           </span>
         </li>
@@ -138,7 +147,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Climbing">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -191,7 +200,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/training/" class="ml-1 mr-2">Training</a>
           
-          <span class="text-muted small font-weight-light">7
+          <span class="text-muted small font-weight-light">8
             posts
           </span>
         </li>
@@ -206,7 +215,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Dogs">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -241,7 +250,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/training/" class="ml-1 mr-2">Training</a>
           
-          <span class="text-muted small font-weight-light">7
+          <span class="text-muted small font-weight-light">8
             posts
           </span>
         </li>
@@ -256,7 +265,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Linux">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -351,7 +360,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Nutrition">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -419,7 +428,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_Philosophy">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
@@ -431,7 +440,7 @@
           1
           category,
         
-          11
+          13
           posts
         </span>
       </span>
@@ -454,7 +463,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/psychology/" class="ml-1 mr-2">Psychology</a>
           
-          <span class="text-muted small font-weight-light">11
+          <span class="text-muted small font-weight-light">13
             posts
           </span>
         </li>
@@ -469,7 +478,7 @@
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_RPG">
-     <span>
+      <span>
       
         <i class="far fa-folder-open fa-fw"></i>
       
