@@ -119,3 +119,9 @@ Best / Cheapest Recovery =? sleep
     * how to get that much fat (w/o added oil / butter)?:  suet, tallow?
 
 * Consider adding fish back for blood pressure (Omegs-3), ([r](https://chriskresser.com/6-ways-to-lower-blood-pressure-by-changing-your-diet/))
+
+* Blood Sugar
+  * Caffeine - no effect, [r](https://care.diabetesjournals.org/content/27/12/2990), [r](https://www.dietdoctor.com/does-coffee-raise-blood-sugar-conclusion)
+  * Sugar alcohol (gum!) - yes, raises ([r](https://www.healthline.com/health/diabetes/sugar-alcohol-and-diabetes#bottom-line))
+  * Fiber = 0 net carbs, sugar = all the carbs, sugar alcohol = 1/2 carb, ([r](https://dtc.ucsf.edu/living-with-diabetes/diet-and-nutrition/understanding-carbohydrates/counting-carbohydrates/learning-to-read-labels/counting-sugar-alcohols/))
+  * sugar alcohol can cause diarrhea, is addictive, and different alcohols have different glycemic loads, [r](https://www.healthline.com/nutrition/sugar-alcohols-good-or-bad#section9)
