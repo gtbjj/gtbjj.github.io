@@ -80,6 +80,7 @@
   * consider dosage and time prior to exercise
   * apparently I'm in the genotype Rs5751876-c:  reduced ergogenic effect / reduced sleep quality; article suggests lower dose or increase time before exercise
   * 3mg/kg (~200 mg, 6 mg/kg (~400 mg), 9 mg/kg (~650 mg)
+  * Robb Wolf mentioned on THRR that the best caffeine dosing for mental and performance benefits was 50-60 mg / 2-4 hours (density of 0.21 - 0.5 mg/min, [r](https://castbox.fm/vb/204239803))
   * run each 3/6/9 dosage each at 30/60/90 min pre-workout
   * randomize doasge and timing to control for adaptation (getting stronger).
   * dosages up to 10mg / kg; tolerance builds and may deteriorate benefits ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462044/),[r](https://www.ncbi.nlm.nih.gov/pubmed/19924012))

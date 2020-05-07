@@ -18,6 +18,7 @@ title: Future Tests
         * 2017, caffeine slows recovery (HRV) and return of BP to baseline (post exercise) ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658389/))
         * 2019, increased max power, mean power, and grip, but also increased blood pressure ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566184/))
         * conflicting research about caffeine and kidney stone risk ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232021/).[r](https://www.ncbi.nlm.nih.gov/pubmed/17711092))
+        * Caffeine can also cause adrenal gland dysfunction, including over production of aldosterone which raised blood pressure ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3619380/), [r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4866033/), [r](https://www.ncbi.nlm.nih.gov/pubmed/10835904)), however there have been some studies **treating this with baking soda**([r](https://www.ncbi.nlm.nih.gov/pubmed/17886090), [r](https://www.ncbi.nlm.nih.gov/pubmed/27356528)) -- about 1g sodium and 2g bicarbonate / liter, 1L daily.
 * Blood Pressure and Sodium:Potassium Ratio (f/u)
 * O3, O6, and Blood Pressure
     * 2015,  O3 = consistent cardiovascular and anti-inflamatory benefits in animals, but mixed results in humans ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537707/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537707/))
