@@ -1,19 +1,8 @@
----
-title: About
+I"�<h3 id="introduction">Introduction</h3>
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-### Introduction
-
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
-
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
     <summary>A brief history:</summary>
@@ -46,7 +35,7 @@ At some point quest logs from tabletop role playing games were added as well as 
   <summary>Current Projects:</summary>
   <ul>
     <li>
-      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.</a>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.&lt;/a&gt;
     </li>
     <li>
       <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
@@ -87,11 +76,11 @@ At some point quest logs from tabletop role playing games were added as well as 
   And so it began.
 </details>
 
----
+<hr />
 
-**Support This Site**
+<p><strong>Support This Site</strong></p>
 
-esearch isn't cheap.  It takes time and effort.  If you're not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.
+<p>esearch isn’t cheap.  It takes time and effort.  If you’re not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -103,17 +92,18 @@ esearch isn't cheap.  It takes time and effort.  If you're not a fan of PayPal, 
 <details>
   <summary>Donate BAT:</summary>
   
-  If you use <a href="https://brave.com/sav396">Brave</a>, you can tip me with BAT directly on this, or on my <a href="https://twitter.com/carnivorebjj">Twitter</a>, <a href="https://github.com/savagezen">GitHub</a>, or <a href="https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ/about?view_as=subscriber">YouTube</a>.  You can learn about, download, and install, the Brave web browser <a href="https://brave.com/sav396">here</a>.
+  If you use [Brave](https://brave.com/sav396), you can tip me with BAT directly on this, or on my [Twitter](https://twitter.com/carnivorebjj), [GitHub](https://github.com/savagezen), or [YouTube](https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ/about?view_as=subscriber).  You can learn about, download, and install, the Brave web browser [here](https://brave.com/sav396).
 </details>
 
 <details>
   <summary>Donate ETH:</summary>
   
-  My <a href="https://metamask.io/">MetaMask</a> public ETH token is <code>0xE9d93b5656B73eef9098E4466C03E67a996A1da3</code>.
+  My [MetaMask](https://metamask.io/) public token is ```0xE9d93b5656B73eef9098E4466C03E67a996A1da3```.
 </details>
 
 <details>
   <summary>Other Cryptocurrency:</summary>
   
-  Many of my articles are republished on <a href="https://www.publish0x.com/carnivore-jiujitero">PublishOx</a> which allows tipping with various currencies.
+  Many of my articles are republished on [PublishOx](https://www.publish0x.com/carnivore-jiujitero) which allows tipping with various currencies.
 </details>
+:ET

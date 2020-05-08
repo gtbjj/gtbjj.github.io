@@ -1,4 +1,4 @@
-I"�<h3 id="introduction">Introduction</h3>
+I"�<h3 id="introduction">Introduction</h3>
 
 <p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
@@ -78,9 +78,10 @@
 
 <hr />
 
-<p><em>Support This Site</em></p>
+<p><strong>Support This Site</strong></p>
 
-<p>
+<p>esearch isn’t cheap.  It takes time and effort.  If you’re not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.</p>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="X6F976CRWKWVG" />
@@ -88,42 +89,21 @@
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-<br />
+<details>
+  <summary>Donate BAT:</summary>
+  
+  If you use <a href="https://brave.com/sav396">Brave</a>, you can tip me with BAT directly on this, or on my <a href="https://twitter.com/carnivorebjj">Twitter</a>, <a href="https://github.com/savagezen">GitHub</a>, or <a href="https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ/about?view_as=subscriber">YouTube</a>.  You can learn about, download, and install, the Brave web browser <a href="https://brave.com/sav396">here</a>.
+</details>
 
-<img class="tip-button" src="https://www.srcmake.com/uploads/5/3/9/0/5390645/donateetherbutton_orig.png" alt="Metamask tip button" style="width:20%;" />
-<div class="message">
+<details>
+  <summary>Donate ETH:</summary>
+  
+  My <a href="https://metamask.io/">MetaMask</a> public ETH token is ``0xE9d93b5656B73eef9098E4466C03E67a996A1da3``.
+</details>
 
-    <script>
-    var MY_ADDRESS = '0xE9d93b5656B73eef9098E4466C03E67a996A1da3'
-    var tipButton = document.querySelector('.tip-button')
-
-    tipButton.addEventListener('click', function() 
-        {
-        if (typeof web3 === 'undefined') 
-            {
-            return renderMessage('<div>You need to install <a href=“https://metmask.io“>MetaMask </a> to use this feature.  <a href=“https://metmask.io“>https://metamask.io</a></div>')
-            }
-
-        var user_address = web3.eth.accounts[0]
-
-        web3.eth.sendTransaction(
-            {
-            to: MY_ADDRESS,
-            from: user_address,
-            value: web3.toWei('0.01', 'ether'),
-            }, 
-            function (err, transactionHash) 
-                {
-                if (err) return renderMessage('There was a problem!: ' + err.message)
-                renderMessage('Thanks for the generosity!!')
-            })
-        })
-
-    function renderMessage (message) 
-        {
-        var messageEl = document.querySelector('.message')
-        messageEl.innerHTML = message
-        }
-    </script>
-</div></p>
+<details>
+  <summary>Other Cryptocurrency:</summary>
+  
+  Many of my articles are republished on <a href="https://www.publish0x.com/carnivore-jiujitero">PublishOx</a> which allows tipping with various currencies.
+</details>
 :ET

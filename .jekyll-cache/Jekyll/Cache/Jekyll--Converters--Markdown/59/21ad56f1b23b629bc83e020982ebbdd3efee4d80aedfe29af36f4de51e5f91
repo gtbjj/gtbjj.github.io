@@ -1,4 +1,4 @@
-I"Ò<h3 id="introduction">Introduction</h3>
+I"º<h3 id="introduction">Introduction</h3>
 
 <p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions Iâ€™d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
@@ -78,9 +78,10 @@
 
 <hr />
 
-<p><em>Support This Site</em></p>
+<p><strong>Support This Site</strong></p>
 
-<p>
+<p>esearch isnâ€™t cheap.  It takes time and effort.  If youâ€™re not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.</p>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="X6F976CRWKWVG" />
@@ -88,5 +89,22 @@
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-</p>
+<details>
+  <summary>Donate BAT:</summary>
+  
+  If you use [Brave](https://brave.com/sav396), you can tip me with BAT directly on this, or on my [Twitter](https://twitter.com/carnivorebjj), [GitHub](https://github.com/savagezen), or [YouTube](https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ/about?view_as=subscriber).  You can learn about, download, and install, the Brave web browser [here](https://brave.com/sav396).
+</details>
+
+<details>
+  <summary>Donate ETH:</summary>
+</details>
+
+<details>
+  <summary>Other ways to help:</summary>
+
+  
+  **BAT**:  
+
+  **ETH**:
+</details>
 :ET

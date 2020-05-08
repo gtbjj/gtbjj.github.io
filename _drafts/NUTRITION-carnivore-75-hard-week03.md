@@ -13,3 +13,6 @@ tags:
 -5/6 ketones driving much higher w/ similar fasting (16 - 20)
   * cutting out sugar free gum
   * hard to tell exactly due to wide interval range on strip bottle (0, 5, 15, 40...) so I've had to estimate the values in my logs.
+  * feels like higher testosterone with higher ketone level (?)
+
+- 5/8  second time THIS WEEK slept straight through the night (6 1/2 hours) and beat my alarm up by 1/2 hour!
