@@ -91,7 +91,7 @@ At some point quest logs from tabletop role playing games were added as well as 
 
 **Support This Site**
 
-esearch isn't cheap.  It takes time and effort.  If you're not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.
+Research isn't cheap.  It takes time and effort.  If you're not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
@@ -113,7 +113,7 @@ esearch isn't cheap.  It takes time and effort.  If you're not a fan of PayPal, 
 </details>
 
 <details>
-  <summary>Other Cryptocurrency:</summary>
+  <summary>Donate Other Cryptocurrency:</summary>
   
   Many of my articles are republished on <a href="https://www.publish0x.com/carnivore-jiujitero">PublishOx</a> which allows tipping with various currencies.
 </details>

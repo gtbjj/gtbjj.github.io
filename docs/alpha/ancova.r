@@ -4,7 +4,7 @@
 library("readr")
 library("car")
 
-df <- read.delim("test=data.tsv")
+df <- read.delim("test-data.tsv")
 
 # set output file
 sink("ancova-output.txt")
