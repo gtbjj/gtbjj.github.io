@@ -1,7 +1,7 @@
 ---
-title: "BJJ Journal 002: clever subtitle"
+title: "BJJ Journal 002: Rolling Reflections"
 author: Austin
-date:
+date: 2020-05-11 06:45:00
 categories: [BJJ, Journal]
 tags: [bjj, journal, process, reflection]
 ---

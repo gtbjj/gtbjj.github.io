@@ -31,16 +31,21 @@ rcorr(df, type=c("pearson"))
 
 # plotting correlation (insignificant left blank)
 res <- rcorr(df, type=c("pearson"))
-corrplot(res$r, type="upper", p.mat = res$P, sig.level = 0.05, insig = "blank")
-dev.copy(png, "test-corr-050.png")
+corrplot(res$r, type="upper", order="hclust", p.mat = res$P, sig.level = 0.05, insig = "blank")
+dev.copy(png, "test-corr-0500.png")
 dev.off()
 
 # repeat at 4 = 0.01
 corrplot(res$r, type="upper", p.mat = res$P, sig.level = 0.01, insig = "blank")
-dev.copy(png, "test-corr-010.png")
+dev.copy(png, "test-corr-0100.png")
 dev.off()
 
 # repeat at r = 0.001
 corrplot(res$r, type="upper", p.mat = res$P, sig.level = 0.001, insig = "blank")
-dev.copy(png, "test-corr-001.png")
+dev.copy(png, "test-corr-0010.png")
+dev.off()
+
+# repeat at r = 0.0001
+corrplot(res$r, type="upper", p.mat = res$P, sig.level = 0.0001, insig = "blank")
+dev.copy(png, "test-corr-0001.png")
 dev.off()
