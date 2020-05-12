@@ -6,7 +6,7 @@ categories: [Philosophy, Psychology]
 tags: [age, grace, how to age gracefully, reflection]
 ---
 
-A few years ago, 2018, I saw a beautiful video with reflections and life advice from people of different ages.
+A few years ago, 2016, I saw a beautiful video with reflections and life advice from people of different ages.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sycgL3Qg_Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

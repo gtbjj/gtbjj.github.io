@@ -1,0 +1,30 @@
+I"&<p>My 90 day carnivoreversary is on 5/14, but I wanted to pre-publish some literature reviews on specific test I was looking at over the past 30 days.  Part 1 (here), <a href="{% post_url 2020-05-12-carnivore-90-day-review-02 %}">Part 2</a>, and <a href="{% post_url 2020-05-12-carnivore-90-day-review-03 %}">Part 3</a> will be a review of relevant literature on caffeine and performance as well as cold showers and recovery (and a few other things).</p>
+
+<p>Future parts will contain the statistical analysis (<em>links will be added when the analysis is completed</em>).  For a more granular, process oriented, review of my carnivore experience thus far, see posts tagged <a href="tags/carnivore75hard/">#carnivore75hard</a></p>
+
+<p><strong>Introduction:</strong></p>
+
+<p>I specifically wanted to study the use of caffeine as a performance enhancing drug as well as the use of cold shower for recovery.  I soon found that there were a lot of confounding variables and secondary and tertiary interactions that I needed to keep note of.  You can find the <a href="https://docs.google.com/spreadsheets/d/13WCRykhYSVscl9QhU4B3CNdaC7-n2UEKnWZBDMZJoBs/edit?usp=sharing">annotated raw data</a> on Google Drive and the <a href="/docs/data/raw_data-carnivore-90.tsv">raw data .tsv file on GitHub</a>.</p>
+
+<p>As a general protocol I was eating a nose-to-tail carnivore diet (beef, eggs, salt, organs, broth).  Occasionally I did eat pork backfat in lieu of suet (see high Omega-6 days) an fish (see high Omega-3 days).  As far as supplements, I only used mineral water daily, salt, and intermittently used an electrolyte supplement (noted in the annotated raw data).  Let’s first address some changes that I made from my initial 60 days:</p>
+
+<ul>
+  <li>I feel it is too easy to overdo it with butter / liquid fats (a large reason for my shift from keto to carnivore)(<a href="https://castbox.fm/episode/Does-LDL-cause-heart-disease--With-Ivor-Cummins-id2108592-id224835368?country=us">r</a>).  So, I would have preferred to only use suet, but the COVID / supply chain reduced me to tallow and ghee.</li>
+  <li>Pork and chicken tend to have a higher Omega-6 to Omega-3 ratio (<a href="http://paleozonenutrition.com/2011/05/10/omega-6-and-3-in-nuts-oils-meat-and-fish-tools-to-get-it-right/">r</a>) compared to ruminants so I cut out chicken completely (it’s also too lean for my liking and for the higher fat experiments I did) and only used pork backfat as a substitute for suet.</li>
+  <li>Regarding fish, I previously noted the electrolytes in mackerel, but I more recently became aware of the heavy mineral content (the same concern arises with tuna)(<a href="https://www.consumerreports.org/cro/magazine/2014/10/can-eating-the-wrong-fish-put-you-at-higher-risk-for-mercury-exposure/index.htm">r</a>).  Low mercury fish tend to be lower in fat compared to ruminants (see chicken above).  I did eat some canned fish at different intervals to manipulate Omega-3 levels.</li>
+</ul>
+
+<p>Before we get into crunching the numbers, let’s look at what the literature says about the aforementioned topics.</p>
+
+<p><strong>Research and Methods: Caffeine and Performance</strong></p>
+
+<p>It was fairly easy to find research on the use of caffeine in athletics, though most frequently it was used with endurance athletes, though it’s no secret that many pre-workout products contain caffeine.  Caffeine has been shown to increase peak power, mean power, and grip strength, but also post-exercise blood pressure (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566184/">r</a>).</p>
+
+<p>The typical dosage for athletes in the literature I read ranged from 3-10mg / Kg of body weight at time intervals ranging from 30 - 90 minutes pre-workout, though at least one study noted that required dosage may change depending on one’s tolerance to caffeine (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5752738/">r</a>, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462044/">r</a>,<a href="https://www.ncbi.nlm.nih.gov/pubmed/19924012">r</a>).  In my study I also computed a caffeine ratio / density, that is mg / minute that is included in the correlation / regression calculations.  On the other hand, Robb Wolf mentioned an “optimal” dose of caffeine being 50-60 mg / 2-4 hours (<a href="https://castbox.fm/vb/204239803">r</a>).</p>
+
+<p>I also found (resource above) that I fall into the genotype Rs5751876-c, which suggest I have a “reduce ergogencic” effect from caffeine.  That is, a reduce sleep quality.  The article suggested lowering the dose or increasing the time of use before exercise.  Dosages and times (and thereby caffeine density) was randomly assigned at the beginning of the study.</p>
+
+<p>This changed slightly in the last 1 1/2 weeks of the study as I took note of my total daily caffeine intake which I had not been logging prior.  This was a mistake on my part as it surely effects my tolerance to the drug.  As a result I began to monitor and decrease my total daily caffeine intake, though the pre-workout dosing generally remained consistent with the doses above.  As a control, there were days where no caffeine was used pre-workout or very marginal doses at the end of the trial.</p>
+
+<p>Caffeine was ingested in the form of coffee.  The measured workout consisted of 500 kettle bell swings and 150 kettle bell overhead presses with a 25 lb kettle bell for time.</p>
+:ET
