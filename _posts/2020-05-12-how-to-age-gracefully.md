@@ -1,7 +1,7 @@
 ---
 title: "How To Age Gracefully: 2020"
 author: Austin
-date:
+date: 2020-05-12 06:30:00
 categories: [Philosophy, Psychology]
 tags: [age, grace, how to age gracefully, reflection]
 ---
@@ -56,11 +56,14 @@ Dear 29 year old self,
 ~ From your 30 year old self
 
 Dear 30 year old self,
-  You're staring down the barrel of the rest of your life, do you like what you see?
+  You're staring down the barrel at the rest of your life, do you like what you see?
 ~ From your 31 year old self
 ```
 
 So, now for this year's entry, which obviously I've had to meditate on for a few days:
 
 ```
+Dear 31 year old self,
+  Don't let anything stand between you and what you love, but be mindful of what you'll be leaving out.  Take time to love, pay, and be compassionate towards yourself.
+~ From your 32 year old self
 ```
