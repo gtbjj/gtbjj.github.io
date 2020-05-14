@@ -8,7 +8,7 @@ tags: [carnivore, 90 day review, nutrition, caffeine, performance, cold, recover
 
 My 90 day carnivoreversary is on 5/14, but I wanted to pre-publish some literature reviews on specific test I was looking at over the past 30 days.  Part 1 (here), [Part 2]({% post_url 2020-05-12-carnivore-90-day-review-02 %}), and [Part 3]({% post_url 2020-05-12-carnivore-90-day-review-03 %}) will be a review of relevant literature on caffeine and performance as well as cold showers and recovery (and a few other things).
 
-Future parts will contain the statistical analysis (*links will be added when the analysis is completed*).  For a more granular, process oriented, review of my carnivore experience thus far, see posts tagged [#carnivore75hard](tags/carnivore75hard/)
+For a more granular, process oriented, review of my carnivore experience thus far, see posts tagged [#carnivore75hard](tags/carnivore75hard/).  [Part 4]({% post_url 2020-05-14-carnivore-90-day-review-04 %}), [Part 5]({% post_url 2020-05-14-carnivore-90-day-review-05 %}), and [Part 6]({% post_url 2020-05-14-carnivore-90-day-review-06 %}) contain a statistical analysis of the data.  Raw data can be found [on GitHub](https://github.com/savagezen/savagezen.github.io/tree/master/docs/data).
 
 **Introduction:**
 

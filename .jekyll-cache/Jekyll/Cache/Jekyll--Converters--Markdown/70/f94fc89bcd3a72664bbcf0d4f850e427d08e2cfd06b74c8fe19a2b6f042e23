@@ -1,0 +1,111 @@
+I"�<p>Previously I’ve looked at correlations regarding performance and recovery.  In this last section I will check for covariance of potentially confounded relationships as well as recap previous posts in this series.</p>
+
+<p><strong>ANOVA Results:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Var 1</th>
+      <th style="text-align: center">Var 2</th>
+      <th style="text-align: center">Var 3</th>
+      <th style="text-align: left">p</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">IGF.1</td>
+      <td style="text-align: center">K.mg</td>
+      <td style="text-align: center">Se.ug</td>
+      <td style="text-align: left">0.0163</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Fasted</td>
+      <td style="text-align: center">AWQ</td>
+      <td style="text-align: center">Day.Total</td>
+      <td style="text-align: left">0.4853</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Fasted</td>
+      <td style="text-align: center">Stress</td>
+      <td style="text-align: center">Day.Total</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Sleep.Rtn</td>
+      <td style="text-align: center">AWQ</td>
+      <td style="text-align: center">Day.Total</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Kb.Load</td>
+      <td style="text-align: center">Mood</td>
+      <td style="text-align: center">Day.Total</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Kb.Load</td>
+      <td style="text-align: center">AWQ</td>
+      <td style="text-align: center">Day.Total</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Sleep.Rtn</td>
+      <td style="text-align: center">AWQ</td>
+      <td style="text-align: center">Sleep</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Protein</td>
+      <td style="text-align: center">RHR</td>
+      <td style="text-align: center">Training.Intensity</td>
+      <td style="text-align: left">0</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>* calculated with <a href="https://goodcalculators.com/one-way-anova-calculator/">Good Calculators: ANOVA</a></p>
+
+<p>In the last 6 comparisons, we see that the relationships were significant, therefore we can reject the null hypothesis that there is no interaction.  So, as expected, time lapsed (Day.Total) affected several noted relationships.  Likewise sleep quality interacts with the relationship between sleep routine and AWQ.</p>
+
+<hr />
+<p>title: “Carnivore Diet: 90 Day Review, Part 6”
+author: Austin
+date: 2020-05-14 15:20:00
+categories: [Nutrition, Carnivore]
+tags: [nutrition, carnivore, 90 day review, caffeine, performance, cold, recovery, blood pressure, open science, statistics]
+—</p>
+
+<p>As for the first two comparisons, the results were insignificant, therefore the relationships are independent.  This then is particularly interesting in that fasting improves recovery (via AWQ).</p>
+
+<p><strong>Overall Review:</strong></p>
+
+<p>Performance:</p>
+
+<ul>
+  <li>Fat:Protein ratio had a negative relationship with performance (r = -0.44, p = 0.0022).</li>
+  <li>Mood had a positive relationship with performance (r = +0.51, p = 0.0035).</li>
+  <li>AWQ had a positive relationship with performance (r = +0.48, r = 0.0063).</li>
+</ul>
+
+<p>Recovery:</p>
+
+<ul>
+  <li>CVL has a positive relationship with RHR (CVL = RHR * MAP).</li>
+  <li>Sleep has a positive relationship with RHR (r = +0.54, p = 0.0018).</li>
+  <li>Protein has a positive relationship with RHR (r = +0.55, p = 0.0014).</li>
+  <li>Sleep routine had a positive relationship with AWQ (r = +0.7, r &lt; 0.0001).</li>
+  <li>Fasting had a positive relationship with AWQ (r = +0.64, p &lt; 0.0001).</li>
+</ul>
+
+<p>There was no significant benefit to performance from caffeine.  Nor was there any significant benefit to recovery from cold showers.  Follow up research with caffeine could include similar doses as this study, but with decreased total daily intake.  Further follow up with cold showers could include longer and / or colder showers.</p>
+
+<p>Mood and recovery are extremely important variables regarding ongoing, persistent, and consecutive performance which impacts a number of variables (e.g. progression over time relies on the ability to continue to perform over time).  Recovery also appears most dependent on sleep and sleep routine.  Performance appears most dependent on recovery and mood, but also decreased fat:protein ratio.</p>
+
+<p>Increased protein is also associated heart rate.  However, training intensity is associated with lower heart rate.  ANOVA results suggest that these variables can moderate each other.  That is, exercise intensity can lower heart rate, but increased protein may be needed to recover from more intense training so that more consecutive training days can take place and continue to contribute positively to heart rate.</p>
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMwOTQxNTgwLC0xMzkzNzk1MjMzLC0xNT
+Y1NjgyNzksMTYxOTYzMTgzOSwtMTMwMTUxMTQ4OSwxNTU4Nzg2
+OTM2LDQxNzA2ODkxNSwxNTczNzM5NCwtNDcxMjIwMjgxXX0=
+-->
+:ET
