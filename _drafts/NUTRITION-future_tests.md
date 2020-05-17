@@ -9,6 +9,8 @@ title: Future Tests
 * [75 Hard challenge](https://nutritionwithjudy.com/carnivore75hard/) (~7/4/20)
 * Caffeine and...
     * Triglycerides (pending caffeine / performance results)
+        * The "Ultimate Bloodwork" epidose of the Fundamental Health Podcast ([r](https://castbox.fm/episode/The-ULTIMATE-bloodwork-podcast!-id2108592-id183111720?country=us)) mentions caffeine within 24 hours can raise cortisol (obviously), but triglycerides as well ([r](https://cholesterolcode.com/guest-post-impact-of-coffee-on-triglycerides/)).  As noted elsewhere I drink a fair amount of coffee, but my triglyceride to HDL ratio is 1.47 : 1 which is pretty darn good.
+* Pending the results of my test of caffeine as a PED, I may eliminate caffeine entirely.
     * Blood Pressure / CVL
         * Caffeine and blood pressure:  I thought I had studied this in the past, and had a minimal / no effect, but I can't find the archive
         * caffeine does deplete sodium and magnesium ([r](https://www.instagram.com/p/B_fkn1ogmOz/))
@@ -20,6 +22,10 @@ title: Future Tests
         * conflicting research about caffeine and kidney stone risk ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4232021/).[r](https://www.ncbi.nlm.nih.gov/pubmed/17711092))
         * Caffeine can also cause adrenal gland dysfunction, including over production of aldosterone which raised blood pressure ([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3619380/), [r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4866033/), [r](https://www.ncbi.nlm.nih.gov/pubmed/10835904)), however there have been some studies **treating this with baking soda**([r](https://www.ncbi.nlm.nih.gov/pubmed/17886090), [r](https://www.ncbi.nlm.nih.gov/pubmed/27356528)) -- about 1g sodium and 2g bicarbonate / liter, 1L daily.
 * Blood Pressure and Sodium:Potassium Ratio (f/u)
+    * BP and potassium - [https://www.ncbi.nlm.nih.gov/pubmed/30122481](https://www.ncbi.nlm.nih.gov/pubmed/30122481)
+    * ratios upwards of 1:1, 2:1, 3.5:1 on paleo ([r](https://paleoleap.com/sodium-potassium-paleo/))
+    * consider [potassium BHB supplement](https://www.amazon.com/Nutricost-Potassium-Exogenous-Supplement-Beta-Hydroxybutyrate/dp/B06W9KFYFF/ref=sr_1_5?dchild=1&keywords=potassium+bhb&qid=1587208418&sr=8-5) and measure with cognitive performance (test?)
+* reintroduce general electrolyte supplement to alter ratio
 * O3, O6, and Blood Pressure
     * 2015,  O3 = consistent cardiovascular and anti-inflamatory benefits in animals, but mixed results in humans ([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537707/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4537707/))
     * 2020, O3 reduces triglycerides, may reduce cardio mortality, but no effect on all cause mortality; no observed effect on fish consumption  ([https://www.ncbi.nlm.nih.gov/pubmed/32114706](https://www.ncbi.nlm.nih.gov/pubmed/32114706))
@@ -31,22 +37,6 @@ title: Future Tests
 **Consideration:**
 
 * Water Filter / Testosterone?
-* sleep quality and measures
-
----
-
-**Potassium and Sodium Ratio / Blood Pressure (follow up):**
-
-* ratios upwards of 1:1, 2:1, 3.5:1 on paleo ([r](https://paleoleap.com/sodium-potassium-paleo/))
-* consider [potassium BHB supplement](https://www.amazon.com/Nutricost-Potassium-Exogenous-Supplement-Beta-Hydroxybutyrate/dp/B06W9KFYFF/ref=sr_1_5?dchild=1&keywords=potassium+bhb&qid=1587208418&sr=8-5) and measure with cognitive performance (test?)
-* reintroduce general electrolyte supplement to alter ratio
-
----
-
-**Caffeine and Triglycerides:**
-
-* The "Ultimate Bloodwork" epidose of the Fundamental Health Podcast ([r](https://castbox.fm/episode/The-ULTIMATE-bloodwork-podcast!-id2108592-id183111720?country=us)) mentions caffeine within 24 hours can raise cortisol (obviously), but triglycerides as well ([r](https://cholesterolcode.com/guest-post-impact-of-coffee-on-triglycerides/)).  As noted elsewhere I drink a fair amount of coffee, but my triglyceride to HDL ratio is 1.47 : 1 which is pretty darn good.
-* Pending the results of my test of caffeine as a PED, I may eliminate caffeine entirely.
 
 ---
 
@@ -90,7 +80,6 @@ Best / Cheapest Recovery =? sleep
 * Massage?
   *  master sleep first, maybe 75 hard v2
 
-
 ---
 
 **Miscellaneous Notes:**
@@ -114,13 +103,6 @@ Best / Cheapest Recovery =? sleep
     * "stack" new habit after old habit
     * "you pay for bad habits later, you pay for good habits now" > hockey stick
 
-* Paleo Medicina [fundamental health podcast]
-    * 2:1 fat to protein by weight (9:2 by calories, over 4:1)
-    * overeating in general can kick you out of ketosis
-    * how to get that much fat (w/o added oil / butter)?:  suet, tallow?
-
-* Consider adding fish back for blood pressure (Omegs-3), ([r](https://chriskresser.com/6-ways-to-lower-blood-pressure-by-changing-your-diet/))
-
 * Blood Sugar
   * Caffeine - no effect, [r](https://care.diabetesjournals.org/content/27/12/2990), [r](https://www.dietdoctor.com/does-coffee-raise-blood-sugar-conclusion)
   * Sugar alcohol (gum!) - yes, raises ([r](https://www.healthline.com/health/diabetes/sugar-alcohol-and-diabetes#bottom-line))
@@ -128,3 +110,12 @@ Best / Cheapest Recovery =? sleep
   * sugar alcohol can cause diarrhea, is addictive, and different alcohols have different glycemic loads, [r](https://www.healthline.com/nutrition/sugar-alcohols-good-or-bad#section9)
   * low body fat?  negative correlations have been found between body fat and insulin resistance ([r](https://www.ncbi.nlm.nih.gov/pubmed/15824752)), but in an episode of The Healthy Rebellion Radio ([r](https://castbox.fm/episode/Estrogen-and-Soy%2C-Detox-Kits%2C-Ketones-and-Blood-Sugar---THRR016-id2434386-id230589109?country=us)) Robb Wolf talked about a point of diminishing returns when it comes to reducing body fat; e.g. at some point being "too lean" is a stressor on the body
   
+* Metabolic Health Markers ([https://www.liebertpub.com/doi/10.1089/met.2018.0105](https://www.liebertpub.com/doi/10.1089/met.2018.0105))
+  * HDL: > 40 (check)
+  * WC: < 102 cm (check)
+  * Glucose: < 100 (check)
+  * Triglycerides: < 100 (check)
+  * HbA1c: < 5.7
+  * BP: < 120 / 80
+
+* Metta meditation template - [https://www.nalanda.org.my/6-weeks-of-metta-meditation/](https://www.nalanda.org.my/6-weeks-of-metta-meditation/)
