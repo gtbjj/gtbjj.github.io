@@ -103,19 +103,33 @@ Best / Cheapest Recovery =? sleep
     * "stack" new habit after old habit
     * "you pay for bad habits later, you pay for good habits now" > hockey stick
 
-* Blood Sugar
-  * Caffeine - no effect, [r](https://care.diabetesjournals.org/content/27/12/2990), [r](https://www.dietdoctor.com/does-coffee-raise-blood-sugar-conclusion)
-  * Sugar alcohol (gum!) - yes, raises ([r](https://www.healthline.com/health/diabetes/sugar-alcohol-and-diabetes#bottom-line))
-  * Fiber = 0 net carbs, sugar = all the carbs, sugar alcohol = 1/2 carb, ([r](https://dtc.ucsf.edu/living-with-diabetes/diet-and-nutrition/understanding-carbohydrates/counting-carbohydrates/learning-to-read-labels/counting-sugar-alcohols/))
-  * sugar alcohol can cause diarrhea, is addictive, and different alcohols have different glycemic loads, [r](https://www.healthline.com/nutrition/sugar-alcohols-good-or-bad#section9)
-  * low body fat?  negative correlations have been found between body fat and insulin resistance ([r](https://www.ncbi.nlm.nih.gov/pubmed/15824752)), but in an episode of The Healthy Rebellion Radio ([r](https://castbox.fm/episode/Estrogen-and-Soy%2C-Detox-Kits%2C-Ketones-and-Blood-Sugar---THRR016-id2434386-id230589109?country=us)) Robb Wolf talked about a point of diminishing returns when it comes to reducing body fat; e.g. at some point being "too lean" is a stressor on the body
   
-* Metabolic Health Markers ([https://www.liebertpub.com/doi/10.1089/met.2018.0105](https://www.liebertpub.com/doi/10.1089/met.2018.0105))
-  * HDL: > 40 (check)
+* Metabolic Health Markers ([https://www.liebertpub.com/doi/10.1089/met.2018.0105](https://www.liebertpub.com/doi/10.1089/met.2018.0105), [r](https://www.nhs.uk/conditions/metabolic-syndrome/))
+  * Cholesterol:
+      * HDL: > 40 (check)
+      * Triglycerides: < 100 (check)
+      * no mention of LDL! good, see Dave Feldman's work ([r](https://cholesterolcode.com/about/), [r](https://castbox.fm/episode/Dave-Feldman-and-Siobhan-Huggins-return-for-the-ULTIMATE-lipid-podcast%2C-the-roots-of-insulin-resistance%2C-hs-CRP-and-Lp(a)-id2108592-id179911370?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Dave%20Feldman%20and%20Siobhan%20Huggins%20return%20for%20the%20ULTIMATE%20lipid%20podcast%2C%20the%20roots%20of%20insulin%20resistance%2C%20hs-CRP%20and%20Lp(a)-CastBox_FM))
+      * trig:HDL ideally 1:1, but commonly "good" at 4:1 (Kevin Shock)([r](https://www.kevinstock.io/health/carnivore-diet-blood-work/))
   * WC: < 102 cm (check)
-  * Glucose: < 100 (check)
-  * Triglycerides: < 100 (check)
+      * no mention of BMI (thank goodness!) Dr. Tro link
+      * BMI, WC, WHR, and WHtR are inaccurate for both lean athletes and fat "normal weight" people ([r](https://jphysiolanthropol.biomedcentral.com/articles/10.1186/1880-6805-33-10))
+      * substitute body fat: leanest 5% of Americans would be < 28% (women) and < 17% (men)([r](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837418/)), or to keep it simple < 30% women and < 20% (men).  For athletes, 20% / 12% is not unreasonable either ([r](https://californianutritiongroup.com/2017/08/01/what-is-your-idea-body-fat-percentage/)).  Essential body fat is about 15% / 5% ([r](https://www.healthline.com/health/types-of-body-fat#essential-fat))
+  * Glucose: < 100 / fasted(check)
+      * typically < 100 fasted, or 140-180 1-2 hours after a meal ([r](https://images.medicinenet.com/images/illustrations/2019-target-blood-sugar-levels.jpg), [r](https://diabetesalert.net/wp-content/uploads/2017/12/Blood-Sugar-Levels-Chart.jpg)).  I would suggest the former because if your blood sugar is below 100 (mg/dl) and spikes all the way to 180 post-meal, you're consuming way too much sugar (processed, whole grain, or otherwise) since stabilizing blood sugar is extremely important for managing mood, hunger, and hormones ([r](https://www.diabetes.co.uk/forum/attachments/upload_2018-1-20_8-31-6-png.24983/)).  In fact, a post-meal blood sugar of < 120 (spike of 20-30 mg/dl) would be even better ([r](https://sharimccants.files.wordpress.com/2014/09/blood-sugar-chart.png)).
+      * Caffeine - no effect, [r](https://care.diabetesjournals.org/content/27/12/2990), [r](https://www.dietdoctor.com/does-coffee-raise-blood-sugar-conclusion)
+      * Sugar alcohol (gum!) - yes, raises ([r](https://www.healthline.com/health/diabetes/sugar-alcohol-and-diabetes#bottom-line))
+      * Fiber = 0 net carbs, sugar = all the carbs, sugar alcohol = 1/2 carb, ([r](https://dtc.ucsf.edu/living-with-diabetes/diet-and-nutrition/understanding-carbohydrates/counting-carbohydrates/learning-to-read-labels/counting-sugar-alcohols/))
+      * sugar alcohol can cause diarrhea, is addictive, and different alcohols have different glycemic loads, [r](https://www.healthline.com/nutrition/sugar-alcohols-good-or-bad#section9)
+      * low body fat?  negative correlations have been found between body fat and insulin resistance ([r](https://www.ncbi.nlm.nih.gov/pubmed/15824752)), but in an episode of The Healthy Rebellion Radio ([r](https://castbox.fm/episode/Estrogen-and-Soy%2C-Detox-Kits%2C-Ketones-and-Blood-Sugar---THRR016-id2434386-id230589109?country=us)) Robb Wolf talked about a point of diminishing returns when it comes to reducing body fat; e.g. at some point being "too lean" is a stressor on the body
   * HbA1c: < 5.7
-  * BP: < 120 / 80
+    * directly relates to blood sugar ([r](https://professional.diabetes.org/diapro/glucose_calc)), see above
+  * BP: < 120 / 80 (140 / 90 in some references dated as recently as 2019)
+  * Inflammation, irritation, or swelling
+  * increased risk of blood clot, such as DVT (deep vein thrombosis) -- typically influenced by the above factors (smoking, obesity, heart disease, etc.)
 
-* Metta meditation template - [https://www.nalanda.org.my/6-weeks-of-metta-meditation/](https://www.nalanda.org.my/6-weeks-of-metta-meditation/)
+* Blood Pressure and Meditation:
+    * Metta meditation template - [https://www.nalanda.org.my/6-weeks-of-metta-meditation/](https://www.nalanda.org.my/6-weeks-of-metta-meditation/)
+    * transcendental mediation lowers bp by 5 points ([r](http://www.positivehealth.com/article/meditation/transcendental-meditation-health-research-overview))
+
+* Salt requirements, again:
+  * Robb Wolf on Cleared Hot:  5g sodium in addition to food sources, up to 10g (additional) in 95' heat; high protein does require more water to digest (I made an early note about drinking more water on a carnivore diet).
