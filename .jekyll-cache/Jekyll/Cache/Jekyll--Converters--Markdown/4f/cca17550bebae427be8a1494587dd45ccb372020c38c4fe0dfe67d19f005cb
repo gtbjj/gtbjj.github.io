@@ -1,19 +1,8 @@
----
-title: About
+I"D<h3 id="introduction">Introduction</h3>
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-### Introduction
-
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
-
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
     <summary>A brief history:</summary>
@@ -46,7 +35,7 @@ At some point quest logs from tabletop role playing games were added as well as 
   <summary>Current Projects:</summary>
   <ul>
     <li>
-      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.</a>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.&lt;/a&gt;
     </li>
     <li>
       <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
@@ -87,17 +76,23 @@ At some point quest logs from tabletop role playing games were added as well as 
   And so it began.
 </details>
 
----
+<hr />
 
-**Support This Site**
+<p><strong>Support This Site</strong></p>
 
-Research isn't cheap.  It takes time and effort.
+<p>Research isn’t cheap.  It takes time and effort.</p>
 
-* [Donate with PayPal](https://paypal.me/savagezen)
-* Cryptocurrency Addresses:
-    * BTC: ```1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe```
-    * ETH: ```0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B```
-    * BAT: ```0x33BD25b2C44dD645F355aF4D48961A50138aa14f```
-    * DAI: ```0x9c3c0a7D13255110EDb937192708032950cE3379```
-    * LTC: ```Li5TX8T63DdZUw1X3YJUwhrP254ecJuTSq```
-    * XRP: ```rMdG3ju8pgyVh29ELPWaDuA74CpWW6Fxns``` Destination Tag: ```2441368717```
+<ul>
+  <li><a href="https://paypal.me/savagezen">Donate with PayPal</a></li>
+  <li>Cryptocurrency Addresses:
+    <ul>
+      <li>BTC: <code class="highlighter-rouge">1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe</code></li>
+      <li>ETH: <code class="highlighter-rouge">0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B</code></li>
+      <li>BAT: <code class="highlighter-rouge">0x33BD25b2C44dD645F355aF4D48961A50138aa14f</code></li>
+      <li>DAI: <code class="highlighter-rouge">0x9c3c0a7D13255110EDb937192708032950cE3379</code></li>
+      <li>LTC: <code class="highlighter-rouge">Li5TX8T63DdZUw1X3YJUwhrP254ecJuTSq</code></li>
+      <li>XRP: <code class="highlighter-rouge">rMdG3ju8pgyVh29ELPWaDuA74CpWW6Fxns</code> Destination Tag: <code class="highlighter-rouge">2441368717</code></li>
+    </ul>
+  </li>
+</ul>
+:ET

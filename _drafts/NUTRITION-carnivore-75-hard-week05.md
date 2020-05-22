@@ -11,4 +11,9 @@ tags:
  
 5/20
 
-* Diarrhe (from liquid fat? / drippings)
+* Diarrhea (from liquid fat? / drippings)
+
+5/21
+
+* more alcohol, broken fast, average still over 16 (almost 20).  got laid off.  this has been a tumultuous week
+

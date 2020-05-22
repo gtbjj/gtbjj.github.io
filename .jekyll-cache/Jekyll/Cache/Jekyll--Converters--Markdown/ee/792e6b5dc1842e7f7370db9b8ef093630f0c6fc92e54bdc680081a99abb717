@@ -1,4 +1,4 @@
-I"�<h3 id="introduction">Introduction</h3>
+I"�<h3 id="introduction">Introduction</h3>
 
 <p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
@@ -80,30 +80,21 @@
 
 <p><strong>Support This Site</strong></p>
 
-<p>Research isn’t cheap.  It takes time and effort.  If you’re not a fan of PayPal, I am also a supporter of blockchain / cryptocurrency technologies.</p>
+<p>Research isn’t cheap.  It takes time and effort.</p>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="X6F976CRWKWVG" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="Donate with PayPal" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<ul>
+  <li><a href="https://paypal.me/savagezen">Donate with PayPal</a></li>
+  <li>Cryptocurrency Addresses:
+    <ul>
+      <li>BTC: <code class="highlighter-rouge">1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe</code></li>
+      <li>ETH: <code class="highlighter-rouge">0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B</code></li>
+      <li>BAT: <code class="highlighter-rouge">0x33BD25b2C44dD645F355aF4D48961A50138aa14f</code></li>
+      <li>XRP: <code class="highlighter-rouge">rMdG3ju8pgyVh29ELPWaDuA74CpWW6Fxns</code> Destination Tag: <code class="highlighter-rouge">3346335495</code></li>
+      <li>LTC: <code class="highlighter-rouge">LVnxzMWMBj1UwdTA9xFv3mtZMDXNcrTL5S</code></li>
+    </ul>
+  </li>
+  <li>Other Cryptocurrencies:  Many of my articles are also published on <a href="https://publishox.com/carnivore-jiujitero">PublishOx</a> under <em>Carnivore JiuJitero</em>.  The site supports multiple currencies.</li>
+</ul>
 
-<details>
-  <summary>Donate BAT:</summary>
-  
-  If you use <a href="https://brave.com/sav396">Brave</a>, you can tip me with BAT directly on this, or on my <a href="https://twitter.com/carnivorebjj">Twitter</a>, <a href="https://github.com/savagezen">GitHub</a>, or <a href="https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ/about?view_as=subscriber">YouTube</a>.  You can learn about, download, and install, the Brave web browser <a href="https://brave.com/sav396">here</a>.
-</details>
-
-<details>
-  <summary>Donate ETH:</summary>
-  
-  My <a href="https://metamask.io/">MetaMask</a> public ETH token is <code>0xE9d93b5656B73eef9098E4466C03E67a996A1da3</code>.
-</details>
-
-<details>
-  <summary>Donate Other Cryptocurrency:</summary>
-  
-  Many of my articles are republished on <a href="https://www.publish0x.com/carnivore-jiujitero">PublishOx</a> which allows tipping with various currencies.
-</details>
+<div name="donate"></div>
 :ET
