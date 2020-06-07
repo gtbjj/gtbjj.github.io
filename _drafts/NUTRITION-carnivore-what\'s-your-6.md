@@ -11,5 +11,7 @@ tags:
 * 5 daily tasks
 * add a 6th for another 75 days
     * cold shower?
-    * no caffeine? -- focus on doing
-    * sleep schedule?
+    * no caffeine?
+    * sleep routine?
+    * stop measuring (focus on doing)
+    * 100 arrows / day

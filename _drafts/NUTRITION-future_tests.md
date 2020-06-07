@@ -38,7 +38,11 @@ title: Future Tests
 
 **Consideration:**
 
-* Water Filter / Testosterone?
+* TKD w/ honey (refer to "do athletes need carbs, part 2"
+    * immediate dosage (Robb Wolf on Cleared Hot, link)
+    * pick a timed workout for control
+    * monitor subjective perception for BJJ sessions
+        * maybe an adapted AWD:  mood, technicality, cardio, intensity
 
 ---
 
@@ -109,6 +113,3 @@ Best / Cheapest Recovery =? sleep
 * Blood Pressure and Meditation:
     * Metta meditation template - [https://www.nalanda.org.my/6-weeks-of-metta-meditation/](https://www.nalanda.org.my/6-weeks-of-metta-meditation/)
     * transcendental mediation lowers bp by 5 points ([r](http://www.positivehealth.com/article/meditation/transcendental-meditation-health-research-overview))
-
-* Salt requirements, again:
-  * Robb Wolf on Cleared Hot:  5g sodium in addition to food sources, up to 10g (additional) in 95' heat; high protein does require more water to digest (I made an early note about drinking more water on a carnivore diet).

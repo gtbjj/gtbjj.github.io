@@ -372,7 +372,7 @@
           3
           categories,
         
-          24
+          25
           posts
         </span>
       </span>
@@ -395,7 +395,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/carnivore/" class="ml-1 mr-2">Carnivore</a>
           
-          <span class="text-muted small font-weight-light">16
+          <span class="text-muted small font-weight-light">17
             posts
           </span>
         </li>
@@ -440,7 +440,7 @@
           1
           category,
         
-          31
+          33
           posts
         </span>
       </span>
@@ -463,7 +463,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/psychology/" class="ml-1 mr-2">Psychology</a>
           
-          <span class="text-muted small font-weight-light">31
+          <span class="text-muted small font-weight-light">33
             posts
           </span>
         </li>
