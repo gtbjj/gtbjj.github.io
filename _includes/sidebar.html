@@ -64,14 +64,20 @@
   <span class="icon-border"></span>
   {% endif %}
 
+<!--
   <a href="https://github.com/{{ site.github.username }}" target="_blank">
     <i class="fab fa-github-alt"></i>
   </a>
-  <a href="https://instagram.com/{{ site.instagram.username }}" target="_blank">
-    <i class="fab fa-instagram"></i>
-  </a>
   <a href="https://linkedin.com/in/{{ site.linkedin.username }}" target="_blank">
     <i class="fab fa-linkedin"></i>
+  </a>
+  {% assign email = site.social.email | split: '@' %}
+  <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
+    <i class="fas fa-envelope"></i>
+  </a>
+-->
+  <a href="https://instagram.com/{{ site.instagram.username }}" target="_blank">
+    <i class="fab fa-instagram"></i>
   </a>
   <a href="https://t.me/{{ site.github.username }}" target="_blank">
     <i class="fab fa-telegram"></i>
@@ -79,12 +85,12 @@
   <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
     <i class="fab fa-twitter"></i>
   </a>
-<!--
-  {% assign email = site.social.email | split: '@' %}
-  <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
-    <i class="fas fa-envelope"></i>
+  <a href="https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ?view_as=subscriber">
+    <i class="fab fa-youtube"></i>
   </a>
--->
+  <a href="https://castbox.fm/channel/Carnivore-Jiujitero-id2937016?country=us">
+    <i class="fa fa-podcast"></i>
+  </a>
   <a href="{{ site.baseurl }}/feed.xml" target="_blank">
     <i class="fas fa-rss"></i>
   </a>
