@@ -1,4 +1,4 @@
-I"øŸ
+I"b 
 <div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
 
 
@@ -151,7 +151,7 @@
   </div>
 
   <div>
-    <a class="tag" href="/tags/bjj/">bjj<span class="text-muted">13</span></a>
+    <a class="tag" href="/tags/bjj/">bjj<span class="text-muted">14</span></a>
   </div>
 
   <div>
@@ -759,7 +759,7 @@
   </div>
 
   <div>
-    <a class="tag" href="/tags/journal/">journal<span class="text-muted">2</span></a>
+    <a class="tag" href="/tags/journal/">journal<span class="text-muted">3</span></a>
   </div>
 
   <div>
@@ -1084,6 +1084,10 @@
 
   <div>
     <a class="tag" href="/tags/profile-sync/">profile sync<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/progress/">progress<span class="text-muted">1</span></a>
   </div>
 
   <div>

@@ -28,3 +28,10 @@ tags:
 6/19
 
 * observation from a friend I haven't seen in a few months:  "visibly" improved happiness and lighter spirits
+
+6/22
+
+* broke fast 1.5 hours early, trying to eat w/in 1 hour of training, but logistically complicated while trying to do 2/days
+* obviously not impossible, but maybe chasing too many rabbits 
+* e.g. no / < 100mg caffeine, bed early, early rise, doing more stuff before first meal 
+* different than doing more after last meal because you're asleep during the final hours before breaking the fast
