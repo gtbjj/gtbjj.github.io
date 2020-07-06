@@ -1,8 +1,0 @@
-I"«<p>This very blog runs on Jekll (:-D) and while running the local server via <code class="highlighter-rouge">$ bundle exec jekyll serve</code> I got the error <code class="highlighter-rouge">zsh: command not found: bundle</code>.</p>
-
-<p>After a quick Google search, I reinstalled the bundler ruby gem via <code class="highlighter-rouge">$ gem install bundler</code>.</p>
-
-<p>Trying to run the Jekyll serve command again, I got an error from ruby that bundler required an update.  So, following the directions from the output i did <code class="highlighter-rouge">$ bundle update --bundler</code>.</p>
-
-<p>That resolved the issue and I was able to run my Jekyll server normally.</p>
-:ET
