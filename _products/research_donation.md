@@ -1,7 +1,8 @@
 ---
 name: Research Donation
 description: Research and testing my own body aren't free.  If you've benefited or learned something from the content on this site or my videos, please consider donating below or with BAT on the <a href="https://brave.com/aus260">Brave Browser</a>.
-buttons: <a href="https://transactions.sendowl.com/products/78328421/E3930036/purchase">Buy Now ($1)</a> | <a href="https://transactions.sendowl.com/products/78328421/E3930036/add_to_cart">Add to Cart ($1)</a> | <a href="https://transactions.sendowl.com/cart?merchant_id=189652">View Cart</a>
+buttons: <a href="https://transactions.sendowl.com/products/78328421/E3930036/purchase">Buy Now</a> | <a href="https://transactions.sendowl.com/products/78328421/E3930036/add_to_cart">Add to Cart</a> | <a href="https://transactions.sendowl.com/cart?merchant_id=189652">View Cart</a>
+price: 1.00
 ---
 
 <img src="/assets/img/research.jpg" height="auto" width="40%" align="right"/>

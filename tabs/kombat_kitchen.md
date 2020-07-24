@@ -27,7 +27,7 @@ toc: true
       <p><strong>{{ product.name }}</strong></p>
       <p><i>{{ product.description }}</i></p>
     </li>
-    <p style="text-align: right">{{ product.buttons }}</p>
+    <p style="text-align: right"><code>${{ product.price}} </code> {{ product.buttons }}</p>
 
   {% endfor %}
 </ul>
