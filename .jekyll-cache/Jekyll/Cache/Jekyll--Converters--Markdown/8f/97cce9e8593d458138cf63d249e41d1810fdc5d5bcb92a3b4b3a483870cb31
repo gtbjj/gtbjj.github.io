@@ -1,0 +1,3 @@
+I"C<p>```
+UPDATE 6/12/17:  I have encountered boot errors with the kernel when init / ramdisk changes are applied.  Some kernel versions boot properly, the performance profiles are not applied approrpiately and sometimes lead to overheating issues.  Please stay tuned while I work on the issues over the weekend.  Thanks!</p>
+:ET

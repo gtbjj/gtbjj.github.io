@@ -24,6 +24,13 @@
   icon: "fas fa-tags"
   path: tabs
   url: tags
+
+-
+  name: "Kombat Kitchen"
+  icon: "fas fa-cutlery"
+  path: tabs
+  url: kombat_kitchen
+
 #-
 #  name: "Archives"
 #  path: tabs
