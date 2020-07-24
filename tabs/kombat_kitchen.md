@@ -8,20 +8,26 @@ title: Kombat Kitchen
 toc: true
 ---
 
+<!-- Introduction -->
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxFU6ZmWySBILvTqktuvgcCAbu9YPy354K8QlZ10EJ7_-cLxOLT7fxQP8rg1jKB_56smODg-kOdmn3/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-#### Programs
+<!-- FAQ -->
 
-*Templates for all programs have been drafted (adult white - black, and children's).  Currently the White Belt program has had its first release for beta testing.  The children's program is next in the work queue, followed by the adult Blue Belt program*
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-#### Pricing
+<hr />
 
-*More info coming soon!*
+<!-- store -->
 
-#### FAQs
+<ul style="list-style-type: none">
+  {% for product in site.products %}
+    <li>
+      <div style="">{{ product.content }}</div>
+      <p><strong>{{ product.name }}</strong></p>
+      <p><i>{{ product.description }}</i></p>
+    </li>
+    <p style="text-align: right">{{ product.buttons }}</p>
 
-*Coming soon!  In the mean time, feel free to send me questions on Instagram [@savagezen](https://instagram.com/savagezen).*
-
-
-
-
+  {% endfor %}
+</ul>
