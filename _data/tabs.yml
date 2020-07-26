@@ -4,17 +4,9 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
-
-#-
-#  name: Home
-#  icon: "fas fa-home"
-
 -
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
-
+  name: Articles
+  icon: "fas fa-home"
 -
   name: Categories
   icon: "fas fa-stream"
@@ -25,12 +17,16 @@
   icon: "fas fa-tags"
   path: tabs
   url: tags
-
 -
   name: "Kombat Kitchen"
   icon: "fas fa-cutlery"
   path: tabs
   url: kombat_kitchen
+-
+  name: "About Me"
+  icon: "fas fa-info"
+  path: tabs
+  url: about
 
 #-
 #  name: "Archives"
