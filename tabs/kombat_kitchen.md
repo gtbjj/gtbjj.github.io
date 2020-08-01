@@ -22,9 +22,7 @@ toc: true
 
 **How do I register for Kombat Kitchen?**
 
-Currently only the White Belt program is avaialable, and for pre-registered beta testers.  Once other programs are released you will be able to purchase them in the featured products list below.
-
-To stay up to date on the most current releases, [subscribe to our newsletter](https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration).
+Currently only the White Belt program is avaialable, and for pre-registered beta testers.  Once other programs are released you will be able to purchase them in the featured products list below.  To stay up to date on the most current releases, subscribe to our [newsletter](https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration) or [RSS feed](http://localhost:4000/feed.xml).
 
 <hr />
 
