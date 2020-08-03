@@ -218,3 +218,4 @@ sitemap_exclude:  # Sitemap will exclude the following items.
 
 collections:
   products:
+  amazon:
