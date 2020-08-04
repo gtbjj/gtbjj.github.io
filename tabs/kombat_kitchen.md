@@ -112,16 +112,90 @@ Currently only the White Belt program is avaialable, and for pre-registered beta
 </div>
 
 <div id="Products" class="tabcontent">
-  <i>Coming Soon!</i>
-<!--
-  {% for product in site.amazon %}
-    {{ product.content }}
-  {% endfor %}
--->
+  <style>
+    /*  SECTIONS  */
+    .section {
+      clear: both;
+      padding: 0px;
+      margin: 0px;
+    }
 
+    /*  COLUMN SETUP  */
+    .col {
+      display: block;
+      float:left;
+      margin: 1% 0 1% 1.6%;
+    }
+    .col:first-child { margin-left: 0; }
+
+    /*  GROUPING  */
+    .group:before,
+    .group:after { content:""; display:table; }
+    .group:after { clear:both;}
+    .group { zoom:1; /* For IE 6/7 */ }
+
+    /*  GRID OF THREE  */
+    .span_3_of_3 { width: 100%; }
+    .span_2_of_3 { width: 66.13%; }
+    .span_1_of_3 { width: 32.26%; }
+
+    /*  GO FULL WIDTH BELOW 480 PIXELS */
+    @media only screen and (max-width: 480px) {
+    .col {  margin: 1% 0 1% 0%; }
+    .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+    }
+  </style>
+  <div class="section group" style="text-align: center">
+    <div class="col span_1_of_3">
+      <h3>Health</h3>
+      <hr><br/>
+      <ul style="list-style-type: none">
+        {% for product in site.amazon_nutrition %}
+          <li>
+            <div>{{ product.name }}</div>
+            <div>{{ product.content }}</div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col span_1_of_3" style="text-align: center">
+      <h3>Gear</h3>
+      <hr><br/>
+      <ul style="list-style-type: none">
+        {% for product in site.amazon_gear %}
+          <li>
+            <div>{{ product.name }}</div>
+            <div>{{ product.content }}</div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col span_1_of_3" style="text-align: center">
+      <h3>Books</h3>
+      <hr><br />
+      <ul style="list-style-type: none">
+        {% for product in site.amazon_books %}
+          <li>
+            <div>{{ product.name }}</div>
+            <div>{{ product.content }}</div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div id="Resources" class="tabcontent">
+  <ul style="list-style-type: none">
+    {% for podcast in site.media_resources %}
+      <li>
+        <div><a href="{{ podcast.source }}">{{ podcast.image }}</div></a>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+<!--
   <p style="text-align: center">
   <a href="https://castbox.fm/channel/The-Healthy-Rebellion-Radio-id2434386?country=us"></a>
     <img src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/15/b7/43/15b743de-be23-3291-4a83-348c127fda38/mza_14223100350029258018.jpg/400x400bb.jpg" style="width: 30%; height: auto">
@@ -156,6 +230,7 @@ Currently only the White Belt program is avaialable, and for pre-registered beta
     <img src="https://ssl-static.libsyn.com/p/assets/0/4/3/c/043c39739a6b8376/Screen_Shot_2018-01-05_at_5.12.25_PM.png" style="width: 30%; height: auto">
   </a>
   </p>
+-->
 </div>
 
 <script>

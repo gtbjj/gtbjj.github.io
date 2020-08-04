@@ -218,4 +218,7 @@ sitemap_exclude:  # Sitemap will exclude the following items.
 
 collections:
   products:
-  amazon:
+  amazon_nutrition:
+  amazon_gear:
+  amazon_books:
+  media_resources:
