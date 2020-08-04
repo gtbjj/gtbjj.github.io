@@ -188,9 +188,7 @@ Currently only the White Belt program is avaialable, and for pre-registered beta
 <div id="Resources" class="tabcontent">
   <ul style="list-style-type: none">
     {% for podcast in site.media_resources %}
-      <li>
-        <div><a href="{{ podcast.source }}">{{ podcast.image }}</div></a>
-      </li>
+      <a href="{{ podcast.source }}"><img src="{{ podcast.image }}" style="width: 30%; height: auto"></a>
     {% endfor %}
   </ul>
 
