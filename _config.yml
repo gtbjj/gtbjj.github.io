@@ -11,9 +11,9 @@
 title: Carnivore Jiujitero                             # the main title
 
 tagline: >-                                            # it will display as the sub-title
-    A blog about carnivory, 
-    climbing, combat sports, 
-    and a few other things.
+    Living a radical life through 
+    nutrition, combat sports, rock 
+    climbing, and dog training.
 
 description: >-                                        # used by seo meta and the atom feed
     A narrated journey through the carnivore diet, 
@@ -96,7 +96,8 @@ theme_mode: dark
 # boolean type, global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate_path: "/blog/page:num/"
+paginate: 5
 
 markdown: kramdown
 

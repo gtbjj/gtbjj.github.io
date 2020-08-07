@@ -8,15 +8,19 @@
   name: Home
   icon: "fas fa-home"
 -
-  name: Categories
-  icon: "fas fa-stream"
-  path: tabs
-  url: categories
--
-  name: "Tags"
-  icon: "fas fa-tags"
-  path: tabs
-  url: tags
+  name: Blog
+  icon: "fas fa-pencil"
+  path: blog
+#-
+#  name: Categories
+#  icon: "fas fa-stream"
+#  path: tabs
+#  url: categories
+#-
+#  name: "Tags"
+#  icon: "fas fa-tags"
+#  path: tabs
+#  url: tags
 -
   name: "Kombat Kitchen"
   icon: "fas fa-cutlery"
@@ -27,7 +31,11 @@
   icon: "fas fa-info"
   path: tabs
   url: about
-
+-
+  name: Contact
+  icon: "fas fa-address-book"
+  path: tabs
+  url: connect
 #-
 #  name: "Archives"
 #  path: tabs
