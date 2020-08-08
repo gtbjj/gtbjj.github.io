@@ -6,26 +6,28 @@
 # MIT License
 ---
 
-
 <div style="text-align: center">
-  <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703">
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png" style="width: 10%; height: auto"/>
+ <a href="https://github.com/{{ site.github.username }}" target="_blank">
+    <i class="fab fa-3x fa-github-alt"></i>
   </a>
-  <a href="https://instagram.com/savagezen">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" style="width: 10%; height: auto"/>
+  <a style="margin-left: 2%" href="https://linkedin.com/in/{{ site.linkedin.username }}" target="_blank">
+    <i class="fab fa-3x fa-linkedin"></i>
   </a>
-  <a href="https://twitter.com/carnivorebjj">
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" style="width: 10%; height: auto"/>
+  <a style="margin-left: 2%"  href="https://castbox.fm/channel/Carnivore-Jiujitero-id2937016?country=us">
+    <i class="fa fa-3x fa-podcast"></i>
   </a>
-  <a href="https://youtube.com/c/Austinhaedicke">
-     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" style="width: 10%; height: auto"/>
+  <a style="margin-left: 2%"  href="https://www.youtube.com/channel/UCLILnCF9jnIO21Wy482weLQ?view_as=subscriber">
+    <i class="fab fa-3x fa-youtube"></i>
   </a>
-  <a href="https://linkedin.in/AustinHaedicke">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" style="width: 10%; height: auto">
+  <a style="margin-left: 2%" href="https://instagram.com/{{ site.instagram.username }}" target="_blank">
+    <i class="fab fa-3x fa-instagram"></i>
   </a>
-  <a href="https://t.me/savagezen">
-    <img src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-56-256.png" style="width: 10%; height: auto"/>
+  <a style="margin-left: 2%" href="https://t.me/{{ site.github.username }}" target="_blank">
+    <i class="fab fa-3x fa-telegram"></i>
+  </a>
+  <a style="margin-left: 2%" href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
+    <i class="fab fa-3x fa-twitter"></i>
   </a>
 </div>
 
-<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'fRcW3mZ2Xb8yBI8jOtIg'});Pixlee.addSimpleWidget({widgetId:'28970'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
+<div id="pixlee_container" style="margin-top: 5%"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'fRcW3mZ2Xb8yBI8jOtIg'});Pixlee.addSimpleWidget({widgetId:'28970'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>

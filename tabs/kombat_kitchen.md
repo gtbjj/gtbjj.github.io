@@ -17,19 +17,19 @@ toc: true
 }
 </style>
 
-<div style="text-align: center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxFU6ZmWySBILvTqktuvgcCAbu9YPy354K8QlZ10EJ7_-cLxOLT7fxQP8rg1jKB_56smODg-kOdmn3/embed?start=false&loop=true&delayms=10000" frameborder="0" width="80%" height="50%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
-<br>
-
 <div style="text-align: center">
+  <a href="#about" class="btn">About</a>
   <a href="#products" class="btn">Shop</a>
   <a href="#podcasts" class="btn">Listen</a>
-  <a href="#friends" class="btn">Friends</a>
   <a href="#faq" class="btn">FAQs</a>
-  <a href="https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration" class="btn">Join</a>
+  <a href="https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration" class="btn">Newsletter</a>
 </div>
 
 <hr />
+
+<ul id="about" class="expando" style="list-style-type: none; text-align: center">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxFU6ZmWySBILvTqktuvgcCAbu9YPy354K8QlZ10EJ7_-cLxOLT7fxQP8rg1jKB_56smODg-kOdmn3/embed?start=false&loop=true&delayms=10000" frameborder="0" width="80%" height="50%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</ul>
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&loop=true&delayms=3000" frameborder="0" width="80%" height="50%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -44,13 +44,6 @@ toc: true
           <p style="text-align: right">{{ product.buttons }}</p>
     </li>
   {% endfor %}
-</ul>
-
-<ul id="friends" class="expando" style="list-style-type: none">
-  <li>
-    Protect your privacy and earn cryptocurrency with <a href="https://brave.com/sav396">Brave Browser</a>.
-    <a href="https://brave.com/sav396"><img src="https://brave.com/wp-content/uploads/2018/02/brave_logo_2color_reversed.svg" style="width: 30%; height: auto; float: left; margin-right: 5px"></a>
-  </li>
 </ul>
 
 <ul id="podcasts" class="expando" style="list-style-type: none">

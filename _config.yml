@@ -10,6 +10,8 @@
 
 title: Carnivore Jiujitero                             # the main title
 
+subtitle: ~ by savagezen
+
 tagline: >-                                            # it will display as the sub-title
     Living a radical life through 
     nutrition, combat sports, rock 
@@ -26,7 +28,7 @@ url: 'http://savagezen.github.io'
 
 author: Autin Haedicke                  # change to your full name
 
-avatar: /assets/img/savagezen.jpeg      # support internet resources
+avatar: /assets/img/hati-skoll.jpeg      # support internet resources
 
 github:
   username: savagezen                   # change to your github username
