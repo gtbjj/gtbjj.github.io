@@ -20,8 +20,8 @@ toc: true
 <div style="text-align: center">
   <a href="#about" class="btn">About</a>
   <a href="#products" class="btn">Shop</a>
-  <a href="#podcasts" class="btn">Listen</a>
   <a href="#faq" class="btn">FAQs</a>
+  <a href="#resources" class="btn">Resources</a>
   <a href="https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration" class="btn">Newsletter</a>
 </div>
 
@@ -46,21 +46,17 @@ toc: true
   {% endfor %}
 </ul>
 
-<ul id="podcasts" class="expando" style="list-style-type: none">
-  {% for podcast in site.media_resources %}
-    <a href="{{ podcast.source }}"><img src="{{ podcast.image }}" style="width: 30%; height: auto"></a>
-  {% endfor %}
-</ul>
-
-<br>
-
-<div style="text-align: center">
-  <hr>
-  <a href="#amazon"><i>Recommended Products on Amazon</i></a>
-</div>
-
-<ul id="amazon" class="expando" style="list-style-type: none">
-  {% for product in site.amazon %}
-    <div style="text-align: center" title="{{ product.name }}">{{ product.content }}</div>
+<ul id="resources" class="expando" style="list-style-type: none">
+  {% for resource in site.resources %}
+    <li>
+        <a href="{{ resource.link }}"><img src="{{ resource.img }}" style="float: right; width: 25%; height: auto; margin-left: 2%"></a>
+        <p>
+            <strong><a href="{{ resource.link }}">{{ resource.name }}</a></strong>
+            <br>
+            <i>by {{ resource.author }}</i>
+            <br>
+            {{ resource.type }}
+        </p>
+    </li>
   {% endfor %}
 </ul>
