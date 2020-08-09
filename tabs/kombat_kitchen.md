@@ -51,8 +51,8 @@ toc: true
 
 <ul id="resources" class="expando" style="list-style-type: none">
   {% for resource in site.resources %}
-        <a href="{{ resource.link }}"><img src="{{ resource.img }}" style="float: right; width: 8%; height: auto; margin-left: 2%"></a>
-        <p>
+        <a href="{{ resource.link }}"><img src="{{ resource.img }}" style="float: right; width: 20%; height:25% ; margin-left: 2%"></a>
+        <p style="margin-bottom: 20%">
             <strong><a href="{{ resource.link }}">{{ resource.name }}</a></strong>
             <br>
             <i>by {{ resource.author }}</i>
