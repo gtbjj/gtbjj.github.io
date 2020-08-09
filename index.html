@@ -9,35 +9,47 @@ layout: page
 ---
 <style>
   @media (max-width:629px) {
-    img#hideonmobile {
+    #hideonmobile {
     display: none;
     }
   }
 </style>
 
-<img id="hideonmobile" src="assets/img/spartan-buddha.jpeg" style="float: right; margin: 2%; width: 20%; height: auto">
+<h1>savagezen</h1> 
+<span style="text-align: right">
+    <p><strong>(noun)</strong>  |  <i>A state of being</i></p>
+</span>
+<p>
+    <!--
+    <img id="hideonmobile" src="assets/img/spartan-buddha.jpeg" style="float: left; margin-right: 5%; width: 20%; height: auto">
+    -->
+    The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.<i>Amor fati.</i>
+</p>
 
-<h1>savagezen</h1>
+<div id="hideonmobile"style="text-align: center">
+    <hr>
+    {% for post in site.posts limit:1 %}
+      <code>
+        <strong>Recent Post:</strong>  
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </code>
+    {% endfor %}
+</div>
 
-<strong>(noun)</strong>  |  <i>A state of being</i>
-
-<p style="margin-left: 10%">The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  *Amor fati.*</p>
-
+<!--
 <hr>
-
 <div style="text-align: center">
+    <br>
     <a href="/tabs/kombat_kitchen/#products" class="btn" style="border: 1px solid; border-radius: 25px">Shop</a>
     <a href="/blog/" class="btn" style="border: 1px solid; border-radius: 25px">Learn</a>
     <a href="/tabs/connect" class="btn" style="border: 1px solid; border-radius: 25px">Connect</a>
 </div>
+-->
 
 <hr>
-
 <p style="text-align: center" id="affiliates">
     <i>
     Stay Radical, Support Our Friends!
-    <br>
-    ...it keeps ads away.
     </i>
     <br><br>
     <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser"></a>
