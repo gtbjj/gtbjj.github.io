@@ -70,3 +70,19 @@ toc: true
         <hr>
   {% endfor %}
 </ul>
+
+<p style="text-align: center">
+  <strong>What People Are Saying About Kombat Kitchen:</strong>
+  <br>
+    <ul style="list-style-type: none">
+      {% for review in site.reviews %}
+        <li>
+          <code>{{ review.content }}</code>
+          {{ review.name }}
+          <hr>
+        </li>
+      {% endfor %}
+    </ul>
+  <br>
+  <i>Join the fight for your health on <a href="https://twitter.com/search?q=kombatkitchen&src=typed_query&f=live">Twitter</a> and <a href="https://www.instagram.com/explore/tags/kombatkitchen/">Instagram</a>!</i>
+</p>
