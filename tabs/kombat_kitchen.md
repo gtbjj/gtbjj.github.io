@@ -31,7 +31,7 @@ toc: true
   <a href="#products" class="btn">Shop</a>
   <a href="#faq" class="btn">FAQs</a>
   <a href="#resources" class="btn">Resources</a>
-  <a href="/#affiliates" class="btn">Friends</a>
+  <a href="/tabs/about/#affiliates" class="btn">Friends</a>
   <a href="https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration" class="btn">Newsletter</a>
 </div>
 

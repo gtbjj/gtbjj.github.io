@@ -99,7 +99,6 @@ theme_mode: dark
 # boolean type, global switch for ToC in posts.
 toc: true
 
-paginate_path: "/blog/page:num/"
 paginate: 5
 
 markdown: kramdown

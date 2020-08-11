@@ -1,45 +1,72 @@
----
-title: About
+I"�!<style>
+  @media (max-width:629px) {
+    #hideonmobile {
+    display: none;
+    }
+  }
+</style>
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
-
-## Savagezen
-
-<p style="text-align: right">
-  <strong>(noun)</strong> | <i>A state of being</i>
+<h1>savagezen</h1>
+<p><span style="text-align: right">
+    &lt;p&gt;<strong>(noun)</strong>  |  <i>A state of being</i>&lt;/p&gt;
+</span></p>
+<p>
+    <!--
+    <img id="hideonmobile" src="assets/img/spartan-buddha.jpeg" style="float: left; margin-right: 5%; width: 20%; height: auto">
+    -->
+    The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i>
+    <br />
+    <span style="text-align: right"><a href="/tabs/about">[About Me]</a></span>
 </p>
 
-> The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.
+<p>&lt;div id=”hideonmobile”style=”text-align: center”&gt;
+    &lt;hr&gt;</p>
 
----
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre>  &lt;code&gt;
+    &lt;strong&gt;Recent Post:&lt;/strong&gt;  
+    &lt;a href="/posts/recovery-yoga-part-2/"&gt;Recovery Yoga, Part 2&lt;/a&gt;
+  &lt;/code&gt;
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>&lt;/div&gt;</p>
+
+<!--
+<hr>
+<div style="text-align: center">
+    <br>
+    <a href="/tabs/kombat_kitchen/#products" class="btn" style="border: 1px solid; border-radius: 25px">Shop</a>
+    <a href="/blog/" class="btn" style="border: 1px solid; border-radius: 25px">Learn</a>
+    <a href="/tabs/connect" class="btn" style="border: 1px solid; border-radius: 25px">Connect</a>
+</div>
+-->
+
+<hr />
 
 <p style="text-align: center" id="affiliates">
     <i>
     Stay Radical, Support Our Friends!
     </i>
-    <br><br>
-    <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser"></a>
+    <br /><br />
+    <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser" /></a>
     <!--
     <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart & Soil Supplements"></a>
     -->
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
-        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes">
+        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes" />
     </a>
 </p>
 
-<hr>
+<hr />
 
-### Introduction
+<h3 id="introduction">Introduction</h3>
 
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
     <summary>A brief history:</summary>
@@ -57,6 +84,15 @@ At some point quest logs from tabletop role playing games were added as well as 
           <li>Linux Mint - 2012</li>
         </ul>
     </ul>
+</details>
+
+<details>
+  <summary>Contribute to current research.</summary>
+  <ul>
+    <li><a href="https://forms.gle/zU2e5cf1i4AkhyAc9">Caffeine and Performance</a></li>
+    <li><a href="https://forms.gle/sqHp74duBRRrvE9w7">Electrolytes and Cardiovascular Load</a></li>
+    <li><a href="https://forms.gle/k3mWGBD3xB3Avop88">Cold Showers and Recovery</a></li>
+  </ul>
 </details>
 
 <!--
@@ -106,18 +142,24 @@ At some point quest logs from tabletop role playing games were added as well as 
   And so it began.
 </details>
 
----
+<hr />
 
-**Support This Site**
+<p><strong>Support This Site</strong></p>
 
-With the launch of [Kombat Kitchen](/tabs/kombat_kitchen) there are many ways to support this site.  Rather than e-begging and asking for donations, several [products](/tabs/kombat_kitchen/#products) are affordably prices so that you can support the information provided on this site for a minimal cost.
+<p>With the launch of <a href="/tabs/kombat_kitchen">Kombat Kitchen</a> there are many ways to support this site.  Rather than e-begging and asking for donations, several <a href="/tabs/kombat_kitchen/#products">products</a> are affordably prices so that you can support the information provided on this site for a minimal cost.</p>
 
-If you are so inclined, you can still make a donation with a variety of cryptocurrencies.  Below are my public addresses for the respective coins.
+<p>If you are so inclined, you can still make a donation with a variety of cryptocurrencies.  Below are my public addresses for the respective coins.</p>
 
-* Cryptocurrency Addresses:
-  * BAT:  ```0x55e9232F55cF0B77621091C5B0A44C5D63B840d5```
-  * ETH:  ```0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B```
-  * BTC:  ```1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe```
-  * ZEC:  ```t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb```
+<ul>
+  <li>Cryptocurrency Addresses:
+    <ul>
+      <li>BAT:  <code class="highlighter-rouge">0x55e9232F55cF0B77621091C5B0A44C5D63B840d5</code></li>
+      <li>ETH:  <code class="highlighter-rouge">0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B</code></li>
+      <li>BTC:  <code class="highlighter-rouge">1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe</code></li>
+      <li>ZEC:  <code class="highlighter-rouge">t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb</code></li>
+    </ul>
+  </li>
+</ul>
 
-You'll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with.  Any links to [books sold on Amazon](/tabs/kombat_kitchen/#resources) are because I support and believe in the authors and the information / content they produce.  Please consider supporting [my affiliates](/tabs/about/#affiliates).
+<p>You’ll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with.  Any links to <a href="/tabs/kombat_kitchen/#resources">books sold on Amazon</a> are because I support and believe in the authors and the information / content they produce.  Please consider supporting <a href="/#affiliates">my affiliates</a>.</p>
+:ET

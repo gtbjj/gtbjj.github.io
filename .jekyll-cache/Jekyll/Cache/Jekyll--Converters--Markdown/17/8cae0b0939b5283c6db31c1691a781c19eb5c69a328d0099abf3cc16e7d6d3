@@ -1,39 +1,31 @@
----
-title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# Â© 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
-
-## Savagezen
+I"Û<h2 id="savagezen">Savagezen</h2>
 
 <p style="text-align: right">
-  <strong>(noun)</strong> | <i>A state of being</i>
+  <strong>(noun)&lt;/strong)&gt; | <i>A state of being</i>
+&lt;/p&gt;
+<p>
+    The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i>
+    <br />
+    <span style="text-align: right"><a href="/tabs/about">[About Me]</a></span>
 </p>
 
-> The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.
-
----
+<hr />
 
 <p style="text-align: center" id="affiliates">
     <i>
     Stay Radical, Support Our Friends!
     </i>
-    <br><br>
-    <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser"></a>
+    <br /><br />
+    <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser" /></a>
     <!--
     <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart & Soil Supplements"></a>
     -->
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
-        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes">
+        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes" />
     </a>
 </p>
 
-<hr>
+<hr />
 
 ### Introduction
 
@@ -57,6 +49,15 @@ At some point quest logs from tabletop role playing games were added as well as 
           <li>Linux Mint - 2012</li>
         </ul>
     </ul>
+</details>
+
+<details>
+  <summary>Contribute to current research.</summary>
+  <ul>
+    <li><a href="https://forms.gle/zU2e5cf1i4AkhyAc9">Caffeine and Performance</a></li>
+    <li><a href="https://forms.gle/sqHp74duBRRrvE9w7">Electrolytes and Cardiovascular Load</a></li>
+    <li><a href="https://forms.gle/k3mWGBD3xB3Avop88">Cold Showers and Recovery</a></li>
+  </ul>
 </details>
 
 <!--
@@ -121,3 +122,5 @@ If you are so inclined, you can still make a donation with a variety of cryptocu
   * ZEC:  ```t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb```
 
 You'll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with.  Any links to [books sold on Amazon](/tabs/kombat_kitchen/#resources) are because I support and believe in the authors and the information / content they produce.  Please consider supporting [my affiliates](/tabs/about/#affiliates).
+</strong></p>
+:ET
