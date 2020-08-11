@@ -7,7 +7,8 @@
 ---
 
 <div style="text-align: center">
- <a href="https://github.com/{{ site.github.username }}" target="_blank">
+  <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%"><i class="fab fa-3x fa-facebook"></i></a>
+  <a href="https://github.com/{{ site.github.username }}" target="_blank" style="margin-left: 2%">
     <i class="fab fa-3x fa-github-alt"></i>
   </a>
   <a style="margin-left: 2%" href="https://linkedin.com/in/{{ site.linkedin.username }}" target="_blank">

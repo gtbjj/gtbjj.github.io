@@ -26,11 +26,11 @@
   icon: "fas fa-cutlery"
   path: tabs
   url: kombat_kitchen
--
-  name: "About Me"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
+#-
+#  name: "About Me"
+#  icon: "fas fa-info"
+#  path: tabs
+#  url: about
 -
   name: Contact
   icon: "fas fa-address-book"

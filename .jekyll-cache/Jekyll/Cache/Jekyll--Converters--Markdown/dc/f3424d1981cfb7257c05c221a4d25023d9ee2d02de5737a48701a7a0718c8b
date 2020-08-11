@@ -1,4 +1,4 @@
-I"�0<style>
+I"�1<style>
 .expando {
   display: none;
 }
@@ -7,19 +7,25 @@
 }
 </style>
 
+<p style="text-align: center">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxFU6ZmWySBILvTqktuvgcCAbu9YPy354K8QlZ10EJ7_-cLxOLT7fxQP8rg1jKB_56smODg-kOdmn3/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <br />
+  <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%"><i class="fab fa-2x fa-facebook"></i></a>
+  <a href="https://twitter.com/carnivorebjj" style="margin-left: 2%"><i class="fab fa-2x fa-twitter"></i></a>
+  <a href="https://instagram.com/savagezen" style="margin-left: 2%"><i class="fab fa-2x fa-instagram"></i></a>
+  <a href="https://youtube.com/c/AustinHaedicke" style="margin-left: 2%"><i class="fab fa-2x fa-youtube"></i></a>'
+  <a href="https://linkedin.com/in/AustinHaedicke" style="margin-left: 2%"><i class="fab fa-2x fa-linkedin"></i></a>
+</p>
+
 <div style="text-align: center">
-  <a href="#about" class="btn">About</a>
   <a href="#products" class="btn">Shop</a>
   <a href="#faq" class="btn">FAQs</a>
   <a href="#resources" class="btn">Resources</a>
+  <a href="/#affiliates" class="btn">Friends</a>
   <a href="https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration" class="btn">Newsletter</a>
 </div>
 
 <hr />
-
-<ul id="about" class="expando" style="list-style-type: none; text-align: center">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxFU6ZmWySBILvTqktuvgcCAbu9YPy354K8QlZ10EJ7_-cLxOLT7fxQP8rg1jKB_56smODg-kOdmn3/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</ul>
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -27,48 +33,67 @@
 
 <ul id="products" class="expando" style="list-style-type: none">
   
-      <a href="https://transactions.sendowl.com/products/78330078/5E159F55/purchase"><img src="/assets/img/belt_white.png" title="Buy Now" style="float: right; width: 40%; height: auto; margin-left: 2%" /></a>
-      <p><strong>White Belt Program (beta)</strong> <code>$FREE</code></p>
-      <p><p>The introduction, the original, the foundational 30 day challenge to improving your health.  Research backed, evidence based e-book complete with nutrition and lifestyle recommendations to support metabolic, social, mental, and physical health. As a special offer to beta testers, you’ll be able to comment on and provide direct feedback and contributions to the program via Google Drive.</p>
+      <a href="https://transactions.sendowl.com/products/78330078/5E159F55/purchase"><img src="/assets/img/belt_white.png" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%" /></a>
+      <p><p>The introduction, the original, the foundational 30 day challenge to improving your health.  Research backed, evidence based e-book complete with nutrition and lifestyle recommendations to support metabolic, social, mental, and physical health.</p>
 </p>
       <p style="text-align: right">
         <a href="https://transactions.sendowl.com/products/78330078/5E159F55/purchase" class="btn" style="border: 1px solid; border-radius: 25px">Buy Now</a>
-        <a href="https://transactions.sendowl.com/products/78330078/5E159F55/add_to_cart" class="btn" style="border: 1px solid; border-radius: 25px">Add to Cart</a>
-        <a href="https://transactions.sendowl.com/cart?merchant_id=189652" class="btn" style="border: 1px solid; border-radius: 25px">View Cart</a>
       </p>
+      <p>
+                <strong style="margin-left: 2%">White Belt Program (beta)</strong>
+        <code>
+          <a href="https://transactions.sendowl.com/products/78330078/5E159F55/purchase" title="Buy Now"><i class="fas fa-file-download"></i> FREE</a>
+          <a href="" title="Coming Soon!"><i class="fab fa-amazon"></i></a>
+          <a href="" title="Coming Soon!"><i class="fab fa-google-play"></i></a>
+        </code>
+      </p>
+        <!--
+        <a href="" class="btn" style="border: 1px solid; border-radius: 25px">Add to Cart</a>
+        <a href="" class="btn" style="border: 1px solid; border-radius: 25px">View Cart</a>
+        -->
+      &lt;/p&gt;
       <hr />
   
-      <a href="https://transactions.sendowl.com/products/78332330/1FE2E376/purchase"><img src="/assets/img/belt_yellow.png" title="Buy Now" style="float: right; width: 40%; height: auto; margin-left: 2%" /></a>
-      <p><strong>Youth Program (beta)</strong> <code>$FREE</code></p>
-      <p><p>Nutrition, fitness, mental health, and community all wrapped in one for children of all ages.  These programs are age specific (8 and under, 9 - 14 years old, #and 15+ years old).  Parental participation is required and each program is an excellent starting point for adults as well!  As a special offer to beta testers, you’ll be able to comment on and provide direct feedback and contributions to the program via Google Drive.</p>
+      <a href="https://transactions.sendowl.com/products/78332330/1FE2E376/purchase"><img src="/assets/img/belt_yellow.png" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%" /></a>
+      <p><p>Nutrition, fitness, mental health, and community all wrapped in one for children of all ages.  These programs are age specific (8 and under, 9 - 14 years old, #and 15+ years old).  Parental participation is required and each program is an excellent starting point for adults as well!  <i>Coming soon to <a href="https://play.google.com/store/books">Google Play Books</a> and <a href="https://www.amazon.com/Kindle-eBooks/b?ie=UTF8&amp;node=154606011">Amazon Kindle</a>!</i></p>
 </p>
       <p style="text-align: right">
         <a href="https://transactions.sendowl.com/products/78332330/1FE2E376/purchase" class="btn" style="border: 1px solid; border-radius: 25px">Buy Now</a>
+      </p>
+      <p>
+                <strong style="margin-left: 2%">Youth Program (beta)</strong>
+        <code>
+          <a href="https://transactions.sendowl.com/products/78332330/1FE2E376/purchase" title="Buy Now"><i class="fas fa-file-download"></i> FREE</a>
+          <a href="" title="Coming Soon!"><i class="fab fa-amazon"></i></a>
+          <a href="" title="Coming Soon!"><i class="fab fa-google-play"></i></a>
+        </code>
+      </p>
+        <!--
         <a href="https://transactions.sendowl.com/products/78332330/1FE2E376/add_to_cart" class="btn" style="border: 1px solid; border-radius: 25px">Add to Cart</a>
         <a href="https://transactions.sendowl.com/cart?merchant_id=189652" class="btn" style="border: 1px solid; border-radius: 25px">View Cart</a>
-      </p>
+        -->
+      &lt;/p&gt;
       <hr />
   
-      <a href="https://transactions.sendowl.com/products/78328421/E3930036/purchase"><img src="/assets/img/product_research.jpg" title="Buy Now" style="float: right; width: 40%; height: auto; margin-left: 2%" /></a>
-      <p><strong>Research Donation</strong> <code>$1</code></p>
-      <p><p>Research and testing my own body aren’t free.  If you’ve benefited or learned something from the content on this site or my videos, please consider donating below or with BAT on the <a href="https://brave.com/aus260">Brave Browser</a>.  You can also donate an amount of your choosing via <a href="https://paypal.me/savagezen">PayPal</a> or <a href="/tabs/about">a variety of cryptocurrencies</a>.</p>
-</p>
-      <p style="text-align: right">
-        <a href="https://transactions.sendowl.com/products/78328421/E3930036/purchase" class="btn" style="border: 1px solid; border-radius: 25px">Buy Now</a>
-        <a href="https://transactions.sendowl.com/products/78328421/E3930036/add_to_cart" class="btn" style="border: 1px solid; border-radius: 25px">Add to Cart</a>
-        <a href="https://transactions.sendowl.com/cart?merchant_id=189652" class="btn" style="border: 1px solid; border-radius: 25px">View Cart</a>
-      </p>
-      <hr />
-  
-      <a href="https://www.flyby.co/?rfsn=4562479.acaf32"><img src="https://cdn.shopify.com/s/files/1/1403/3657/products/Electrolyte_Powder_large.png?v=1567790095" title="Buy Now" style="float: right; width: 40%; height: auto; margin-left: 2%" /></a>
-      <p><strong>Flyby Fuel Electrolyte Powder</strong> <code>$24.95</code></p>
+      <a href="https://www.flyby.co/?rfsn=4562479.acaf32"><img src="https://cdn.shopify.com/s/files/1/1403/3657/products/Electrolyte_Powder_large.png?v=1567790095" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%" /></a>
       <p><p>3 times the electrolytes of most sports drinks, no artificial colors or flavors.  No sugars, carbs, or calories.  Made in the USA.  Vegan, vegetarian, gluten-free. 50 servings.</p>
 </p>
       <p style="text-align: right">
         <a href="https://www.flyby.co/?rfsn=4562479.acaf32" class="btn" style="border: 1px solid; border-radius: 25px">Buy Now</a>
+      </p>
+      <p>
+                <strong style="margin-left: 2%">Flyby Fuel Electrolyte Powder</strong>
+        <code>
+          <a href="https://www.flyby.co/?rfsn=4562479.acaf32" title="Buy Now"><i class="fas fa-file-download"></i> 24.95</a>
+          <a href="" title="Coming Soon!"><i class="fab fa-amazon"></i></a>
+          <a href="" title="Coming Soon!"><i class="fab fa-google-play"></i></a>
+        </code>
+      </p>
+        <!--
         <a href="https://www.flyby.co/?rfsn=4562479.acaf32" class="btn" style="border: 1px solid; border-radius: 25px">Add to Cart</a>
         <a href="https://www.flyby.co/?rfsn=4562479.acaf32" class="btn" style="border: 1px solid; border-radius: 25px">View Cart</a>
-      </p>
+        -->
+      &lt;/p&gt;
       <hr />
   
 </ul>
