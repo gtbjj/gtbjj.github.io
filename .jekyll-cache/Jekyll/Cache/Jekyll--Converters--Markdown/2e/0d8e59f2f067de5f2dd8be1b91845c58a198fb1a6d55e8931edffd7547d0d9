@@ -1,48 +1,12 @@
-I"�!<style>
-  @media (max-width:629px) {
-    #hideonmobile {
-    display: none;
-    }
-  }
-</style>
+I"&<h2 id="savagezen">Savagezen</h2>
 
-<h1>savagezen</h1>
-<p><span style="text-align: right">
-    &lt;p&gt;<strong>(noun)</strong>  |  <i>A state of being</i>&lt;/p&gt;
-</span></p>
-<p>
-    <!--
-    <img id="hideonmobile" src="assets/img/spartan-buddha.jpeg" style="float: left; margin-right: 5%; width: 20%; height: auto">
-    -->
-    The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i>
-    <br />
-    <span style="text-align: right"><a href="/tabs/about">[About Me]</a></span>
+<p style="text-align: right">
+  <strong>(noun)</strong> | <i>A state of being</i>
 </p>
 
-<p>&lt;div id=”hideonmobile”style=”text-align: center”&gt;
-    &lt;hr&gt;</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-</pre></td><td class="rouge-code"><pre>  &lt;code&gt;
-    &lt;strong&gt;Recent Post:&lt;/strong&gt;  
-    &lt;a href="/posts/recovery-yoga-part-2/"&gt;Recovery Yoga, Part 2&lt;/a&gt;
-  &lt;/code&gt;
-</pre></td></tr></tbody></table></code></pre></div></div>
-
-<p>&lt;/div&gt;</p>
-
-<!--
-<hr>
-<div style="text-align: center">
-    <br>
-    <a href="/tabs/kombat_kitchen/#products" class="btn" style="border: 1px solid; border-radius: 25px">Shop</a>
-    <a href="/blog/" class="btn" style="border: 1px solid; border-radius: 25px">Learn</a>
-    <a href="/tabs/connect" class="btn" style="border: 1px solid; border-radius: 25px">Connect</a>
-</div>
--->
+<blockquote>
+  <p>The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life’s tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i></p>
+</blockquote>
 
 <hr />
 
@@ -58,6 +22,7 @@
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
         <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes" />
     </a>
+    <a href="https://refer.nativecos.com/x/jLxu6K"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste" /></a>
 </p>
 
 <hr />
@@ -84,15 +49,6 @@
           <li>Linux Mint - 2012</li>
         </ul>
     </ul>
-</details>
-
-<details>
-  <summary>Contribute to current research.</summary>
-  <ul>
-    <li><a href="https://forms.gle/zU2e5cf1i4AkhyAc9">Caffeine and Performance</a></li>
-    <li><a href="https://forms.gle/sqHp74duBRRrvE9w7">Electrolytes and Cardiovascular Load</a></li>
-    <li><a href="https://forms.gle/k3mWGBD3xB3Avop88">Cold Showers and Recovery</a></li>
-  </ul>
 </details>
 
 <!--
@@ -161,5 +117,5 @@
   </li>
 </ul>
 
-<p>You’ll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with.  Any links to <a href="/tabs/kombat_kitchen/#resources">books sold on Amazon</a> are because I support and believe in the authors and the information / content they produce.  Please consider supporting <a href="/#affiliates">my affiliates</a>.</p>
+<p>You’ll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with.  Any links to <a href="/tabs/kombat_kitchen/#resources">books sold on Amazon</a> are because I support and believe in the authors and the information / content they produce.  Please consider supporting <a href="/tabs/about/#affiliates">my affiliates</a>.</p>
 :ET
