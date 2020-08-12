@@ -31,7 +31,7 @@ toc: true
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
         <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes">
     </a>
-    <a href="https://refer.nativecos.com/x/jLxu6K"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste"></a>
+    <a href="https://www.talkable.com/x/Fh8iAo"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste"></a>
 </p>
 
 <hr>

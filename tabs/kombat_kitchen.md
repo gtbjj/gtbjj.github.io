@@ -47,11 +47,11 @@ toc: true
       <p><strong style="margin-left: 2%">{{ product.name }}</strong></p>
       <p>{{ product.content }}</p>
       <p style="text-align: right">
-        <a href="{{ product.buy_now }}" title="{{ product.price }}">
+        <a href="{{ product.buy_now }}" title="Buy Direct on SendOwl ${{ product.price }}">
           Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
         </a>
-        <a href="" title="Coming Soon!"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
-        <a href="" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
+        <a href="{{ product.amazon }}" title="buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
+        <a href="https://play.google.com/strore/books" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
       </p>
       <hr>
   {% endfor %}

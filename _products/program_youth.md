@@ -1,8 +1,8 @@
 ---
-name: Youth Program (beta)
+name: Youth Program
 price: FREE
 buy_now: https://transactions.sendowl.com/products/78332330/1FE2E376/purchase
-amazon:
+amazon: https://amzn.to/2XUXWhu
 google:
 img: /assets/img/belt_yellow.png
 ---
