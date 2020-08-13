@@ -1,6 +1,7 @@
 ---
 name: Youth Program
 price: FREE
+type: program
 buy_now: https://transactions.sendowl.com/products/78332330/1FE2E376/purchase
 amazon: https://amzn.to/2XUXWhu
 google:

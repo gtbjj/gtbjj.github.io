@@ -1,6 +1,7 @@
 ---
 name: White Belt Program
 price: FREE
+type: program
 img: /assets/img/belt_white.png
 buy_now: https://transactions.sendowl.com/products/78330078/5E159F55/purchase
 amazon: https://amzn.to/2CpHNcw

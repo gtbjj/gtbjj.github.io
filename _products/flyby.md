@@ -1,9 +1,8 @@
 ---
 name: Flyby Fuel Electrolyte Powder
 price: 24.95
+type: supplement
 buy_now: https://www.flyby.co/?rfsn=4562479.acaf32
-add_cart: https://www.flyby.co/?rfsn=4562479.acaf32
-view_cart: https://www.flyby.co/?rfsn=4562479.acaf32
 img: https://cdn.shopify.com/s/files/1/1403/3657/products/Electrolyte_Powder_large.png?v=1567790095
 ---
 

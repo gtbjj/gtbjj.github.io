@@ -46,13 +46,21 @@ toc: true
       <a href="{{ product.buy_now }}"><img src="{{ product.img }}" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
       <p><strong style="margin-left: 2%">{{ product.name }}</strong></p>
       <p>{{ product.content }}</p>
-      <p style="text-align: right">
-        <a href="{{ product.buy_now }}" title="Buy Direct on SendOwl ${{ product.price }}">
-          Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
-        </a>
-        <a href="{{ product.amazon }}" title="buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
-        <a href="https://play.google.com/strore/books" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
-      </p>
+      {% if product.type == "program" %}
+        <p style="text-align: right">
+          <a href="{{ product.buy_now }}" title="Buy Direct on SendOwl ${{ product.price }}">
+            Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
+          </a>
+          <a href="{{ product.amazon }}" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
+          <a href="https://play.google.com/strore/books" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
+        </p>
+      {% else %}
+        <p style="text-align: right">
+          <a href="{{ product.buy_now }}" title="${{ product.price }}">
+            Buy Now <i class="fa fa-2x fa-credit-card" style="margin-right: 1%"></i>
+          </a>
+        </p>
+      {% endif %}
       <hr>
   {% endfor %}
 </ul>
