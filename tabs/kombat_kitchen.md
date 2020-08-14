@@ -18,13 +18,7 @@ toc: true
 </style>
 
 <p style="text-align: center">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxFU6ZmWySBILvTqktuvgcCAbu9YPy354K8QlZ10EJ7_-cLxOLT7fxQP8rg1jKB_56smODg-kOdmn3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <br>
-  <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%"><i class="fab fa-2x fa-facebook"></i></a>
-  <a href="https://twitter.com/carnivorebjj" style="margin-left: 2%"><i class="fab fa-2x fa-twitter"></i></a>
-  <a href="https://instagram.com/savagezen" style="margin-left: 2%"><i class="fab fa-2x fa-instagram"></i></a>
-  <a href="https://youtube.com/c/AustinHaedicke" style="margin-left: 2%"><i class="fab fa-2x fa-youtube"></i></a>'
-  <a href="https://linkedin.com/in/AustinHaedicke" style="margin-left: 2%"><i class="fab fa-2x fa-linkedin"></i></a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <div style="text-align: center">
@@ -39,6 +33,7 @@ toc: true
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <hr>
 </ul>
 
 <ul id="products" class="expando" style="list-style-type: none">
