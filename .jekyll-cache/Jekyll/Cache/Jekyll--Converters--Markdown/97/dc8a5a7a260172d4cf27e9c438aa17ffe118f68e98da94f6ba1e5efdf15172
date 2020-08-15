@@ -1,8 +1,0 @@
-I"R<p>Simply put, as <a href="https://wiki.archlinux.org/index.php/Asus_x205ta#Freezing">on the Arch Wiki</a>, add the following parameter to the kernel line of your boot loader’s config file.</p>
-
-<p>In my case that’s <em>/boot/loader/entries/arch.conf</em></p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-</pre></td><td class="rouge-code"><pre>options	root=/dev/mmcblk0p2 rw quiet intel_idle.max_cstate=1
-</pre></td></tr></tbody></table></code></pre></div></div>
-:ET
