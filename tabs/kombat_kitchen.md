@@ -20,8 +20,14 @@ toc: true
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
-  Start the fight for your health for FREE by <a href="https://t.me/kombatkitchen">joining our Telegram group</a> and <a href="http://localhost:4000/tabs/kombat_kitchen/#products" downloading the White Belt program</a>.
+  Start the fight for your health today for FREE:
+  <br>
+  <a href="https://t.me/kombatkitchen">Join our Telegram group</a>.
+  <br>
+  <a href="http://localhost:4000/tabs/kombat_kitchen/#products"> Download the White Belt Challenge</a>.
 </p>
+
+<hr>
 
 <div style="text-align: center">
   <a href="#products" class="btn">Shop</a>

@@ -1,4 +1,4 @@
-I"h7<style>
+I"º7<style>
 .expando {
   display: none;
 }
@@ -10,8 +10,11 @@
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   <br />
-  Start the fight for your health for FREE by <a href="https://t.me/kombatkitchen">joining our Telegram group</a> and downloading the White Belt program below.
-  <hr />
+  Start the fight for your health today for FREE:
+  <br />
+  <a href="https://t.me/kombatkitchen">Join our Telegram group</a>.
+  <br />
+  <a href="http://localhost:4000/tabs/kombat_kitchen/#products"> Download the White Belt Challenge</a>.
 </p>
 
 <div style="text-align: center">
@@ -31,6 +34,7 @@
     <!--
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     -->
+    <hr />
 </ul>
 
 <ul id="products" class="expando" style="list-style-type: none">
