@@ -1,0 +1,34 @@
+I"È<h4 id="update-52816--this-erorr-has-been-patched-as-of-pcutils-450-2">Update 5/28/16:  This erorr has been patched as of pcutils-4.5.0-2</h4>
+
+<p>After upgrading to Linux Kernel 4.6-1 from the testing repo 
+I was getting a boot error related to my root filesystem 
+being formatted to F2FS.</p>
+
+<p>The error thrown was pretty descriptive:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>F2FS: Cannot load crc32 driver.
+mount: no such file or directory.
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Basically, the modules for F2Fs arenâ€™t loading so they need 
+to be specified explicitly in <em>/etc/mkinitcpio.conf</em>.  A 
+quick Google search lead me to <a href="https://bbs.archlinux.org/viewtopic.php?id=210673">a thread in the Arch Linux 
+forums</a> 
+that had a (for me) successful solution.</p>
+
+<p>Simply modify the MODULES array in <em>/etc/mkinitcpio.conf</em>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="rouge-code"><pre>MODULES="crc32 libcrc32c crc32c_generic crc32c-intel 
+crc32-pclmul"
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Then rebuild the kernel image via:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre># mkinitcpio -p linux
+</pre></td></tr></tbody></table></code></pre></div></div>
+:ET

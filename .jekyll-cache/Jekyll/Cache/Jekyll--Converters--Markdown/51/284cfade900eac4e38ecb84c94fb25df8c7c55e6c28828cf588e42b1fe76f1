@@ -1,0 +1,30 @@
+I" <p><em>From <a href="https://github.com/savagezen/x205ta/blob/master/BUGS.md">my BUGS page</a> for the Asus X205TA.</em></p>
+
+<p>The touchpad should work on kernels 4.3* <a href="https://wiki.archlinux.org/index.php/Asus_x205ta#Touchpad">[1]</a> (confirmed on kernel 4.3.3-2-ARCH), but if you still run into problems on another kernel, you can proceed with the following.</p>
+
+<p>First, make sure that you have <code class="highlighter-rouge">xf86-input-synaptics</code> installed.  To enable more features of the touchpad:`</p>
+
+<p>Then,</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre># nano /etc/X11/xorg.conf.d/elan_synaptics.conf
+---------------------------------------------------
+Section "InpuClass"
+Identifier "Elan Touchpad"
+MatchIsTouchpad "on"
+Driver "synaptics"
+EndSection
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Things should work as normal when you start up X again.</p>
+
+<hr />
+
+<p><a href="https://wiki.archlinux.org/index.php/Asus_x205ta#Touchpad">Reference</a></p>
+:ET

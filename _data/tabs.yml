@@ -9,7 +9,7 @@
 #  icon: "fas fa-home"
 -
   name: Blog
-  icon: "fas fa-pencil"
+  icon: "fa fa-pencil"
 #-
 #  name: Categories
 #  icon: "fas fa-stream"
@@ -27,7 +27,7 @@
   url: about
 -
   name: "Kombat Kitchen"
-  icon: "fas fa-cutlery"
+  icon: "fa fa-cutlery"
   path: tabs
   url: kombat_kitchen
 -

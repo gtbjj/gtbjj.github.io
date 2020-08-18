@@ -21,17 +21,19 @@ toc: true
 
 <p style="text-align: center" id="affiliates">
     <i>
-    Stay Radical, Support Our Friends!
+    Stay Radical, Support Our Friends! <br>
+    (hover to see discount codes)
     </i>
     <br><br>
-    <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser"></a>
+    <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser - earn cryptocurrency browsing the web"></a>
     <!--
     <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart & Soil Supplements"></a>
     -->
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
-        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes">
+        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes - 5% off with code WHEEL923810">
     </a>
     <a href="https://www.talkable.com/x/Fh8iAo"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste"></a>
+    <a href="https://castbox.fm"><img src="/assets/img/icon_castbox.png" style="width: 15%; height: auto; margin-left: 5%" title="Earn Cryptocurrency listening to podcasts, code 'YYUF9R'"></a>
 </p>
 
 <hr>

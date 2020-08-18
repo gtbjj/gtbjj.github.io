@@ -1,0 +1,146 @@
+I"�<p>This post is long overdue, but I’ve long been plotting a comparison of Interactive Governor profiles for the Nexus 6P.
+If you’re unfamiliar with the process:  the Interactive Governor is very customizable and can be optimized for a variety
+of work loads.  These settings can be saved as “profies” to be loaded when needed.  Of course, work loads and background
+tasks vary user-to-user, so there are already many published settings out there.  I set out to see how well they work for
+me.</p>
+
+<p>All data from any tests I’ve ran on the Nexus 6P is publicly available on <a href="https://docs.google.com/spreadsheets/d/1KmZNyyYLXeVFufpmpVK-hl0sieGGy3hC5bjhIXYLU_A/edit?usp=sharing">this Google Sheet</a>.<br />
+There you can find many real-world battery tests and benchmark averages.  My comparison of profiles was based on three
+components to try and find a best overall pofile that blanance performance and battery:</p>
+
+<ul>
+  <li>Mean Average Benchmark Z-Score</li>
+  <li>Mean Estimated Screen on Time (SOT)</li>
+  <li>Z-Score Mean from the above</li>
+</ul>
+
+<p>The raw data is available on the linked spreadsheet and the descriptive statistics are as follows:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Profile</th>
+      <th>Bench-Z (N)</th>
+      <th>SOT-Z (N)</th>
+      <th>Avg-Z</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ghost Pepper</td>
+      <td>-1.304 (4)</td>
+      <td>-0.406 (3)</td>
+      <td>-0.855</td>
+    </tr>
+    <tr>
+      <td>Heimdal</td>
+      <td>-0.265 (3)</td>
+      <td>-0.105 (2)</td>
+      <td>-0.185</td>
+    </tr>
+    <tr>
+      <td>Cyan Lion</td>
+      <td>-0.343 (2)</td>
+      <td><strong>+1.563</strong> (2)</td>
+      <td><strong>+0.61</strong></td>
+    </tr>
+    <tr>
+      <td>Dark Spice</td>
+      <td>-1.831 (2)</td>
+      <td>-0.488 (2)</td>
+      <td>-1.159</td>
+    </tr>
+    <tr>
+      <td>Butterfly</td>
+      <td>-2.302 (3)</td>
+      <td><strong>+0.4996</strong> (2)</td>
+      <td>-0.901</td>
+    </tr>
+    <tr>
+      <td>hmdrmx1</td>
+      <td>-1.666 (2)</td>
+      <td>-0.366 (2)</td>
+      <td>-1.016</td>
+    </tr>
+    <tr>
+      <td>hmdrmx2</td>
+      <td>-1.77 (2)</td>
+      <td><strong>+0.337</strong> (2)</td>
+      <td>-0.717</td>
+    </tr>
+    <tr>
+      <td>hmdrmx3</td>
+      <td><strong>+0.28</strong> (2)</td>
+      <td>-0.71 (2)</td>
+      <td>-0.215</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/savagezen/scripts/blob/master/interactive-austin.sh">Betas</a></td>
+      <td><strong>+0.546</strong> (6)</td>
+      <td>-0.625 (4)</td>
+      <td>-0.04</td>
+    </tr>
+    <tr>
+      <td>None</td>
+      <td>-0.073 (63)</td>
+      <td>-0.11 (18)</td>
+      <td>-0.042</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="interpretation">Interpretation:</h4>
+
+<p>More samples are needed as 2 or 3 are still very subject to day-to-day variance in usage.  Also, keep
+in mind that these numbers are for <em>my usage habits</em>.</p>
+
+<p><em>Performance:</em></p>
+
+<blockquote>
+  <p>Generally the profiles tested cause a decrease fromt he mean in performance.  The exceptions being hmdrmx3 and my Betas.
+The Butterfly profile was a distant last place and several others falling more than 1 SD below the mean (Z &lt; -1).</p>
+</blockquote>
+
+<p><em>Screen On Time:</em></p>
+
+<blockquote>
+  <p>This where Interactive profiles are supposed to make their name.  There were a few more standouts than with the benchmarks:
+  Cyan Lion, Butterfly, and hmdrmx2.  Cyan Lion was the clear winner here.</p>
+</blockquote>
+
+<p><em>Overall:</em></p>
+
+<blockquote>
+  <p>We see that commonly there is a negative overall Z-Score which means battery life gains are not worth the performance decrease
+or vice versa.  That suggests I’ll need to pick between the two.  The Cyan Lion profile was the only one to yield a positive
+overall Z-Score.  This is, no doubt due to the small performance hit (Z &gt; -0.5) and large gain in battery life (Z &gt; +1.5).</p>
+</blockquote>
+
+<h4 id="notes">Notes:</h4>
+
+<ul>
+  <li><em>Betas</em> - a series of profiles I attempted to make from scratch myself.  Their <em>target_loads</em>, <em>above_hispeed_delay</em>, and other
+settings are based on statistics I collected based on my most used frequencies.</li>
+  <li><em>hmdrmx1</em> - Heimdal profile with <em>target_loads</em> from Betas</li>
+  <li><em>hmdrmx2</em> - Heimdal profile with <em>target_loads</em> and <em>above_hispeed_delay</em> from Betas</li>
+  <li><em>hmdrmx3</em> - Heimdal profile with <em>target_loads</em>, <em>above_hispeed_delay</em>, and minimum frequencies from Betas</li>
+  <li><em>Why Heimdal and not Cyan Lion?</em> - Initially I had some subjective liking for Heimdal and remixed that.  However, the data suggest
+that I should repeat the process with Cyan Lion remixes.</li>
+  <li><em>Android M or Android N?</em> - Most tests were conducted on M.  There was one N ROM.  Now that I’ve switched to N that may be a clean
+break to focus on further tweaking Cyan Lion.</li>
+</ul>
+
+<hr />
+
+<h4 id="references">References:</h4>
+
+<ul>
+  <li><a href="http://forum.xda-developers.com/nexus-5x/general/guide-advanced-interactive-governor-t3269557">Original Guide for Nexus 5X Profiles</a></li>
+  <li><a href="http://forum.xda-developers.com/nexus-6p/general/guide-advanced-interactive-governor-t3290605">Forum Thread for Nexus 6P Profiles</a></li>
+  <li><a href="http://forum.xda-developers.com/nexus-6p/general/guide-advanced-interactive-governor-t3290605/page2">Post with N6P Min/Max Efficient Loads</a></li>
+  <li><a href="https://github.com/Alcolawl/Interactive-Governor-Tweaks/tree/master/angler">Scripts and Profiles for Nexus 6P on GitHub</a></li>
+  <li><a href="https://android.googlesource.com/kernel/common/+/a7827a2a60218b25f222b54f77ed38f57aebe08b/Documentation/cpu-freq/governors.txt">Android Kernel Documentation</a></li>
+  <li><a href="http://androidmodguide.blogspot.com/p/io-schedulers.html">Android Scheduler Information</a></li>
+  <li><a href="https://layer8problem.wordpress.com/2012/10/01/interactive-governor-settings/">Notes on Interactive Settings</a></li>
+</ul>
+:ET

@@ -1,0 +1,24 @@
+I"f<p><a href="https://github.com/brndnmtthws/conky">Conky</a> is a great Linux tool for system monitoring.  It’s quite handy to have this “widget” start when you login to your system.</p>
+
+<p>Typically you do this trhrough having something like the following in <em>~/.xinitrc</em>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre>exec ~/.fehbg &amp;
+exec ~/scripts/conky_start.sh &amp;
+exec /usr/bin/dwm
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>Nothing special there, just make sure <em>~/scripts/conky_start.sh</em> is executable.  Lately something’s been acting up where I have to manually execute <em>~/scripts/conky_start.sh</em> after loging in.  I recall having had this issue before and the solution being quite simple.  Fortunately some wuick Googleing reminded me to put a delay (via <em>sleep</em>) on the execution of the <em>conky</em> command in <em>~/scripts/conky_start.sh</em> like so:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="rouge-code"><pre><span class="c">#!/bin/sh</span>
+<span class="nb">sleep </span>3 <span class="o">&amp;&amp;</span>
+conky
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>The crux being that if <em>conky</em> starts before <em>dwm</em> is up and running, it’s going, but you can’t see it “under” <em>dwm</em>.</p>
+:ET

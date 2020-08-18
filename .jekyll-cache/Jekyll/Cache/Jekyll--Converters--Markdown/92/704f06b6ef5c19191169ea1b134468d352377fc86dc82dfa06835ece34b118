@@ -1,0 +1,58 @@
+I"�<p>Since I recently upgraded to a Nexus 6p I wanted to find a use for the 32 GB MicroSD card I was using in my old phone.  Conveniently this is the same size as the X205TA’s internal storage.  Thinking what to do with this combination, I settled on configuring a RAID0 installation of Arch Linux since I’d never done that before.  Doing so  over MicroSD is also far more difficult to accidently remove or lose than a USB configuration.</p>
+
+<h3 id="installation">Installation:</h3>
+
+<p>More or less, you can follow the <a href="https://wiki.archlinux.org/index.php/RAID#Build_the_Array">instructions on the Arch Wiki</a>.  I pounded the keyboard in rage a few times because, of course, I had gotten inpatient and skipped over something in the Wiki.</p>
+
+<p>The RAID array was failing to assemble at boot time.  I found out that <em>genfstab</em> was using the UUID of a single device rather than the that of the RAID array.  You can check this by comparing the output of:</p>
+
+<p><code class="highlighter-rouge">$ lsblk -f</code></p>
+
+<p>To fix this, configure your kernel parameter line and <em>fstab</em> to use the array’s <em>LABEL</em> (e.g. root=LABEL=filesystem_label).  This can be assigned when you format the filesystem (<em>mkfs.f2fs</em>).  Many filesystems use the <em>-L</em> flag to do this, but f2fs uses <em>-l</em>.</p>
+
+<h3 id="performance---boot-time">Performance - Boot Time:</h3>
+
+<p>Firstly, I checked assorted partition schemes for boot time.  <a href="https://gtbjj.github.io/linux/performance/2016/03/07/2318-Minimal-Initramfs.html">Creating a minimal initrd</a> had no significant effect here since the <em>md_mod</em> MODULE and <em>mdadm_udev</em> HOOK are required in the <em>initramfs.img</em> for the RAID array to assemble at boot.</p>
+
+<p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPNHFzd1VlR0U5UUk/view?usp=docslist_api"><img style="height: auto; width: 100%" src="http://drive.google.com/uc?export=view&amp;id=0B2RH_BSaD6YPNHFzd1VlR0U5UUk" /></a></p>
+
+<p>The boot time data tells us a few things:</p>
+
+<ol>
+  <li>
+    <p>RAID arrays add to boot time due to needing a second or two to be assembled prior to the filesystem being accessed.</p>
+  </li>
+  <li>
+    <p>The more partitions you have requiring mounting, the more your boot time will increase.</p>
+  </li>
+  <li>
+    <p>Similar to #2 – not indicated in this data but also true – the size of each partition doesn’t appear to make a difference.  This is commonly suggested with HDDs because more/less data needs to be <em>fsck</em>‘d at boot.  In the example here, that’s a mute point because A) we’re not using magnetic drives, and B) we’re specifically using a filesystem that rarely if ever needs a <em>fsck</em> (this is true with BTRFS and F2FS).</p>
+  </li>
+</ol>
+
+<p><em>More on BTRFS later…</em></p>
+
+<h3 id="performance---web-browser">Performance - Web Browser:</h3>
+
+<p>Due to this machine being underpowered you likely won’t be doing a lot heavy compiling and I/O intensive operations – yes, I realize that is the primary gain of RAID (see below).  Though, I did compile a kernel on the X205TA once – and only once – because it took several, and I mean several, hours to finish.</p>
+
+<p>My current set up, because I’ve been doing a lot testing, actually resembles a hybrid of Arch Linux and a Chromebook (sweet!).  So, here is a comparison of browser benchmarks.  I included my Nexus 6p just to have something to compare against.</p>
+
+<p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPT3NKVzctaDcwZ3M/view"><img style="height: auto; width: 100%" src="http://drive.google.com/uc?export=view&amp;id=0B2RH_BSaD6YPT3NKVzctaDcwZ3M" /></a></p>
+
+<p>That data isn’t too helpful since I didn’t do a pre-test on this machine.  At any rate, I can say that subjectively some heavy apps were a bit sluggish starting up.  In-browser experience was about the same.  (NOTE:  After re-aligning the partitions in the array to have the same start / end locations on their respective devices, in-browser experience did <em>feel</em> a bit more snappy).  Of course, mounting <em>~/.cache</em> in RAM as tmpfs hosted performance benefits.</p>
+
+<p>Also, <a href="chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://www.tomshardware.com/reviews/ssd-raid-benchmark,3485-13.html">this article</a> is worth reading for some good points on comparing “synthetic benchmarks” to real-life use of RAID.</p>
+
+<h3 id="performance---read--write">Performance - Read / Write:</h3>
+
+<p><a href="https://drive.google.com/file/d/0B2RH_BSaD6YPRXJwZ0h6YkVQUzA/view"><img style="height: auto; width: 100%" src="http://drive.google.com/uc?export=view&amp;id=0B2RH_BSaD6YPRXJwZ0h6YkVQUzA" /></a></p>
+
+<p>No surprises here.  RAID0 provided read/write speeds comparable to the combination of the drives comprising the array (e.g. speed_of_device1 + speed_of_device2 ~ speed_of_raid0).  Using BTRFS’s native RAID0 was very impressive on this front, offering somewhere in the neighborhood of a 200% improvement!</p>
+
+<h3 id="btrfs">BTRFS:</h3>
+
+<p>BTRFS offers the ability to <a href="https://btrfs.wiki.kernel.org/index.php/Using_Btrfs_with_Multiple_Devices">create a file system across multiple devices</a>.  I struggled a bit here, after re-reading the documentation and then trying to span a filesystem across partitions on the <em>same device</em> rather than on separate ones (kind of counter intuitive).  As of November 2014 there is an error with either (or both) <em>systemd</em> and <em>mkinitcpio</em> dealing with BTRFS’s native RAID (<a href="https://wiki.archlinux.org/index.php/Btrfs#BTRFS:_open_ctree_failed">source</a>).  The <a href="https://bbs.archlinux.org/viewtopic.php?id=193251">solution proposed on the bbs forum</a> did not work for me.  If you happen to get this working, please feel encouraged to <a href="https://github.com/savagezen/gtbjj.github.io">fork or file an issue for this blog on GitHub</a>.  </p>
+
+<p>I was only able to get BTFS native RAID to boot when rebooting from a live environment.  That is how I was able to include it in some of the benchmarks.  However, subsequent reboots are where it failed with the above error.  This is a shame because, if the read / write benchmarks are any indicator, the potential is quite great.  There may also be the possibility of reducing your <em>initrd</em>, which might eliminate the need to weigh RAID’s slowed boot time against improved read / write speeds.  You’d theoretically get to have your cake and eat it too!</p>
+:ET

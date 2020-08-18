@@ -1,0 +1,74 @@
+I"�<p>After discovering that someone has started and <a href="https://bbs.archlinux.org/viewtopic.php?id=211400">Arch Forum thread for this machine</a>, I was prompted with this issue.  I use keyboard shortcuts to suspend and lock this laptop alreay.  I usually just hit the hotkey(s), close the lid, and never think twice about it (the solution I’m suggesting here).</p>
+
+<p>However, if you were to close the lid (triggering suspend) and open it (triggering resume), you’ll find that the machine will randomly suspend itself again.  You can click to resume, but eventually the system will freeze; requiring a hard reboot.</p>
+
+<p>A possible workaround is to disable systemd’s control over the lid and manually use a keyboard shortcut to run a given suspend / lock command prior to closing the lid.</p>
+
+<p>1) Disable <em>systemd</em>’s control over actions-on-lid-close:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+</pre></td><td class="rouge-code"><pre># nano /etc/systemd/logind.conf
+----------------------------------------------
+[Login]
+#NAutoVTs=6
+#ReserveVT=6
+#KillUserProcesses=no
+#KillOnlyUsers=
+#KillExcludeUsers=root
+#InhibitDelayMaxSec=5
+#HandlePowerKey=poweroff
+#HandleSuspendKey=suspend
+#HandleHibernateKey=hibernate
+HandleLidSwitch=ignore          #suspend
+#HandleLidSwitchDocked=ignore
+#PowerKeyIgnoreInhibited=no
+#SuspendKeyIgnoreInhibited=no
+#HibernateKeyIgnoreInhibited=no
+#LidSwitchIgnoreInhibited=yes
+#HoldoffTimeoutSec=30s
+#IdleAction=ignore
+#IdleActionSec=30min
+#RuntimeDirectorySize=10%
+#RemoveIPC=yes
+#InhibitorsMax=8192
+#SessionsMax=8192
+#UserTasksMax=12288
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<p>2) Restart the service</p>
+
+<p><code class="highlighter-rouge"># systemctl restart systemd-login</code></p>
+
+<p>3)  Configure your DE / WM to map whatever key combination you’d like to:</p>
+
+<p><code class="highlighter-rouge">systemctl suspend</code></p>
+
+<hr />
+
+<p>See also, the ongoing discussion in <a href="https://github.com/savagezen/x205ta/issues/8">related issue thread on GitHub</a></p>
+:ET

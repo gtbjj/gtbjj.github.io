@@ -1,0 +1,77 @@
+I"�<p>I recently rooted my Nexus 6P and, of course, instantly began searching for “the best ROM.”  As mentioned before, I’ve been 
+out of the root game for several years, but I’m going on the assumption that any ROM that still has an active thread on the XDA Developer 
+Forums has a fairly prolific feature list.  Basically, theyre all probably pretty good and there are dozens to choose from.</p>
+
+<p>My Personal Picks:</p>
+
+<ul>
+  <li><strong>Dirty Unicorns</strong></li>
+  <li><strong>Slim</strong></li>
+  <li><strong>Pure Nexus</strong></li>
+  <li><strong>Elementary OS</strong></li>
+</ul>
+
+<p>To narrow the list of <em>things-to-test</em> I set up some polls on Google+.  As an Arch Linux user I’m attracted to minimalism, so my ROM choices are biased there.  But, I try to contribute to FOSS where / when I can so what better place to begin than its community?  In addition to dozens of ROMs, there is also a dizzying array of I/O schedulers and CPU governors (<a href="http://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957">XDA has a nice list here</a>).  Some governors even have published custom configuration “profiles.”  Obviously I can’t test everything.</p>
+
+<p><a href="https://plus.google.com/u/0/+AustinHaedicke/posts/XhiBqsZFFvk">Voted ROMS</a>:</p>
+
+<ul>
+  <li><strong>Chroma (&gt; 62)</strong></li>
+  <li><strong>Krexus (&gt; 14)</strong></li>
+  <li>Exodus (&gt; 8)</li>
+  <li>Vanir (&gt; 2)</li>
+  <li>Ressurection Remix (2)</li>
+  <li>Cyanide (2)</li>
+  <li>Vanilla Unicorn (1)</li>
+  <li>AOSiP (1)</li>
+</ul>
+
+<p>My (imperfect) testing process will go something like this:  Flash a ROM and run benchmarks on the <strong>bold</strong> features listed herein at their default values. Then, begin tracking battery and CPU usage as well as uptime. Next, run benchmarks on altrenate I/O schedulers or CPU profiles, reset to default settings. Minimum runtime goal is 50 hours to try and compensate for day-to-day variance and offset the benchmark spikes.</p>
+
+<p><a href="https://plus.google.com/u/0/+AustinHaedicke/posts/7VH9CvAA473">Voted Governors</a></p>
+
+<ul>
+  <li><strong>Interactive (family) (&gt; 107)</strong></li>
+  <li>Ondemand (family) (&gt; 24)</li>
+  <li>Other (&gt; 9)</li>
+  <li>Conservative (family) (&gt; 7)</li>
+  <li>Userspace (&gt; 4)</li>
+</ul>
+
+<p><a href="https://github.com/Alcolawl/Interactive-Governor-Tweaks/tree/master/angler">Interactive governor profiles</a> (<a href="http://forum.xda-developers.com/nexus-5x/general/guide-advanced-interactive-governor-t3269557/post64645746#post64645746">descriptions</a>)</p>
+
+<ul>
+  <li><strong>Ghost Pepper</strong></li>
+  <li><strong>Butterfly</strong></li>
+  <li><strong>Maddog</strong></li>
+  <li><strong>A Manually Selected Profile</strong></li>
+</ul>
+
+<p><a href="https://plus.google.com/u/0/+AustinHaedicke/posts/UGmJVMmwyen">Voted Schedulers</a></p>
+
+<ul>
+  <li><strong>FIOPS (&gt; 60)</strong></li>
+  <li><strong>NOOP (&gt; 11)</strong></li>
+  <li><strong>Deadline (&gt; 10)</strong></li>
+  <li>BFQ (&gt; 7)</li>
+  <li>ROW (1)</li>
+  <li>SIO (1)</li>
+</ul>
+
+<p>All the data I’ve collected to date can be found on <a href="https://docs.google.com/spreadsheets/d/1KmZNyyYLXeVFufpmpVK-hl0sieGGy3hC5bjhIXYLU_A/edit?usp=sharing">this shared Google Sheet</a>.  A few things to note about the data:</p>
+
+<p>1) <strong>General Benchmarks</strong> - The first page is a comparison of benchmarks from AnTuTu, Quadrant, and Geekbench (both multi and single core).  These are then averaged and sorted by the average score.</p>
+
+<p>2) <strong>Battery Tests</strong> - The second page lists battery statistics.  Runtime is time on battery and not charging; minimum standard is 50 hours (not including charging or powered off periods).  You can also view the <em>calculator</em> I use for averaging the “little” CPU’s frequency for a given sample period (of which there are typcially 2 - 4 to achieve the 50 hours of runtime).  There is a calculated life estimate based in % used and runtime.  The “composite” total  = (% not in deep sleep) x (estimated life in hours) x (average frequency in MHz).</p>
+
+<p>3) <strong>I/O Tests</strong> - The general benchmarks encompas I/O tests, but AndroBench breaks the results down to the specific I/O tasks.  The purpose of this page is less so for comparing ROM vs. ROM, or Kernel vs. Kernel (that is what the general section is for); but for comparing specific I/O schedulers and given tasks.</p>
+
+<p>If you would like to contribute to the project, you can do any of the following:</p>
+
+<ul>
+  <li>Fill out a <a href="http://goo.gl/forms/tPIEtNJ1PvDEvi3z1">Google Form for General Benchmarks</a></li>
+  <li>Fill out a <a href="http://goo.gl/forms/tJeNyxBKto5kS59k1">Google Form for Battery Tests</a></li>
+  <li>Fill out a <a href="http://goo.gl/forms/P6HndN4XUxKyyQeV2">Google Form for I/O Comparison</a></li>
+  <li>Sharing this Blog - Obviously my data sheet is publicly shared for a reason.  However, please consider supporting my efforts by passing around anything you find useful or enjoyable on this site.</li>
+</ul>
+:ET

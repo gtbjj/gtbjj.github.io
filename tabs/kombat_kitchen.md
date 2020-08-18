@@ -19,6 +19,8 @@ toc: true
 
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br>
+  Start the fight for your health for FREE by <a href="https://t.me/kombatkitchen">joining our Telegram group</a> and <a href="http://localhost:4000/tabs/kombat_kitchen/#products" downloading the White Belt program</a>.
 </p>
 
 <div style="text-align: center">
@@ -32,7 +34,12 @@ toc: true
 <hr>
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
+    <i>Video series coming soon!</i>
+    <br>
+    To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
+    <!--
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    -->
     <hr>
 </ul>
 
@@ -87,5 +94,5 @@ toc: true
       {% endfor %}
     </ul>
   <br>
-  <i>Join the fight for your health on <a href="https://twitter.com/search?q=kombatkitchen&src=typed_query&f=live">Twitter</a> and <a href="https://www.instagram.com/explore/tags/kombatkitchen/">Instagram</a>!</i>
+  <i>Join the <a href="https://www.instagram.com/explore/tags/fightforyourhealth/">#fightforyourhealth</a> on <a href="https://twitter.com/search?q=kombatkitchen&src=typed_query&f=live">Twitter</a> and <a href="https://www.instagram.com/explore/tags/kombatkitchen/">Instagram</a>!</i>
 </p>
