@@ -1,4 +1,4 @@
-I"�><style>
+I"Y?<style>
 .expando {
   display: none;
 }
@@ -21,6 +21,7 @@
   <a href="#faq" class="btn">FAQs</a>
   <a href="#resources" class="btn">Resources</a>
   <a href="https://t.me/kombatkitchen" class="btn">Community</a>
+  <a href="#reviews" class="btn">Reviews</a>
   <a href="/feed.xml" class="btn">Newsletter</a>
 </div>
 
@@ -87,7 +88,7 @@
             Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
           </a>
           <a href="https://amzn.to/3itjQjU" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
-          <a href="https://play.google.com/strore/books" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
+          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
         </p>
       
       <hr />
@@ -103,7 +104,7 @@
             Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
           </a>
           <a href="https://amzn.to/2CpHNcw" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
-          <a href="https://play.google.com/strore/books" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
+          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
         </p>
       
       <hr />
@@ -118,7 +119,7 @@
             Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
           </a>
           <a href="https://amzn.to/2XUXWhu" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
-          <a href="https://play.google.com/strore/books" title="Coming Soon!"><i class="fab fa-2x fa-google-play"></i></a>
+          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
         </p>
       
       <hr />
@@ -259,44 +260,46 @@
   
 </ul>
 
+<ul id="reviews" class="expando" style="list-style-type: none">
+  
+    <li>
+      <code><p>Groovy, very helpful… I appreciate (Austin) taking the time to check it out (research a specific question from Telegram).</p>
+</code>
+      Brett
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I don’t even miss soda or beer (too much) :D
+I feel a lot less bloated and have a lot less cravings.
+[also lost 5 lbs in the first two weeks]</p>
+</code>
+      Rita
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I feel more energized.  I’ve increased my water intake.  I’m losing bloat slowly but surely…. not too many cravings.  Definitely don’t miss them.</p>
+</code>
+      Shaina
+      <hr />
+    </li>
+  
+</ul>
+
 <p style="text-align: center">
   <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart &amp; Soil Supplements" /></a>
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
         <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes - 5% off with code WHEEL923810" />
     </a>
     <a href="https://www.talkable.com/x/Fh8iAo"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste" /></a>
+    <br />
+    <i>10% off <a href="https://heartandsoilsupplements.com">Heart &amp; Soil Supplements</a> with code <code>savagezen10</code></i>.
+
 </p>
 
+<p><br /></p>
 <p style="text-align: center">
-  <strong>What People Are Saying About Kombat Kitchen:</strong>
-  <br />
-    <ul style="list-style-type: none">
-      
-        <li>
-          <code><p>Groovy, very helpful… I appreciate (Austin) taking the time to check it out (research a specific question from Telegram).</p>
-</code>
-          Brett
-          <hr />
-        </li>
-      
-        <li>
-          <code><p>I don’t even miss soda or beer (too much) :D
-I feel a lot less bloated and have a lot less cravings.
-[also lost 5 lbs in the first two weeks]</p>
-</code>
-          Rita
-          <hr />
-        </li>
-      
-        <li>
-          <code><p>I feel more energized.  I’ve increased my water intake.  I’m losing bloat slowly but surely…. not too many cravings.  Definitely don’t miss them.</p>
-</code>
-          Shaina
-          <hr />
-        </li>
-      
-    </ul>
-  <br />
   <i>Join the <a href="https://www.instagram.com/explore/tags/fightforyourhealth/">#fightforyourhealth</a> on <a href="https://twitter.com/search?q=kombatkitchen&amp;src=typed_query&amp;f=live">Twitter</a> and <a href="https://www.instagram.com/explore/tags/kombatkitchen/">Instagram</a>!</i>
 </p>
 :ET
