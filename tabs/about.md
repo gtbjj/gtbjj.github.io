@@ -25,9 +25,7 @@ toc: true
     </i>
     <br><br>
     <a href="https://brave.com/sav396"><img src="/assets/img/icon_brave.jpeg" style="width: 15%; height: auto" title="Brave Browser"></a>
-    <!--
     <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart & Soil Supplements"></a>
-    -->
     <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
         <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes - 5% off with code WHEEL923810">
     </a>
@@ -38,16 +36,19 @@ toc: true
       <summary>Click to View Discount Codes:</summary>
       <ul style="list-style-type: none">
         <li>
-          <strong>Castbox:</strong>  Earn cryptocurrency for listening to podcasts on any device.  Get a bonus deposit with referral code <code>YYUF9R</code>.
+          <strong>Brave Browser:</strong>  Earn cryptocurrency while browsing the web and protecting your privacy.  Bonus deposit when you use the referral link <a href="https://brave.com/sav396">https://brave.com/sav396</a>.
         </li><br>
         <li>
-          <strong>Brave Browser:</strong>  Earn cryptocurrency while browsing the web and protecting your privacy.  Bonus deposit when you use the referral link <a href="https://brave.com/sav396">https://brave.com/sav396</a>.
+          <strong>Heart & Soil Supplements: </strong>  Regeneratively raised beef organ supplements.  10% off with code <code>savagezen10</code>.
         </li><br>
         <li>
           <strong>Flyby:</strong>  Great zero sugar, all natural electrolyte supplement.  Half the cost of sports drinks and 2-3 times more concentrated.  5% off with code <code>WHEEL923810</code>.  Shop at the above link.
         </li><br>
         <li>
           <strong>Native:</strong>  Great smelling natural deodorant that actually lasts!  Free mini-deodorant with your next order when you <a href="https://www.talkable.com/x/Fh8iAo">use the referral link</a>.
+        </li><br>
+        <li>
+          <strong>Castbox:</strong>  Earn cryptocurrency for listening to podcasts on any device.  Get a bonus deposit with referral code <code>YYUF9R</code>.
         </li>
       </ul>
     </details>

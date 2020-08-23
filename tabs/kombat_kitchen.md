@@ -20,11 +20,8 @@ toc: true
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
-  Start the fight for your health today for FREE:
+  Start the fight for your health today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><code>FREE</code></a>:
   <br>
-  <a href="https://t.me/kombatkitchen">Join our Telegram group</a>.
-  <br>
-  <a href="http://localhost:4000/tabs/kombat_kitchen/#products"> Download the White Belt Challenge</a>.
 </p>
 
 <hr>
@@ -33,8 +30,9 @@ toc: true
   <a href="#products" class="btn">Shop</a>
   <a href="#faq" class="btn">FAQs</a>
   <a href="#resources" class="btn">Resources</a>
-  <a href="/tabs/about/#affiliates" class="btn">Friends</a>
-  <a href="https://mailchi.mp/fdac34cf1d9c/kombat-kitchen-registration" class="btn">Newsletter</a>
+  <a href="https://t.me/kombatkitchen" class="btn">Community</a>
+  <a href="#reviews" class="btn">Reviews</a>
+  <a href="/feed.xml" class="btn">Newsletter</a>
 </div>
 
 <hr>
@@ -52,11 +50,11 @@ toc: true
 <ul id="products" class="expando" style="list-style-type: none">
   {% for product in site.products %}
       <a href="{{ product.buy_now }}"><img src="{{ product.img }}" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
-      <p><strong style="margin-left: 2%">{{ product.name }}</strong></p>
+      <p><strong style="margin-left: 2%">{{ product.name }}</strong>  <code>${{ product.price }}</code></p>
       <p>{{ product.content }}</p>
       {% if product.type == "program" %}
         <p style="text-align: right">
-          <a href="{{ product.buy_now }}" title="Buy Direct on SendOwl ${{ product.price }}">
+          <a href="{{ product.buy_now }}" title="${{ product.price }}">
             Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
           </a>
           <a href="{{ product.amazon }}" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
@@ -87,18 +85,28 @@ toc: true
   {% endfor %}
 </ul>
 
+<ul id="reviews" class="expando" style="list-style-type: none">
+  {% for review in site.reviews %}
+    <li>
+      <code>{{ review.content }}</code>
+      {{ review.name }}
+      <hr>
+    </li>
+  {% endfor %}
+</ul>
+
 <p style="text-align: center">
-  <strong>What People Are Saying About Kombat Kitchen:</strong>
-  <br>
-    <ul style="list-style-type: none">
-      {% for review in site.reviews %}
-        <li>
-          <code>{{ review.content }}</code>
-          {{ review.name }}
-          <hr>
-        </li>
-      {% endfor %}
-    </ul>
-  <br>
+  <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart & Soil Supplements"></a>
+    <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
+        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes - 5% off with code WHEEL923810">
+    </a>
+    <a href="https://www.talkable.com/x/Fh8iAo"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste"></a>
+    <br>
+    <i>10% off <a href="https://heartandsoilsupplements.com">Heart & Soil Supplements</a> with code <code>savagezen10</code></i>.
+
+</p>
+
+<br>
+<p style="text-align: center">
   <i>Join the <a href="https://www.instagram.com/explore/tags/fightforyourhealth/">#fightforyourhealth</a> on <a href="https://twitter.com/search?q=kombatkitchen&src=typed_query&f=live">Twitter</a> and <a href="https://www.instagram.com/explore/tags/kombatkitchen/">Instagram</a>!</i>
 </p>
