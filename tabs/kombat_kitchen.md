@@ -20,20 +20,45 @@ toc: true
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
-  Start the fight for your health today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><code>FREE</code></a>:
+  Start the fight for your metabolic, mental, physical, and community health today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><code>FREE</code></a>:
   <br>
 </p>
 
-<hr>
+<style>
+.button-container {
+    width: 100%;
+    overflow-y: auto;
+}
 
+.button-container > a {
+    width: 15%;
+    height: auto;
+    float: left;
+    border: solid 1px;
+    border-radius: 25px;
+    margin: 15px;
+    text-align: center;
+}
+</style>
+
+<div class="button-container">
+  <a href="https://kombat-kitchen-store.weeblysite.com">Store</a>
+  <a href="#faq">FAQs</a>
+  <a href="https://t.me/kombatkitchen">Community</a>
+  <a href="#reviews">Reviews</a>
+  <a href="#resources">Resources</a>
+</div>
+
+<!--
 <div style="text-align: center">
-  <a href="#products" class="btn">Shop</a>
+  <a href="https://kombat-kitchen-store.weeblysite.com/" class="btn">Store</a>
   <a href="#faq" class="btn">FAQs</a>
   <a href="#resources" class="btn">Resources</a>
   <a href="https://t.me/kombatkitchen" class="btn">Community</a>
   <a href="#reviews" class="btn">Reviews</a>
   <a href="/feed.xml" class="btn">Newsletter</a>
 </div>
+-->
 
 <hr>
 
@@ -95,18 +120,15 @@ toc: true
   {% endfor %}
 </ul>
 
-<p style="text-align: center">
-  <a href="https://heartandsoilsupplements.com/"><img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto; margin-left: 5%" title="Heart & Soil Supplements"></a>
-    <a href="https://www.flyby.co/?rfsn=4562479.acaf32">
-        <img src="/assets/img/icon_flyby.png" style="width: 15%; height: auto; margin-left: 5%" title="Flyby Electrolytes - 5% off with code WHEEL923810">
-    </a>
-    <a href="https://www.talkable.com/x/Fh8iAo"><img src="/assets/img/icon_native.jpg" style="width: 15%; height: auto; margin-left: 5%" title="Native Deodorant and Toothpaste"></a>
-    <br>
-    <i>10% off <a href="https://heartandsoilsupplements.com">Heart & Soil Supplements</a> with code <code>savagezen10</code></i>.
-
-</p>
-
 <br>
+
 <p style="text-align: center">
-  <i>Join the <a href="https://www.instagram.com/explore/tags/fightforyourhealth/">#fightforyourhealth</a> on <a href="https://twitter.com/search?q=kombatkitchen&src=typed_query&f=live">Twitter</a> and <a href="https://www.instagram.com/explore/tags/kombatkitchen/">Instagram</a>!</i>
+  <a href="https://heartandsoilsupplements.com">
+    <img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto" title="Heart & Soil Supplements" />
+  </a>
+  <br>
+  Save 10% on <a href="https://heartandsoilsupplements.com">Heart & Soil Supplements</a> with code <code>savagezen10</code>.
+</p>
+<p style="text-align: center; margin-bottom: -5%">
+  <i>Check out <a href="/tabs/about/#affiliates">our other affiliates</a>!</i>
 </p>
