@@ -1,4 +1,4 @@
-I"ï<<style>
+I"E<style>
 .expando {
   display: none;
 }
@@ -10,20 +10,45 @@
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   <br />
-  Start the fight for your health today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><code>FREE</code></a>:
+  Start the fight for your metabolic, mental, physical, and community health today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><code>FREE</code></a>:
   <br />
 </p>
 
-<hr />
+<style>
+.button-container {
+    width: 100%;
+    overflow-y: auto;
+}
 
+.button-container > a {
+    width: 15%;
+    height: auto;
+    float: left;
+    border: solid 1px;
+    border-radius: 25px;
+    margin: 15px;
+    text-align: center;
+}
+</style>
+
+<div class="button-container">
+  <a href="https://kombat-kitchen-store.weeblysite.com">Store</a>
+  <a href="#faq">FAQs</a>
+  <a href="https://t.me/kombatkitchen">Community</a>
+  <a href="#reviews">Reviews</a>
+  <a href="#resources">Resources</a>
+</div>
+
+<!--
 <div style="text-align: center">
-  <a href="#products" class="btn">Shop</a>
+  <a href="https://kombat-kitchen-store.weeblysite.com/" class="btn">Store</a>
   <a href="#faq" class="btn">FAQs</a>
   <a href="#resources" class="btn">Resources</a>
   <a href="https://t.me/kombatkitchen" class="btn">Community</a>
   <a href="#reviews" class="btn">Reviews</a>
   <a href="/feed.xml" class="btn">Newsletter</a>
 </div>
+-->
 
 <hr />
 
@@ -289,6 +314,51 @@ I feel a lot less bloated and have a lot less cravings.
 
 <p><br /></p>
 
+<script>
+  $(document).ready(function(){
+			$('.customer-logos').slick({
+				slidesToShow: 4,
+				slidesToScroll: 1,
+				autoplay: true,
+				autoplaySpeed: 1000,
+				arrows: false,
+				dots: false,
+					pauseOnHover: false,
+					responsive: [{
+					breakpoint: 768,
+					settings: {
+						slidesToShow: 3
+					}
+				}, {
+					breakpoint: 520,
+					settings: {
+						slidesToShow: 2
+					}
+				}]
+			});
+		});
+</script>
+
+<div class="customer-logos">
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image1.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image2.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image3.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image4.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image5.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image6.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image7.png" /></div>
+  <div class="slide"><img src="https://raw.githubusercontent.com/solodev/infinite-carousel/master/images/image8.png" /></div>
+</div>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+<p>s</p>
+
 <p style="text-align: center">
   <a href="https://heartandsoilsupplements.com">
     <img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto" title="Heart &amp; Soil Supplements" />
@@ -296,7 +366,7 @@ I feel a lot less bloated and have a lot less cravings.
   <br />
   Save 10% on <a href="https://heartandsoilsupplements.com">Heart &amp; Soil Supplements</a> with code <code>savagezen10</code>.
 </p>
-<p style="text-align: center; margin-bottom: -10%">
+<p style="text-align: center; margin-bottom: -5%">
   <i>Check out <a href="/tabs/about/#affiliates">our other affiliates</a>!</i>
 </p>
 :ET

@@ -20,9 +20,22 @@ toc: true
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br>
-  Start the fight for your metabolic, mental, physical, and community health today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><code>FREE</code></a>:
+  Kombat Kitchen provides 30-day challenges to improve your:
+  <div style="width: 60%; margin-left: 20%; margin-right: 20%">
+  <ul>
+    <li>metabolic health,</li>
+    <li>fitness,</li>
+    <li>community relationships, and</li>
+    <li>mental health.</li>
+  </ul>
+  </div>
+</p>
+<p style="text-align: center">
+  Start the <a href="https://www.instagram.com/explore/tags/fightforyourhealth/">#fightforyourhealth</a> today for <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing">FREE</a>!
   <br>
 </p>
+
+<hr>
 
 <style>
 .button-container {
