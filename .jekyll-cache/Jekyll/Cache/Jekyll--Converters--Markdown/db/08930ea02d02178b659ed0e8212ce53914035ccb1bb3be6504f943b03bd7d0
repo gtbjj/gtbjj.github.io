@@ -91,7 +91,7 @@
           3
           categories,
         
-          14
+          15
           posts
         </span>
       </span>
@@ -132,7 +132,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/training/" class="ml-1 mr-2">Training</a>
           
-          <span class="text-muted small font-weight-light">13
+          <span class="text-muted small font-weight-light">14
             posts
           </span>
         </li>
@@ -200,7 +200,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/training/" class="ml-1 mr-2">Training</a>
           
-          <span class="text-muted small font-weight-light">13
+          <span class="text-muted small font-weight-light">14
             posts
           </span>
         </li>
@@ -250,7 +250,7 @@
           <i class="far fa-folder fa-fw"></i>
           <a href="/categories/training/" class="ml-1 mr-2">Training</a>
           
-          <span class="text-muted small font-weight-light">13
+          <span class="text-muted small font-weight-light">14
             posts
           </span>
         </li>
