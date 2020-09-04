@@ -49,13 +49,9 @@ toc: true
 </div>
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
-    <i>Video series coming soon!</i>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
     To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
-    <!--
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf5Qb-xM_oTt3KmeNGqEfQdSTXKEu-Sxb4OGJhRfSiXSkx63H53px53nXNUv2XLGUU3iaBpTI6A7Xk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="auto" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-    -->
-    <hr>
 </ul>
 
 <ul id="products" class="expando" style="list-style-type: none">
@@ -120,11 +116,13 @@ toc: true
   </div>
 </p>
 <p style="text-align: center">
-  Start the <a href="https://www.instagram.com/explore/tags/fightforyourhealth/">#fightforyourhealth</a> today for<a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing">FREE</a>!
+  Start the <code>#fightforyourhealth</code> today.
+  <br>
+  Join for <a href="https://t.me/kombatkitchen">FREE</a>!
   <br>
 </p>
 
-<br>
+<hr>
 
 <p style="text-align: center">
   <a href="https://heartandsoilsupplements.com">
