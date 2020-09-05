@@ -45,7 +45,6 @@ toc: true
   <a href="#faq">FAQs</a>
   <a href="https://t.me/kombatkitchen">Community</a>
   <a href="#reviews">Reviews</a>
-  <a href="#resources">Resources</a>
 </div>
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
@@ -75,20 +74,6 @@ toc: true
         </p>
       {% endif %}
       <hr>
-  {% endfor %}
-</ul>
-
-<ul id="resources" class="expando" style="list-style-type: none">
-  {% for resource in site.resources %}
-        <a href="{{ resource.link }}"><img src="{{ resource.img }}" style="float: right; width: 20%; height:25% ; margin-left: 2%"></a>
-        <p style="margin-bottom: 20%">
-            <strong><a href="{{ resource.link }}">{{ resource.name }}</a></strong>
-            <br>
-            <i>by {{ resource.author }}</i>
-            <br>
-            {{ resource.type }}
-        </p>
-        <hr>
   {% endfor %}
 </ul>
 
@@ -124,6 +109,9 @@ toc: true
 
 <hr>
 
+{% include carousel.html height="50" unit="%" duration="3" %}
+
+<!--
 <p style="text-align: center">
   <a href="https://heartandsoilsupplements.com">
     <img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto" title="Heart & Soil Supplements" />
@@ -134,3 +122,4 @@ toc: true
 <p style="text-align: center; margin-bottom: -5%">
   <i>Check out <a href="/tabs/about/#affiliates">our other affiliates</a>!</i>
 </p>
+-->

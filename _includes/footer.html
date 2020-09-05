@@ -10,9 +10,12 @@
   <div class="d-flex justify-content-between align-items-center">
     <div class="footer-left">
       <p class="mb-0">
-          Save 10% on <a href="https://heartandsoilsupplements.com">Heart & Soil Supplements</a>
-          <br>
-          with code <code>savagezen10</code>
+        © {{ 'now' | date: "%Y" }}
+        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+        {% if site.data.rights.brief %}
+        <span data-toggle="tooltip" data-placement="top"
+          title="{{ site.data.rights.verbose }}">{{ site.data.rights.brief }}</span>
+        {% endif %}
       </p>
       <!--
             <p class="mb-0">
@@ -28,15 +31,6 @@
     </div>
 
     <div class="footer-right">
-            <p class="mb-0">
-        © {{ 'now' | date: "%Y" }}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-        {% if site.data.rights.brief %}
-        <span data-toggle="tooltip" data-placement="top"
-          title="{{ site.data.rights.verbose }}">{{ site.data.rights.brief }}</span>
-        {% endif %}
-
-      </p>
       <p class="mb-0">
         Powered by
         <a href="https://jekyllrb.com" target="_blank">Jekyll</a>

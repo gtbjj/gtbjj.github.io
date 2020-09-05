@@ -1,4 +1,4 @@
-I"%><style>
+I"�A<style>
 .expando {
   display: none;
 }
@@ -270,6 +270,27 @@
 <ul id="reviews" class="expando" style="list-style-type: none">
   
     <li>
+      <code><p>I wanted to let you know that (I lost 3 lbs in 3 weeks).  I’m super stoked about this!!!  I really would like to keep it going.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I went from 230 to 200 in three months.  I’m 20 lbs from my goal.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>Keep up the good work on your content.  You share a lot of good info and how you use yourself as an example makes it hard to dispute.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
       <code><p>Groovy, very helpful… I appreciate (Austin) taking the time to check it out (research a specific question from Telegram).</p>
 </code>
       Brett
@@ -316,14 +337,41 @@ I feel a lot less bloated and have a lot less cravings.
 
 <hr />
 
+<!-- slider -->
+<link rel="stylesheet" href="/assets/css/slick.css" />
+
+<link red="stylesheet" href="/assets/css/slick-theme.css" />
+
+<div class="slider demo">
+  <div>Slide 1</div>
+  <div>Slide 2</div>
+  <div>Slide 3</div>
+  <div>Slide 4</div>
+  <div>Slide 5</div>
+</div>
+
+<script src="/assets/js/slick.js">
+<script src="/assets/js/slick.min.js">
+
+
+
+
+
+
+
+
+
+<!--
 <p style="text-align: center">
   <a href="https://heartandsoilsupplements.com">
-    <img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto" title="Heart &amp; Soil Supplements" />
+    <img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto" title="Heart & Soil Supplements" />
   </a>
-  <br />
-  Save 10% on <a href="https://heartandsoilsupplements.com">Heart &amp; Soil Supplements</a> with code <code>savagezen10</code>.
+  <br>
+  Save 10% on <a href="https://heartandsoilsupplements.com">Heart & Soil Supplements</a> with code <code>savagezen10</code>.
 </p>
 <p style="text-align: center; margin-bottom: -5%">
   <i>Check out <a href="/tabs/about/#affiliates">our other affiliates</a>!</i>
 </p>
+-->
+</script>
 :ET

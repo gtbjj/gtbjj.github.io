@@ -1,21 +1,12 @@
----
-title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
-
-## Savagezen
+I"%)<h2 id="savagezen">Savagezen</h2>
 
 <p style="text-align: right">
   <strong>(noun)</strong> | <i>A state of being</i>
 </p>
 
-> The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.
+<blockquote>
+  <p>The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life’s tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i></p>
+</blockquote>
 
 <!--
 ---
@@ -58,16 +49,15 @@ toc: true
 <hr>
 -->
 
-### Introduction
+<h3 id="introduction">Introduction</h3>
 
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
-    <summary>A Brief History:</summary>
+    <summary>A brief history:</summary>
     <ul>
-      <li>Precision Nutrition PN1 Coach (<i>pending</i>)</li>
       <li>Faxia Roxa - 2/15/20</li>
       <li>Carnivore - 2/14/20</li>
         <ul>
@@ -75,7 +65,6 @@ At some point quest logs from tabletop role playing games were added as well as 
           <li>Paleo - ~2012</li>
         </ul>
       <li>Dog Trainer - Dec 2017</li>
-      <li>Licensed Associate Professional Counselor (GA)</li>
       <li>MA Psychology (UWG) - 2015</li>
       <li>Arch Linux - July 2013</li>
         <ul>
@@ -83,6 +72,46 @@ At some point quest logs from tabletop role playing games were added as well as 
         </ul>
     </ul>
 </details>
+
+<!--
+<details>
+  <summary>Current Projects:</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/savagezen/savagezen.github.io/tree/master/docs/data">Raw Data</a>:  Raw data text files, <a href="https://www.r-project.org/about.html">R</a> scripts used for computation, and statistical output.</a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/drive/folders/1Vd3PDdnM1ZsJgF9vjhnwKhHPKxKM8jqD?usp=sharing">Academic Work</a>:  writings in psychology and philosophy on Google Drive.
+    </li>
+    <li>
+      <a href="https://photos.app.goo.gl/jrqqa6PNoXXHvM3m6">Google Photos Album</a>:  Supplemental information regarding nutrient profiles, blood panels, test results, etc...
+    </li>
+    <li>
+      <a href="https://github.com/savagezen/pkgbuild">AUR Packages</a>:  Mirror repository for packages maintained for the Arch (Linux) User Repository.
+    </li>
+  </ul>
+</details>
+-->
+
+<details>
+  <summary>Carnivore Resources:</summary>
+  <ul>
+    <li><a href="https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592?country=us">Fundamental Health Podcast</a></li>
+    <li><a href="https://nutritionwithjudy.com/nutritionists-guide-to-the-carnivore-diet-a-beginners-guide/">Beginner's Guide to the Carnivore Diet</a></li>
+    <li><a href="https://meat.health/knowledge-base/carnivore-diet-tinkering/">"Levels" of the Carnivore Diet</a></li>
+    <li><a href="https://t.me/carnivores">Carnivore Telegram Group</a></li>
+  </ul>
+</details>
+
+<style>
+.expando {
+  display: none;
+}
+.expando:target {
+  display: block;
+}
+</style>
+
 <details>
   <summary>My Road to Carnivory</summary>
   Many moons ago, circa 2008, I began scouring bodybuilding forums to supplement my wrestling training.  In 2010 I found my self carrying over 200 lbs on my 5'8" frame.  I started training boxing, BJJ, and MMA then, and in 2011 took a more serious look at my diet.
@@ -105,34 +134,25 @@ At some point quest logs from tabletop role playing games were added as well as 
   <br /> <br />
   The rest, as they say, is history.  After the first 90 days I settled down with the experimenting and got less meticulous with the tracking and focused on educating others as well as furthering my own education.  As long as I continue to feel good, perform well, and continue to find RCTs and meta-analysis to support my practices this is the route I'll stay on.
 </details>
-<details>
-  <summary>Resources:</summary>
-    {% for resource in site.resources %}
-        <a href="{{ resource.link }}"><img src="{{ resource.img }}" style="float: right; width: 20%; height:25% ; margin-left: 2%"></a>
-        <p style="margin-bottom: 20%">
-            <strong><a href="{{ resource.link }}">{{ resource.name }}</a></strong>
-            <br>
-            <i>by {{ resource.author }}</i>
-            <br>
-            {{ resource.type }}
-        </p>
-        <hr>
-  {% endfor %}
-</details>
 
----
+<hr />
 
-**Support This Site**
+<p><strong>Support This Site</strong></p>
 
-With the launch of [Kombat Kitchen](/tabs/kombat_kitchen) there are many ways to support this site.  Rather than e-begging and asking for donations, several [products](https://kombat-kitchen-store.weeblysite.com/) are affordably priced so that you can support the information provided on this site for a minimal cost.
+<p>With the launch of <a href="/tabs/kombat_kitchen">Kombat Kitchen</a> there are many ways to support this site.  Rather than e-begging and asking for donations, several <a href="/tabs/kombat_kitchen/#products">products</a> are affordably prices so that you can support the information provided on this site for a minimal cost.</p>
 
-If you are so inclined, you can still make a donation with a variety of cryptocurrencies as well as [donate via PayPal](https://paypal.me/savagezen).  Below are my public addresses for the respective coins.
+<p>If you are so inclined, you can still make a donation with a variety of cryptocurrencies.  Below are my public addresses for the respective coins.</p>
 
-* Cryptocurrency Addresses:
-  * BAT:     ```0x55e9232F55cF0B77621091C5B0A44C5D63B840d5```
-  * ETH:     ```0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B```
-  * BTC:     ```1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe```
-  * ZEC:     ```t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb```
-  * PayPal:  [https://paypal.me/savagezen](https://paypal.me/savagezen) 
+<ul>
+  <li>Cryptocurrency Addresses:
+    <ul>
+      <li>BAT:  <code class="highlighter-rouge">0x55e9232F55cF0B77621091C5B0A44C5D63B840d5</code></li>
+      <li>ETH:  <code class="highlighter-rouge">0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B</code></li>
+      <li>BTC:  <code class="highlighter-rouge">1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe</code></li>
+      <li>ZEC:  <code class="highlighter-rouge">t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb</code></li>
+    </ul>
+  </li>
+</ul>
 
-You'll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with because I believe in and support their product(s) and process.  If I could sell books directly without going through Amazon, I certainly would!
+<p>You’ll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with.  Any links to <a href="/tabs/kombat_kitchen/#resources">books sold on Amazon</a> are because I support and believe in the authors and the information / content they produce.  Please consider supporting <a href="/tabs/about/#affiliates">my affiliates</a>.</p>
+:ET
