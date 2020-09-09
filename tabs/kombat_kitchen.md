@@ -21,31 +21,14 @@ toc: true
   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<style>
-.button-container {
-    width: 100%;
-    overflow-y: auto;
-}
-
-.button-container > a {
-    width: 15%;
-    height: auto;
-    float: left;
-    border: solid 1px;
-    border-radius: 25px;
-    margin: 15px;
-    text-align: center;
-}
-</style>
-
 <hr>
 
-<div class="button-container">
-  <a href="https://kombat-kitchen-store.weeblysite.com">Store</a>
-  <a href="#faq">FAQs</a>
-  <a href="https://t.me/kombatkitchen">Community</a>
-  <a href="#reviews">Reviews</a>
-</div>
+<p style="text-align: center">
+  <a class="btn" href="https://kombat-kitchen-store.weeblysite.com">Store</a>
+  <a class="btn" href="#faq">FAQs</a>
+  <a class="btn" href="https://t.me/kombatkitchen">Community</a>
+  <a class="btn" href="#reviews">Reviews</a>
+</p>
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
