@@ -1,0 +1,709 @@
+I"b<!-- styling for hidden sections -->
+
+<style>
+.expando {
+  display: none;
+}
+.expando:target {
+  display: block;
+}
+</style>
+
+<p style="text-align: center">
+  <a class="btn" href="#faq">About / FAQs</a>
+  <a class="btn" href="https://kombat-kitchen-store.weeblysite.com">Store</a>
+  <a class="btn" href="#podcast">Podcast</a>
+  <a class="btn" href="#reviews">Reviews</a>
+</p>
+
+<p>The Kombat Kitchen is a nutritional coaching program with two primary goals:</p>
+
+<ul>
+  <li><i>Improve the performance</i> of athletes through nutrition, and</li>
+  <li><i>Empower everyday people</i> to <code>#fightforyourhealth.</code></li>
+</ul>
+
+<p>We consider health multi-dimensional and address each of the following <strong>Four Pillars</strong>:</p>
+
+<ul>
+  <li>Nutrition (metabolic health),</li>
+  <li>Fitness (physical health),</li>
+  <li>Mindset (mental health), and</li>
+  <li>Community (social health).</li>
+</ul>
+
+<p style="text-align: center">Join <a href="https://t.me/kombatkitchen">our community on Telegram</a> for FREE!</p>
+
+<!-- hidden sections -->
+
+<ul id="faq" class="expando" style="list-style-type: none; text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <br />
+    To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
+</ul>
+
+<ul id="faq" class="expando" style="list-style-type: none; text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <br />
+    To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
+</ul>
+
+<!--
+  <iframe src="https://castbox.fm/app/castbox/player/id2937016?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+-->
+
+<ul id="reviews" class="expando" style="list-style-type: none">
+  
+    <li>
+      <code><p>I wanted to let you know that (I lost 3 lbs in 3 weeks).  I’m super stoked about this!!!  I really would like to keep it going.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I went from 230 to 200 in three months.  I’m 20 lbs from my goal.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>Keep up the good work on your content.  You share a lot of good info and how you use yourself as an example makes it hard to dispute.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I have had an incredible experience with switchign to a meat based diet, especially in my focus and the leanness in my physique.  Thanks for all your help Austin!  You really inspired me to cut the crap out of my life and take the bull by the horns!</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>Groovy, very helpful… I appreciate (Austin) taking the time to check it out (research a specific question from Telegram).</p>
+</code>
+      Brett
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I don’t even miss soda or beer (too much) :D
+I feel a lot less bloated and have a lot less cravings.
+[also lost 5 lbs in the first two weeks]</p>
+</code>
+      Rita
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I feel more energized.  I’ve increased my water intake.  I’m losing bloat slowly but surely…. not too many cravings.  Definitely don’t miss them.</p>
+</code>
+      Shaina
+      <hr />
+    </li>
+  
+</ul>
+
+<!-- old manual / self hosted store
+
+<ul id="products" class="expando" style="list-style-type: none">
+  
+      <a href="https://www.flyby.co/?rfsn=4562479.acaf32"><img src="https://cdn.shopify.com/s/files/1/1403/3657/products/Electrolyte_Powder_large.png?v=1567790095" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
+      <p><strong style="margin-left: 2%">Flyby Fuel Electrolyte Powder</strong>  <code>$24.95</code></p>
+      <p><p>3 times the electrolytes of most sports drinks, no artificial colors or flavors.  No sugars, carbs, or calories.  Made in the USA.  Vegan, vegetarian, gluten-free. 50 servings.</p>
+</p>
+      
+        <p style="text-align: right">
+          <a href="https://www.flyby.co/?rfsn=4562479.acaf32" title="$24.95">
+            Buy Now <i class="fa fa-2x fa-credit-card" style="margin-right: 1%"></i>
+          </a>
+        </p>
+      
+      <hr>
+  
+      <a href="https://heartandsoilsupplements.com/collections/all"><img src="/assets/img/icon_beeforgans.jpg" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
+      <p><strong style="margin-left: 2%">Heart and Soil Supplements</strong>  <code>$28 - 64</code></p>
+      <p><p>Beef organ supplements that provide <a href="https://heartandsoilsupplements.com/pages/nose-to-tail">nose-to-tail</a> nutrition from grass-fed / grass-finished cattle that support <a href="https://heartandsoilsupplements.com/pages/land-regeneration">regenerative agriculture</a>.  <em>10% off</em> with code: <code class="highlighter-rouge">savagezen10</code>.</p>
+</p>
+      
+        <p style="text-align: right">
+          <a href="https://heartandsoilsupplements.com/collections/all" title="$28 - 64">
+            Buy Now <i class="fa fa-2x fa-credit-card" style="margin-right: 1%"></i>
+          </a>
+        </p>
+      
+      <hr>
+  
+      <a href="https://www.talkable.com/x/Fh8iAo"><img src="https://cdn.shopify.com/s/files/1/1361/9483/products/Charcoal_6092f6d3-d5b1-4496-90f2-bf720dd58d0d_420x.jpg?v=1592361231,%20//cdn.shopify.com/s/files/1/1361/9483/products/Charcoal_6092f6d3-d5b1-4496-90f2-bf720dd58d0d_420x@2x.jpg?v=1592361231%202x" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
+      <p><strong style="margin-left: 2%">Native Deodorant</strong>  <code>$10</code></p>
+      <p><p>Great smelling deodorant without parapens or aluminum being crammed in your armpits!  Unlike many other “nautral” deodorants it actually lasts too!</p>
+</p>
+      
+        <p style="text-align: right">
+          <a href="https://www.talkable.com/x/Fh8iAo" title="$10">
+            Buy Now <i class="fa fa-2x fa-credit-card" style="margin-right: 1%"></i>
+          </a>
+        </p>
+      
+      <hr>
+  
+      <a href="https://checkout.square.site/buy/YGQZC5N3WOZP3GOTEGF2IT2W"><img src="/assets/img/belt_blue.png" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
+      <p><strong style="margin-left: 2%">Blue Belt Program</strong>  <code>$1.99</code></p>
+      <p><p>Continuing where the White Belt program leaves off, we further our eduction towards improved health and performance by focusing on protein, water, and Vitamin D for the next 30 days.</p>
+</p>
+      
+        <p style="text-align: right">
+          <a href="https://checkout.square.site/buy/YGQZC5N3WOZP3GOTEGF2IT2W" title="$1.99">
+            Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
+          </a>
+          <a href="https://amzn.to/3itjQjU" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
+          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
+        </p>
+      
+      <hr>
+  
+      <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing"><img src="/assets/img/belt_white.png" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
+      <p><strong style="margin-left: 2%">White Belt Program</strong>  <code>$FREE</code></p>
+      <p><p>The introduction, the original, the foundational 30 day challenge to improving your health.  Research backed, evidence based e-book complete with nutrition and lifestyle recommendations to support metabolic, social, mental, and physical health. This program is FREE when you download it directly (view on Google Drive).</p>
+
+</p>
+      
+        <p style="text-align: right">
+          <a href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing" title="$FREE">
+            Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
+          </a>
+          <a href="https://amzn.to/2CpHNcw" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
+          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
+        </p>
+      
+      <hr>
+  
+      <a href="https://docs.google.com/document/d/1sd2nnWdQCKCc66bG1GoKjWA9kHngXTLKJ8bCrnG7dtA/edit?usp=sharing"><img src="/assets/img/belt_yellow.png" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
+      <p><strong style="margin-left: 2%">Youth Program</strong>  <code>$FREE</code></p>
+      <p><p>Nutrition, fitness, mental health, and community all wrapped in one for children of all ages.  These programs are age specific (8 and under, 9 - 14 years old, and 15+ years old).  Parental participation is required and each program is an excellent starting point for adults as well!  This program is FREE when you download it directly (view on Google Drive).</p>
+</p>
+      
+        <p style="text-align: right">
+          <a href="https://docs.google.com/document/d/1sd2nnWdQCKCc66bG1GoKjWA9kHngXTLKJ8bCrnG7dtA/edit?usp=sharing" title="$FREE">
+            Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
+          </a>
+          <a href="https://amzn.to/2XUXWhu" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
+          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
+        </p>
+      
+      <hr>
+  
+</ul>
+-->
+
+<!-- affiliate ads -->
+
+<hr />
+
+<div class="carousel__holder">
+    <div class="carousel">
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="a" checked="checked" />
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="b" />
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="c" />
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="d" />
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="e" />
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="f" />
+        
+          <input class="carousel__activator" type="radio" name="carousel" id="g" />
+        
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="g"></label>
+              <label class="carousel__control carousel__control--forward" for="b"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="a"></label>
+              <label class="carousel__control carousel__control--forward" for="c"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="b"></label>
+              <label class="carousel__control carousel__control--forward" for="d"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="c"></label>
+              <label class="carousel__control carousel__control--forward" for="e"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="d"></label>
+              <label class="carousel__control carousel__control--forward" for="f"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="e"></label>
+              <label class="carousel__control carousel__control--forward" for="g"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="f"></label>
+              <label class="carousel__control carousel__control--forward" for="a"></label>
+          </div>
+        
+        <div class="carousel__track">
+          <ul>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_white-oak-20.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_flyby.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_native.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_heart-and-soil.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_brave.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_castbox.jpg');"></li>
+            
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_trubeef.jpg');"></li>
+            
+          </ul>
+        </div>
+        <div class="carousel__indicators">
+            
+              <label class="carousel__indicator" for="a"></label>
+            
+              <label class="carousel__indicator" for="b"></label>
+            
+              <label class="carousel__indicator" for="c"></label>
+            
+              <label class="carousel__indicator" for="d"></label>
+            
+              <label class="carousel__indicator" for="e"></label>
+            
+              <label class="carousel__indicator" for="f"></label>
+            
+              <label class="carousel__indicator" for="g"></label>
+            
+        </div>
+    </div>
+</div>
+
+<style>
+.carousel__holder {width: 100%; position: relative; padding-bottom: 35%; margin: 1rem 0 1rem;}
+.carousel {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  position: absolute;
+  padding: 0;
+}
+.carousel__controls,
+.carousel__activator {
+  display: none;
+}
+
+.carousel__activator:nth-of-type(1):checked ~ .carousel__track {
+  -webkit-transform: translateX(-000%);
+          transform: translateX(-000%);
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__slide:nth-of-type(1) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__controls:nth-of-type(1) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(1) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(2):checked ~ .carousel__track {
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+}
+.carousel__activator:nth-of-type(2):checked ~ .carousel__slide:nth-of-type(2) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(2):checked ~ .carousel__controls:nth-of-type(2) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(2):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(2) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(3):checked ~ .carousel__track {
+  -webkit-transform: translateX(-200%);
+          transform: translateX(-200%);
+}
+.carousel__activator:nth-of-type(3):checked ~ .carousel__slide:nth-of-type(3) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(3):checked ~ .carousel__controls:nth-of-type(3) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(3):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(3) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(4):checked ~ .carousel__track {
+  -webkit-transform: translateX(-300%);
+          transform: translateX(-300%);
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__slide:nth-of-type(4) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__controls:nth-of-type(4) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(4) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(5):checked ~ .carousel__track {
+  -webkit-transform: translateX(-400%);
+          transform: translateX(-400%);
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__slide:nth-of-type(5) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__controls:nth-of-type(5) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(6):checked ~ .carousel__track {
+  -webkit-transform: translateX(-500%);
+          transform: translateX(-500%);
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__slide:nth-of-type(6) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__controls:nth-of-type(6) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(6) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(7):checked ~ .carousel__track {
+  -webkit-transform: translateX(-600%);
+          transform: translateX(-600%);
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__slide:nth-of-type(7) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__controls:nth-of-type(7) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  opacity: 1;
+}
+
+
+.carousel__control {
+  height: 30px;
+  width: 30px;
+  margin-top: -15px;
+  top: 50%;
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  border-width: 5px 5px 0 0;
+  border-style: solid;
+  border-color: #fafafa;
+  opacity: 0.35;
+  opacity: 1;
+  outline: 0;
+  z-index: 3;
+}
+.carousel__control:hover {
+  opacity: 1;
+}
+.carousel__control--backward {
+  left: 20px;
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+}
+.carousel__control--forward {
+  right: 20px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.carousel__indicators {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.carousel__indicator {
+  height: 15px;
+  width: 15px;
+  border-radius: 100%;
+  display: inline-block;
+  z-index: 2;
+  cursor: pointer;
+  opacity: 0.35;
+  margin: 0 2.5px 0 2.5px;
+}
+.carousel__indicator:hover {
+  opacity: 0.75;
+}
+.carousel__track {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  transition: -webkit-transform 0.5s ease 0s;
+  transition: transform 0.5s ease 0s;
+  transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+}
+.carousel__track .carousel__slide {
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
+
+.carousel__track .carousel__slide:nth-of-type(1) {
+  -webkit-transform: translateX(000%);
+          transform: translateX(000%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(2) {
+  -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(3) {
+  -webkit-transform: translateX(200%);
+          transform: translateX(200%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(4) {
+  -webkit-transform: translateX(300%);
+          transform: translateX(300%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(5) {
+  -webkit-transform: translateX(400%);
+          transform: translateX(400%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(6) {
+  -webkit-transform: translateX(500%);
+          transform: translateX(500%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(7) {
+  -webkit-transform: translateX(600%);
+          transform: translateX(600%);
+}
+
+
+.carousel--scale .carousel__slide {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+.carousel__slide {
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  overflow: hidden;
+}
+.carousel__slide .overlay {height: 100%;}
+.carousel--thumb .carousel__indicator {
+  height: 30px;
+  width: 30px;
+}
+.carousel__indicator {
+  background-color: #fafafa;
+}
+
+.carousel__slide:nth-of-type(1),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(2),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(2) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(3),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(4),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(5),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(6),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(6) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(7),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  background-size: cover;
+  background-position: center;
+}
+
+</style>
+
+<script>
+  function isVisible(el) {
+        while (el) {
+            if (el === document) {
+                return true;
+            }
+
+            var $style = window.getComputedStyle(el, null);
+
+            if (!el) {
+                return false;
+            } else if (!$style) {
+                return false;
+            } else if ($style.display === 'none') {
+                return false;
+            } else if ($style.visibility === 'hidden') {
+                return false;
+            } else if (+$style.opacity === 0) {
+                return false;
+            } else if (($style.display === 'block' || $style.display === 'inline-block') &&
+                $style.height === '0px' && $style.overflow === 'hidden') {
+                return false;
+            } else {
+                return $style.position === 'fixed' || isVisible(el.parentNode);
+            }
+        }
+  }
+  
+  setInterval(function(){
+    var j=0;
+    var elements = document.querySelectorAll('.carousel__control--forward');
+    for(i=(elements.length - 1);i>-1;i--) {
+      if(isVisible(elements[i])) j=i;
+    }
+    elements[j].click();
+  },3000);
+  
+</script>
+
+:ET

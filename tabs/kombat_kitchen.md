@@ -8,6 +8,8 @@ title: Kombat Kitchen
 toc: true
 ---
 
+<!-- styling for hidden sections -->
+
 <style>
 .expando {
   display: none;
@@ -18,23 +20,63 @@ toc: true
 </style>
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-<hr>
-
-<p style="text-align: center">
+  <a class="btn" href="#faq">About / FAQs</a>
+  <a class="btn" href="#services">Services</a>
   <a class="btn" href="https://kombat-kitchen-store.weeblysite.com">Store</a>
-  <a class="btn" href="#faq">FAQs</a>
-  <a class="btn" href="https://t.me/kombatkitchen">Community</a>
+  <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
   <a class="btn" href="#reviews">Reviews</a>
 </p>
+
+The Kombat Kitchen is a nutritional coaching program with two primary goals:
+
+<ul>
+  <li><i>Improve the performance</i> of athletes through nutrition, and</li>
+  <li><i>Empower everyday people</i> to <code>#fightforyourhealth.</code></li>
+</ul>
+
+We consider health multi-dimensional and address each of the following <strong>Four Pillars</strong>:
+
+<ul>
+  <li>Nutrition (metabolic health),</li>
+  <li>Fitness (physical health),</li>
+  <li>Mindset (mental health), and</li>
+  <li>Community (social health).</li>
+</ul>
+
+<!-- hidden sections -->
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
     To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
 </ul>
+
+<ul id="services" class="expando" style="list-style-type: none; text-align: center">
+  <hr>
+  <strong><u>Services</u></strong>
+  <br>
+  <br>
+  <a href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a> | 
+  <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a> | 
+  <a href="https://t.me/kombatkitchen">Community</a>
+  <br>
+  <br>
+  For one-on-one coaching <a href="https://t.me/{{ site.telegram.username }}">contact me on Telegram</a>.
+</ul>
+
+<ul id="reviews" class="expando" style="list-style-type: none">
+  <hr>
+  <br>
+  {% for review in site.reviews %}
+    <li>
+      <code>{{ review.content }}</code>
+      {{ review.name }}
+      <hr>
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- old manual / self hosted store
 
 <ul id="products" class="expando" style="list-style-type: none">
   {% for product in site.products %}
@@ -59,50 +101,10 @@ toc: true
       <hr>
   {% endfor %}
 </ul>
-
-<ul id="reviews" class="expando" style="list-style-type: none">
-  {% for review in site.reviews %}
-    <li>
-      <code>{{ review.content }}</code>
-      {{ review.name }}
-      <hr>
-    </li>
-  {% endfor %}
-</ul>
-
-<hr>
-
-<p style="text-align: center">
-  Kombat Kitchen provides 30-day challenges to improve your:
-  <div style="width: 60%; margin-left: 20%; margin-right: 20%">
-  <ul>
-    <li>metabolic health,</li>
-    <li>fitness,</li>
-    <li>community relationships, and</li>
-    <li>mental health.</li>
-  </ul>
-  </div>
-</p>
-<p style="text-align: center">
-  Start the <code>#fightforyourhealth</code> today.
-  <br>
-  Join for <a href="https://t.me/kombatkitchen">FREE</a>!
-  <br>
-</p>
-
-<hr>
-
-{% include carousel.html height="50" unit="%" duration="3" %}
-
-<!--
-<p style="text-align: center">
-  <a href="https://heartandsoilsupplements.com">
-    <img src="/assets/img/icon_heart-and-soil.png" style="width: 15%; height: auto" title="Heart & Soil Supplements" />
-  </a>
-  <br>
-  Save 10% on <a href="https://heartandsoilsupplements.com">Heart & Soil Supplements</a> with code <code>savagezen10</code>.
-</p>
-<p style="text-align: center; margin-bottom: -5%">
-  <i>Check out <a href="/tabs/about/#affiliates">our other affiliates</a>!</i>
-</p>
 -->
+
+<!-- affiliate ads -->
+
+<hr>
+
+{% include carousel.html height="45" unit="%" duration="3" %}

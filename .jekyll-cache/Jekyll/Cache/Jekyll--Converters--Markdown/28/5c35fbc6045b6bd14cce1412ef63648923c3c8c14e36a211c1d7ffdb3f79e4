@@ -1,4 +1,6 @@
-I"db<style>
+I"5`<!-- styling for collapsible sections -->
+
+<style>
 .expando {
   display: none;
 }
@@ -7,36 +9,24 @@
 }
 </style>
 
+<!-- button menu -->
+
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKDc8qC7WVqL8ahX-IGdF0KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  <a class="btn" href="#faq">About / FAQs</a>
+  <a class="btn" href="https://kombat-kitchen-store.weeblysite.com">Store</a>
+  <a class="btn" href="https://t.me/kombatkitchen">Community</a>
+  <a class="btn" href="">Podcast</a>
+  <a class="btn" href="#reviews">Reviews</a>
 </p>
 
-<style>
-.button-container {
-    width: 100%;
-    text-align: center;
-    overflow-y: auto;
-}
+<p>The Kombat Kitchen is a nutritional education and coaching program that focuses on two primary tasks:</p>
 
-.button-container > a {
-/*    width: 15%;
-    height: auto;
-    float: left; */
-    border: solid 1px;
-    border-radius: 25px;
-    margin: 15px;
-    text-align: center;
-}
-</style>
+<ul>
+  <li><i>Improving the performance</i> of combat athletes through nutrition, and</li>
+  <li><i>Educating and empowering</i> everyday people to <code>#fightforyourhealth</code>.</li>
+</ul>
 
-<hr />
-
-<div class="button-container">
-  <a href="https://kombat-kitchen-store.weeblysite.com">Store</a>
-  <a href="#faq">FAQs</a>
-  <a href="https://t.me/kombatkitchen">Community</a>
-  <a href="#reviews">Reviews</a>
-</div>
+<!-- collapsible sections -->
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -187,26 +177,6 @@ I feel a lot less bloated and have a lot less cravings.
     </li>
   
 </ul>
-
-<hr />
-
-<p style="text-align: center">
-  Kombat Kitchen provides 30-day challenges to improve your:
-  <div style="width: 60%; margin-left: 20%; margin-right: 20%">
-  <ul>
-    <li>metabolic health,</li>
-    <li>fitness,</li>
-    <li>community relationships, and</li>
-    <li>mental health.</li>
-  </ul>
-  </div>
-</p>
-<p style="text-align: center">
-  Start the <code>#fightforyourhealth</code> today.
-  <br />
-  Join for <a href="https://t.me/kombatkitchen">FREE</a>!
-  <br />
-</p>
 
 <hr />
 
