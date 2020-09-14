@@ -58,10 +58,8 @@ We consider health multi-dimensional and address each of the following <strong>F
   <br>
   <a href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a> | 
   <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a> | 
-  <a href="https://t.me/kombatkitchen">Community</a>
-  <br>
-  <br>
-  For one-on-one coaching <a href="https://t.me/{{ site.telegram.username }}">contact me on Telegram</a>.
+  <a href="https://t.me/kombatkitchen">Community</a> | 
+  <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Nutrition Coaching</a>
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
