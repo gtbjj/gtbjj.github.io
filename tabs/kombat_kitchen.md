@@ -43,6 +43,15 @@ We consider health multi-dimensional and address each of the following <strong>F
   <li>Community (social health).</li>
 </ul>
 
+<div style="text-align: center">
+  <strong>
+    <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Book Now!</a>
+  </strong>
+  <br>
+  <br>
+  <i>You can learn more about my personal health journey in the <a href="/">Carnivore Jiujitero Blog</a> or view my credentials in the <a href="/tabs/about">About Me section</a>.</i>
+</div>
+
 <!-- hidden sections -->
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
