@@ -43,18 +43,23 @@ We consider health multi-dimensional and address each of the following <strong>F
   <li>Community (social health).</li>
 </ul>
 
+<i>You can learn more about my personal health journey in the <a href="/">Carnivore Jiujitero Blog</a> or view my credentials in the <a href="/tabs/about">About Me section</a>.</i>
+
 <div style="text-align: center">
   <strong>
-    <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Book Now!</a>
+    <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Book Nutrition Coaching Now!</a>
   </strong>
   <br>
   <br>
-  <i>You can learn more about my personal health journey in the <a href="/">Carnivore Jiujitero Blog</a> or view my credentials in the <a href="/tabs/about">About Me section</a>.</i>
 </div>
 
 <!-- hidden sections -->
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
+    <hr>
+    <strong style="text-align: center">About / FAQs</strong>
+    <br>
+    <br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
     To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
@@ -62,17 +67,29 @@ We consider health multi-dimensional and address each of the following <strong>F
 
 <ul id="services" class="expando" style="list-style-type: none; text-align: center">
   <hr>
-  <strong><u>Services</u></strong>
+  <strong style="text-align: center"><u>Services</u></strong>
   <br>
   <br>
-  <a href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a> | 
-  <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a> | 
-  <a href="https://t.me/kombatkitchen">Community</a> | 
-  <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Nutrition Coaching</a>
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
+  </div>
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+    <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
+  </div>
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+    <a href="https://t.me/kombatkitchen">Community</a>
+  </div>
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+    <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Coaching</a>
+  </div>
+  <br>
+  <br>
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
   <hr>
+  <strong style="text-align: center">Reviews</strong>
+  <br>
   <br>
   {% for review in site.reviews %}
     <li>
