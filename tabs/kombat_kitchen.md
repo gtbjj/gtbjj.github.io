@@ -43,13 +43,26 @@ We consider health multi-dimensional and address each of the following <strong>F
   <li>Community (social health).</li>
 </ul>
 
-<i>You can learn more about my personal health journey in the <a href="/">Carnivore Jiujitero Blog</a> or view my credentials in the <a href="/tabs/about">About Me section</a>.</i>
+<strong>About Me</strong>:  You can learn about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.
 
 <div style="text-align: center">
   <strong>
     <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Book Nutrition Coaching Now!</a>
   </strong>
   <br>
+  <br>
+    <a style="margin-left: 2%" href="https://linkedin.com/in/{{ site.linkedin.username }}" target="_blank">
+      <i class="fab fa-2x fa-linkedin"></i>
+    </a>
+    <a style="margin-left: 2%" href="https://instagram.com/{{ site.instagram.username }}" target="_blank">
+      <i class="fab fa-2x fa-instagram"></i>
+    </a>
+    <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%" target="_blank">
+      <i class="fab fa-2x fa-facebook"></i>
+    </a>
+    <a style="margin-left: 2%" href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
+      <i class="fab fa-2x fa-twitter"></i>
+    </a>
   <br>
 </div>
 
@@ -70,17 +83,11 @@ We consider health multi-dimensional and address each of the following <strong>F
   <strong style="text-align: center"><u>Services</u></strong>
   <br>
   <br>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+  <div style="text-align: center">
     <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://t.me/kombatkitchen">Community</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Coaching</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
+    <a class="btn" href="https://t.me/kombatkitchen">Community</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Coaching</a>
   </div>
   <br>
   <br>

@@ -1,4 +1,4 @@
-I"if<!-- styling for hidden sections -->
+I"Yh<!-- styling for hidden sections -->
 
 <style>
 .expando {
@@ -33,18 +33,36 @@
   <li>Community (social health).</li>
 </ul>
 
+<p><strong>About Me</strong>:  You can learn about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.</p>
+
 <div style="text-align: center">
   <strong>
-    <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Book Now!</a>
+    <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Book Nutrition Coaching Now!</a>
   </strong>
   <br />
   <br />
-  <i>You can learn more about my personal health journey in the <a href="/">Carnivore Jiujitero Blog</a> or view my credentials in the <a href="/tabs/about">About Me section</a>.</i>
+    <a style="margin-left: 2%" href="https://linkedin.com/in/austinhaedicke" target="_blank">
+      <i class="fab fa-2x fa-linkedin"></i>
+    </a>
+    <a style="margin-left: 2%" href="https://instagram.com/savagezen" target="_blank">
+      <i class="fab fa-2x fa-instagram"></i>
+    </a>
+    <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%" target="_blank">
+      <i class="fab fa-2x fa-facebook"></i>
+    </a>
+    <a style="margin-left: 2%" href="https://twitter.com/carnivorebjj" target="_blank">
+      <i class="fab fa-2x fa-twitter"></i>
+    </a>
+  <br />
 </div>
 
 <!-- hidden sections -->
 
 <ul id="faq" class="expando" style="list-style-type: none; text-align: center">
+    <hr />
+    <strong style="text-align: center">About / FAQs</strong>
+    <br />
+    <br />
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     <br />
     To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
@@ -52,28 +70,29 @@
 
 <ul id="services" class="expando" style="list-style-type: none; text-align: center">
   <hr />
-  <strong><u>Services</u></strong>
+  <strong style="text-align: center"><u>Services</u></strong>
   <br />
   <br />
-  <div style="width: 20%; margin-right: 2%; float: left">
-    <a href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
-    <div style="text-align: left">
-    30 Day Challenge programs for the self directed.  These are about 20 pages in length and have about 100 references to medical journals to support the recommendations therein.  These programs are progressive in design and build on top of each other.  The <i>White Belt</i> and the <i>Youth</i> programs are free and are excellent starting points for everyone.  The Blue and Purple Belt programs are successively more complex.  The Brown and Black Belt programs are still being written.
-    </div>
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
   </div>
-  <div style="width: 20%; margin-right: 2%; float: left">
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
     <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
   </div>
-  <div style="width: 20%; margin-right: 2%; float: left">
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
     <a href="https://t.me/kombatkitchen">Community</a>
   </div>
-  <div style="width: 20%; margin-right: 2%; float: left">
-    <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Nutrition Coaching</a>
+  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+    <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Coaching</a>
   </div>
+  <br />
+  <br />
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
   <hr />
+  <strong style="text-align: center">Reviews</strong>
+  <br />
   <br />
   
     <li>

@@ -75,7 +75,7 @@ At some point quest logs from tabletop role playing games were added as well as 
           <li>Paleo - ~2012</li>
         </ul>
       <li>Dog Trainer - Dec 2017</li>
-      <li>Licensed Associate Professional Counselor (GA)</li>
+      <li>Licensed Associate Professional Counselor (<a href="http://verify.sos.ga.gov/verification/">GA#APC005571</a>)</li>
       <li>MA Psychology (UWG) - 2015</li>
       <li>Arch Linux - July 2013</li>
         <ul>
