@@ -1,4 +1,4 @@
-I"èh<!-- styling for hidden sections -->
+I"mg<!-- styling for hidden sections -->
 
 <style>
 .expando {
@@ -33,12 +33,16 @@
   <li>Community (social health).</li>
 </ul>
 
-<p><strong>About Me</strong>:  I have a master‚Äôs degree in psychology and am licensed as an associate professional counselor.  I am also working on certification through <a href="https://www.precisionnutrition.com/">Precision Nutrition</a>.  You can learn more about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.</p>
+<p><strong>About Me</strong>:  You can learn about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.</p>
 
 <div style="text-align: center">
   <strong>
     <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Book Nutrition Coaching Now!</a>
   </strong>
+  <br />
+  <br />
+    <a href="https://www.precisionnutrition.com/certified-coach-directory"><img src="" /></a>
+  <br />
   <br />
     <a style="margin-left: 2%" href="https://linkedin.com/in/austinhaedicke" target="_blank">
       <i class="fab fa-2x fa-linkedin"></i>
@@ -46,10 +50,12 @@
     <a style="margin-left: 2%" href="https://instagram.com/savagezen" target="_blank">
       <i class="fab fa-2x fa-instagram"></i>
     </a>
+    <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%" target="_blank">
+      <i class="fab fa-2x fa-facebook"></i>
+    </a>
     <a style="margin-left: 2%" href="https://twitter.com/carnivorebjj" target="_blank">
       <i class="fab fa-2x fa-twitter"></i>
     </a>
-  <br />
   <br />
 </div>
 
@@ -70,17 +76,11 @@
   <strong style="text-align: center"><u>Services</u></strong>
   <br />
   <br />
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+  <div style="text-align: center">
     <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://t.me/kombatkitchen">Community</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Coaching</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
+    <a class="btn" href="https://t.me/kombatkitchen">Community</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Coaching</a>
   </div>
   <br />
   <br />

@@ -22,7 +22,7 @@ toc: true
 <p style="text-align: center">
   <a class="btn" href="#faq">About / FAQs</a>
   <a class="btn" href="#services">Services</a>
-  <a class="btn" href="https://kombat-kitchen-store.weeblysite.com">Store</a>
+  <a class="btn" href="https://kombat-kitchen.square.site/">Store</a>
   <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
   <a class="btn" href="#reviews">Reviews</a>
 </p>
@@ -43,7 +43,7 @@ We consider health multi-dimensional and address each of the following <strong>F
   <li>Community (social health).</li>
 </ul>
 
-<strong>About Me</strong>:  You can learn about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.
+<strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.
 
 <div style="text-align: center">
   <strong>

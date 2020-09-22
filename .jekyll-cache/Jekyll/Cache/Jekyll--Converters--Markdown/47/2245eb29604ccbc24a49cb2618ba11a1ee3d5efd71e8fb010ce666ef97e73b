@@ -1,4 +1,4 @@
-I"Yh<!-- styling for hidden sections -->
+I"ïh<!-- styling for hidden sections -->
 
 <style>
 .expando {
@@ -33,12 +33,17 @@
   <li>Community (social health).</li>
 </ul>
 
-<p><strong>About Me</strong>:  You can learn about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.</p>
+<p><strong>About Me</strong>:  I am the only Precision Nutrition certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.</p>
+
+<p>You can learn about my personal health and competitive athlete journey in the <a href="/">Carnivore Jiujitero Blog</a> or about my credentials in the <a href="/tabs/about">About Me section</a>.</p>
 
 <div style="text-align: center">
   <strong>
     <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Book Nutrition Coaching Now!</a>
   </strong>
+  <br />
+  <br />
+    <a href="https://www.precisionnutrition.com/certified-coach-directory"><img src="/assets/img/icon-pn1.png" /></a>
   <br />
   <br />
     <a style="margin-left: 2%" href="https://linkedin.com/in/austinhaedicke" target="_blank">
@@ -73,17 +78,11 @@
   <strong style="text-align: center"><u>Services</u></strong>
   <br />
   <br />
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
+  <div style="text-align: center">
     <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://t.me/kombatkitchen">Community</a>
-  </div>
-  <div style="width: 22%; margin-right: 2%; float: left; border: 1px solid; border-radius: 25px">
-    <a href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Coaching</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
+    <a class="btn" href="https://t.me/kombatkitchen">Community</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Coaching</a>
   </div>
   <br />
   <br />

@@ -1,21 +1,12 @@
----
-title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
-
-## Savagezen
+I"I<<h2 id="savagezen">Savagezen</h2>
 
 <p style="text-align: right">
   <strong>(noun)</strong> | <i>A state of being</i>
 </p>
 
-> The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.
+<blockquote>
+  <p>The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life’s tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i></p>
+</blockquote>
 
 <!--
 ---
@@ -58,16 +49,16 @@ toc: true
 <hr>
 -->
 
-### Introduction
+<h3 id="introduction">Introduction</h3>
 
-This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
+<p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
 
 <details>
     <summary>A Brief History:</summary>
     <ul>
-      <li>Precision Nutrition PN1 Coach (<a href="https://www.precisionnutrition.com/certified-coach-directory">directory</a>)</li>
+      <li>Precision Nutrition PN1 Coach (<a href="https://www.precisionnutrition.com/certified-coach-directory">directory</a>)<li>
       <li>Faxia Roxa - 2/15/20</li>
       <li>Carnivore - 2/14/20</li>
         <ul>
@@ -81,8 +72,8 @@ At some point quest logs from tabletop role playing games were added as well as 
         <ul>
           <li>Linux Mint - 2012</li>
         </ul>
-    </ul>
-</details>
+    &lt;/ul&gt;
+&lt;/details&gt;
 <details>
   <summary>My Road to Carnivory</summary>
   Many moons ago, circa 2008, I began scouring bodybuilding forums to supplement my wrestling training.  In 2010 I found my self carrying over 200 lbs on my 5'8" frame.  I started training boxing, BJJ, and MMA then, and in 2011 took a more serious look at my diet.
@@ -107,17 +98,137 @@ At some point quest logs from tabletop role playing games were added as well as 
 </details>
 <details>
   <summary>Resources:</summary>
-    {% for resource in site.resources %}
-        <a href="{{ resource.link }}"><img src="{{ resource.img }}" style="float: right; width: 20%; height:25% ; margin-left: 2%"></a>
+    
+        <a href="https://amzn.to/3io9sK2"><img src="https://m.media-amazon.com/images/I/A1FDzKHSsQL._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
         <p style="margin-bottom: 20%">
-            <strong><a href="{{ resource.link }}">{{ resource.name }}</a></strong>
-            <br>
-            <i>by {{ resource.author }}</i>
-            <br>
-            {{ resource.type }}
+            <strong><a href="https://amzn.to/3io9sK2">The Carnivore Code</a></strong>
+            <br />
+            <i>by Paul Saladino</i>
+            <br />
+            Book
         </p>
-        <hr>
-  {% endfor %}
+        <hr />
+  
+        <a href="https://amzn.to/3koGc7P"><img src="https://m.media-amazon.com/images/I/51Nl9QD9mZL._AC_UL320_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/3koGc7P">Easy Strength</a></strong>
+            <br />
+            <i>by Dan John</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/3gHJ65u"><img src="https://m.media-amazon.com/images/I/815GL5SxBtL._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/3gHJ65u">The Four Hour Body</a></strong>
+            <br />
+            <i>by Tim Ferriss</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/3kqCvi3"><img src="https://m.media-amazon.com/images/I/61kQ2LYBMxL._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/3kqCvi3">Lies My Doctor Told Me</a></strong>
+            <br />
+            <i>by Ken Berry</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/3iqbDg6"><img src="https://m.media-amazon.com/images/I/71GLAwC9cPL._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/3iqbDg6">Outliers</a></strong>
+            <br />
+            <i>by Malcom Gladwell</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/30I1khM"><img src="https://m.media-amazon.com/images/I/516AkU0qPLL._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/30I1khM">The Paleo Solution</a></strong>
+            <br />
+            <i>by Robb Wolf</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/2XHplU6"><img src="https://m.media-amazon.com/images/I/61ufM-FtU+L._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/2XHplU6">The Primal Blueprint</a></strong>
+            <br />
+            <i>by Mark Sisson</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/2DKmpin"><img src="https://m.media-amazon.com/images/I/815+LMEB1CL._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/2DKmpin">The Salt Fix</a></strong>
+            <br />
+            <i>by James DiNicolantonio</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://amzn.to/3gI1qey"><img src="https://m.media-amazon.com/images/I/61rk1ZJzM1L._AC_UY218_.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://amzn.to/3gI1qey">The Talent Code</a></strong>
+            <br />
+            <i>by Daniel Coyle</i>
+            <br />
+            Book
+        </p>
+        <hr />
+  
+        <a href="https://castbox.fm/channel/Ben-Greenfield-Fitness-id1364807?country=us"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/c2/e0/5d/c2e05d53-5fe2-6458-3971-aceb655ff899/mza_6788649077697036072.png/400x400bb.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://castbox.fm/channel/Ben-Greenfield-Fitness-id1364807?country=us">Ben Greenfield Fitness</a></strong>
+            <br />
+            <i>by Ben Greenfield</i>
+            <br />
+            Podcast
+        </p>
+        <hr />
+  
+        <a href="https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592"><img src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/6b/48/17/6b481762-cb4e-8db8-520a-e733b6886dd6/mza_5090688504817224065.jpg/400x400bb.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://castbox.fm/channel/Fundamental-Health-with-Paul-Saladino%2C-MD-id2108592">Fundamental Health</a></strong>
+            <br />
+            <i>by Paul Saladino</i>
+            <br />
+            Podcast
+        </p>
+        <hr />
+  
+        <a href="https://castbox.fm/channel/The-Healthy-Rebellion-Radio-id2434386"><img src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/15/b7/43/15b743de-be23-3291-4a83-348c127fda38/mza_14223100350029258018.jpg/400x400bb.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://castbox.fm/channel/The-Healthy-Rebellion-Radio-id2434386">The Healthy Rebellion Radio</a></strong>
+            <br />
+            <i>by Robb Wolf</i>
+            <br />
+            Podcast
+        </p>
+        <hr />
+  
+        <a href="https://castbox.fm/channel/The-Natural-State-with-Dr.-Anthony-Gustin-id1366332"><img src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b6/12/d5/b612d5fe-1823-58e9-b99f-82a1b985bdb7/mza_10226172659541961564.jpg/400x400bb.jpg" style="float: right; width: 20%; height:25% ; margin-left: 2%" /></a>
+        <p style="margin-bottom: 20%">
+            <strong><a href="https://castbox.fm/channel/The-Natural-State-with-Dr.-Anthony-Gustin-id1366332">The Natural State</a></strong>
+            <br />
+            <i>by Anthony Guston</i>
+            <br />
+            Podcast
+        </p>
+        <hr />
+  
 </details>
 
 ---
@@ -136,3 +247,5 @@ If you are so inclined, you can still make a donation with a variety of cryptocu
   * PayPal:  [https://paypal.me/savagezen](https://paypal.me/savagezen) 
 
 You'll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with because I believe in and support their product(s) and process.  If I could sell books directly without going through Amazon, I certainly would!
+</li></li></ul></details>
+:ET
