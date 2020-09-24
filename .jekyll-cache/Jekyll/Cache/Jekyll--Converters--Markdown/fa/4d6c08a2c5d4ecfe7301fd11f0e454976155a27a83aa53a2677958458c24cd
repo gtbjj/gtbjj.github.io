@@ -1,4 +1,4 @@
-I"'©
+I"ª
 <div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
 
 
@@ -280,6 +280,10 @@
 
   <div>
     <a class="tag" href="/tags/certificate/">certificate<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/certification/">certification<span class="text-muted">1</span></a>
   </div>
 
   <div>
@@ -827,7 +831,7 @@
   </div>
 
   <div>
-    <a class="tag" href="/tags/kombat-kitchen/">kombat kitchen<span class="text-muted">10</span></a>
+    <a class="tag" href="/tags/kombat-kitchen/">kombat kitchen<span class="text-muted">11</span></a>
   </div>
 
   <div>
@@ -1011,7 +1015,7 @@
   </div>
 
   <div>
-    <a class="tag" href="/tags/nutrition/">nutrition<span class="text-muted">36</span></a>
+    <a class="tag" href="/tags/nutrition/">nutrition<span class="text-muted">37</span></a>
   </div>
 
   <div>
@@ -1120,6 +1124,10 @@
 
   <div>
     <a class="tag" href="/tags/power-state/">power state<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/precision-nutrition/">precision nutrition<span class="text-muted">1</span></a>
   </div>
 
   <div>
