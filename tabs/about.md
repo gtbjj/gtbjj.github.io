@@ -15,7 +15,7 @@ toc: true
   <strong>(noun)</strong> | <i>A state of being</i>
 </p>
 
-> The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.
+> The transient state oscillating between serenity and chaos amid fulfillment of both creative and destructive energies ultimately coalescing in the pursuit and challenging of human nature.  Embrace that violence is always an option and savor life's tranquil moments.  Be relentless in the pursuit of what sets your soul on fire.  <i>Amor fati.</i>
 
 <!--
 ---
@@ -62,7 +62,7 @@ toc: true
 
 This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I'd worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.
 
-At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.
+At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting and competing in combat sports again.
 
 <details>
     <summary>A Brief History:</summary>
@@ -124,8 +124,9 @@ At some point quest logs from tabletop role playing games were added as well as 
 
 **Support This Site**
 
-With the launch of [Kombat Kitchen](/tabs/kombat_kitchen) there are many ways to support this site.  Rather than e-begging and asking for donations, several [products](https://kombat-kitchen-store.weeblysite.com/) are affordably priced so that you can support the information provided on this site for a minimal cost.
+With the launch of [Kombat Kitchen](/tabs/kombat_kitchen) there are many ways to support this site.  Rather than e-begging and asking for donations, several [e-books](https://kombat-kitchen.square.site/) are affordably priced so that you can support the information provided on this site for a minimal cost.
 
+<!--
 If you are so inclined, you can still make a donation with a variety of cryptocurrencies as well as [donate via PayPal](https://paypal.me/savagezen).  Below are my public addresses for the respective coins.
 
 * Cryptocurrency Addresses:
@@ -134,5 +135,6 @@ If you are so inclined, you can still make a donation with a variety of cryptocu
   * BTC:     ```1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe```
   * ZEC:     ```t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb```
   * PayPal:  [https://paypal.me/savagezen](https://paypal.me/savagezen) 
+-->
 
 You'll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with because I believe in and support their product(s) and process.  If I could sell books directly without going through Amazon, I certainly would!

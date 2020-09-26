@@ -21,7 +21,6 @@ toc: true
 
 <p style="text-align: center">
   <a class="btn" href="#faq">About / FAQs</a>
-  <a class="btn" href="#services">Services</a>
   <a class="btn" href="https://kombat-kitchen.square.site/">Store</a>
   <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
   <a class="btn" href="#reviews">Reviews</a>
@@ -37,10 +36,18 @@ The Kombat Kitchen is a nutritional coaching program with two primary goals:
 We consider health multi-dimensional and address each of the following <strong>Four Pillars</strong>:
 
 <ul>
-  <li>Nutrition (metabolic health),</li>
-  <li>Fitness (physical health),</li>
-  <li>Mindset (mental health), and</li>
-  <li>Community (social health).</li>
+  <li>Nutrition (metabolic health)</li>
+  <li>Fitness (physical health)</li>
+  <li>Mindset (mental, emotional, cognitive health)</li>
+  <li>Community (social, environmental health)</li>
+</ul>
+
+We attempt to address each of these areas within the context of each individual's goals.  We currently provide the following services:
+
+<ul>
+  <li><a href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>: Individual nutrition coaching</li> 
+  <li><a href="https://kombat-kitchen.square.site/">E-Books</a>: 30 day challenge programs and research articles</li>
+  <li><a href="https://kombat-kitchen.square.site/">Supplements</a>: Fuel and recovery on the go</li>
 </ul>
 
 <strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.
@@ -76,21 +83,6 @@ We consider health multi-dimensional and address each of the following <strong>F
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
     To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
-</ul>
-
-<ul id="services" class="expando" style="list-style-type: none; text-align: center">
-  <hr>
-  <strong style="text-align: center"><u>Services</u></strong>
-  <br>
-  <br>
-  <div style="text-align: center">
-    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
-    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
-    <a class="btn" href="https://t.me/kombatkitchen">Community</a>
-    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Coaching</a>
-  </div>
-  <br>
-  <br>
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
@@ -139,3 +131,12 @@ We consider health multi-dimensional and address each of the following <strong>F
 <hr>
 
 {% include carousel.html height="45" unit="%" duration="3" %}
+
+<div style="text-align: center">
+  <strong>Support Our Friends</strong>
+  <br>
+  <a class="btn" href="https://heartandsoilsupplements.com">Heart & Soil</a>
+  <a class="btn" href="https://truorganicbeef.com">TruBeef</a>
+  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32">Flyby</a>
+</div>
+

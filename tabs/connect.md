@@ -7,6 +7,9 @@
 ---
 
 <p style="text-align: center">
+  <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Book Nutrition Coaching Now!</a>
+  <br>
+  <br>
   The best way to contact me is direct message on:
   <br>
   <br>
@@ -29,6 +32,9 @@
     <i class="fab fa-3x fa-youtube"></i>
   <a style="margin-left: 2%" href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
     <i class="fab fa-3x fa-twitter"></i>
+  </a>
+  <a style="margin-left: 2%" href="mailto:{{ site.social.email }}" target="_blank">
+    <i class="fas fa-3x fa-envelope"></i>
   </a>
 
 <!--

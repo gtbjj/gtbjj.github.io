@@ -1,4 +1,4 @@
-I"àg<!-- styling for hidden sections -->
+I"ëN<!-- styling for hidden sections -->
 
 <style>
 .expando {
@@ -11,7 +11,6 @@
 
 <p style="text-align: center">
   <a class="btn" href="#faq">About / FAQs</a>
-  <a class="btn" href="#services">Services</a>
   <a class="btn" href="https://kombat-kitchen.square.site/">Store</a>
   <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
   <a class="btn" href="#reviews">Reviews</a>
@@ -26,12 +25,24 @@
 
 <p>We consider health multi-dimensional and address each of the following <strong>Four Pillars</strong>:</p>
 
-<ul>
-  <li>Nutrition (metabolic health),</li>
-  <li>Fitness (physical health),</li>
-  <li>Mindset (mental health), and</li>
-  <li>Community (social health).</li>
-</ul>
+<div style="text-align: center">
+  <i>Nutrition</i> | 
+  <i>Fitness</i> | 
+  <i>Mindset</i> | 
+  <i>Community</i>
+</div>
+
+<p><br /></p>
+
+<p>We attempt to address each of these areas within the context of each individualâ€™s goals.  We currently provide the following services:</p>
+
+<div style="text-align: center">
+  <a style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>
+  <a style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://kombat-kitchen.square.site/">E-Books</a>
+  <a style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://kombat-kitchen.square.site/">Supplements</a>
+</div>
+
+<p><br /></p>
 
 <p><strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.</p>
 
@@ -66,21 +77,6 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     <br />
     To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
-</ul>
-
-<ul id="services" class="expando" style="list-style-type: none; text-align: center">
-  <hr />
-  <strong style="text-align: center"><u>Services</u></strong>
-  <br />
-  <br />
-  <div style="text-align: center">
-    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/challenge-programs/2">E-Books</a>
-    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/shop/supplements/4">Supplements</a>
-    <a class="btn" href="https://t.me/kombatkitchen">Community</a>
-    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&amp;sa=true&amp;sbp=false&amp;q=false">Coaching</a>
-  </div>
-  <br />
-  <br />
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
@@ -247,21 +243,13 @@ I feel a lot less bloated and have a lot less cravings.
         
           <input class="carousel__activator" type="radio" name="carousel" id="c" />
         
-          <input class="carousel__activator" type="radio" name="carousel" id="d" />
-        
-          <input class="carousel__activator" type="radio" name="carousel" id="e" />
-        
-          <input class="carousel__activator" type="radio" name="carousel" id="f" />
-        
-          <input class="carousel__activator" type="radio" name="carousel" id="g" />
-        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="g"></label>
+              <label class="carousel__control carousel__control--backward" for="c"></label>
               <label class="carousel__control carousel__control--forward" for="b"></label>
           </div>
         
@@ -280,59 +268,15 @@ I feel a lot less bloated and have a lot less cravings.
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="b"></label>
-              <label class="carousel__control carousel__control--forward" for="d"></label>
-          </div>
-        
-          
-          
-          
-          
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="c"></label>
-              <label class="carousel__control carousel__control--forward" for="e"></label>
-          </div>
-        
-          
-          
-          
-          
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="d"></label>
-              <label class="carousel__control carousel__control--forward" for="f"></label>
-          </div>
-        
-          
-          
-          
-          
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="e"></label>
-              <label class="carousel__control carousel__control--forward" for="g"></label>
-          </div>
-        
-          
-          
-          
-          
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="f"></label>
               <label class="carousel__control carousel__control--forward" for="a"></label>
           </div>
         
         <div class="carousel__track">
           <ul>
             
-            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_white-oak-20.jpg');"></li>
-            
             <li class="carousel__slide" style="background-image: url('/assets/img/coupon_flyby.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_native.jpg');"></li>
-            
             <li class="carousel__slide" style="background-image: url('/assets/img/coupon_heart-and-soil.jpg');"></li>
-            
-            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_brave.jpg');"></li>
-            
-            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_castbox.jpg');"></li>
             
             <li class="carousel__slide" style="background-image: url('/assets/img/coupon_trubeef.jpg');"></li>
             
@@ -345,14 +289,6 @@ I feel a lot less bloated and have a lot less cravings.
               <label class="carousel__indicator" for="b"></label>
             
               <label class="carousel__indicator" for="c"></label>
-            
-              <label class="carousel__indicator" for="d"></label>
-            
-              <label class="carousel__indicator" for="e"></label>
-            
-              <label class="carousel__indicator" for="f"></label>
-            
-              <label class="carousel__indicator" for="g"></label>
             
         </div>
     </div>
@@ -442,98 +378,6 @@ I feel a lot less bloated and have a lot less cravings.
   opacity: 1;
 }
 
-.carousel__activator:nth-of-type(4):checked ~ .carousel__track {
-  -webkit-transform: translateX(-300%);
-          transform: translateX(-300%);
-}
-.carousel__activator:nth-of-type(4):checked ~ .carousel__slide:nth-of-type(4) {
-  transition: opacity 0.5s, -webkit-transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
-  top: 0;
-  left: 0;
-  right: 0;
-  opacity: 1;
-  -webkit-transform: scale(1);
-          transform: scale(1);
-}
-.carousel__activator:nth-of-type(4):checked ~ .carousel__controls:nth-of-type(4) {
-  display: block;
-  opacity: 1;
-}
-.carousel__activator:nth-of-type(4):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(4) {
-  opacity: 1;
-}
-
-.carousel__activator:nth-of-type(5):checked ~ .carousel__track {
-  -webkit-transform: translateX(-400%);
-          transform: translateX(-400%);
-}
-.carousel__activator:nth-of-type(5):checked ~ .carousel__slide:nth-of-type(5) {
-  transition: opacity 0.5s, -webkit-transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
-  top: 0;
-  left: 0;
-  right: 0;
-  opacity: 1;
-  -webkit-transform: scale(1);
-          transform: scale(1);
-}
-.carousel__activator:nth-of-type(5):checked ~ .carousel__controls:nth-of-type(5) {
-  display: block;
-  opacity: 1;
-}
-.carousel__activator:nth-of-type(5):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(5) {
-  opacity: 1;
-}
-
-.carousel__activator:nth-of-type(6):checked ~ .carousel__track {
-  -webkit-transform: translateX(-500%);
-          transform: translateX(-500%);
-}
-.carousel__activator:nth-of-type(6):checked ~ .carousel__slide:nth-of-type(6) {
-  transition: opacity 0.5s, -webkit-transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
-  top: 0;
-  left: 0;
-  right: 0;
-  opacity: 1;
-  -webkit-transform: scale(1);
-          transform: scale(1);
-}
-.carousel__activator:nth-of-type(6):checked ~ .carousel__controls:nth-of-type(6) {
-  display: block;
-  opacity: 1;
-}
-.carousel__activator:nth-of-type(6):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(6) {
-  opacity: 1;
-}
-
-.carousel__activator:nth-of-type(7):checked ~ .carousel__track {
-  -webkit-transform: translateX(-600%);
-          transform: translateX(-600%);
-}
-.carousel__activator:nth-of-type(7):checked ~ .carousel__slide:nth-of-type(7) {
-  transition: opacity 0.5s, -webkit-transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s;
-  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
-  top: 0;
-  left: 0;
-  right: 0;
-  opacity: 1;
-  -webkit-transform: scale(1);
-          transform: scale(1);
-}
-.carousel__activator:nth-of-type(7):checked ~ .carousel__controls:nth-of-type(7) {
-  display: block;
-  opacity: 1;
-}
-.carousel__activator:nth-of-type(7):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(7) {
-  opacity: 1;
-}
-
 
 .carousel__control {
   height: 30px;
@@ -618,26 +462,6 @@ I feel a lot less bloated and have a lot less cravings.
           transform: translateX(200%);
 }
 
-.carousel__track .carousel__slide:nth-of-type(4) {
-  -webkit-transform: translateX(300%);
-          transform: translateX(300%);
-}
-
-.carousel__track .carousel__slide:nth-of-type(5) {
-  -webkit-transform: translateX(400%);
-          transform: translateX(400%);
-}
-
-.carousel__track .carousel__slide:nth-of-type(6) {
-  -webkit-transform: translateX(500%);
-          transform: translateX(500%);
-}
-
-.carousel__track .carousel__slide:nth-of-type(7) {
-  -webkit-transform: translateX(600%);
-          transform: translateX(600%);
-}
-
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -672,30 +496,6 @@ I feel a lot less bloated and have a lot less cravings.
 
 .carousel__slide:nth-of-type(3),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
-  background-size: cover;
-  background-position: center;
-}
-
-.carousel__slide:nth-of-type(4),
-.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
-  background-size: cover;
-  background-position: center;
-}
-
-.carousel__slide:nth-of-type(5),
-.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
-  background-size: cover;
-  background-position: center;
-}
-
-.carousel__slide:nth-of-type(6),
-.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(6) {
-  background-size: cover;
-  background-position: center;
-}
-
-.carousel__slide:nth-of-type(7),
-.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(7) {
   background-size: cover;
   background-position: center;
 }
@@ -740,5 +540,13 @@ I feel a lot less bloated and have a lot less cravings.
   },3000);
   
 </script>
+
+<div style="text-align: center">
+  <strong>Support Our Friends</strong>
+  <br />
+  <a class="btn" href="https://heartandsoilsupplements.com">Heart &amp; Soil</a>
+  <a class="btn" href="https://truorganicbeef.com">TruBeef</a>
+  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32">Flyby</a>
+</div>
 
 :ET
