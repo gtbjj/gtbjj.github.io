@@ -1,4 +1,4 @@
-I"b=<h2 id="savagezen">Savagezen</h2>
+I"K<<h2 id="savagezen">Savagezen</h2>
 
 <p style="text-align: right">
   <strong>(noun)</strong> | <i>A state of being</i>
@@ -53,7 +53,7 @@
 
 <p>This site has gone through many incarnations.  It began as a homemade wiki of tutorials, problems, and solutions I’d worked on with Arch Linux.  From there it journaled my rock climbing dirtbag adventures.</p>
 
-<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting combat sports again.</p>
+<p>At some point quest logs from tabletop role playing games were added as well as development notes from my Android projects.  Eventually, I included more nutritional research I had done as well as some reflections on starting and competing in combat sports again.</p>
 
 <details>
     <summary>A Brief History:</summary>
@@ -235,21 +235,18 @@
 
 <p><strong>Support This Site</strong></p>
 
-<p>With the launch of <a href="/tabs/kombat_kitchen">Kombat Kitchen</a> there are many ways to support this site.  Rather than e-begging and asking for donations, several <a href="https://kombat-kitchen-store.weeblysite.com/">products</a> are affordably priced so that you can support the information provided on this site for a minimal cost.</p>
+<p>With the launch of <a href="/tabs/kombat_kitchen">Kombat Kitchen</a> there are many ways to support this site.  Rather than e-begging and asking for donations, several <a href="https://kombat-kitchen.square.site/">e-books</a> are affordably priced so that you can support the information provided on this site for a minimal cost.</p>
 
-<p>If you are so inclined, you can still make a donation with a variety of cryptocurrencies as well as <a href="https://paypal.me/savagezen">donate via PayPal</a>.  Below are my public addresses for the respective coins.</p>
+<!--
+If you are so inclined, you can still make a donation with a variety of cryptocurrencies as well as [donate via PayPal](https://paypal.me/savagezen).  Below are my public addresses for the respective coins.
 
-<ul>
-  <li>Cryptocurrency Addresses:
-    <ul>
-      <li>BAT:     <code class="highlighter-rouge">0x55e9232F55cF0B77621091C5B0A44C5D63B840d5</code></li>
-      <li>ETH:     <code class="highlighter-rouge">0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B</code></li>
-      <li>BTC:     <code class="highlighter-rouge">1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe</code></li>
-      <li>ZEC:     <code class="highlighter-rouge">t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb</code></li>
-      <li>PayPal:  <a href="https://paypal.me/savagezen">https://paypal.me/savagezen</a></li>
-    </ul>
-  </li>
-</ul>
+* Cryptocurrency Addresses:
+  * BAT:     ```0x55e9232F55cF0B77621091C5B0A44C5D63B840d5```
+  * ETH:     ```0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B```
+  * BTC:     ```1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe```
+  * ZEC:     ```t1WQbZemhHarJjAUqTn41fDywUaZ73f3czb```
+  * PayPal:  [https://paypal.me/savagezen](https://paypal.me/savagezen) 
+-->
 
-<p>You’ll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with because I believe in and support their product(s) and process.  If I could sell books directly without going through Amazon, I certainly would!</p>
+<p>You’ll never find any ads on this site other than for my own products and for those people / <a href="/tabs/kombatkitchen/#friends">businesses I choose to affiliate with</a> because I believe in and support their product(s) and process.</p>
 :ET

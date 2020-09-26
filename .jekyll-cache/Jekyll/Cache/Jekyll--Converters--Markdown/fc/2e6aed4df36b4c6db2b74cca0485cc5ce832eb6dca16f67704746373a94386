@@ -1,4 +1,4 @@
-I"ëN<!-- styling for hidden sections -->
+I"ÂN<!-- styling for hidden sections -->
 
 <style>
 .expando {
@@ -25,24 +25,20 @@
 
 <p>We consider health multi-dimensional and address each of the following <strong>Four Pillars</strong>:</p>
 
-<div style="text-align: center">
-  <i>Nutrition</i> | 
-  <i>Fitness</i> | 
-  <i>Mindset</i> | 
-  <i>Community</i>
-</div>
-
-<p><br /></p>
+<ul>
+  <li>Nutrition (metabolic health)</li>
+  <li>Fitness (physical health)</li>
+  <li>Mindset (mental, emotional, cognitive health)</li>
+  <li>Community (social, environmental health)</li>
+</ul>
 
 <p>We attempt to address each of these areas within the context of each individualâ€™s goals.  We currently provide the following services:</p>
 
-<div style="text-align: center">
-  <a style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>
-  <a style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://kombat-kitchen.square.site/">E-Books</a>
-  <a style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://kombat-kitchen.square.site/">Supplements</a>
-</div>
-
-<p><br /></p>
+<ul>
+  <li><a href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>: Individual nutrition coaching</li> 
+  <li><a href="https://kombat-kitchen.square.site/">E-Books</a>: 30 day challenge programs and research articles</li>
+  <li><a href="https://kombat-kitchen.square.site/">Supplements</a>: Fuel and recovery on the go</li>
+</ul>
 
 <p><strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.</p>
 
@@ -278,7 +274,7 @@ I feel a lot less bloated and have a lot less cravings.
             
             <li class="carousel__slide" style="background-image: url('/assets/img/coupon_heart-and-soil.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_trubeef.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_trubeef.png');"></li>
             
           </ul>
         </div>

@@ -1,4 +1,4 @@
-I"LO<!-- styling for hidden sections -->
+I"|O<!-- styling for hidden sections -->
 
 <style>
 .expando {
@@ -34,15 +34,13 @@
 
 <p>We attempt to address each of these areas within the context of each individual’s goals.  We currently provide the following services:</p>
 
-<div style="text-align: center">
-  <a class="btn" style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>
-  <a class="btn" style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://kombat-kitchen.square.site/">E-Books</a>
-  <a class="btn" style="border: 1px solid; border-radius: 25px; margin-right: 1%" href="https://kombat-kitchen.square.site/">Supplements</a>
-</div>
+<ul>
+  <li><a href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>: Individual nutrition coaching</li> 
+  <li><a href="https://kombat-kitchen.square.site/">E-Books</a>: 30 day challenge programs and research articles</li>
+  <li><a href="https://kombat-kitchen.square.site/">Supplements</a>: Fuel and recovery on the go</li>
+</ul>
 
-<p><br /></p>
-
-<p><strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.</p>
+<p><strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a>, <a href="">what it’s like working with me</a>, and <a href="/">my personal journey</a> throughout this site.</p>
 
 <div style="text-align: center">
   <strong>
@@ -276,7 +274,7 @@ I feel a lot less bloated and have a lot less cravings.
             
             <li class="carousel__slide" style="background-image: url('/assets/img/coupon_heart-and-soil.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_trubeef.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('/assets/img/coupon_trubeef.png');"></li>
             
           </ul>
         </div>
@@ -539,12 +537,12 @@ I feel a lot less bloated and have a lot less cravings.
   
 </script>
 
-<div style="text-align: center">
+<div style="text-align: center" id="friends">
   <strong>Support Our Friends</strong>
   <br />
-  <a class="btn" href="https://heartandsoilsupplements.com">Heart &amp; Soil</a>
-  <a class="btn" href="https://truorganicbeef.com">TruBeef</a>
-  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32">Flyby</a>
+  <a class="btn" href="https://heartandsoilsupplements.com" title="10% off with code: savagezen10">Heart &amp; Soil</a>
+  <a class="btn" href="http://trubeeftruorganicb.refr.cc/austinh" title="$25 off your first order!">TruBeef</a>
+  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32" title="10% off with code: wheel923810">Flyby</a>
 </div>
 
 :ET

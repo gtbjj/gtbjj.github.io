@@ -50,7 +50,7 @@ We attempt to address each of these areas within the context of each individual'
   <li><a href="https://kombat-kitchen.square.site/">Supplements</a>: Fuel and recovery on the go</li>
 </ul>
 
-<strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a> and <a href="/">my journey</a> by taking a look around this site.
+<strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a>, <a href="{% post_url 2020-09-24-change-maker-abilities %}">what it's like working with me</a>, and <a href="/">my personal journey</a> throughout this site.
 
 <div style="text-align: center">
   <strong>
@@ -132,11 +132,11 @@ We attempt to address each of these areas within the context of each individual'
 
 {% include carousel.html height="45" unit="%" duration="3" %}
 
-<div style="text-align: center">
+<div style="text-align: center" id="friends">
   <strong>Support Our Friends</strong>
   <br>
-  <a class="btn" href="https://heartandsoilsupplements.com">Heart & Soil</a>
-  <a class="btn" href="https://truorganicbeef.com">TruBeef</a>
-  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32">Flyby</a>
+  <a class="btn" href="https://heartandsoilsupplements.com" title="10% off with code: savagezen10">Heart & Soil</a>
+  <a class="btn" href="http://trubeeftruorganicb.refr.cc/austinh" title="$25 off your first order!">TruBeef</a>
+  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32" title="10% off with code: wheel923810">Flyby</a>
 </div>
 

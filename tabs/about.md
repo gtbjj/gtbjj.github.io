@@ -84,7 +84,7 @@ At some point quest logs from tabletop role playing games were added as well as 
     </ul>
 </details>
 <details>
-  <summary>My Road to Carnivory</summary>
+  <summary>My Road to Carnivory:</summary>
   Many moons ago, circa 2008, I began scouring bodybuilding forums to supplement my wrestling training.  In 2010 I found my self carrying over 200 lbs on my 5'8" frame.  I started training boxing, BJJ, and MMA then, and in 2011 took a more serious look at my diet.
   <br /> <br />
   I started to ditch the "bro-science" and be more methodical, picking up a copy of Tim Ferriss's *The Four Hour Body*.  It wasn't too long then until I transitioned to Robb Wolf's *Paleo Solution* and Mark Sisson's *Primal Blueprint.*  And so I set out on my paleo path happily from 2012 - 2019.
@@ -104,6 +104,9 @@ At some point quest logs from tabletop role playing games were added as well as 
   In the third 30 days I started sleeping better and my mood improved.  I don't have a way to quantify this, but I can tell you that it was noticeable by my friends and colleagues.  Co-workers literally asked what was going so well in my life because they could notice a palpable change in my body language and mood.
   <br /> <br />
   The rest, as they say, is history.  After the first 90 days I settled down with the experimenting and got less meticulous with the tracking and focused on educating others as well as furthering my own education.  As long as I continue to feel good, perform well, and continue to find RCTs and meta-analysis to support my practices this is the route I'll stay on.
+</details>
+<details>
+  <summary><a href="{% post_url 2020-09-24-change-maker-abilities %}">What it's like working with me:</a></summary>
 </details>
 <details>
   <summary>Resources:</summary>
@@ -137,4 +140,4 @@ If you are so inclined, you can still make a donation with a variety of cryptocu
   * PayPal:  [https://paypal.me/savagezen](https://paypal.me/savagezen) 
 -->
 
-You'll never find any ads on this site other than for my own products and for those people / businesses I choose to affiliate with because I believe in and support their product(s) and process.  If I could sell books directly without going through Amazon, I certainly would!
+You'll never find any ads on this site other than for my own products and for those people / [businesses I choose to affiliate with](/tabs/kombat_kitchen/#friends) because I believe in and support their product(s) and process.
