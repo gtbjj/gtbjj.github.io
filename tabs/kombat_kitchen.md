@@ -8,8 +8,6 @@ title: Kombat Kitchen
 toc: true
 ---
 
-<!-- styling for hidden sections -->
-
 <style>
 .expando {
   display: none;
@@ -19,74 +17,83 @@ toc: true
 }
 </style>
 
+Welcome to the Kombat Kitchen!  We help:
+
+<ul>
+    <li><strong>Athletes</strong>, specifically combat sports athletes, improve their mental and metabolic health so that they can improve perform better in competition and reduce stress and anxiety in their lives.</li>
+    <li><strong>Everyday people</strong> lose weight without feeling deprived and build strength and energy to rediscover your vitality so that you can feel like food is your friend and live an active life you enjoy.</li>
+</ul>
+
+What's it like working with us?
+
+<ul>
+    <li>Take a look at one of our <a href="https://kombat-kitchen.square.site/shop/e-books/4">FREE E-books</a>, </li>
+    <li>read <a href="#reviews">reviews from clients</a>, </li>
+    <li>or read <a href="{% post_url 2020-09-24-change-maker-abilities %}">what our colleagues say about us</a>.</li>
+</ul>
+
+Who am I?
+
+<ul style="list-style-type: none">
+    <li>
+        I am a <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach (PN1) and a <a href="http://verify.sos.ga.gov/verification/">licensed mental health provider</a> (LAPC).  I am purple belt in Brazilian Jiu Jitsu and have a passion for bringing animal-based / nose-to-tail nutrition to combat sports athletes.  I'm also adamant about supporting sustainable and regenerative agriculture.  My personal health journey is well documented in <a href="/">the blog on this site</a>.
+    </li>
+</ul>
+
+---
+
 <p style="text-align: center">
-  <a class="btn" href="#faq">About / FAQs</a>
-  <a class="btn" href="https://kombat-kitchen.square.site/">Store</a>
-  <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
-  <a class="btn" href="#reviews">Reviews</a>
+    <a class="btn" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Nutrition Coaching</a>
+    <a class="btn" href="#products">Products</a>
+    <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
+    <a class="btn" href="#reviews">Reviews</a>
 </p>
 
-The Kombat Kitchen is a nutritional coaching program with two primary goals:
-
-<ul>
-  <li><i>Improve the performance</i> of athletes through nutrition, and</li>
-  <li><i>Empower everyday people</i> to <code>#fightforyourhealth.</code></li>
-</ul>
-
-We consider health multi-dimensional and address each of the following <strong>Four Pillars</strong>:
-
-<ul>
-  <li>Nutrition (metabolic health)</li>
-  <li>Fitness (physical health)</li>
-  <li>Mindset (mental, emotional, cognitive health)</li>
-  <li>Community (social, environmental health)</li>
-</ul>
-
-We attempt to address each of these areas within the context of each individual's goals.  We currently provide the following services:
-
-<ul>
-  <li><a href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Coaching</a>: Individual nutrition coaching</li> 
-  <li><a href="https://kombat-kitchen.square.site/">E-Books</a>: 30 day challenge programs and research articles</li>
-  <li><a href="https://kombat-kitchen.square.site/">Supplements</a>: Fuel and recovery on the go</li>
-</ul>
-
-<strong>About Me</strong>:  I am the only <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach in Villa Rica, GA and one of less than 10 in the Carroll-Douglas-Paulding County area.  I am also the only one of those nutrition coaches to be credentialed in mental health as well.  You can <a href="/tabs/about">learn more about me</a>, <a href="{% post_url 2020-09-24-change-maker-abilities %}">what it's like working with me</a>, and <a href="/">my personal journey</a> throughout this site.
-
-<div style="text-align: center">
-  <strong>
-    <a class="btn" style="border: 1px solid; border-radius: 25px" href="https://kombat-kitchen-store.weeblysite.com/product/coaching/16?cp=true&sa=true&sbp=false&q=false">Book Nutrition Coaching Now!</a>
-  </strong>
-  <br>
-  <br>
-    <a style="margin-left: 2%" href="https://linkedin.com/in/{{ site.linkedin.username }}" target="_blank">
-      <i class="fab fa-2x fa-linkedin"></i>
-    </a>
-    <a style="margin-left: 2%" href="https://instagram.com/{{ site.instagram.username }}" target="_blank">
-      <i class="fab fa-2x fa-instagram"></i>
-    </a>
-    <a href="https://www.facebook.com/Kombat-Kitchen-634691730500703" style="margin-left: 2%" target="_blank">
-      <i class="fab fa-2x fa-facebook"></i>
-    </a>
-    <a style="margin-left: 2%" href="https://twitter.com/{{ site.twitter.username }}" target="_blank">
-      <i class="fab fa-2x fa-twitter"></i>
-    </a>
-  <br>
-</div>
+---
 
 <!-- hidden sections -->
 
-<ul id="faq" class="expando" style="list-style-type: none; text-align: center">
-    <hr>
-    <strong style="text-align: center">About / FAQs</strong>
-    <br>
-    <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLmMb6kv15DKA15bijnWPxYw9BBqBucuff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <br>
-    To have your questions featured, send me a message on <a href="https://t.me/savagezen">Telegram</a> or on <a href="https://instagram.com/savagezen">Instagram</a>.
+<ul id="products" class="expando" style="list-style-type: none">
+    <li>
+        <strong>Heart & Soil Supplements</strong>
+        <br>
+        <img src="/assets/img/icon_heartandsoil5.png" style="float: right; width: 40%; height: auto">
+        <br>
+        Freeze dried beef organ supplements made from grass-fed, grass-finished, <a href="https://heartandsoil.co/pages/land-regeneration">regeneratively raised cattle</a> that provide <a href="https://heartandsoil.co/pages/nose-to-tail">nose-to-tail nutrition</a> on the go and on the run.  Beef organs provide a range of benefits from improving athletic performance and libido, to immune and digestive function, to joint health and mood.  <code>Save 10%</code> with the code <code>savagezen10</code>.
+        <br>
+        <a class="btn" href="https://heartandsoil.co">Shop Now</a>
+        <hr>
+    </li>
+    <li>
+        <strong>Tru Beef</strong>
+        <br>
+        <img src="/assets/img/icon_trubeef.jpg" style="float: right; width: 40%; height: auto">
+        <br>
+        Tru Beef provides grass-fed, pasture-raised beef that is 100% USDA certified organic and utilizes sustainable, <a href="https://truorganicbeef.com/pages/trubeef-is-carbon-neutral">carbon-neutral</a> farming practices.  They are also part of the Global Animal Partnership.  <code>Save $25</code> using the link / button below.
+        <br>
+        <a class="btn" title="save 10% with code: savagezen10" href="http://trubeeftruorganicb.refr.cc/austinh">Shop Now</a>
+        <hr>
+    </li>
+    <li>
+        <strong>Flyby Electrolytes</strong>
+        <br>
+        <img src="/assets/img/icon_flyby.png" style="float: right; width: 40%; height: auto">
+        <br>
+        Flyby offers a great tasting, all-natural electrolyte supplement that is about 3x as concentrated as commercial sport's drinks at about half the cost.  The powder mix contains no fillers and no extra "vitamins", just the electrolytes you want and need.  Best of all, it's low sodium, so you can add salt as your training or the weather demands.
+        <br>
+        <a class="btn" title="save $25 using this link" href="https://www.flyby.co/?rfsn=4562479.acaf32">Shop Now</a>
+        <hr>
+    </li>
+    <li>
+        <strong>Submission Shark Apparel</strong>
+        <br>
+        <img src="/assets/img/icon_submissionshark.png" style="float: right; width: 40%; height: auto">
+        <br>
+        <code>Coming Soon!</code>
+    </li>
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
-  <hr>
   <strong style="text-align: center">Reviews</strong>
   <br>
   <br>
@@ -98,45 +105,4 @@ We attempt to address each of these areas within the context of each individual'
     </li>
   {% endfor %}
 </ul>
-
-<!-- old manual / self hosted store
-
-<ul id="products" class="expando" style="list-style-type: none">
-  {% for product in site.products %}
-      <a href="{{ product.buy_now }}"><img src="{{ product.img }}" title="Buy Now" style="float: right; width: 20%; height: auto; margin-left: 2%"></a>
-      <p><strong style="margin-left: 2%">{{ product.name }}</strong>  <code>${{ product.price }}</code></p>
-      <p>{{ product.content }}</p>
-      {% if product.type == "program" %}
-        <p style="text-align: right">
-          <a href="{{ product.buy_now }}" title="${{ product.price }}">
-            Buy Now:  <i class="fas fa-2x fa-file-download" style="margin-left: 1%; margin-right: 1%"></i>
-          </a>
-          <a href="{{ product.amazon }}" title="Buy on Amazon Kindle"><i class="fab fa-2x fa-amazon" style="margin-right: 1%"></i></a>
-          <a href="https://play.google.com/strore/books" title="Guy on Google Books"><i class="fab fa-2x fa-google-play"></i></a>
-        </p>
-      {% else %}
-        <p style="text-align: right">
-          <a href="{{ product.buy_now }}" title="${{ product.price }}">
-            Buy Now <i class="fa fa-2x fa-credit-card" style="margin-right: 1%"></i>
-          </a>
-        </p>
-      {% endif %}
-      <hr>
-  {% endfor %}
-</ul>
--->
-
-<!-- affiliate ads -->
-
-<hr>
-
-{% include carousel.html height="45" unit="%" duration="3" %}
-
-<div style="text-align: center" id="friends">
-  <strong>Support Our Friends</strong>
-  <br>
-  <a class="btn" href="https://heartandsoilsupplements.com" title="10% off with code: savagezen10">Heart & Soil</a>
-  <a class="btn" href="http://trubeeftruorganicb.refr.cc/austinh" title="$25 off your first order!">TruBeef</a>
-  <a class="btn" href="https://www.flyby.co/?rfsn=4562479.acaf32" title="10% off with code: wheel923810">Flyby</a>
-</div>
 
