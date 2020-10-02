@@ -35,12 +35,6 @@ What hopeful future can people expect when working with you?
 
 ---
 
-* copy info to website
-    * link to change maker posts
-* make new Spark ad
-
----
-
 ### Elevator Pitch
 
 I help...
@@ -57,9 +51,7 @@ so they can...
 
 ---
 
-### Survey Selling
-
-**Part 1:**  Google Form
+### Survey Selling, Part 1:  Google Form
 
 Title: XXXXXXXXX
 
@@ -67,11 +59,11 @@ Title: XXXXXXXXX
 
 * Gender
 * Age
-* How commiteted are you to X (meh > catch fire to meet it)
+* How committed are you to X (meh > catch fire to meet it)
     * pick a goal from the deliverables in "hopeful future"
-*Phone Number
+    * Phone Number
 
-**Part 2:**  Share on IG / Twitter / FB / etc...
+### Survey Selling, Part 2:  Share on IG / Twitter / FB / etc...
 
 *(description above)*
 
@@ -80,13 +72,33 @@ I am looking for {gender} who want to:
 - {benefit 2 from hopeful future}
 - {benefit 3 from hopeful future}
 
-Spots are extremely imited and I"m only looking for {number of people} who are ready to make a change today.  To apply, fill out the quick  (4-question) survey below and I'll be in touch if you mee the rquirements:
+Spots are extremely limited and I"m only looking for {number of people} who are ready to make a change today.  To apply, fill out the quick  (4-question) survey below and I'll be in touch if you mee the requirements:
 
 ===> {link to Google Form}
 
-**Part 3:**  Follow Up
+### Survey Selling, Part 3:  Follow Up
 
-* respond w/in 20 miniutes of copleting survey
+* respond w/in 20 minutes of completing survey
     * try to schedule during first call
 * if not, make follow up contact 1x / wks for 1 month
 * then f/u 1x / month until they're a client or tell you they're not interested
+
+### Survey Selling, Part 4: Analysis (bonus)
+
+As my business is still in its infancy, the above was all written from speculation as I worked through that chapter in Change Maker.  Around the same time I ran a couple quick polls in my Instagram story just to do a validity check.  I asked:
+
+* What do you use food for: Fuel or Fun?
+* Don't confuse mass with strength.  If you had to pick: lose fat or build mass?
+* Which matters more to you: performance or health?
+
+This maybe took 15 minutes to post and returned invaluable insight.  Let's take a look:
+
+* 90% of respondents said "fuel."  Good news.  I didn't expect many of them to have cultural / religious limitations to their dietary practices, but it's an important coaching consideration nonetheless.
+* 66% of respondents preferred to lose fat over build mass.  As expected, a handful of people wanted to build mass, though I specified that mass was not the same as strength since I'm focusing on the nutritional component of things, not the weight room.
+* 64% of respondents valued performance over health.  This is very important data.  Obviously both are good things, but when forced to make a choice, it's clear what my audience is asking for.
+
+The snapshot of my audience then, looks like:
+
+* no cultural / religious food restrictions,
+* wants to lose fat, and
+* improve performance.
