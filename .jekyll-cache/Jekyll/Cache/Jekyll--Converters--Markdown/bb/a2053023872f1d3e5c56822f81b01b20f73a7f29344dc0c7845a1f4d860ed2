@@ -1,14 +1,4 @@
----
-title: Kombat Kitchen
-
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
-toc: true
----
-
-<style>
+I"` <style>
 .expando {
   display: none;
 }
@@ -17,22 +7,22 @@ toc: true
 }
 </style>
 
-Welcome to the Kombat Kitchen!  We help:
+<p>Welcome to the Kombat Kitchen!  We help:</p>
 
 <ul>
     <li><strong>Athletes</strong>, specifically combat sports athletes, improve their mental and metabolic health so that they can improve perform better in competition and reduce stress and anxiety in their lives.</li>
     <li><strong>Everyday people</strong> lose weight without feeling deprived and build strength and energy to rediscover your vitality so that you can feel like food is your friend and live an active life you enjoy.</li>
 </ul>
 
-What's it like working with us?
+<p>What’s it like working with us?</p>
 
 <ul>
     <li>Take a look at one of our <a href="https://kombat-kitchen.square.site/shop/e-books/4">FREE E-books</a>, </li>
     <li>read <a href="#reviews">reviews from clients</a>, </li>
-    <li>or read <a href="{% post_url 2020-09-24-change-maker-abilities %}">what our colleagues say about us</a>.</li>
+    <li>or read <a href="/posts/change-maker-abilities/">what our colleagues say about us</a>.</li>
 </ul>
 
-Who am I?
+<p>Who am I?</p>
 
 <ul style="list-style-type: none">
     <li>
@@ -40,95 +30,140 @@ Who am I?
     </li>
 </ul>
 
----
+<hr />
 
 <p style="text-align: center">
-    <a class="btn" href="#products">Products & Services</a>
+    <a class="btn" href="#products">Products &amp; Services</a>
     <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
     <a class="btn" href="#community">Community</a>
     <a class="btn" href="#reviews">Reviews</a>
 </p>
 
----
+<hr />
 
 <!-- hidden sections -->
 
 <ul id="products" class="expando" style="list-style-type: none">
     <li>
         <strong>Nutrition Coaching</strong>
-        <br>
-        <img src="/assets/img/icon_coaching.jpg" style="float: right; width: 30%; height: auto">
-        <br>
+        <br />
+        <img src="/assets/img/icon_coaching.jpg" style="float: right; width: 30%; height: auto" />
+        <br />
         One-on-one individual nutrition coaching that is goal agnostic.  I can help you get active no matter what shape you're in, take your athletic performance to the next level, lose fat without feeling deprived so that you can crush anxiety and stress, achieve new levels of vitality and training, ditch the magazine workouts and crash diets for good, and feel like food is your friend not the enemy. 
-        <br>
+        <br />
         <a class="btn" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Book Now</a>
-        <hr>
+        <hr />
     </li>
     <li>
-        <strong>Heart & Soil Supplements</strong>
-        <br>
-        <img src="/assets/img/icon_heartandsoil5.png" style="float: right; width: 40%; height: auto">
-        <br>
+        <strong>Heart &amp; Soil Supplements</strong>
+        <br />
+        <img src="/assets/img/icon_heartandsoil5.png" style="float: right; width: 40%; height: auto" />
+        <br />
         Freeze dried beef organ supplements made from grass-fed, grass-finished, <a href="https://heartandsoil.co/pages/land-regeneration">regeneratively raised cattle</a> that provide <a href="https://heartandsoil.co/pages/nose-to-tail">nose-to-tail nutrition</a> on the go and on the run.  Beef organs provide a range of benefits from improving athletic performance and libido, to immune and digestive function, to joint health and mood.  <code>Save 10%</code> with the code <code>savagezen10</code>.
-        <br>
+        <br />
         <a class="btn" href="https://heartandsoil.co">Shop Now</a>
-        <hr>
+        <hr />
     </li>
     <li>
         <strong>Tru Beef</strong>
-        <br>
-        <img src="/assets/img/icon_trubeef.jpg" style="float: right; width: 40%; height: auto">
-        <br>
+        <br />
+        <img src="/assets/img/icon_trubeef.jpg" style="float: right; width: 40%; height: auto" />
+        <br />
         Tru Beef provides grass-fed, pasture-raised beef that is 100% USDA certified organic and utilizes sustainable, <a href="https://truorganicbeef.com/pages/trubeef-is-carbon-neutral">carbon-neutral</a> farming practices.  They are also part of the Global Animal Partnership.  <code>Save $25</code> using the link / button below.
-        <br>
+        <br />
         <a class="btn" title="save 10% with code: savagezen10" href="http://trubeeftruorganicb.refr.cc/austinh">Shop Now</a>
-        <hr>
+        <hr />
     </li>
     <li>
         <strong>Submission Shark Apparel</strong>
-        <br>
-        <img src="/assets/img/icon_submissionshark.png" style="float: right; width: 30%; height: auto">
-        <br>
+        <br />
+        <img src="/assets/img/icon_submissionshark.png" style="float: right; width: 30%; height: auto" />
+        <br />
         Get uniquely designed no-gi spats, rash guards, and t-shirts from a brand that supports and tells the stories of every day jiu jitsu practitioners.  They have also featured campaigns such as donating <code>$10 of every order towards combating domestic violence</code>.  Even better, you <code>save 10%</code> with the code <code>savagezen</code>.
-        <br>
+        <br />
         <a class="btn" href="https://submissionshark.com?sca_ref=417099.F7Jdvw3jHp">Show Now</a>
-        <hr>
+        <hr />
     </li>
     <li>
         <strong>Flyby Electrolytes</strong>
-        <br>
-        <img src="/assets/img/icon_flyby.png" style="float: right; width: 40%; height: auto">
-        <br>
+        <br />
+        <img src="/assets/img/icon_flyby.png" style="float: right; width: 40%; height: auto" />
+        <br />
         Flyby offers a great tasting, all-natural electrolyte supplement that is about 3x as concentrated as commercial sport's drinks at about half the cost.  The powder mix contains no fillers and no extra "vitamins", just the electrolytes you want and need.  Best of all, it's low sodium, so you can add salt as your training or the weather demands.
-        <br>
+        <br />
         <a class="btn" title="save $25 using this link" href="https://www.flyby.co/?rfsn=4562479.acaf32">Shop Now</a>
     </li>
 </ul>
 
 <ul id="community" class="expando" style="list-style-type: none">
-  <br>
-  Community is an essential part of The Kombat Kitchen.  Our <a href="https://telegram.org">Telegram</a> group is a place where you can ask questions, seek support, post motivational pictures, progress updates, or research you've come across.  In addition to this, Telegram users also get access to exclusive and early release content such as bonus videos, priority Q&As, and early access to podcasts, discount codes, and new products.
-  <br>
-  <br>
-  If you already have the Telegram app, you can <a href="https://t.me/kombatkitchen">join the Kombat Kitchen group directly</a> or <a href="https://t.me/savagezen">send me a message directly (@savagezen)</a>.
-  <br>
-  <br>
-    If you're new to the app, it's easy to set up and offers end-to-end encryption.
-    <ul>
+  <strong>Community</strong>
+  <br />
+  Community is an essential part of The Kombat Kitchen.  Our <a href="https://telegram.org">Telegram</a> group is a place where you can ask questions, seek support, post motivational pictures, progress updates, or research you've come across.  In addition to this, Telegram users also get access to exclusive and early release content such as bonus videos, priority Q&amp;As, and early access to podcasts, discount codes, and new products.
+  <li>If you already have the Telegram app, you can <a href="https://t.me/kombatkitchen">join the Kombat Kitchen group directly</a> or <a href="https://t.me/savagezen">send me a message directly (@savagezen)</a>.</li>
+  <li>
+      If you're new to the app, it's easy to set up and offers end-to-end encryption.
+      <ul>
         <li>Download for <a class="btn" href="https://play.google.com/store/apps/details?id=org.telegram.messenger">Android</a> or <a class="btn" href="https://apps.apple.com/us/app/telegram-messenger/id686449807">iOS</a></li>
-    </ul>
+      </ul>
+  </li>
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
   <strong style="text-align: center">Reviews</strong>
-  <br>
-  <br>
-  {% for review in site.reviews %}
+  <br />
+  <br />
+  
     <li>
-      <code>{{ review.content }}</code>
-      {{ review.name }}
-      <hr>
+      <code><p>I wanted to let you know that (I lost 3 lbs in 3 weeks).  I’m super stoked about this!!!  I really would like to keep it going.</p>
+</code>
+      Anonymous
+      <hr />
     </li>
-  {% endfor %}
+  
+    <li>
+      <code><p>I went from 230 to 200 in three months.  I’m 20 lbs from my goal.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>Keep up the good work on your content.  You share a lot of good info and how you use yourself as an example makes it hard to dispute.</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I have had an incredible experience with switchign to a meat based diet, especially in my focus and the leanness in my physique.  Thanks for all your help Austin!  You really inspired me to cut the crap out of my life and take the bull by the horns!</p>
+</code>
+      Anonymous
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>Groovy, very helpful… I appreciate (Austin) taking the time to check it out (research a specific question from Telegram).</p>
+</code>
+      Brett
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I don’t even miss soda or beer (too much) :D
+I feel a lot less bloated and have a lot less cravings.
+[also lost 5 lbs in the first two weeks]</p>
+</code>
+      Rita
+      <hr />
+    </li>
+  
+    <li>
+      <code><p>I feel more energized.  I’ve increased my water intake.  I’m losing bloat slowly but surely…. not too many cravings.  Definitely don’t miss them.</p>
+</code>
+      Shaina
+      <hr />
+    </li>
+  
 </ul>
 
+:ET
