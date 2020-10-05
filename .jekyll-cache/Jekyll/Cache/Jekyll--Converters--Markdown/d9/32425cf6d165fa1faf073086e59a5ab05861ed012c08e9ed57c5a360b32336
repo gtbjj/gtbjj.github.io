@@ -1,4 +1,4 @@
-I"k <style>
+I"E$<style>
 .expando {
   display: none;
 }
@@ -17,16 +17,33 @@
 <p>What’s it like working with us?</p>
 
 <ul>
+    <details>
+    <summary><i>(...click to expand)</i></summary>
+    <br />
     <li>Take a look at one of our <a href="https://kombat-kitchen.square.site/shop/e-books/4">FREE E-books</a>, </li>
     <li>read <a href="#reviews">reviews from clients</a>, </li>
     <li>or read <a href="/posts/change-maker-abilities/">what our colleagues say about us</a>.</li>
+    </details>
 </ul>
 
 <p>Who am I?</p>
 
 <ul style="list-style-type: none">
     <li>
-        I am a <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach (PN1) and a <a href="http://verify.sos.ga.gov/verification/">licensed mental health provider</a> (LAPC).  I am purple belt in Brazilian Jiu Jitsu and have a passion for bringing animal-based / nose-to-tail nutrition to combat sports athletes.  I'm also adamant about supporting sustainable and regenerative agriculture.  My personal health journey is well documented in <a href="/">the blog on this site</a>.
+        <details>
+        <summary>I am a <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach (PN1) and a <a href="http://verify.sos.ga.gov/verification/">licensed mental health provider</a> (LAPC)<i>... (click to continue reading)</i></summary>  I am purple belt in Brazilian Jiu Jitsu and have a passion for bringing animal-based / nose-to-tail nutrition to combat sports athletes.  I'm also adamant about supporting sustainable and regenerative agriculture.  My personal health journey is well documented in <a href="/">the blog on this site</a>.
+        </details>
+    </li>
+</ul>
+
+<p>About the Business:</p>
+
+<ul style="list-style-type: none">
+    <li>
+        <details>
+        <summary>What values and principles do we represent, operate by, and live by?  <i>(click to continue reading)</i></summary>
+        I insist on as much transparency and authenticity in my business as possible.  I have made public my thoughts on and progress towards business development both on <a href="https://castbox.fm/ch/2937016">the Kombat Kitchen Podcast</a> in my blog (see <a href="/tags/change-maker/">posts tagged 'Change Maker'</a>).
+        </details>
     </li>
 </ul>
 
@@ -35,6 +52,7 @@
 <p style="text-align: center">
     <a class="btn" href="#products">Products &amp; Services</a>
     <a class="btn" href="https://castbox.fm/ch/2937016">Podcast</a>
+    <a class="btn" href="#podcast">Test</a>
     <a class="btn" href="#community">Community</a>
     <a class="btn" href="#reviews">Reviews</a>
 </p>
@@ -95,18 +113,23 @@
     </li>
 </ul>
 
+<ul id="podcast" class="expando" style="list-style-type: none">
+  <iframe src="https://castbox.fm/app/castbox/player/id2937016?v=8.22.11&amp;autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+</ul>
+
 <ul id="community" class="expando" style="list-style-type: none">
-  <strong>Community&lt;/strong
   <br />
   Community is an essential part of The Kombat Kitchen.  Our <a href="https://telegram.org">Telegram</a> group is a place where you can ask questions, seek support, post motivational pictures, progress updates, or research you've come across.  In addition to this, Telegram users also get access to exclusive and early release content such as bonus videos, priority Q&amp;As, and early access to podcasts, discount codes, and new products.
   <br />
+  <br />
   If you already have the Telegram app, you can <a href="https://t.me/kombatkitchen">join the Kombat Kitchen group directly</a> or <a href="https://t.me/savagezen">send me a message directly (@savagezen)</a>.
+  <br />
   <br />
     If you're new to the app, it's easy to set up and offers end-to-end encryption.
     <ul>
         <li>Download for <a class="btn" href="https://play.google.com/store/apps/details?id=org.telegram.messenger">Android</a> or <a class="btn" href="https://apps.apple.com/us/app/telegram-messenger/id686449807">iOS</a></li>
     </ul>
-&lt;/ul&gt;
+</ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">
   <strong style="text-align: center">Reviews</strong>
@@ -166,5 +189,4 @@ I feel a lot less bloated and have a lot less cravings.
   
 </ul>
 
-</strong></ul>
 :ET

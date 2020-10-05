@@ -27,16 +27,33 @@ Welcome to the Kombat Kitchen!  We help:
 What's it like working with us?
 
 <ul>
+    <details>
+    <summary><i>(...click to expand)</i></summary>
+    <br>
     <li>Take a look at one of our <a href="https://kombat-kitchen.square.site/shop/e-books/4">FREE E-books</a>, </li>
     <li>read <a href="#reviews">reviews from clients</a>, </li>
     <li>or read <a href="{% post_url 2020-09-24-change-maker-abilities %}">what our colleagues say about us</a>.</li>
+    </details>
 </ul>
 
 Who am I?
 
 <ul style="list-style-type: none">
     <li>
-        I am a <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach (PN1) and a <a href="http://verify.sos.ga.gov/verification/">licensed mental health provider</a> (LAPC).  I am purple belt in Brazilian Jiu Jitsu and have a passion for bringing animal-based / nose-to-tail nutrition to combat sports athletes.  I'm also adamant about supporting sustainable and regenerative agriculture.  My personal health journey is well documented in <a href="/">the blog on this site</a>.
+        <details>
+        <summary>I am a <a href="https://www.precisionnutrition.com/certified-coach-directory">Precision Nutrition</a> certified coach (PN1) and a <a href="http://verify.sos.ga.gov/verification/">licensed mental health provider</a> (LAPC)<i>... (click to continue reading)</i></summary>  I am purple belt in Brazilian Jiu Jitsu and have a passion for bringing animal-based / nose-to-tail nutrition to combat sports athletes.  I'm also adamant about supporting sustainable and regenerative agriculture.  My personal health journey is well documented in <a href="/">the blog on this site</a>.
+        </details>
+    </li>
+</ul>
+
+About the Business:
+
+<ul style="list-style-type: none">
+    <li>
+        <details>
+        <summary>What values and principles do we represent, operate by, and live by?  <i>(click to continue reading)</i></summary>
+        I insist on as much transparency and authenticity in my business as possible.  I have made public my thoughts on and progress towards business development both on <a href="https://castbox.fm/ch/2937016">the Kombat Kitchen Podcast</a> in my blog (see <a href="/tags/change-maker/">posts tagged 'Change Maker'</a>).
+        </details>
     </li>
 </ul>
 
