@@ -8,6 +8,8 @@
 * MIT Licensed
 */
 
+
+
 @import "_addon/fonts";
 @import "_addon/module";
 @import "_addon/variables";
@@ -62,6 +64,7 @@ body {
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
   font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+  font-display: swap;
 }
 
 /*--- sidebar layout ---*/
@@ -419,6 +422,7 @@ $sidebar-display: "sidebar-display";
   font-size: 1.1rem;
   font-weight: 600;
   font-family: sans-serif;
+  font-display: swap;
   color: var(--topbar-text-color);
   text-align: center;
   width: 70%;
