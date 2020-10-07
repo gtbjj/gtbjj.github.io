@@ -77,7 +77,7 @@ About the Business:
     <li>
         <strong>Nutrition Coaching</strong>
         <br>
-        <img src="/assets/img/icon_coaching.webp" style="float: right; width: 30%; height: auto">
+        <img src="/assets/img/icon_coaching.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
         <br>
         One-on-one individual nutrition coaching that is goal agnostic.  I can help you get active no matter what shape you're in, take your athletic performance to the next level, lose fat without feeling deprived so that you can crush anxiety and stress, achieve new levels of vitality and training, ditch the magazine workouts and crash diets for good, and feel like food is your friend not the enemy. 
         <br>
@@ -87,7 +87,7 @@ About the Business:
     <li>
         <strong>Heart & Soil Supplements</strong>
         <br>
-        <img src="/assets/img/icon_heartandsoil5.webp" style="float: right; width: 40%; height: auto">
+        <img src="/assets/img/icon_heartandsoil5.webp" style="float: right; width: 40%; height: auto; margin-left: 1%">
         <br>
         Freeze dried beef organ supplements made from grass-fed, grass-finished, <a href="https://heartandsoil.co/pages/land-regeneration">regeneratively raised cattle</a> that provide <a href="https://heartandsoil.co/pages/nose-to-tail">nose-to-tail nutrition</a> on the go and on the run.  Beef organs provide a range of benefits from improving athletic performance and libido, to immune and digestive function, to joint health and mood.  <code>Save 10%</code> with the code <code>savagezen10</code>.
         <br>
@@ -97,7 +97,7 @@ About the Business:
     <li>
         <strong>Tru Beef</strong>
         <br>
-        <img src="/assets/img/icon_trubeef.webp" style="float: right; width: 40%; height: auto">
+        <img src="/assets/img/icon_trubeef.webp" style="float: right; width: 40%; height: auto; margin-left: 1%">
         <br>
         Tru Beef provides grass-fed, pasture-raised beef that is 100% USDA certified organic and utilizes sustainable, <a href="https://truorganicbeef.com/pages/trubeef-is-carbon-neutral">carbon-neutral</a> farming practices.  They are also part of the Global Animal Partnership.  <code>Save $25</code> using the link / button below.
         <br>
@@ -107,7 +107,7 @@ About the Business:
     <li>
         <strong>Submission Shark Apparel</strong>
         <br>
-        <img src="/assets/img/icon_submissionshark.webp" style="float: right; width: 30%; height: auto">
+        <img src="/assets/img/icon_submissionshark.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
         <br>
         Get uniquely designed no-gi spats, rash guards, and t-shirts from a brand that supports and tells the stories of every day jiu jitsu practitioners.  They have also featured campaigns such as donating <code>$10 of every order towards combating domestic violence</code>.  Even better, you <code>save 10%</code> with the code <code>savagezen</code>.
         <br>
@@ -117,7 +117,7 @@ About the Business:
     <li>
         <strong>Flyby Electrolytes</strong>
         <br>
-        <img src="/assets/img/icon_flyby.webp" style="float: right; width: 30%; height: auto">
+        <img src="/assets/img/icon_flyby.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
         <br>
         Flyby offers a great tasting, all-natural electrolyte supplement that is about 3x as concentrated as commercial sport's drinks at about half the cost.  The powder mix contains no fillers and no extra "vitamins", just the electrolytes you want and need.  Best of all, it's low sodium, so you can add salt as your training or the weather demands.
         <br>
@@ -127,7 +127,7 @@ About the Business:
     <li>
         <strong>Native Natural Personal Care Products</strong>
         <br>
-        <img src="/assets/img/icon_native.webp" style="float: right; width: 30%; height: auto">
+        <img src="/assets/img/icon_native.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
         <br>
         Native offers natural personal care products (toothpaste, deodorant, body wasy) that are free from harmful chemicals, smell great, and actually work.  We all know some "natural" prodcuts deliver less than admirable results.  Not so with Native!  Get a <code>free mini-deodorant</code> with your order by using the link below.
         <br>
