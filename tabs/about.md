@@ -140,4 +140,4 @@ If you are so inclined, you can still make a donation with a variety of cryptocu
   * PayPal:  [https://paypal.me/savagezen](https://paypal.me/savagezen) 
 -->
 
-You'll never find any ads on this site other than for my own products and for those people / [businesses I choose to affiliate with](/tabs/kombat_kitchen/#friends) because I believe in and support their product(s) and process.
+You'll never find any ads on this site other than for my own products and for those people / [businesses I choose to affiliate with](/tabs/kombat_kitchen/#products) because I believe in and support their product(s) and process.
