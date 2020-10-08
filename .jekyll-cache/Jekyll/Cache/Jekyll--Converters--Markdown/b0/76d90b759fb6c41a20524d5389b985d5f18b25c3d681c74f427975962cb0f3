@@ -1,4 +1,4 @@
-I"Ì&<style>
+I"º-<style>
 .expando {
   display: none;
 }
@@ -20,7 +20,7 @@
     <details>
     <summary><i>(...click to expand)</i></summary>
     <br />
-    <li>Take a look at one of our <a href="https://kombat-kitchen.square.site/shop/e-books/4">FREE E-books</a>, </li>
+    <li>Take a look at one of our <a href="#freestuff">FREE E-books</a>, </li>
     <li>read <a href="#reviews">reviews from clients</a>, </li>
     <li>read <a href="/posts/change-maker-abilities/">what our colleagues say about us</a>,</li>
     <li>or <a href="https://t.me/kombatkitchen">join our community for FREE</a>!</li>
@@ -55,8 +55,7 @@
 
 <p style="text-align: center">
     <a class="btn" href="#products">Products &amp; Services</a>
-    <a class="btn" href="#community">Community</a>
-    <a class="btn" href="#freestuff">Free Stuff</a>
+    <a class="btn" href="#freestuff">Free Stuff!</a>
     <a class="btn" href="#reviews">Reviews</a>
 </p>
 
@@ -126,18 +125,60 @@
     </li>
 </ul>
 
-<ul id="community" class="expando" style="list-style-type: none">
-  <br />
-  Community is an essential part of The Kombat Kitchen.  Our <a href="https://telegram.org">Telegram</a> group is a place where you can ask questions, seek support, post motivational pictures, progress updates, or research you've come across.  In addition to this, Telegram users also get access to exclusive and early release content such as bonus videos, priority Q&amp;As, and early access to podcasts, discount codes, and new products.
-  <br />
-  <br />
-  If you already have the Telegram app, you can <a href="https://t.me/kombatkitchen">join the Kombat Kitchen group directly</a> or <a href="https://t.me/savagezen">send me a message directly (@savagezen)</a>.
-  <br />
-  <br />
-    If you're new to the app, it's easy to set up and offers end-to-end encryption.
-    <ul>
-        <li>Download for <a class="btn" href="https://play.google.com/store/apps/details?id=org.telegram.messenger">Android</a> or <a class="btn" href="https://apps.apple.com/us/app/telegram-messenger/id686449807">iOS</a></li>
-    </ul>
+<ul id="freestuff" class="expando" style="list-style-type: none">
+  <li>
+      <img src="/assets/img/icon_telegram.webp" style="float: right; margin-left: 1%; width: 20%; height: auto" />
+      <strong>Community</strong>
+      <br />
+      ... is an essential part of The Kombat Kitchen.  Our <a href="https://telegram.org">Telegram</a> group is a place where you can ask questions, seek support, post motivational pictures, progress updates, or research you've come across.  In addition to this, Telegram users also get access to exclusive and early release content such as bonus videos, priority Q&amp;As, and early access to podcasts, discount codes, and new products.
+      <br />
+      <br />
+      If you already have the Telegram app, you can <a href="https://t.me/kombatkitchen">join the Kombat Kitchen group directly</a> or <a href="https://t.me/savagezen">send me a message directly (@savagezen)</a>.
+      <br />
+      <br />
+        If you're new to the app, it's easy to set up and offers end-to-end encryption.
+        <ul>
+            <li>Download for <a class="btn" href="https://play.google.com/store/apps/details?id=org.telegram.messenger">Android</a> or <a class="btn" href="https://apps.apple.com/us/app/telegram-messenger/id686449807">iOS</a></li>
+        </ul>
+      <hr />
+  </li>
+  <li>
+      <img src="/assets/img/cover_youth.webp" style="width: 15%; height: auto; float: right; margin-left: 1%" />
+      <strong>30 Day Challenge:  Youth / Parent</strong>
+      <br />
+      Nutrition, fitness, mental health, and community all wrapped in one for children of all ages. These programs are age specific (8 and under, 9 - 14 years old, and 15+ years old). Parental participation is required and each program is an excellent starting point for adults as well!
+      <br />
+      <a class="btn" href="https://docs.google.com/document/d/1sd2nnWdQCKCc66bG1GoKjWA9kHngXTLKJ8bCrnG7dtA/edit?usp=sharing">View</a>
+      <hr />
+  </li>
+  <li>
+      <img src="/assets/img/cover_white.webp" style="width: 15%; height: auto; float: right; margin-left: 1%" />
+      <strong>30 Day Challenge:  White Belt Level</strong>
+      <br />
+      The introduction, the original, the foundational 30 day challenge to improving your health. Research backed, evidence based e-book complete with nutrition and lifestyle recommendations to support metabolic, social, mental, and physical health.
+      <br />
+      <a class="btn" href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing">View</a>
+      <br />
+      <br />
+      <hr />
+  </li>
+  <li>
+      <strong>30 Day Challenge:  Blue Belt Level</strong>
+      <br />
+      <i>Coming Soon!</i>
+      <hr />
+  </li>
+  <li>
+      <strong>30 Day Challenge:  Purple Belt Level</strong>
+      <br />
+      <i>Coming Soon!</i>
+      <hr />
+  </li>
+  <li>
+      <strong>Carnivore Kickstart:  A Resource Guide</strong>
+      <br />
+      <i>Coming Soon!</i>
+  </li>
 </ul>
 
 <ul id="reviews" class="expando" style="list-style-type: none">

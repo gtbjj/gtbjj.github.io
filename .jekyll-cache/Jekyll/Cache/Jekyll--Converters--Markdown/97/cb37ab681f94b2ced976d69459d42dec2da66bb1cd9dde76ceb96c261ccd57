@@ -1,4 +1,4 @@
-I"œ*<style>
+I"`-<style>
 .expando {
   display: none;
 }
@@ -20,7 +20,7 @@
     <details>
     <summary><i>(...click to expand)</i></summary>
     <br />
-    <li>Take a look at one of our <a href="https://kombat-kitchen.square.site/shop/e-books/4">FREE E-books</a>, </li>
+    <li>Take a look at one of our <a href="#freestuff">FREE E-books</a>, </li>
     <li>read <a href="#reviews">reviews from clients</a>, </li>
     <li>read <a href="/posts/change-maker-abilities/">what our colleagues say about us</a>,</li>
     <li>or <a href="https://t.me/kombatkitchen">join our community for FREE</a>!</li>
@@ -140,38 +140,41 @@
     </ul>
 </ul>
 
-<ul id="freestuf" class="expando" style="list-style-type: none">
+<ul id="freestuff" class="expando" style="list-style-type: none">
   <li>
       <strong>30 Day Challenge:  Youth / Parent</strong>
       <br />
-      <img src="/assets/img/cover_youth.webp" style="width: 30%; height: auto: float: right; margin-left: 1%" />
+      <img src="/assets/img/cover_youth.webp" style="width: 15%; height: auto; float: right; margin-left: 1%" />
       <br />
-      Description
+      Nutrition, fitness, mental health, and community all wrapped in one for children of all ages. These programs are age specific (8 and under, 9 - 14 years old, and 15+ years old). Parental participation is required and each program is an excellent starting point for adults as well!
+      <br />
+      <a class="btn" href="https://docs.google.com/document/d/1sd2nnWdQCKCc66bG1GoKjWA9kHngXTLKJ8bCrnG7dtA/edit?usp=sharing">View</a>
       <hr />
   </li>
   <li>
+      <img src="/assets/img/cover_white.webp" style="width: 15%; height: auto; float: right; margin-left: 1%" />
+      <br />
       <strong>30 Day Challenge:  White Belt Level</strong>
       <br />
-      <img src="" style="width: 30%; height: auto; float: right; margin-left: 1%" />
+      The introduction, the original, the foundational 30 day challenge to improving your health. Research backed, evidence based e-book complete with nutrition and lifestyle recommendations to support metabolic, social, mental, and physical health.
       <br />
-      Description
+      <a class="btn" href="https://docs.google.com/document/d/1rwU6oyvDzk_ICVtzExTlSZmlxq_feasBF9Z4AVinUUw/edit?usp=sharing">View</a>
       <hr />
   </li>
   <li>
       <strong>30 Day Challenge:  Blue Belt Level</strong>
       <br />
-      <img src="" style="width: 30%; height: auto; float: right; margin-left: 1%" />
-      <br />
-      Description
+      <i>Coming Soon!</i>
       <hr />
   </li>
   <li>
       <strong>30 Day Challenge:  Purple Belt Level</strong>
       <br />
       <i>Coming Soon!</i>
+      <hr />
   </li>
   <li>
-      <strong>Carnivore Kickstart Guide:  A Resource</strong>
+      <strong>Carnivore Kickstart:  A Resource Guide</strong>
       <br />
       <i>Coming Soon!</i>
   </li>
