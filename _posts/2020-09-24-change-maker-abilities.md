@@ -3,7 +3,7 @@ title: "Change Maker: Your Abilities"
 author: Austin
 date: 2020-09-24 22:00:00
 category: [Nutrition, Kombat Kitchen]
-tags: [nutrition, kombat kitchen, precision nutrition, change maker]
+tags: [business, kombat kitchen, precision nutrition, change maker]
 ---
 
 Since completing the official curriculum for my Precision Nutrition certification I've been making my way through the [Change Maker](https://amzn.to/33XNzvz) book.  Much to my relief it's quite an interactive read.  So, as I progress through each chapter / exercise I'll be sharing the process and outcomes.

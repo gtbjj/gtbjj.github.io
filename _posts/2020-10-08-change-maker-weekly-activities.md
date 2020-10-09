@@ -3,7 +3,7 @@ title:  "Change Maker:  Weekly Activities"
 author: Austin
 date: 2020-10-08 10:00:00
 category: [Nutrition, Kombat Kitchen]
-tags: [nutrition, kombat kitchen, change maker]
+tags: [nutrition, kombat kitchen, change maker, precision nutrition]
 ---
 
 *Featured worksheets and exercises from [Change Maker](https://amzn.to/3nvvUo4).*

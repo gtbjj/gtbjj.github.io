@@ -3,10 +3,10 @@ title: "Change Maker: Tuning in to Your Individual Values"
 author: Austin
 date: 2020-10-02 09:15:00
 category: [Nutrition, Kombat Kitchen]
-tags: [nutrition, kombat kitchen, precision nutrition, change maker]
+tags: [business, kombat kitchen, precision nutrition, change maker]
 ---
 
-*As I work my way through the [Change Maker](https://amzn.to/347aR2i) I'll be publicly posting the worksheets and discussion points.*
+*As I work my way through the [Change Maker](https://amzn.to/347aR2i) book I'll be publicly posting the worksheets and discussion points.*
 
 ---
 

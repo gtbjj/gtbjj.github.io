@@ -3,7 +3,7 @@ title: "Change Maker: Defining Your Purpose, Part I"
 author: Austin
 date: 2020-09-27 13:00:00
 category: [Nutrition, Kombat Kitchen]
-tags: [nutrition, kombat kitchen, precision nutrition, change maker]
+tags: [business, kombat kitchen, precision nutrition, change maker]
 ---
 
 *As I work my way through the [Change Maker](https://amzn.to/347aR2i) book I'll be publicly posting the worksheets and discussion points.*
