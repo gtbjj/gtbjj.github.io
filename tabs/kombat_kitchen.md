@@ -147,19 +147,21 @@ About the Business:
 
 <ul id="freestuff" class="expando" style="list-style-type: none">
   <li>
-      <img src="/assets/img/icon_telegram.webp" style="float: right; margin-left: 1%; width: 15%; height: auto">
+      <img src="/assets/img/icon_instagram.webp" style="float: right; margin-left: 1%; width: 15%; height: auto">
       <strong>Community</strong>
       <br>
-      ... is an essential part of The Kombat Kitchen.  Our <a href="https://telegram.org">Telegram</a> group is a place where you can ask questions, seek support, post motivational pictures, progress updates, or research you've come across.  In addition to this, Telegram users also get access to exclusive and early release content such as bonus videos, priority Q&As, and early access to podcasts, discount codes, and new products.
+      Developing a community for support and social health is a foundational part of Kombat Kitchen. We have a group chat on Instagram that allows for easy sharing progress and motivational pictures as well as to interact with other people and as questions freely.
       <br>
+      There are also several other benefits to participating in the group chat:
+      <ul>
+        <li>Early and exclusive access to YouTube and Podcast content</li>
+        <li>Priority responses to Q&As</li>
+        <li>Priority notification of new products, services, and discount codes</li>
+      </ul>
+      If interested:
       <br>
-      If you already have the Telegram app, you can <a href="https://t.me/kombatkitchen">join the Kombat Kitchen group directly</a> or <a href="https://t.me/savagezen">send me a message directly (@savagezen)</a>.
+      <a class="btn" href="https://instagram.com/savagezen">Message me on Instagram</a>
       <br>
-      <br>
-        If you're new to the app, it's easy to set up and offers end-to-end encryption.
-        <ul>
-            <li>Download for <a class="btn" href="https://play.google.com/store/apps/details?id=org.telegram.messenger">Android</a> or <a class="btn" href="https://apps.apple.com/us/app/telegram-messenger/id686449807">iOS</a></li>
-        </ul>
       <hr>
   </li>
   <li>
@@ -197,10 +199,9 @@ About the Business:
       <img src="/assets/img/cover_blue.webp" style="width: 15%; height: auto; float: right; margin-left: 1%">
       <strong>30 Day Challenge:  Blue Belt Level</strong>
       <br>
-      <i>Coming Soon!</i>
+      Continuing where the White Belt program leaves off, we further our education towards improved health and performance by focusing on protein, water, and Vitamin D for the next 30 days.
       <br>
-      <br>
-      <br>
+      <a class="btn" href="https://docs.google.com/document/d/1_nduWXNqr5tbXSJgN9cYa6Og-PcE9JM3aiidwTLyy2o/edit?usp=sharing">View</a>
       <br>
       <br>
       <hr>
@@ -209,10 +210,9 @@ About the Business:
       <img src="/assets/img/cover_purple.webp" style="width: 15%; height: auto; float: right; margin-left: 1%">
       <strong>30 Day Challenge:  Purple Belt Level</strong>
       <br>
-      <i>Coming Soon!</i>
+      In this installment of the Kombat Kitchen we focus on further increasing protein intake, exclusive benefits of animal protein, pros and cons of dairy, general physical preparedness, sport specific training, beef liver, mindfulness, and gratitude. At 24 pages and 140 references, this is the most comprehensive volume in the series yet!
       <br>
-      <br>
-      <br>
+      <a class="btn" href="https://docs.google.com/document/d/1xc_yCmlJi0rAbMSN-IP4JThtys9UVW2y5653V68Jg9o/edit?usp=sharing">View</a>
       <br>
       <br>
       <hr>

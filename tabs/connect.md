@@ -16,7 +16,7 @@ title: Contact
   <br>
   <a class="btn" href="https://instagram.com/{{ site.instagram.username }}"><i class="fab fa-instagram"></i> Instagram</a>
   or
-  <a class="btn" href="https://t.me/{{ site.telegram.username }}"><i class="fab fa-telegram"></i> Telegram</a>
+  <a class="btn" href="sms://+16786702453"><i class="fas fa-phone"></i> Text message</a>
   <br>
   <br>
   I also exist on:
