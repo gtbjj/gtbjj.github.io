@@ -1,2 +1,0 @@
-protein-g	fat-g	fat-protein	bloog-sugar	ketones
-192		96	1.13		100		5

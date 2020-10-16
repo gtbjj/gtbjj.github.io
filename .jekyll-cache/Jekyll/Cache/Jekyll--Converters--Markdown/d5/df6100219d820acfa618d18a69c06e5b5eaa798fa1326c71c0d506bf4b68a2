@@ -1,4 +1,4 @@
-I"�<p>Previously I’ve covered:</p>
+I"�<p>Previously I’ve covered:</p>
 
 <ul>
   <li><a href="{% post_url 2016-06-26-nexus6p-rooting %}">Part 1</a></li>
@@ -20,23 +20,16 @@ and allows me to add other things as desired.</p>
 <p>3) Next, reboot into recovery mode.  Before flashing the ROM and Gapps you’ve downloaded, you’ll need to <em>backup</em> and <em>wipe</em> your system 
 (whilst leaving the internal storage intact).</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-</pre></td><td class="rouge-code"><pre>To backup:
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>To backup:
 Before doing this, remember to have disabled you're lockscreen pin otherwise you will not be able to access your OS in the event that you have 
 to restore from the backup. (If you forget, there are workarounds posted on XDA Forums)
 
 Navigate through TWRP's menu to the backup section.  The important things here are Boot, System, Vendor, and Data.
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-</pre></td><td class="rouge-code"><pre>To wipe:
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>To wipe:
 Go back to the TWPR home screen &gt; Wipe &gt; Advnaced &gt; Check System, Data, Cache, Dalvik / ART.
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
 <p>4) Now you’re ready to install the .ZIPs.  Tap <em>Install</em> on the TWRP home 
 screen, navigate to the .ZIPs you’ve downloaded, and swipte to install 

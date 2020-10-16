@@ -1,4 +1,4 @@
-I"<p>Though I don’t work in IT, I try to make contributions to the Open Source community where I can.  In recent months that has centered largely on support and development for <a href="https://github.com/savagezen/x205ta">running Arch Linux on the Asus X205TA</a>.</p>
+I".<p>Though I don’t work in IT, I try to make contributions to the Open Source community where I can.  In recent months that has centered largely on support and development for <a href="https://github.com/savagezen/x205ta">running Arch Linux on the Asus X205TA</a>.</p>
 
 <p>The machine has a 32 bit boot loader for a 64 bit system.  This means that the Arch ISO (as shipped from the devs) will not work.  It requiressome tuning to get GRUB to boot as well manuall addition of wireless drivers and enabeling their kernel module.</p>
 
@@ -12,7 +12,7 @@
 
 <p>4) Reboot your machine &gt; hammer F2 &gt; boot the USB.</p>
 
-<p>5) Connect to your network with <code class="highlighter-rouge"># wifi-menu</code> and proceed to install as per usual.</p>
+<p>5) Connect to your network with <code class="language-plaintext highlighter-rouge"># wifi-menu</code> and proceed to install as per usual.</p>
 
 <p>The linked ISO does not include manually added wireless drivers as they appear patched into the upstream.  If this does not work, see the <a href="https://raw.githubusercontent.com/gtbjj/x205ta/master/x205ta-lazy.sh">shell script</a> I’ve made.</p>
 

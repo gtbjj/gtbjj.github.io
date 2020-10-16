@@ -1,4 +1,4 @@
-I"!<h4 id="new-features">New Features:</h4>
+I" <h4 id="new-features">New Features:</h4>
 
 <ul>
   <li>FIXED boot errors</li>
@@ -45,7 +45,7 @@
   <li>201806-sz-btr</li>
 </ul>
 
-<p><code class="highlighter-rouge">201806-fk</code> did boot, but init profiles / ramdisk changes were not being applied.  The more “fixing” I did, the more breaking I did, so I completely reverted to the base <a href="https://github.com/osm0sis/AnyKernel2">AnyKernel2 by osm0sis</a> which brought my kernel’s packaging up to speed with the master repository. I then took a closer look at some of the Spectrum profiling process (below).</p>
+<p><code class="language-plaintext highlighter-rouge">201806-fk</code> did boot, but init profiles / ramdisk changes were not being applied.  The more “fixing” I did, the more breaking I did, so I completely reverted to the base <a href="https://github.com/osm0sis/AnyKernel2">AnyKernel2 by osm0sis</a> which brought my kernel’s packaging up to speed with the master repository. I then took a closer look at some of the Spectrum profiling process (below).</p>
 
 <h4 id="news--franco-kernel-vs-copperheados">News:  Franco Kernel vs CopperheadOS</h4>
 
@@ -68,7 +68,7 @@
   </tbody>
 </table>
 
-<p>9 monts?!  That is frustrating when Nexus / Pixel lines are getting monthly security updates already – though it looks like some individual files have been updated more recently for CopperheadOS.  There was a more recent branch in CopperheadOS’s GitHub (<code class="highlighter-rouge">oreo-m3-release</code>), though it seems their repositories have been redirected to <code class="highlighter-rouge">AndroidHardening</code> – as you’ll note if you clicked the link above.  However, that <code class="highlighter-rouge">oreo-m3-release</code> branch has since been deleted.</p>
+<p>9 monts?!  That is frustrating when Nexus / Pixel lines are getting monthly security updates already – though it looks like some individual files have been updated more recently for CopperheadOS.  There was a more recent branch in CopperheadOS’s GitHub (<code class="language-plaintext highlighter-rouge">oreo-m3-release</code>), though it seems their repositories have been redirected to <code class="language-plaintext highlighter-rouge">AndroidHardening</code> – as you’ll note if you clicked the link above.  However, that <code class="language-plaintext highlighter-rouge">oreo-m3-release</code> branch has since been deleted.</p>
 
 <p>As such, I’m considering moving to Franco Kernel as a base since it is much mor eactively maintained.  That said, most of my work has taken place in the form of init profiles.  The actual kernel code changes were mostly cherry picked from the likes of… you guessed it… Franco, Flash, Electron, and a few other well established kernels.</p>
 
@@ -86,33 +86,25 @@
 
 <p>If you’re still reading, then the benefit of doing this is that you don’t have to mess with “heavy” coding of the kernel and can simply add your tweaks by:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-</pre></td><td class="rouge-code"><pre>$ git clone https://github.com/savagezen/anykernel
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git clone https://github.com/savagezen/anykernel
 $ cd anykernel
 $ git checkout angler-personal
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
-<p>From there, you can view <code class="highlighter-rouge">ramdisk/init.spectrum.sh</code> and change the numerical value on line 8 to the corresponding indexed profile you wish to use.  For convenience, all of the profiles in <code class="highlighter-rouge">init.spectrum.rc</code>.</p>
+<p>From there, you can view <code class="language-plaintext highlighter-rouge">ramdisk/init.spectrum.sh</code> and change the numerical value on line 8 to the corresponding indexed profile you wish to use.  For convenience, all of the profiles in <code class="language-plaintext highlighter-rouge">init.spectrum.rc</code>.</p>
 
-<p>Next, add your settings to <code class="highlighter-rouge">init.spectrum.rc</code>.  There are plenty of examples for you to learn to <code class="highlighter-rouge">write</code> the settings.  You will also need the <code class="highlighter-rouge">on property...</code> value to match the value listed in the index of <code class="highlighter-rouge">init.spectrum.sh</code>.  Again, remember, only the first four will be available to the app (e.g. can be switched in user space).</p>
+<p>Next, add your settings to <code class="language-plaintext highlighter-rouge">init.spectrum.rc</code>.  There are plenty of examples for you to learn to <code class="language-plaintext highlighter-rouge">write</code> the settings.  You will also need the <code class="language-plaintext highlighter-rouge">on property...</code> value to match the value listed in the index of <code class="language-plaintext highlighter-rouge">init.spectrum.sh</code>.  Again, remember, only the first four will be available to the app (e.g. can be switched in user space).</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-</pre></td><td class="rouge-code"><pre># commented name of you and your profile
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># commented name of you and your profile
 on property:persist.spectrum.profile=0
   write /path/to/setting value
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
 <p>Finally, zip it up and flash it!</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-</pre></td><td class="rouge-code"><pre>$ rm *.zip    # removes last version
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ rm *.zip    # removes last version
 $ zip -r9 kernel-name.zip * -x README.md kernrel-name.zip
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
 <p><em>NOTE: Profiles from Flash Kernel require the Flash governor which has not been implemented yet.  The profiles exist for reference only.</em></p>
 :ET

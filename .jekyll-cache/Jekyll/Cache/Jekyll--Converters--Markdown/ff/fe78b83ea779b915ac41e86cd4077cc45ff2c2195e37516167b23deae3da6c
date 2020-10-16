@@ -1,4 +1,4 @@
-I"r<p><em>Please complete the instructions an <a href="{% post_url 2016-06-26-nexus6p-rooting %}">Part I</a> before continuing below.</em></p>
+I"˜<p><em>Please complete the instructions an <a href="{% post_url 2016-06-26-nexus6p-rooting %}">Part I</a> before continuing below.</em></p>
 
 <p><strong>Proceed at your own risk.</strong></p>
 
@@ -6,9 +6,9 @@
 
 <p>2) Boot to your phoneâ€™s boot loader either with the physical buttons or ADB.</p>
 
-<p>3) Check that fastboot is working (<code class="highlighter-rouge">$ fastboot devices</code>), and flash the recovery image:</p>
+<p>3) Check that fastboot is working (<code class="language-plaintext highlighter-rouge">$ fastboot devices</code>), and flash the recovery image:</p>
 
-<p><code class="highlighter-rouge">$ fastboot flash recover /path/to/twrp-&lt;version&gt;.angler.img</code></p>
+<p><code class="language-plaintext highlighter-rouge">$ fastboot flash recover /path/to/twrp-&lt;version&gt;.angler.img</code></p>
 
 <p>4) On your phone:  use the volume buttons to scroll to <em>Reboot Bootloader</em>, then scroll to and select <em>Recovery Mode</em>.</p>
 

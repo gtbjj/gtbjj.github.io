@@ -1,4 +1,4 @@
-I"í<p>The firewall is one of the most basic components of your network security.  There are a lot of debates about Linux and security, but a firewall 
+I"Â<p>The firewall is one of the most basic components of your network security.  There are a lot of debates about Linux and security, but a firewall 
 is a must regardless.  There are GUI tools available to help you do this (such as <a href="https://wiki.archlinux.org/index.php/Uncomplicated_Firewall">Uncomplicated 
 Firewall</a>), but going a bit more minimal has its benefits.</p>
 
@@ -10,22 +10,7 @@ Firewalls</a> is very detailed.  In addition to that, you can easily find a list
 <p>What can make this implementation painless is if you take the commands you issue (either through the 25 list or reading the wiki) and include 
 them in a single script.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-</pre></td><td class="rouge-code"><pre>~/scripts/iptables.rules
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/scripts/iptables.rules
 ---
 # Simple Stateful Firewall
 
@@ -40,21 +25,18 @@ iptables -N TCP
 iptables -N UDP
 
 # etc...
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
 <p>Next, make the file executable:</p>
 
-<p><code class="highlighter-rouge">$ chmod u+x ~/scripts/iptables.rules</code></p>
+<p><code class="language-plaintext highlighter-rouge">$ chmod u+x ~/scripts/iptables.rules</code></p>
 
 <p>Finally, create a shell alias in your ~/.{ba,z}shrc.  It 
 will make sense here to fire up your network driver and 
 deploy the firewall in one line like so:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-</pre></td><td class="rouge-code"><pre>~/.zshrc
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/.zshrc
 ---
 alias wup="sudo wifi-menu; sudo ~/scripts/iptables.rules"
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 :ET

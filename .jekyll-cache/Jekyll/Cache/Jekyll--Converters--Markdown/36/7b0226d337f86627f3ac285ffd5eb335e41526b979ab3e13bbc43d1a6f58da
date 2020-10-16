@@ -1,10 +1,10 @@
-I"á<h4 id="release-notes-2017-11-05">Release Notes 2017-11-05</h4>
+I"¿<h4 id="release-notes-2017-11-05">Release Notes 2017-11-05</h4>
 
 <hr />
 
 <p><strong>dnd-tools</strong></p>
 
-<p><a href="https://github.com/savagezen/dnd-tools/pull/4">Pull Request 4</a> was made earlier this week which offered several improvements including backwards compatibility with Python 2.  Previously Python 3.6+ was required due to the use of <code class="highlighter-rouge">secrets()</code>.  <a href="https://github.com/savagezen/dnd-tools/pull/3">Pull Request 3</a> implemented secrets, but the discussion in Pull Request 4 shows the conclusion that only the random tools embeded in <code class="highlighter-rouge">secrets()</code> were being used, rather than all of its functionality.</p>
+<p><a href="https://github.com/savagezen/dnd-tools/pull/4">Pull Request 4</a> was made earlier this week which offered several improvements including backwards compatibility with Python 2.  Previously Python 3.6+ was required due to the use of <code class="language-plaintext highlighter-rouge">secrets()</code>.  <a href="https://github.com/savagezen/dnd-tools/pull/3">Pull Request 3</a> implemented secrets, but the discussion in Pull Request 4 shows the conclusion that only the random tools embeded in <code class="language-plaintext highlighter-rouge">secrets()</code> were being used, rather than all of its functionality.</p>
 
 <p>The merger of Pull Request 4 also bring the following fixes from <a href="https://github.com/Kronuz">@Kronuz</a>:</p>
 <ul>
@@ -12,7 +12,7 @@
   <li>Added missing variable</li>
   <li>Correct misspellings</li>
   <li>Using random with system‚Äôs PRNG if possible</li>
-  <li>Package configuration setup in <code class="highlighter-rouge">setup.py</code></li>
+  <li>Package configuration setup in <code class="language-plaintext highlighter-rouge">setup.py</code></li>
 </ul>
 
 <p>I made another push today that includes NPC classes in the character creation function.  Essentially this allows you to select from 35 NPC classes when building a charcter / NPC.  Creating an NPC is otherwise identical to creating a player character.  This is because ‚Äústock values‚Äù for standard NPCs are avaialble in many online bestiaries and in the Monster Manual.</p>

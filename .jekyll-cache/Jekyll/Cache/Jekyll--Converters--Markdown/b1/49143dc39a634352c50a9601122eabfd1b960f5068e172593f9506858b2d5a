@@ -1,4 +1,4 @@
-I"�<h4 id="features">Features:</h4>
+I"�<h4 id="features">Features:</h4>
 
 <p><strong>New / Fixed Features:</strong></p>
 
@@ -45,7 +45,7 @@
 
 <p><strong>Faux Audio Support:</strong> Feature has been removed as the patch I used to implement it was breaking builds after I switched to Franco Kernel as a base.</p>
 
-<p><strong>Fingerprint Scanner:</strong>  The “patch” I was using to implement this improvement (increasing wakelock after interrupt) was based in a commit message (from Flash Kernel I believe), however, restoring the changed lines in <code class="highlighter-rouge">drivers/input/fingerprint/fpc1020_tee.c</code>.</p>
+<p><strong>Fingerprint Scanner:</strong>  The “patch” I was using to implement this improvement (increasing wakelock after interrupt) was based in a commit message (from Flash Kernel I believe), however, restoring the changed lines in <code class="language-plaintext highlighter-rouge">drivers/input/fingerprint/fpc1020_tee.c</code>.</p>
 
 <p><strong>CopperheadOS / Franco Kernel:</strong>  The <a href="https://github.com/AndroidHardeningArchive/kernel_huawei_angler">previous repositories on GitHub</a> have been renamed under a new organization (Android Hardening vs. CopperheadOS) and, for Angler, is now missing several  branches and the last commit is dated <em>September 26, 2017</em>.  There is <a href="https://github.com/CopperheadOS/kernel_huawei_angler">a new set of CopperheadOS repositories</a> that an initial commit was pushed to for Angler in early July.  As Such I’ve rebased my kernel to <a href="https://github.com/franciscofranco/angler">Francisco Fraco’s Franco Kernel</a> as it is one of a shrinking number of kernels that are still actively maintained (as of June 2018) for the Nexus 6P.</p>
 
@@ -64,7 +64,7 @@
 
 <h4 id="news---non-kernel-specific">News - Non-Kernel Specific:</h4>
 
-<p><strong>Jump to Camera:</strong> I noticed a while back that, even on the stock ROM, double clicking the power button was not jumping to the camera – which is one of my favorite features.  I first suspected that it was error / mismatching vendor.img, but it turns out that there is a hidden setting that is apparently off by default.  <em>Fix:</em>  Go to <code class="highlighter-rouge">settings</code> and search for <code class="highlighter-rouge">jump to camera</code> and enable.  Boomsy!</p>
+<p><strong>Jump to Camera:</strong> I noticed a while back that, even on the stock ROM, double clicking the power button was not jumping to the camera – which is one of my favorite features.  I first suspected that it was error / mismatching vendor.img, but it turns out that there is a hidden setting that is apparently off by default.  <em>Fix:</em>  Go to <code class="language-plaintext highlighter-rouge">settings</code> and search for <code class="language-plaintext highlighter-rouge">jump to camera</code> and enable.  Boomsy!</p>
 
 <p><strong>Random Battery Shutdowns:</strong>  I tried several solutions from around the web (<a href="https://forum.xda-developers.com/nexus-6p/general/guide-fix-nexus-6p-bootloop-death-blod-t3640279">here</a> and <a href="https://www.reddit.com/r/Nexus6P/comments/67y45a/yesterday_my_6p_shut_off_at_25_today_it_shut_off/dgudndw/">here</a>) that did not work.  <a href="https://www.reddit.com/r/Nexus6P/comments/681v42/early_shutdown_bug_temporary_fix/">One proposed solution</a> to “recalibrate” the battery in conjunction with restoring to the latest stock factory images at least got me reliably below 50% when my device was dying sometimes as high as 60+%.  If you’ve been snooping around <a href="https://github.com/savagesen/anykernel">my anykernel repo</a> since the last kernel release, I was experimenting with disabling the Big CPU cores as well as nerfing a bunch of other things to try and reduce the overall CPU load.  I’ve since done a hard reset on that repo as those profiles did not provide significant changes.</p>
 

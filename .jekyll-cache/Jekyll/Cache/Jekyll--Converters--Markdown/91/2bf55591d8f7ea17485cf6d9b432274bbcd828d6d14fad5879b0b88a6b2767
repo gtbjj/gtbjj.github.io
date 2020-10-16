@@ -1,33 +1,22 @@
-I"<p>1) For WiFi, <code class="highlighter-rouge">netctl.service</code> needs to be restarted.</p>
+I"ÿ<p>1) For WiFi, <code class="language-plaintext highlighter-rouge">netctl.service</code> needs to be restarted.</p>
 
-<p>2) For the touchpad, the kernel module <code class="highlighter-rouge">elan_i2c</code> needs 
+<p>2) For the touchpad, the kernel module <code class="language-plaintext highlighter-rouge">elan_i2c</code> needs 
 removed and reloaded, so</p>
 
 <p>3) Create a custom systemd service</p>
 
 <blockquote>
   <ul>
-    <li>(<code class="highlighter-rouge">suspend-resume.service</code>) that, on resume from 
+    <li>(<code class="language-plaintext highlighter-rouge">suspend-resume.service</code>) that, on resume from 
 suspend,</li>
-    <li>executes a script (<code class="highlighter-rouge">/usr/bin/suspend-resume.sh</code>) 
+    <li>executes a script (<code class="language-plaintext highlighter-rouge">/usr/bin/suspend-resume.sh</code>) 
 containing the necessary commands.</li>
     <li>Then make the script executable and load the systemd 
 service.</li>
   </ul>
 </blockquote>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-</pre></td><td class="rouge-code"><pre>$ sudo nano /etc/systemd/system/suspend-resume.service
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo nano /etc/systemd/system/suspend-resume.service
 -----
 [Unit]
 Description=Local system resume actions
@@ -38,24 +27,9 @@ ExecStart=/usr/bin/suspend-resume.sh
 
 [Install]
 WantedBy=suspend.target
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-</pre></td><td class="rouge-code"><pre>$ sudo nano /usr/bin/suspend-resume.sh```
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo nano /usr/bin/suspend-resume.sh```
 -----
 #!/usr/bin/sh
 # resume wifi and touchpad after suspend
@@ -70,5 +44,5 @@ modprobe elan_i2c
 $ sudo chmod u+x /usr/bin/suspend-resume.sh
 $ sudo systemctl enable suspend-resume
 $ sudo systemctl start suspend-resume
-</pre></td></tr></tbody></table></code></pre></div></div>
+</code></pre></div></div>
 :ET

@@ -1,10 +1,10 @@
-I"Å<h4 id="kernel--source-changes">Kernel / Source Changes:</h4>
+I"Ø<h4 id="kernel--source-changes">Kernel / Source Changes:</h4>
 
 <p><strong>Oreo 8.1.0:</strong></p>
 
 <ul>
   <li>CopperheadOS / <a href="https://github.com/CopperheadOS/platform_prebuilts_clang_host_linux-x86">Clang</a> - compiled with Linaro and Copperheadâ€™s hardened clang.  Once upon a time I used CopperheadOS as a base kernel before development slowed.  At any rate, Pixel devices are compiled with Clang, so I went ahead and used Coppheadâ€™s version for this kernel as well.  See <a href="https://copperhead.co/android/docs/technical_overview#compiler-hardening">Copperheadâ€™s official documentation</a></li>
-  <li>CopperheadOS - hardened <code class="highlighter-rouge">.config</code> changes.  See <a href="https://github.com/CopperheadOS/kernel_huawei_angler/commit/ed07138b5295e1caad9b2f3240aadfe08132327e">this commit</a></li>
+  <li>CopperheadOS - hardened <code class="language-plaintext highlighter-rouge">.config</code> changes.  See <a href="https://github.com/CopperheadOS/kernel_huawei_angler/commit/ed07138b5295e1caad9b2f3240aadfe08132327e">this commit</a></li>
   <li>CopperheadOS / SLUB sanitization, <a href="https://github.com/CopperheadOS/kernel_huawei_angler/commit/d7d6ff18583bd8c74017a283adfb8994a3cc4432">cherry-picked commit</a></li>
   <li>CopperheadOS / add FORTIFY_SOURCE measures, <a href="https://copperhead.co/android/docs/technical_overview#kernel-hardening">CopperheadOS kernel hardening</a></li>
   <li>CopperheadOS / gather extra entropy at boot - <a href="0ccf3172e7409062340d14d9821caf7709501046">cherry-picked commit</a>)</li>
