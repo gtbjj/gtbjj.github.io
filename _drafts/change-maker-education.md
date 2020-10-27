@@ -6,7 +6,7 @@ category: [Nutrition, Kombat Kitchen]
 tags: [business, kombat kitchen, change maker, precision nutrition]
 ---
 
-Change Maker:  Education
+Change Maker:  Education > link back to [first 100 days post](link)
 
 ### Evaluating CEUs (before)
 

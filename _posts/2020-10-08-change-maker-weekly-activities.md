@@ -114,4 +114,3 @@ This article pairs well with a later activity ([Jar of Rocks](/assets/docs/chang
 * **Big Rocks:**  These are the big ticket life items like family, housing, food, clothing, health.  We need to make sure we've got room (resources) for all our "big rocks" first.
 * **Little Rocks:**  These are technically non-essential, but they give fulfillment, fun, meaning, and purpose to our lives: "passion projects", hobbies, excelling at work, competing as an athlete.
 * **Sand:**  This is the filler, the nice-to-haves.  It can be fun, but it can also take up way too much space.  <code>If we fill our jar with too  much sand first, we don't have room for the big rocks</code>.  Sand is things like watching TV, playing video games, going drinking (alcohol or coffee), social media (scrolling).
-
