@@ -194,15 +194,26 @@ date: 2015-07-01
     <h3>Gear</h3>
     <ul style="list-style-type: none">
         <li>
-        <strong>Submission Shark Apparel</strong>
-        <br>
-        <img src="{{ site.baseurl }}/images/icon_submissionshark.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
-        <br>
-        Get uniquely designed no-gi spats, rash guards, and t-shirts from a brand that supports and tells the stories of every day jiu jitsu practitioners.  They have also featured campaigns such as donating <code>$10 of every order towards combating domestic violence</code>.  Even better, you <code>save 10%</code> with the code <code>savagezen</code>.
-        <br>
-        <br>
-        <a class="btn" title="10% off code: savagezen" href="https://submissionshark.com?sca_ref=417099.F7Jdvw3jHp">Show Now</a>
-        <hr>
-    </li>
+            <strong>Submission Shark Apparel</strong>
+            <br>
+            <img src="{{ site.baseurl }}/images/icon_submissionshark.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
+            <br>
+            Get uniquely designed no-gi spats, rash guards, and t-shirts from a brand that supports and tells the stories of every day jiu jitsu practitioners.  They have also featured campaigns such as donating <code>$10 of every order towards combating domestic violence</code>.  Even better, you <code>save 10%</code> with the code <code>savagezen</code>.
+            <br>
+            <br>
+            <a class="btn" title="10% off code: savagezen" href="https://submissionshark.com?sca_ref=417099.F7Jdvw3jHp">Show Now</a>
+            <hr>
+        </li>
+        <li>
+            <strong>Not Dead Yet Apparel</strong>
+            <br>
+            <img src="{{ site.baseurl }}/images/icon_ndya.webp" style="float: right; width: 30%; height: auto; margin-left: 1%">
+            <br>
+            Sadly, human trafficking is one of the fastest growing, most profitable businesses in the world.  Fortunately, there is something you can do about it and you can get some sweet fight gear while you're at it.  NDYA's <a href="">Freedom Fighter</a> line donates a percentage of profits to <a href="https://www.traffick911.com/">Traffic911</a>.  <code>Save 10%</code> with code <code>SAVAGEZEN</code>.
+            <br>
+            <br>
+            <a class="btn" title="10% off code: SAVAGEZEN" href="https://notdeadyetapparel.com/collections/hoodies-and-raglans-2">Shop Now</a>
+            <hr>
+        </li>
     </ul>
 </div>
