@@ -113,11 +113,12 @@ date: 2015-07-01
           <img src="{{ site.baseurl }}/images/cover_carnivorekickstart.webp" style="width: 15%; height: auto; float: right; margin-left: 1%">
           <strong>Carnivore Kickstart:  A Resource Guide</strong>
           <br>
-          <i>Coming Soon!</i>
+          <i>Curious about a carnivore(ish) or meat-based diet?  This resource guide will answer basic questions and point you in the right direction including:  who to follow on social media, websites and information resources, as well as 30-day and other challenge guides.</i>
           <br>
           <br>
+          <a class="btn" href="https://docs.google.com/document/d/1tDuv_yazW-gmbkTh99mGFC0fQxcT-BZIhXB8x8YQHOU/edit?usp=sharing">View</a>
           <br>
-          <br>
+          <hr>
       </li>
     </ul>
 </div>

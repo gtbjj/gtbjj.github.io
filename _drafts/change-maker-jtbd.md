@@ -228,3 +228,18 @@ Change Maker: JTBD
 * How can I talk about my business in a way that resonates more with *how my customers talk about their needs*, challenges, and concerns?
 * How can I reach out to people in places I've never considered before?
 * How can I see my customers' trajectory and anticipate where they're heading?
+
+
+#### Envision and Re-Imagine
+
+Purpose / function:  sell my own business OR build referrals?
+
+* building my own takes more work, yields more income
+* referrals mean branding is already done, "just sell yourself" as "evidence"
+* Books:  nobody wanted to read, just be told what to do
+* Ads:  nobody cares, they want to see me choke folks and train dogs
+* Science:  see ads
+* Podcast:  see ads, but I get a lot of personal value from the conversations as well
+* PN:  need to decide in 30 days, kind of falling off the wagon with other opportunities
+    * I put lots of irons in the fire and stoke the flame, can't keep them all going, so pick the hottest
+* Dreamline 6mo (stable enough, yes) 12 mo (stable enough, NO!)
