@@ -35,6 +35,7 @@ date: 2015-07-01
 <div class="expando" id="freebies">
     <h3>Freebies</h3>
     <ul style="list-style-type: none">
+      <!--
       <li>
           <img src="{{ site.baseurl }}/images/icon_instagram.webp" style="float: right; margin-left: 1%; width: 15%; height: auto">
           <strong>Community</strong>
@@ -54,6 +55,7 @@ date: 2015-07-01
           <br>
           <hr>
       </li>
+      -->
       <li>
         <img src="{{ site.baseurl }}/images/icon_castbox.webp" style="float: right; margin-left: 1%; width: 30%; height: auto">
         <strong>Kombat Kitchen Podcast</strong>
@@ -61,7 +63,8 @@ date: 2015-07-01
         The Kombat Kitchen Podcast features informative "mini-pods" in the realm of animal-based nutrition and combat sports as well as full length interviews with radical and influential people I've encountered (ranging from mental health professionals to other  nutrition enthusiasts to high performance athletes). 
         <br>
         <br>
-        <a class ="btn" href="https://castbox.fm/ch/2937016">Listen Now</a>
+        Listen On:<br><br>
+        <a class="btn" href="https://spoti.fi/2RKZ8AC">Spotify</a> <a class="btn" a href="https://bit.ly/3cA11tz">Google Podcasts</a> <a title="Limited episode availability" class="btn" href="https://bit.ly/2G23sIZ">CastBox</a> <a class="btn" href="https://bit.ly/32vBZrw">YouTube</a>
         <br>
         <hr>
       </li>
