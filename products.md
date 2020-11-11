@@ -17,7 +17,7 @@ date: 2015-07-01
         <a href="#freebies">Free Stuff!</a>
     </li>
     <li>
-        <a href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Nutrition Coaching</a>
+        <a href="#services">Nutrition Coaching</a>
     </li>
     <li>
         <a href="#supplements">Supplements</a>
@@ -123,6 +123,45 @@ date: 2015-07-01
           <br>
           <hr>
       </li>
+    </ul>
+</div>
+
+<div class="expando" id="services">
+    <ul style="list-style-type: none">
+        <li>
+            <strong>Nutrition Coaching</strong>
+            <br>
+            <br>
+            One-on-one individual nutrition coaching that is goal agnostic.  I can help you get active no matter what shape you're in, take your athletic performance to the next level, lose fat with out feeling deprived so that you can crush anxiety and stress, achieve new levels of vitality and training, ditch the magazine workouts and crash diets for good, and feel like food is your friend not the enemy.
+            <br>
+            <code>$20 / 30 minutes</code> via video chat or in-person.  Schedule regular appointments or ala-carte as needed!
+            <br>
+            <br>
+            <a class="btn" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Book Now</a>
+            <hr>
+        </li>
+        <li>
+            <strong>Single Email / Text Consultation</strong>
+            <br>
+            <br>
+            Got a question about lab work, conflicting research, a nagging minor issue, or just looking for a balanced meal plan?  Send me an email with your questions and I'll reply with a detailed, evidence-based response including all referenced materials and guidance to provide a thorough understanding of the topic at hand.
+            <br>
+            <code>$10 each</code>  Please send inquiries to <a href="mailto:austin.haedicke@gmail.com">austin.haedicke@gmail.com</a>.
+            <br>
+            <br>
+            <a class="btn" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Book Now</a>
+            <hr>
+        </li>
+        <li>
+            <strong>Referral Program</strong>
+            <br>
+            <br>
+            Got a success story, friend, family member, or significant other who would benefit from nutrition coaching?  If you are an active coaching client and want to refer someone to my services, just have them notify me that they were referred by your <code>first and last name (e.g. John Smith)</code>.  You'll both receive a one-time $10 coupon for any coaching service.  Enter the coupon <code>firstandlastname (e.g. johnsmith)</code> at checkout after booking a service.
+            <br>
+            <br>
+            <a class="btn" href="https://square.site/book/L3P6Z8QPJYRTQ/kombat-kitchen">Book Now</a>
+            <hr>
+        </li>
     </ul>
 </div>
 
