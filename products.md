@@ -225,10 +225,10 @@ date: 2015-07-01
         <br>
         <img src="{{ site.baseurl}}/images/icon_trubeef.webp" style="float: right; width: 40%; height: auto; margin-left: 1%">
         <br>
-        Tru Beef provides grass-fed, pasture-raised beef that is 100% USDA certified organic and utilizes sustainable, <a href="https://truorganicbeef.com/pages/trubeef-is-carbon-neutral">carbon-neutral</a> farming practices.  They are also part of the Global Animal Partnership.  <code>Save $25</code> using the link / button below.
+        Tru Beef provides grass-fed, pasture-raised beef that is 100% USDA certified organic and certified humane; and utilizes sustainable, <a href="https://truorganicbeef.com/pages/trubeef-is-carbon-neutral">carbon-neutral</a> farming practices.  They are also part of the Global Animal Partnership.  <code>Save $25 off your first order</code>, <code>10% off subsequent orders</code>, and get <code>2 lbs of FREE ground beef</code> using the code: <code>savageaen25</code>.
         <br>
         <br>
-        <a class="btn" title="save 10% with code: savagezen10" href="http://trubeeftruorganicb.refr.cc/austinh">Shop Now</a>
+        <a class="btn" title="save $25 with code: savagezen25" href="https://truorganicbeef.com/?rfsn=5175794.fe9668">Shop Now</a>
         </li>
     </ul>
 </div>
