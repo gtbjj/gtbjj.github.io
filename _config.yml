@@ -10,11 +10,13 @@ disqus_shortname: 'archnfoss'
 author:
   name: 'Austin Haedicke'
   email: austin.haedicke@gmail.com
-  twitter_username: carnivorebjj
+#  twitter_username: carnivorebjj
   facebook_username:
   github_username:
   linkedin_username:
   instagram_username: savagezen
+  podcast_title: "Kombat Kitchen"
+  podcast_url: https://open.spotify.com/show/2k2MXqKoRrkOu24trVOlUK
 
 defaults:
   -
