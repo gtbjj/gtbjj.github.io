@@ -15,35 +15,39 @@
         </a>
         <hr class="panel-cover__divider">
         <p class="panel-cover__description">{{ site.description }}</p>
+        <!--
         <br>
         <br>
-        <a href="{{ site.baseurl }}/about"><strong><u>About</u></strong></a> 
-        <a class="btn" href="https://kombat-kitchen.square.site/"><strong><u>Products</u></strong></a>
-        <a href="{{ site.author.podcast_url }}"><strong><u>Podcast</u></strong></a> 
+
+        <a href="{{ site.baseurl }}/about"><strong><u>About</u></strong></a>  |  
+        <a href="https://kombat-kitchen.square.site/"><strong><u>Products</u></strong></a>  |  
+        <a href="{{ site.author.podcast_url }}"><strong><u>Podcast</u></strong></a>
+        -->
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
         <div class="navigation-wrapper">
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to {{ site.title }} blog"
-                  class="blog-button">Blog</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="About The Kombat Kitchen"
+                  class="blog-button">About</a></li>
+              <li class="navigation__item"><a href="https://kombat-kitchen.square.site/" title="Discounted beef, supplements, and BJJ gear"
+                  class="blog-button">Products</a></li>
+              <li class="navigation__item"><a href="{{ site.author.podcast_url }}" title="The Kombat Kitchen Podcast on Spotify"
+                  class="blog-button">Podcast</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/categories/#Nutrition" title="Nutrition Posts"
+                  class="blog-button">Nutrition</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/categories/#Training" title="Nutrition Posts"
+                  class="blog-button">Training</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="All Posts"
+                  class="blog-button">All Posts</a></li>
             </ul>
           </nav>
 
-          <nav class="cover-navigation navigation--social">
-            <ul class="navigation">
+          <br>
 
-              {% if site.author.podcast_url %}
-              <!-- Podcast -->
-              <li class="navigation__item">
-                <a href="{{ site.author.podcast_url }}"
-                  title="{{ site.author.podcast_title }} Podcast on Spotify" target="_blank">
-                  <i class="icon icon-social-spotify"></i>
-                  <span class="label">Instagram</span>
-                </a>
-              </li>
-              {% endif %}
+          <nav class="cover-navigation navigation--social" style="text-align: center">
+            <ul class="navigation">
 
               {% if site.author.instagram_username %}
               <!-- Instagram -->
@@ -110,14 +114,14 @@
               </li>
               {% endif %}
 
-              <!-- RSS -->
+              <!-- RSS
               <li class="navigation__item">
                 <a href="{{ site.baseurl }}/feed.xml" title="Subscribe" target="_blank">
                   <i class="icon icon-rss"></i>
                   <span class="label">RSS</span>
                 </a>
               </li>
-
+              -->
             </ul>
           </nav>
 
