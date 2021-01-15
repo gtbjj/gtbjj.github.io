@@ -6,21 +6,21 @@ categories: [Nutrition, Carnivore]
 tags: [nutrition, carnivore, 90 day review, caffeine, performance, cold, recovery, blood pressure, open science, statistics]
 ---
 
-Finally, the data are in!  As a reminder, you can see the [raw data on GitHub](https://github.com/savagezen/savagezen.github.io/tree/master/docs/data).  Let's jump right into it and see what kind of correlations we find:
+Finally, the data are in!  As a reminder, you can see the [raw data on GitHub]({{ site.baseurl }}/research).  Let's jump right into it and see what kind of correlations we find:
 
-![alt text](https://github.com/savagezen/savagezen.github.io/blob/master/docs/data/plot-carnivore-90-0500.png?raw=true "Correlations at p = 0.05")
+![alt text]({{ site.baseurl }}/research/plot-carnivore-90-0500.png "Correlations at p = 0.05")
 
 This is a plot of correlations with significance (p) < 0.05.  However, that's only 95% confidence and 5% chance.  So let's take a closer look.
 
-![alt text](https://github.com/savagezen/savagezen.github.io/blob/master/docs/data/plot-carnivore-90-0100.png?raw=true "Correlations at p = 0.01")
+![alt text]({{ site.baseurl }}/research/plot-carnivore-90-0100.png "Correlations at p = 0.01")
 
 This plot shows correlations that are significant at the 0.01 level (99% confidence).  Again though, we have a lot of variables here so let's raise our standards.
 
-![alt text](https://github.com/savagezen/savagezen.github.io/blob/master/docs/data/plot-carnivore-90-0010.png?raw=true "Correlations at p = 0.001")
+![alt text]({{ site.baseurl }}/research/plot-carnivore-90-0010.png "Correlations at p = 0.001")
 
 Finally, we're at 99.9% confidence (p = 0.001).  I'll return to this graph, but first let's get really picky and see what things look like at 99.99% confidence (p = 0.0001).
 
-![alt text](https://github.com/savagezen/savagezen.github.io/blob/master/docs/data/plot-carnivore-90-0001.png?raw=true "Correlations at p = 0.0001")
+![alt text]({{ site.baseurl }}/research/plot-carnivore-90-0001.png "Correlations at p = 0.0001")
 
 Now, let's dig in!  On the left diagonal you can see that each variable has a perfect, positive relationship with itself (obviously).  Let's take a look at the negative correlations first:
 
