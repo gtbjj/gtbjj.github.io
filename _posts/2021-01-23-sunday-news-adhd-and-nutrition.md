@@ -3,7 +3,7 @@ title: "Sunday News:  ADHD and Nutrition"
 author: Austin
 date: 2021-01-24 0900
 category: [Psychology]
-tags: [mental health, psychology, adhd, keto, saturated fat, ala, dha, epa]
+tags: [sunday news, mental health, psychology, adhd, keto, saturated fat, ala, dha, epa]
 ---
 
 There is a lot of exciting research being done regarding nutritional interventions for mental health, specifically in the area of neurologically related disorders ([1](https://www.chrispalmermd.com/)).  ADHD is no exception to that ([2](https://www.icd10data.com/ICD10CM/Codes/F01-F99)).  I have talked about the overlap of nutrition regarding both mental health and the devleopment of children in [my (free) ebook series](https://docs.google.com/document/d/1sd2nnWdQCKCc66bG1GoKjWA9kHngXTLKJ8bCrnG7dtA/edit?usp=sharing).  In my clinical opinion ADHD is grossly over diagnosed.  Be that as it may, the reported numbers by the CDC suggest that per capita diagnosis are declining (from 2011 to 2016)([3](https://www.cdc.gov/ncbddd/adhd/data.html)).  What is also intriguing (and quite telling) about the CDC's reporting is that over 60% of children diagnosed with ADHD are also diagnosed with another mental health disorder ([3](https://www.cdc.gov/ncbddd/adhd/data.html)).  But, I digress...

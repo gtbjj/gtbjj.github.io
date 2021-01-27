@@ -3,7 +3,7 @@ title: "Mere Psychotherapy: Rainbow in the Dark"
 author: Austin
 date: 2021-01-25 10:00:00
 category: [Psychology]
-tages: [psychology, mental health, mere psychotherapy, pay attention, rainbow in the dark]
+tags: [psychology, mental health, mere psychotherapy, pay attention, rainbow in the dark]
 ---
 
 ```"Play, like dreams, serves the function of self realization." ~ D.W. Winnicott```
