@@ -3,7 +3,7 @@ title: "Mere Psychotherapy: Introduction"
 author: Austin
 date: 2021-01-08 05:00:00
 category: [Philosophy, Psychology]
-tags: [mere psychotherapy, philosophy, psychology, mental health]
+tags: [mere psychotherapy, mental health]
 ---
 
 ```"There is scarcely any passion without struggle." ~ Albert Camus```

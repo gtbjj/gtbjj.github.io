@@ -3,7 +3,7 @@ title: "Mere Psychotherapy: Introduction, Part II"
 author: Austin
 date: 2021-01-08 06:00:00
 category: [Philosophy, Psychology]
-tags: [mere psychotherapy, mental health, philosophy, psychology]
+tags: [mere psychotherapy, mental health]
 ---
 
 The practice psychotherapy is many things, not least of all humbling.  As such, the paradoxical title of this series, *Mere Psychotherapy*, is intentional.  I first encountered the phrase in Bruce Fink's [*Against Understanding*](https://amzn.to/3q51jhJ) and it immediately sparked a thought of C.S. Lewis's [*Mere Christianity*](https://amzn.to/3hSl6xQ).  I am neither a christian or a psychoanalyst, but have always been incredibly fond of both authors' work.

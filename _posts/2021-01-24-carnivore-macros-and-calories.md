@@ -3,7 +3,7 @@ title: "Carnivore: Calories and Macros"
 author: Austin
 date: 2021-01-24 05:30:00
 category: [Nutrition, Carnivore]
-tags: [nutrition, carnivore, keto, macronutrients, calories, fat, protein]
+tags: [keto, macronutrients, calories, fat, protein]
 ---
 
 There are a lot of misconceptions, questions, and nuance around macronutrient ratios (something quite exhaustively harped on in keto circles) within the carnivore communmity.

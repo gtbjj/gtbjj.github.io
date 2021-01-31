@@ -3,7 +3,7 @@ title: "Mere Psychotherapy: It's You I Like"
 author: Austin
 date: 2021-01-19 09:00:00
 category: [Philosophy, Psychology]
-tags: [mere psychotherapy, show up, philosophy, psychology]
+tags: [mere psychotherapy, show up]
 ---
 
 ```Depression is the inability to construct a future." ~ Rollo May```
