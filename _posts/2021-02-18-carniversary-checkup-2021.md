@@ -1,4 +1,3 @@
-Carniversary
 ---
 title: Carniversary Checkup 2021
 author: austin
