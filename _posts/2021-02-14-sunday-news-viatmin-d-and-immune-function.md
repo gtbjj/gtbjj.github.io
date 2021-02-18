@@ -4,7 +4,6 @@ author: Austin
 date: 2021-02-14 10:00:00
 category: [Nutrition, Kombat Kitchen]
 tags: [nutrition, kombat kitchen, sunday news, mental health, fitness]
-
 ---
 
 If you're at all involved or invested / interested in your health, you've probably heard that Vitamin D is pretty important in the overall process.  I've written before about supplementation (of Vitamin D) compared to the sun and postulated some reasons why the former is, by far, inferior.  At any rate, the following came across my feed this week:
