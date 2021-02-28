@@ -1,5 +1,5 @@
 ---
-title: Kombat Kitchen Podcast 003: Dairy, Drugs, and Cheat Meals"
+title: "Kombat Kitchen Podcast 003: Dairy, Drugs, and Cheat Meals"
 author: Austin
 date: 2020-10-09
 category: [Kombat Kitchen]
