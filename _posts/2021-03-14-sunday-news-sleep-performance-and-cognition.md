@@ -1,8 +1,8 @@
 ---
 title: "Sunday News: Sleep, Performance, and Cognition"
 author: Austin
-date:
-categeory: [Kombat Kitchen]
+date: 2021-03-14 10:00:00
+category: [Kombat Kitchen]
 tags: [sunday news, mental health, sleep, performance]
 ---
 
@@ -27,9 +27,18 @@ Now, let's get specific to athletes and performance.  A 2015 review ([6](https:/
 
 The article concluded that *"Given the equivocal understanding of sleep and athletic performance outcomes, further research and consideration is required to obtain a greater knowledge of the interaction between sleep and performance."*  The article that actually caught my attention was just published last year (March 2020) and pulls together everything we've talked about so far with the title "*Sleep and Athletic Performance: Impacts on Physical Performance, Mental Performance, Injury Risk and Recovery, and Mental Health"* ([8](https://pubmed.ncbi.nlm.nih.gov/32005349/)).
 
-*"Sleep is a fundamental component of performance optimization among elite athletes, yet only recently embraced by sport organizations as an important part of training and recovery."*  We need to pause for a minute.  Pull that apart.  Sleep is not only important for tarining and recovery, but *also* performance as an independent factor.  As we've already mentioned; *"Sleep plays a crucial role in physical and cognitive performance and is an important factor in reducing risk of injury."*  These conclusions were congruent wiht the findings of a previous review done in 2017 ([9](https://pubmed.ncbi.nlm.nih.gov/29135639/)).
+> "Sleep is a fundamental component of performance optimization among elite athletes, yet only recently embraced by sport organizations as an important part of training and recovery."*  We need to pause for a minute.  Pull that apart.  Sleep is not only important for tarining and recovery, but *also* performance as an independent factor.  As we've already mentioned; *"Sleep plays a crucial role in physical and cognitive performance and is an important factor in reducing risk of injury."*  These conclusions were congruent wiht the findings of a previous review done in 2017 ([9](https://pubmed.ncbi.nlm.nih.gov/29135639/))."
 
 To recap, training is literally just the tip of the iceberg.  To get the most out of our traininng sessions we need to be recovered, mentally and physically.  TO accomplish that we need good quality and volume of sleep.  What's  more is that to perform optimally, regardless of our level of training, we need even more quality sleep!
 
 Sweet dreams,
+
 Austin
+
+---
+
+*PS:  Thoughts for the week:*
+
+> "When we give someone our time, we actually give a portion of our life that we will never take back." ~ Alexander the Great
+
+> "Play, like dreams, serves the funciton of self realization." ~ D.W. Winnicott
