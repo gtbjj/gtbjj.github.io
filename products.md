@@ -81,6 +81,6 @@ date: 2015-07-01
     <img src="{{site.baseurl}}/images/icon_heartandsoil5.webp" style="float: right; height: auto; width: 25%">
     <p><strong>Heart & Soil Supplements</strong></p>
     <p>Freeze dried beef organ supplements made from grass-fed, grass-finished, <a href="https://heartandsoil.co/pages/land-regeneration">regeneratively raised cattle</a> that provide <a href="https://heartandsoil.co/pages/nose-to-tail">nose-to-tail nutrition</a> on the go and on the run.  Beef organs provide a range of benefits from improving athletic performance and libido, to immune and digestive function, to joint health and mood.</p>
-    <p><code>10% off code: savagezen20</code></p>
-    <a class="btn" href="https://heartandsoil.co">Order Now</a>
+    <p><code>10% off code: savagezen10</code></p>
+    <a class="btn" href="https://heartandsoil.co/?rfsn=5532893.a40cf75">Order Now</a>
 </div>
