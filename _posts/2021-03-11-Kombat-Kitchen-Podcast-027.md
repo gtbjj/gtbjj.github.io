@@ -1,5 +1,5 @@
 ---
-title: "Kombat Kitchen Podcast 026: Balance, Old School, and Feeding Kids Liver"
+title: "Kombat Kitchen Podcast 027: Balance, Old School, and Feeding Kids Liver"
 author: Austin
 date: 2021-03-10 17:00:00
 category: [Kombat Kitchen]
