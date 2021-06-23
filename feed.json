@@ -9,5 +9,19 @@
         "name": "Austin Haedicke"
     },
     "items": [
+        {
+            "id": "https://savagezen.github.io/test-new-post.html",
+            "url": "https://savagezen.github.io/test-new-post.html",
+            "title": "Test New Post",
+            "summary": "Do I need a post entered to render and preview the site? ",
+            "content_html": "<p>Do I need a post entered to render and preview the site?</p>\n",
+            "author": {
+                "name": "Austin Haedicke"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-23T00:20:37-04:00",
+            "date_modified": "2021-06-23T00:20:37-04:00"
+        }
     ]
 }
