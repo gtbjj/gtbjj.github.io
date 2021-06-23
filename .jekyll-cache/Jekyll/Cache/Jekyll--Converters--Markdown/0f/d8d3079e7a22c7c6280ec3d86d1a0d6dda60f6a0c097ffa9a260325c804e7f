@@ -1,2 +1,0 @@
-I"7<p>I’ve run into this problem after system restorations in the past and always have to do some Googling to get to the bottom of it.  Thus, I wanted to document the process here so that I have a record of it. The error in question results from running <em>makepkg</em> and receiving the following output:</p>
-:ET

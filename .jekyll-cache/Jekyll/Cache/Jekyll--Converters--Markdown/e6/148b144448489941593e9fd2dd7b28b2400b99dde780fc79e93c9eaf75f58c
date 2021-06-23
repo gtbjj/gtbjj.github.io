@@ -1,4 +1,0 @@
-I"¹<p>Once upon a time I discovered the very convenient <a href="https://wiki.archlinux.org/index.php/profile-sync-daemon">profile-sync-daemon</a> package in 
-the AUR.  This daemon essentially mounts and syncs your user browser profile to tmpfs (RAM) for improved performance and reduced writes to your 
-hard drive.  <a href="https://wiki.archlinux.org/index.php/Anything-sync-daemon">Similar tools</a> exist for other profiles and caches.</p>
-:ET

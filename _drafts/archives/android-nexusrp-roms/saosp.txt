@@ -1,6 +1,0 @@
-center clock
-date, but can't switch side
-animations to 0.5
-status brightness slider
-no back to kill
-multiwindow implied (android 7.x)

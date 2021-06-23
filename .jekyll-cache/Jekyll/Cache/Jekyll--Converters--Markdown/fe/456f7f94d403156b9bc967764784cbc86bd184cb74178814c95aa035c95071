@@ -1,2 +1,0 @@
-I"<p>This very blog runs on Jekll (:-D) and while running the local server via <code class="language-plaintext highlighter-rouge">$ bundle exec jekyll serve</code> I got the error <code class="language-plaintext highlighter-rouge">zsh: command not found: bundle</code>.</p>
-:ET

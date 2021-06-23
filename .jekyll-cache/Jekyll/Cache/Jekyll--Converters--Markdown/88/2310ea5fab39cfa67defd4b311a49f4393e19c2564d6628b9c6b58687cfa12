@@ -1,17 +1,0 @@
-I"
-<p><a href="https://play.google.com/store/apps/details?id=org.faudroids.mrhyde"><img style="float: right; height: auto; width: 40%" src="https://lh3.googleusercontent.com/CKhNDih6W6pnyVsaeFsbZGrhVcGPZXC3vhlVRENf3cPJthpNP1SnQNS3WyxHZkN053aJ=w300-rw" /></a></p>
-
-<p>There is a lot to love about <a href="http://jekyllrb.com/">Jekyll blogs</a>.  They are easy to get started, have <a href="http://jekyllthemes.org/">dozens of themes</a>, leave tons of control for the writer, and are mobile ready for the reader.</p>
-
-<p>I experimented with many ways of keeping track of drafts and ideas for content over the years, but they were all rather unintuitive.  Even more so, there isn’t an awesome way to manage <a href="https://www.github.com">GitHub</a> repos (this include Jekyll blogs) from your phone.  Any writer knows that inspiration seldom strikes when you’re conveniently sitting at your desk in front of your laptop.</p>
-
-<p>One option to manage your Jekyll blog from your Android phone is <a href="https://play.google.com/store/apps/details?id=co.tinypress.android">Tinypress</a>.  This is pretty simple and clear cut, however, I wasn’t satisfied with some of the naming conventions and limited themes.  Tinypress is a good get-up-and go app.  <a href="https://play.google.com/store/apps/details?id=org.faudroids.mrhyde">MrHyde</a> is for long term management.</p>
-
-<p><img style="float: right; height: auto; width: 40%" src="http://drive.google.com/uc?export=view&amp;id=0B2RH_BSaD6YPUWNHQmVMYUFpY3c" /></p>
-
-<p>The app links to your GitHub account then lets you manage your repo from inside the app.  You can create both drafts and options, using any naming convention or font matter (manually!) that you’d like.  You can even hit the “eyeball” icon and the app will function the same as running <code class="language-plaintext highlighter-rouge">jekyll serve</code> on your computer; bringing up a preview of the proposed version.</p>
-
-<p>Once you tap the “upload” icon, you can review changed files, git differences, and provide a commit message just like you had checked all of that with git on the command line. Tap <code class="language-plaintext highlighter-rouge">commit</code> and your changes push to GitHub and your new post / draft is pushed to GitHub’s servers.  Pretty short, sweet, and simple.</p>
-
-<p>Essentially that is how the app functions.  You manually write all the styling and content you want and the app <strong>only</strong> serves as a vehicle to push and pull.  Oh and it doesn’t hurt that the app looks good on the inside as well!</p>
-:ET

@@ -1,6 +1,0 @@
-I"6<p>A quick memo here on how to persistently set <em>swappiness</em>, or pressure for 
-the system to use swap space (<a href="https://wiki.archlinux.org/index.php/Swap_file#Swap_file">swap 
-file</a> or <a href="https://wiki.archlinux.org/index.php/swap#Swap_partition">swap 
-partition</a>) 
-instead of RAM.</p>
-:ET

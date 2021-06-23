@@ -1,4 +1,0 @@
-I"+<p>SLiM has well documented errors with <em>systemd</em>’s shutdown process (<a href="https://wiki.archlinux.org/index.php/SLiM#Shutdown_or_Reboot_Stalled">See 
-ArchWiki</a>).  While this was the root of the problem, the related errors 
-I found while working backwards are worth pointing out.</p>
-:ET
