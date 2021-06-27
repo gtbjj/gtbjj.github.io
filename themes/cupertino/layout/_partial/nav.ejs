@@ -11,6 +11,14 @@
             <a class="nav-item nav-item-patreon nav-item-icon" href="<%- url_for(theme.nav.items[i]) %>" target="_blank">&nbsp;</a>
             <% } else if (i == 'CodePen' || i == 'codepen') { %>
             <a class="nav-item nav-item-codepen nav-item-icon" href="<%- url_for(theme.nav.items[i]) %>" target="_blank">&nbsp;</a>
+
+            <% } else if (i == 'Instagram' || i == 'instagram') { %>
+            <a class="nav-item nav-item-instagram nav-item-icon" href="<%- url_for(theme.nav.items[i]) %>" target="_blank">&nbsp;</a>
+            <% } else if (i == 'Twitter' || i == 'twitter') { %>
+            <a class="nav-item nav-item-twitter nav-item-icon" href="<%- url_for(theme.nav.items[i]) %>" target="_blank">&nbsp;</a>
+            <% } else if (i == 'PayPal' || i == 'paypal') { %>
+            <a class="nav-item nav-item-paypal nav-item-icon" href="<%- url_for(theme.nav.items[i]) %>" target="_blank">&nbsp;</a>
+
             <% } else { %>
             <a class="nav-item" href="<%- url_for(theme.nav.items[i]) %>"><%= i %></a>
             <% } %>

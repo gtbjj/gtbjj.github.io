@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: savagezen
+subtitle: 'carnivore, jiujitsu, mental health'
+description: 'savagezen'
+about: 'A collective body of work for warrior-poets, philosopher-kings, and violent hippies.  Join the resistance.  Fight for your health.  Think freely.'
+keywords: jiujitsu carnivore mentalhealth
+author: Austin Haedicke
 language: en
-timezone: ''
+timezone: 'America/New_York'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

@@ -88,6 +88,18 @@ nav .nav-item-github {
     background-image: url(/theme-img/github-mark-dark.png);
 }
 
+nav .nav-item-instagram {
+    background-image: url(/theme-img/instagram-icon.png);
+}
+
+nav .nav-item-twitter {
+    background-image: url(/theme-img/twitter-icon.png);
+}
+
+nav .nav-item-paypal {
+    background-image: url(/theme-img/paypal-icon.jpeg);
+}
+
 nav .nav-item-patreon {
     background-image: url(/theme-img/patreon-logo-black.png);
 }
