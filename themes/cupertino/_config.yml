@@ -19,7 +19,7 @@ nav:
     Podcast: /podcast
     Research: /research
     Essays: /essays
-    Sponsors: /sponsors
+    Sponsors: /support
     About: /about
     # these will be automatically be an icon
     Instagram: https://instagram.com/savagezen
@@ -49,11 +49,11 @@ footer:
   Me:
     # items
     About: /about
-    Sponsors: /sponsors
-    Instagram: https://instagram.com/savagezen
-    Twitter: https://twitter.com/carnivorebjj
-    GitHub: https://github.com/savagezen
-    PayPal: https://paypal.me/savagezen
+    Support this Site: /support
+#    Instagram: https://instagram.com/savagezen
+#    Twitter: https://twitter.com/carnivorebjj
+#    GitHub: https://github.com/savagezen
+#    PayPal: https://paypal.me/savagezen
 
 # the license your posts under
 license: CC BY-NC 4.0
