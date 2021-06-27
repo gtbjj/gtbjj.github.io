@@ -34,7 +34,7 @@ footer:
     # the items after the title, display as links
     Research: /research
     Essays: /essays
-    Archives: /archives
+    Archives: https://github.com/savagezen/savagezen.github.io/tree/master/source/_archive
     Subscribe to RSS: /atom.xml
   # also the title
   Podcast:
