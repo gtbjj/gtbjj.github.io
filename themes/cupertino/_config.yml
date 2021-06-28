@@ -16,9 +16,9 @@ nav:
   # the items displays in the upper right corner
   items:
     # these items will display as a link
-    Podcast: /podcast
-    Research: /research
-    Essays: /essays
+    Podcast: /categories/Podcast
+    Research: /categories/Research
+    Essays: /categories/Essays
     Sponsors: /support
     About: /about
     # these will be automatically be an icon
