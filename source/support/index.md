@@ -45,10 +45,29 @@ Thank you for your interest in supporting my work!  I'm extrememly proud and sel
     <code>10% off code: savagezen10</code> | <strong><a href="https://heartandsoil.co/?rfsn=5532893.a40cf75">Order Now!</a></strong>
     <hr>
   </li>
+  <li>
+    <a href="https://paypal.me/savagezen"><img style="float: right; height: auto; width: 15%" src="/paypal-color.png"></a>
+    <strong>PayPal</strong>
+    <br>
+    If you're so inclined, you can also make a donation of any amount through PayPal.
+    <br>
+    <br>
+    <br>
+    <a href="https://paypal.me/savagezen">Buy me a coffee!</a>
+    <hr>
+  </li>
+  <li>
+    <a href=""><img style="float: right; height: auto; width: 20%" src="/brave.jpeg"></a>
+    <strong>Brave + BAT</strong>
+    <br>
+    If cryptocurrency is more your speed, you can <a href="https://brave.com/tip-with-brave/">use the Brave Broser to tip</a> me on <a href="https://github.com/savagezen/savagezen.github.io">GitHub</a> or <a href="https://twitter.com/carnivorebjj">Twitter</a>.  Or, you can send a tip directly to any of the below wallets:
+    <br>
+    <br>
+    <ul style="list-style-type: none">
+      <li>BTC: <code>1ArnY1sP4s8CuJmJ2wTHspL598ySSTCTKe</code></li>
+      <li>ETH: <code>0xec97d196f659156FF39a11Fef6a995Dd7FEF5d3B</code></li>
+      <li>XRP: <code>rMdG3ju8pgyVh29ELPWaDuA74CpWW6Fxns</code></li>
+    </ul>
+    <hr>
+  </li>
 </ul>
-
-Other Contributions:
-
-* Donate any amount via [PayPal](https://paypal.me/savagezen).
-* [Use Brave Browser to tip](https://brave.com/tip-with-brave/) me on [Twitter](https://twitter.com/carnivorebjj) or [GitHub](https://github.com/savagezen).
-* If other crypto is your thing, send me a DM on [Instagram](https://instagram.com/savagezen).
