@@ -85,15 +85,15 @@ nav .nav-item-icon {
 }
 
 nav .nav-item-github {
-    background-image: url(/theme-img/github-mark-dark.png);
+    background-image: url(/theme-img/github.png);
 }
 
 nav .nav-item-instagram {
-    background-image: url(/theme-img/instagram-icon.png);
+    background-image: url(/theme-img/instagram.png);
 }
 
 nav .nav-item-twitter {
-    background-image: url(/theme-img/twitter-icon.png);
+    background-image: url(/theme-img/twitter.png);
 }
 
 nav .nav-item-paypal {
@@ -110,7 +110,7 @@ nav .nav-item-codepen {
 
 @media (prefers-color-scheme: dark) {
     nav .nav-item-github {
-        background-image: url(/theme-img/github-mark-light.png);
+        background-image: url(/theme-img/github.png);
     }
     nav .nav-item-patreon {
         background-image: url(/theme-img/patreon-logo-white.png);

@@ -2,6 +2,8 @@
 title: About
 ---
 
+<div class="taggbox-container" style="width:100%;height:100%;overflow: auto;"><div class="taggbox-socialwall" data-wall-id="63356" view-url="https://widget.taggbox.com/63356"></div><script src="https://widget.taggbox.com/embed.min.js" type="text/javascript"></script></div>
+
 In short...
 
 * I am an advocate of animal-based nutrition (specifically a carnivore way of eating) and steward of regeerative agriculture.  
