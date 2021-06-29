@@ -100,23 +100,22 @@ nav .nav-item-paypal {
     background-image: url(/theme-img/paypal.png);
 }
 
-nav .nav-item-patreon {
-    background-image: url(/theme-img/patreon-logo-black.png);
-}
-
 nav .nav-item-codepen {
     background-image: url(https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
+    nav .nav-item-instagram {
+        background-image: url(/theme-img/instagram-light.png);
+    }
+    nav .nav-item-twitter {
+        background-image: url(/theme-img/twitter-light.png);
+    }
     nav .nav-item-github {
-        background-image: url(/theme-img/github.png);
+        background-image: url(/theme-img/github-light.png);
     }
-    nav .nav-item-patreon {
-        background-image: url(/theme-img/patreon-logo-white.png);
-    }
-    nav .nav-item-codepen {
-        background-image: url(https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-White-Large.png);
+    nav .nav-item-paypal {
+        background-image: url(/theme-img/paypal-light.png);
     }
 }
 
