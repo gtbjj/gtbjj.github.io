@@ -6,7 +6,7 @@ As the name of this website (and many of my social media handles), *savagezen*, 
 
 In short, I am:
 
-* A licensed professional counselor (LPC) and have been practicing since 2015.  You can learn more about my professional works and history on [LinkedIn](https://www.linkedin.com/in/austinhaedicke/).
+* A licensed professional counselor (LPC) and have been practicing since 2015.  You can learn more about my professional works and history on [LinkedIn](https://linkedin.com/in/austinhaedicke).
 * A certified nutrition coach (PN1) with Precision Nutrition.
 * A compeitive JiuJitsu player (currnetly Purple Belt)  I've formerly trained and competed in boxing and MMA.  I have also bouldered up to V6/7 and traditional climbed up to 5.10b/c.
 * A (working) dog lover.

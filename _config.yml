@@ -4,22 +4,16 @@
 
 # Site
 title: savagezen
-subtitle: 'carnivore, jiujitsu, mental health'
-description: 'savagezen'
-about: 'A collective body of work encouraging warrior-poets, violent-hippies, health rebels, and free thinkers to make changes in the world.'
-keywords: jiujitsu carnivore mentalhealth
+subtitle: ' | carnivore, jiujitsu, mental health'
+description: ' | carnivore, jiujitsu, mental health'
+keywords:
 author: Austin Haedicke
 language: en
 timezone: 'America/New_York'
 
-# Social Media
-instagram: savagezen
-twitter: carnivorebjj
-github: savagezen
-
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://savagezen.netlify.app
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cupertino
+#theme: landscape
+theme: Chic
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
