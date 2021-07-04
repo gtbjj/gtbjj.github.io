@@ -25,4 +25,4 @@ Without overcomplicating things;
 
 and you'll have a pretty good idea of who I am, what I'm in to, and the message(s) I'm spreading.
 
-<div class="taggbox-container" style="width:60%;margin-left:20%;height:100%;overflow: auto"><div class="taggbox-socialwall" data-wall-id="63356" view-url="https://widget.taggbox.com/63356"></div><script src="https://widget.taggbox.com/embed.min.js" type="text/javascript"></script></div>
+<div class="taggbox-container" style="width:100%;height:100%;overflow: auto;"><div class="taggbox-socialwall" data-wall-id="63356" view-url="https://widget.taggbox.com/63356"></div><script src="https://widget.taggbox.com/embed.min.js" type="text/javascript"></script></div>
