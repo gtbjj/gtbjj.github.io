@@ -6,11 +6,17 @@ nav:
   Research: /categories/Research
   Essays: /categories/Essays
   Podcast: /podcast
-#  Posts: /archives
 #  Categories: /category
 #  Tags: /tag
   Sponsors: /sponsors
   About: /about
+
+# footer items
+foot:
+  All Posts: /archives
+  Categories: /category
+  Tags: /tag
+  Archives: https://github.com/savagezen/savagezen.github.io/tree/master/source/_archive
 
 # favicon
 favicon: /image/favicon.ico
@@ -73,7 +79,7 @@ post_copyright_author_enable: true
 post_copyright_permalink_enable: true
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
-post_copyright_slogan_enable: true
+post_copyright_slogan_enable: false
 post_copyright_slogan_text: Eat meat. Play in the sun. Love each other</strong>!
 ## toc
 post_toc_enable: true
@@ -108,3 +114,6 @@ mathjax:
   import: demand # global or demand
   ## global: all pages will load mathjax,this will degrade performance and some grammers may be parsed wrong.
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
+
+# analytics
+google_analytics: UA-63934221-2
