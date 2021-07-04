@@ -1,6 +1,5 @@
 <footer id="footer" class="footer">
     <div class="copyright">
-<!--        View All: <a href="">Posts</a> | <a href="">Categories</a> | <a href="">Tags</a> | <a href="">Archives</a> -->
         <% for (var i in theme.foot){ %>
             <a style="margin-left: 1%" href="<%- url_for(theme.foot[i]) %>"><%= i %></a>
         <% } %>
