@@ -96,6 +96,17 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  gitalk:
+    clientID: 6e8cf606f9176375b617
+    clientSecret: f8e788e8223eb2dad7d530779712b412496e4f7e
+    repo: gitalk-comments
+    owner: savagezen
+    admin: 
+      - GitHub repo owner and collaborators, only these guys can initialize github issues
+    distractionFreeMode: true
+
+
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 theme: Chic

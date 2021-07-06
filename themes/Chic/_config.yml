@@ -136,3 +136,6 @@ share_post:
     url: 'https://www.linkedin.com/sharing/share-offsite/'
     query: 'url=%link&title=%title'
     text: 'LinkedIn'
+
+# disqus comments
+disqus_shortname: savagezen
