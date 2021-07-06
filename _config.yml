@@ -96,17 +96,6 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-plugins:
-  gitalk:
-    clientID: 6e8cf606f9176375b617
-    clientSecret: f8e788e8223eb2dad7d530779712b412496e4f7e
-    repo: gitalk-comments
-    owner: savagezen
-    admin: 
-      - GitHub repo owner and collaborators, only these guys can initialize github issues
-    distractionFreeMode: true
-
-
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 theme: Chic
@@ -115,3 +104,21 @@ theme: Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+feed:
+    limit: 20
+    order_by: "-date"
+    tag_dir: "tag"
+    category_dir: "category"
+    rss:
+        enable: true
+        template: "themes/Chic/layout/feeds/rss.ejs"
+        output: "rss.xml"
+    atom:
+        enable: false
+        template: "themes/Chic/layout/feeds/atom.ejs"
+        output: "atom.xml"
+    jsonFeed:
+        enable: false
+        template: "themes/Chic/layout/feeds/json.ejs"
+        output: "feed.json"

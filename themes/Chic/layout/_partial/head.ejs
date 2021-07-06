@@ -63,6 +63,7 @@ if (is_archive()){
         <% } %>
     <% } %>
 <% } %>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-63934221-2"></script>
 <script>
@@ -72,3 +73,8 @@ if (is_archive()){
 
   gtag('config', 'UA-63934221-2');
 </script>
+
+<!-- hexo-feed -->
+    <link rel="alternate" type="application/rss+xml" title="<%= config.title %>" href="<%= full_url_for(`/rss.xml}`) %>" />
+    <link rel="alternate" type="application/atom+xml" title="<%= config.title %>" href="<%= full_url_for(`/atom.xml`) %>" />
+    <link rel="alternate" type="application/json" title="<%= config.title %>" href="<%= full_url_for(`/feed.json`) %>" />
