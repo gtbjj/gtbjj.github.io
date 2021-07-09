@@ -2,8 +2,8 @@
 title: "How To Age Gracefully: 2020"
 author: Austin
 date: 2020-05-12 06:30:00
-categories: [Essays, Philosophy, Psychology]
-tags: [age, grace, how to age gracefully, reflection]
+categories: [Essays]
+tags: [age, grace, philosophy, psychology, how to age gracefully, reflection]
 ---
 
 A few years ago, 2016, I saw a beautiful video with reflections and life advice from people of different ages.

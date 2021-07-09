@@ -2,8 +2,8 @@
 title: "Climbing Training: Maximum Finger Strength"
 author: Austin
 date: 2016-09-30
-categories: [Research, Training, Climbing]
-tags: [climbing, training, maximum strength, hangboard]
+categories: [Research, Training Research]
+tags: [climbing, training, strength, hangboard]
 ---
 
 Earlier this month I published [a post on training for climbing]({% post_url 2016-09-14-climbing-training %}), in which I stated some 

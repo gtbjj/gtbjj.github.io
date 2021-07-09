@@ -2,8 +2,8 @@
 title: "Physical Activity and Mental Health"
 author: Austin
 date: 2021-01-31 09:00:00
-category: [Research, Nutrition, Mental Health]
-tags: [sunday news, mental health, fitness]
+category: [Research, Nutrition]
+tags: [nutrition, mental health, fitness]
 ---
 
 The link between mental health and physical activity is something that I love to see growing interest and research in.  This is particularly relevant from my observations of the collateral damage regarding COVID-19 pandemic / lockdown / quarantine precautions -- that is; people are being told to avoid contact with other people at all costs, stay inside, avoid the sun, and to continue eating highly processed artificial foods and "not worry about the [quarantine 15](https://dsearch.com/search?q=quarantine+15&rid=1679644)."

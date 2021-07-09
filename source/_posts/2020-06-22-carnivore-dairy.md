@@ -2,7 +2,7 @@
 title: "Got Milk: Pros and Cons of Dairy"
 author: Austin
 date: 2020-06-22 08:00:00
-categories: [Research, Nutrition, Carnivore]
+categories: [Research, Nutrition]
 tags: [nutrition, carnivore, diary]
 ---
 

@@ -2,7 +2,7 @@
 title: "Review:  Easy Strength"
 author: Austin
 date: 2020-08-30 20:30:00
-category: [Research, Training, BJJ]
+category: [Research, Training Research]
 tags: [bjj, training, strength, dan john, 40 day workout, easy strength]
 ---
 

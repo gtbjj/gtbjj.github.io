@@ -2,7 +2,7 @@
 title: "Strength Training for BJJ"
 author: Austin
 date: 2020-07-02 6:00:00
-category: [Research, Training, BJJ]
+category: [Research, Training Research]
 tags: [bjj, strength, training, easy strength, 40 day workout]
 ---
 

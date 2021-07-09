@@ -2,8 +2,8 @@
 title: Making Climbing Special Again
 author: Austin
 date: 2017-08-02
-categories: [Essays, Climbing, Ethics]
-tags: [climbing, gratitude]
+categories: [Essays, Training Essays]
+tags: [climbing, gratitude, ethics, training]
 ---
 
 Climbing has been my primary hobby for about four years now.  I like to 

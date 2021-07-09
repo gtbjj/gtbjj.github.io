@@ -2,8 +2,8 @@
 title: "Carnivore Meal Timing"
 author: Austin
 date: 2021-02-14 10:30:00
-category: [Research, Nutrition, Carnivore]
-tags: [carnivore, meal timing, training]
+category: [Research, Nutrition]
+tags: [carnivore, meal timing, nutrition, training]
 ---
 
 I recently posted an article about [Carnivore Macros and Calories]({% post_url 2021-01-24-carnivore-macros-and-calories %}), and got a follow up question about meal timing and weight *gain* on carnivore.  

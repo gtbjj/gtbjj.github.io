@@ -1,9 +1,9 @@
 ---
-title: "Sunday News: Books and Education"
+title: "Books and Education"
 author: Austin
 date: 2021-03-20 20:00:00
-category: [Essays, Kombat Kitchen]
-tags: [sunday news, carnivore, carnivore aurelius, books, education]
+category: [Essays, Psychology]
+tags: [philosophy, psychology, carnivore, carnivore aurelius, books, education]
 ---
 
 As some of you know, one of my goals this year is to read one book per month (approximately).  More or less, this comes down to a nightly reading habit and even if I don't literally finish 12 books, 8-10 is still a lot of progress gained and wisdom learned.

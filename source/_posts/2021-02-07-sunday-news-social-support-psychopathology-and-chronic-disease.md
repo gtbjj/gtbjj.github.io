@@ -1,9 +1,9 @@
 ---
-title: "Sunday News: Social Support, Psychopathology, and Chronic Disease"
+title: "Social Support, Psychopathology, and Chronic Disease"
 author: Austin
 date: 2021-02-07 10:00:00
-category: [Research, Nutrition, Mental Health]
-tags: [sunday news, mental health, fitness]
+category: [Research, Nutrition]
+tags: [mental health, fitness]
 ---
 
 Social Support, Psychopathology, and Chronic Disease

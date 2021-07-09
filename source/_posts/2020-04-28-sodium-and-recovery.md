@@ -2,7 +2,7 @@
 title: Sodium and Recovery
 author: Austin
 date: 2020-04-28 09:00:00
-categories: [Research, Recovery]
+categories: [Research, Nutrition]
 tags: [bjj, nutrition, recovery, sodium]
 ---
 

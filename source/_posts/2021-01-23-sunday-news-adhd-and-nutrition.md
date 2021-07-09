@@ -2,7 +2,7 @@
 title: "ADHD and Nutrition"
 author: Austin
 date: 2021-01-24 0900
-category: [Research, Nutrition, Mental Health]
+category: [Research, Nutrition]
 tags: [sunday news, mental health, adhd, keto, saturated fat, ala, dha, epa]
 ---
 

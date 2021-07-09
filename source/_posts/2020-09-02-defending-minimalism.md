@@ -2,7 +2,7 @@
 title: "Defending Minimalism"
 author: Austin
 date: 2020-09-01 05:50:00
-category: [Essays, BJJ, Training]
+category: [Essays, Training Essays]
 tags: [bjj, training, minimalism]
 ---
 

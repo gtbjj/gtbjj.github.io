@@ -2,7 +2,7 @@
 title:  "How Do You Measure Progress in BJJ?"
 author: Austin
 date:  2020-06-28 11:00:00
-category: [Essays, BJJ, Journal]
+category: [Essays, Training Essays]
 tags: [bjj, journal, progress]
 ---
 

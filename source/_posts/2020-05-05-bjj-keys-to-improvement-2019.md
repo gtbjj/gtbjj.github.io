@@ -2,7 +2,7 @@
 title: "BJJ Keys to Improvement"
 author: Austin
 date: 2020-05-05 09:15:00
-categories: [Essays, BJJ, Training]
+categories: [Essays, Training Essays]
 tags: [bjj, training]
 ---
 

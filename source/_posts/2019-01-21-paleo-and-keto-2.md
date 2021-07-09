@@ -2,7 +2,7 @@
 title: "Paleo, Keto, Sodium, and Nutrient Profiles"
 author: Austin
 date: 2019-01-21
-categories: [Research, Nutrition, Paleo]
+categories: [Research, Nutrition]
 tags: [training, nutrition, paleo, keot, bjj, climbing, open science]
 ---
 

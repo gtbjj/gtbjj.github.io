@@ -1,8 +1,8 @@
 ---
-title: "Sunday News: Why Beauty is Important, and So is Pain"
+title: "Why Beauty is Important, and So is Pain"
 author: Austin
 date: 2021-03-28 14:00:00
-category: [Essays, Philosophy]
+category: [Essays, Psychology]
 tags: [philosophy, psychology, pain, beauty, existentialism, stoicism, sunday news]
 ---
 

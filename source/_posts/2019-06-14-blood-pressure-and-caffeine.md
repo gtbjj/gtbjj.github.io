@@ -2,7 +2,7 @@
 title: "Blood Pressure and Caffeine"
 author: Austin
 date: 2019-06-14
-categories: [Research, Nutrition, Keto]
+categories: [Research, Nutrition]
 tags: [bjj, climbing, nutrition, open science, blood pressure, caffeine, keto]
 toc: false
 ---

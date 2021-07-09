@@ -2,7 +2,7 @@
 title: "Carnivore Diet: 45 Day Follow Up"
 author: Austin
 date: 2020-03-30
-categories: [Research, Nutrition, Carnivore]
+categories: [Research, Nutrition]
 tags: [day 45, carnivore, carnivore diet, caffeine, electrolytes, cardiovascular load, omega 3, omega 6, fatty acid]
 toc: false
 ---

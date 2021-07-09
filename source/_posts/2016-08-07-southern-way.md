@@ -2,7 +2,7 @@
 title: Climbing Ethics and the Southern Way
 author: Austin
 date: 2016-08-07
-categories: [Essays, Climbing, Ethics]
+categories: [Essays, Training Essays]
 tags: [climbing, bouldering, southeast, ethics, scc, stonefort, hp40, rocktown, georgia, alabama, tennessee]
 ---
 

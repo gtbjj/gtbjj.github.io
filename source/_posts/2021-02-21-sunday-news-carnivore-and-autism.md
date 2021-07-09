@@ -2,7 +2,7 @@
 title: "Carnivore and Autism"
 author: Austin
 date: 2021-02-21 09:00:00
-category: [Research, Nutrition, Mental Health]
+category: [Research, Nutrition]
 tags: [mental health, autism, schizophrenia, bipolar, adhd]
 ---
 

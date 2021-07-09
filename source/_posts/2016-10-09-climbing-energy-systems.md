@@ -2,7 +2,7 @@
 title: "Climbing Training: Energy Systems"
 author: Austin
 date: 2016-10-09
-categories: [Research, Training, Climbing]
+categories: [Research, Training Research]
 tags: [climbing, training, fitness, conditioning, strength, power, power, endurance, strength, endurance]
 ---
 

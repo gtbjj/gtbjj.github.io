@@ -2,7 +2,7 @@
 title: "Controlled Aggression: Temperament Evaluation"
 author: Austin
 date: 2019-01-28
-categories: [Essays, Dogs, Training]
+categories: [Essays, Training Essays]
 tags: [dogs, controlled aggression, temperament, drive, socialization, nerves, hardness, focus, attention, evaluation, assessment]
 ---
 

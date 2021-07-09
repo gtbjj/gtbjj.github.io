@@ -2,8 +2,8 @@
 title: "Sleep, Performance, and Cognition"
 author: Austin
 date: 2021-03-14 10:00:00
-category: [Research, Nutrition, Mental Health]
-tags: [sunday news, mental health, sleep, performance]
+category: [Research, Nutrition]
+tags: [nutrition, mental health, sleep, performance]
 ---
 
 I was catching up on the (apparently now deceased) [Learner Lab Podcast](https://trainugly.com/sleep-and-learning/) and it brought up the importance of sleep in cognition and motion (i.e. athletic) performance.  Sleep is on my "to do list" as far as "biohacking" things to hone in on in 2021.  Or rather, habits to build.

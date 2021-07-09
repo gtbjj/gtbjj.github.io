@@ -2,7 +2,7 @@
 title: "What is Active Recovery?"
 author: Austin
 date: 2020-07-28 00:00:00
-category: [Research, Training]
+category: [Research, Training Research]
 tags: [bjj, training, carnivore jiujitero, recovery, active recovery, underrecovery, overtraining]
 ---
 

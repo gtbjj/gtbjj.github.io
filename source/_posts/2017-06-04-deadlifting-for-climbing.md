@@ -2,7 +2,7 @@
 title: "Climbing Training: Deadlifts"
 author: Austin
 date: 2017-06-04
-categories: [Research, Training, Climbing]
+categories: [Research, Training Research]
 tags: [climbing, training, strength, power, weight training, deadlift]
 ---
 

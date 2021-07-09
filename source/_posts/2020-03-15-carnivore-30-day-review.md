@@ -2,7 +2,7 @@
 title: "Carnivore Diet: 30 Day Review"
 author: Austin
 date: 2020-03-15
-categories: [Essays, Nutrition, Carnivore]
+categories: [Research, Nutrition]
 tags: [30 day review, carnivore, carnivore diet, day 30, heart rate, blood pressure, nutrient density, electrolytes]
 toc: false
 ---

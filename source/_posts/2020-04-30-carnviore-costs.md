@@ -2,7 +2,7 @@
 title: "Eating Healthy is Expensive?"
 author: Austin
 date: 2020-04-30 06:00:00
-categories: [Research, Nutrition, Carnivore]
+categories: [Research, Nutrition]
 tags: [carnivore, carnivore diet, budget, grass fed, grain fed, money, investing, fly free, stay radical]
 toc: false
 ---

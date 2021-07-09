@@ -2,7 +2,7 @@
 title: Common Sense Nutrition
 author: Austin
 date: 2017-07-12
-categories: [Research, Nutrition, Paleo]
+categories: [Research, Nutrition]
 tags: [climbing, diet, nutrition, training, paleo]
 ---
 

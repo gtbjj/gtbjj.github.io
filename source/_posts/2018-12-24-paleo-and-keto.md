@@ -2,7 +2,7 @@
 title: Paleo and Keto Reset
 author: Austin
 date: 2018-12-24
-categories: [Research, Nutrition, Keto]
+categories: [Research, Nutrition]
 tags: [training, nutrition, paleo, keto, bjj, climbing, open science]
 ---
 

@@ -2,7 +2,7 @@
 title:  "Carnivore Diet: 90 Day Review, Part 1"
 author: Austin
 date: 2020-05-12 15:30:00
-categories: [Research, Nutrition, Carnivore]
+categories: [Research, Nutrition]
 tags: [carnivore, 90 day review, nutrition, caffeine, performance, cold, recover, carnivore diet, open science, literature review, electrolytes, blood pressure, sodium]
 ---
 

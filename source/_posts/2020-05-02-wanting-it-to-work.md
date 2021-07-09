@@ -2,7 +2,7 @@
 title:  "Wanting it to Work"
 author: Austin
 date: 2020-05-02 06:45:00
-categories: [Essays, Nutrition, Carnivore]
+categories: [Essays, Training Essays]
 tags: [nutrition, carnivore, bjj, climbing, training, failure, comfort zones, psychology]
 ---
 

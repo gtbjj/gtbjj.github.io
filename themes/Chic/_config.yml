@@ -3,12 +3,13 @@ navname: Home
 
 # navigatior items
 nav:
+  News: /categories/News
   Research: /categories/Research
   Essays: /categories/Essays
   Podcast: /podcast
 #  Categories: /category
 #  Tags: /tag
-  Sponsors: /sponsors
+  Shop: /shop
   About: /about
 
 # footer items

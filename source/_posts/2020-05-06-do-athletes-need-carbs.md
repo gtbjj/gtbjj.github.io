@@ -2,7 +2,7 @@
 title: "Do Athletes Need Carbs?"
 author: Austin
 date: 2020-05-06 06:55:00
-categories: [Research, Nutrition, Keto]
+categories: [Research, Nutrition]
 tags: [keto, nutrition, carnivore, performance, carbs, glycogen]
 ---
 

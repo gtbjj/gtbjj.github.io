@@ -1,8 +1,8 @@
 ---
 title: Carniversary Checkup 2021
-author: austin
+author: Austin
 date: 2021-02-18 10:15:00
-category: [Research, Nutrition, Carnivore]
+category: [Research, Nutrition]
 tags: [carniversary, blood pressure, diabetes, obesity, metabolic syndrome, heart rate, body fat, cholesterol]
 ---
 
