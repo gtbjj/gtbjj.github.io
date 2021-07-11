@@ -7,7 +7,13 @@ tags: [news]
 
 ## The Fresh
 
-What's going on with me.  Self experiments, etc.
+**What Going Great:**
+
+**What I'm Struggling With:**
+
+**What I'm Grateful For:**
+
+**What I'm Experimenting With:**
 
 ## Research Articles
 
