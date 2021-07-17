@@ -40,14 +40,21 @@
             <%- page.content %>
         </div>
 
-        <% if(theme.post_copyright_enable){ %>
+        <hr>
+        <div style="text-align: center">
+           <strong>Share & Support This Post: </strong>
+           <%- share_post("facebook") %> | 
+           <%- share_post("twitter") %> | 
+           <%- share_post("linkedin") %>
+           <br>
+            <a href="https://heartandsoil.co/?rfsn=5532893.a40cf75"><img src="/image/heartandsoil.jpg" style="height: auto; width: 15%; margin-left: 1%"</a>
+            <a href="https://submissionshark.com?sca_ref=417099.F7Jdvw3jHp"><img src="/image/submissionshark.png" style="height: auto; width: 15%; margin-left: 1%"</a>
+            <a href="https://truorganicbeef.com/?rfsn=5175794.fe9668"><img src="/image/trubeef.png" style="height: auto; width: 20%; margin-left: 1%"</a>
+            <a href="https://redmondinc.leaddyno.com/p/b9ef062a43f4e7d84812b32f6a6138ad427073c3"><img src="/image/redmond.png" style="height: auto; width: 20%; margin-left: 1%"</a>
+         </div>
+         <hr>
 
-           <div style="text-align: right">
-              <strong>Share This Post On:  </strong>
-              <%- share_post("facebook") %> | 
-              <%- share_post("twitter") %> | 
-              <%- share_post("linkedin") %>
-            </div>
+        <% if(theme.post_copyright_enable){ %>
 
             <section class="post-copyright">
                 <% if(theme.post_copyright_permalink_enable){ %>
@@ -71,6 +78,7 @@
 
             </section>
         <% } %>
+
         </section>
         <section class="post-nav">
             <% if(post.prev){ %>

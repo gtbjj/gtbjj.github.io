@@ -2,17 +2,17 @@
 title: Sponsors and Support
 ---
 
-Thank you for your interest in supporting my work!  I'm extrememly proud and selective about the businesses I choose to affiliate with below.  I'll never hesitate to recommend products I've researched, tried, and found effective.  But, to fully co-sign on your brand I need to know what you stand for and what your values are.  The folks below have met that standard!
+Thank you for your interest in supporting my work!  I'm extrememly proud and selective about the businesses I choose to affiliate with below.  I'll never hesitate to recommend products I've researched, tried, and found effective.  But, to fully co-sign on your brand I need to know what you stand for and what your values are.  The folks below have met that standard!  By supporting these businesses you are voting with your dollars the clean and heal both your body and the planet!
 
 <ul style="list-style-type: none">
   <li>
     <a href="https://truorganicbeef.com/?rfsn=5175794.fe9668"><img style="float: right; height: auto; width: 20%; margin-left: 1%" src="/image/trubeef.png"></a>
     <strong>Tru Beef</strong>
     <br>
-    Organic, Grass-Fed and Grass-Finished, Regeneratively Raise Beef, Delivered!  Non-GMO. Vertified Humane.  Certified Carbon Neutral
+    Organic, Grass-Fed and Grass-Finished, Regeneratively Raise Beef, Delivered!  Non-GMO. Vertified Humane.  TruBeef is a certified <a href="https://truorganicbeef.com/pages/trubeef-is-carbon-neutral-regenerative-beef">carbon neutral business</a> and all of their farms practice <a href="https://heartandsoil.co/why-regenerative-agriculture/">regenerative agriculture</a>.
     <br>
     <br>
-    <code>$25 off code: savagezen</code> | <strong><a href="https://truorganicbeef.com/?rfsn=5175794.fe9668">Order Now!</a></strong>
+    <code>$25 off code: savagezen25</code> | <strong><a href="https://truorganicbeef.com/?rfsn=5175794.fe9668">Order Now!</a></strong>
     <hr>
   </li>
   <li>
@@ -39,7 +39,7 @@ Thank you for your interest in supporting my work!  I'm extrememly proud and sel
     <a href="https://heartandsoil.co/?rfsn=5532893.a40cf75"><img style="float: right; height: auto; width: 15%; margin-left: 1%" src="/image/heartandsoil.jpg"></a>
     <strong>Heart & Soil Supplements</strong>
     <br>
-    Regeneratively sourced, freeze-dried (beef) organ supplements for nose-to-tail nourisment on the go!
+    Regeneratively sourced, freeze-dried (beef) organ supplements for nose-to-tail nourisment on the go!  Learn <a href="https://heartandsoil.co/why-regenerative-agriculture/">why regenerative agriculture matters</a> and how it's healing the planet!
     <br>
     <br>
     <code>10% off code: savagezen10</code> | <strong><a href="https://heartandsoil.co/?rfsn=5532893.a40cf75">Order Now!</a></strong>
