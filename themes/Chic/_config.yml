@@ -3,7 +3,7 @@ navname: Home
 
 # navigatior items
 nav:
-  News: /categories/News
+#  News: /categories/News
   Research: /categories/Research
   Essays: /categories/Essays
   Podcast: /podcast
@@ -15,7 +15,7 @@ nav:
 # footer items
 foot:
   All Posts: /archives
-  Categories: /category
+#  Categories: /category
   Tags: /tag
   Archives: https://github.com/savagezen/savagezen.github.io/tree/master/source/_archive
 
